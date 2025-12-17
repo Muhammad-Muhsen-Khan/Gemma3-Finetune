@@ -4,7 +4,7 @@ MODEL_NAME="google/gemma-3-4b-it"
 
 export PYTHONPATH=src:$PYTHONPATH
 export WANDB_API_KEY="7eadd40652b0651b0f12dc86ea4d5fde56db2e2a"
-export WANDB_PROJECT="gemma3-sft-2"
+export WANDB_PROJECT="gemma3-sft-4"
 
 # It is strongly recommended to train Gemma3 models with the `eager` attention implementation instead of `flash_attention_2`
 
@@ -23,7 +23,7 @@ deepspeed src/train/train_sft.py \
     --output_dir output/test \
     --num_train_epochs 2 \
     --per_device_train_batch_size 1 \
-    --gradient_accumulation_steps 1 \
+    --gradient_accumulation_steps 16 \
     --learning_rate 1e-5 \
     --projector_lr 1e-5 \
     --vision_lr 2e-6 \
@@ -36,7 +36,7 @@ deepspeed src/train/train_sft.py \
     --gradient_checkpointing True \
     --report_to wandb \
     --lazy_preprocess True \
-    --save_strategy "steps" \
-    --save_steps 200 \
+    --save_strategy "epoch" \
+    --save_epochs 1 \
     --save_total_limit 10 \
     --dataloader_num_workers 64
