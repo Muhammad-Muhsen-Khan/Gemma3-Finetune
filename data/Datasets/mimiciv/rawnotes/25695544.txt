@@ -1,0 +1,257 @@
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Sulfamide / Norvasc / Mucinex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right side hearing loss
+ 
+Major Surgical or Invasive Procedure:
+___: right suboccipital craniotomy for resection of 
+cerebellopontine angle tumor 
+
+ 
+History of Present Illness:
+he is a ___ gentleman who presents with right 
+cerebellopontine angle schwannoma, which extends into his 
+posterior fossa and appears cystic in nature on imaging.
+
+To briefly summarize events leading up to his presentation here, 
+the patient has a ___ history of right-sided hearing loss 
+associated with the imbalance, which has been gradually 
+progressing.  Workup for this revealed large right CP angle 
+mass.
+
+He denies any nausea, vomiting, weakness, bowel or bladder 
+abnormalities, but does have right-sided pain that appears to be 
+trigeminal and extension.
+
+ 
+Past Medical History:
+HTN, IDDM, hashimotos thyroiditis, BPH, CKD stage 3, reflux, BPH 
+
+ 
+Social History:
+___
+Family History:
+mother passed at ___ with cancer
+father, brother and sister with no reported major medical issues 
+
+ 
+Physical Exam:
+on admission:
+alert, Ox3, PERRL, EOMI, ___, TML
+Strength full. no drift, sensation intact
+right side hearing loss
+
+at discharge:
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  Equal, round, reactive to light
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [ ]No [x]Equivocal - possible slight R
+pronator drift
+
+Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+Right5          5     5     5          5
+Left5          5     5     5          5         
+Wound: 
+          [x]Clean, dry, intact 
+[ ]Steris [ ]Suture [x]Staples [ ]None
+
+HEENT: Left upper neck ecchymosis with underlying firmness, 
+unchanged from ___. 
+ 
+Pertinent Results:
+please see OMR for pertinent results 
+ 
+Brief Hospital Course:
+Mr. ___ presents for elective resection of right 
+cerebellopontine angle schwannoma.
+
+#vestibular schwannoma
+He was taken to the OR on ___ and underwent right 
+suboccipital craniotomy for tumor resection with Dr. ___ 
+(___) and Dr. ___. Procedure was 
+uncomplicated. Frozen was consistent with schwannoma. He was 
+extubated and transferred to the Neuro ICU. He was started on 
+Decadron with a quick taper. 
+Postop MRI showed expected postop changes without complication, 
+however he does have some residual tumor. He had expected postop 
+nausea and dizziness, treated with hydroxyzine and Zofran.
+
+On ___ he developed an area of induration and overlying 
+ecchymosis on left neck along with accompanying pain. Pain 
+improved and induration/ecchymosis stable from ___ to ___, 
+likely just due to positioning during surgery, as left neck was 
+not part of surgical field. 
+
+#HTN
+Patient was hypertensive intraop requiring multiple doses of 
+labetalol PRN and nicardipine. Postop he was started on 
+nicardipine drip, but weaned off and resumed home medications. 
+
+#Diabetes
+He was started on insulin drip postoperatively to manage blood 
+sugars. He was started on home lantus POD#1 and weaned off 
+insulin drip. ___ was consulted for medication 
+recommendations while on decadron taper. SS and lantus were 
+increased. 
+
+#Urinary retention 
+He required multiple straight catheterizations after foley was 
+removed. He continued on home Flomax. Voiding without issues on 
+day of discharge. 
+
+#Pressure Sore
+The Wound Care Service was consulted for a pressure sore on the 
+patient's left buttocks.
+
+#MSK
+___ initially thought that he would be best served by discharge 
+to a rehabilitation facility, but on re-evaluation on ___, they 
+determined that the would be safe to discharge home with 
+outpatient vestibular ___. 
+
+ 
+Medications on Admission:
+spironolactone, Lipitor, Flomax, insulin (glargine 26qHS + 
+aspart SS), Lasix 20, synthroid 50, lisinipril 40, metoprolol 
+100 bid, omeprazole 20, ranitidine 300 
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN fever or pain 
+RX *acetaminophen 325 mg ___ tablet(s) by mouth q6 hours Disp 
+#*56 Tablet Refills:*2 
+2.  Artificial Tears ___ DROP RIGHT EYE PRN Discomfort 
+RX *dextran 70-hypromellose (PF) [Artificial Tears (PF)] 0.1 
+%-0.3 % ___ drops eye q1 hour Disp #*1 Bottle Refills:*2 
+3.  Heparin 5000 UNIT SC BID  
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 capsule(s) by mouth every four (4) hours 
+Disp #*10 Capsule Refills:*0 
+5.  Senna 8.6 mg PO DAILY:PRN Constipation - First Line 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth daily Disp #*14 
+Tablet Refills:*2 
+6.  Atorvastatin 80 mg PO QPM  
+7.  Furosemide 20 mg PO DAILY  
+8.  Glargine 26 Units Breakfast
+Glargine 30 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin 
+9.  Levothyroxine Sodium 50 mcg PO DAILY  
+10.  Lisinopril 40 mg PO DAILY  
+11.  Metoprolol Tartrate 100 mg PO BID  
+12.  Omeprazole 20 mg PO DAILY  
+13.  Ranitidine 300 mg PO QHS  
+14.  Spironolactone 25 mg PO DAILY  
+15.  Tamsulosin 0.4 mg PO DAILY qam  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+cerebellopontine angle tumor / vestibular schwannoma 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+Surgery
+_x0095_You underwent surgery to remove a lesion from your brain. 
+_x0095_Please keep your incision dry until your sutures/staples are 
+removed. 
+_x0095_You may shower at this time but keep your incision dry.
+_x0095_It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+_x0095_Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+Activity
+_x0095_We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+_x0095_You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+_x0095_No driving while taking any narcotic or sedating medication. 
+_x0095_If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+_x0095_No contact sports until cleared by your neurosurgeon. 
+_x0095_Open mouth to sneeze and cough (do not stifle sneeze or cough)
+_x0095_Refrain from bending forward for 28 days
+_x0095_Wear slip on shoes for 28 days (no shoes with laces)
+Medications
+_x0095_Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+_x0095_You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+_x0095_Dizziness is common after resection of Acoustic Neuromas
+_x0095_You may experience headaches and incisional pain. 
+_x0095_Feeling more tired or restlessness is also common.
+_x0095_Constipation is common.  Drink plenty of fluids and eat a 
+high-fiber diet. If you are taking prescription pain 
+medications, try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+_x0095_Severe pain, swelling, redness or drainage from the incision 
+site. 
+_x0095_Fever greater than 101.5 degrees Fahrenheit
+_x0095_Nausea and/or vomiting
+_x0095_Extreme sleepiness and not being able to stay awake
+_x0095_Severe headaches not relieved by pain relievers
+_x0095_Seizures
+_x0095_Any new problems with your vision or ability to speak
+_x0095_Weakness or changes in sensation in your face, arms, or leg
+_x0095_Eye pain or redness or visual changes
+_x0095_Clear drainage from your nose or throat with salty taste
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+_x0095_Sudden numbness or weakness in the face, arm, or leg
+_x0095_Sudden confusion or trouble speaking or understanding
+_x0095_Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+_x0095_Sudden severe headaches with no known reason
+_x0095_
+Follow-up Appointments:   
+Otolaryngology:
+_x0095_Follow up in 6 weeks in the ___ Medical Office Building (___), ___. Call ___ for an 
+appointment with Dr. ___:
+_x0095_Please follow up in the ___ clinic  in 7 days for 
+wound check and suture/staples removal.
+_x0095_Please follow-up with Dr. ___ in 2 weeks. Call 
+___ to make this appointment. 
+_x0095_Please call ___ with any questions or concerns. 
+
+ 
+Followup Instructions:
+___

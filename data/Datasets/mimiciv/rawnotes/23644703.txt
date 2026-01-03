@@ -1,0 +1,426 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Cardizem / lisinopril / Statins-Hmg-Coa Reductase Inhibitors / 
+Gadolinium-Containing Contrast Media
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with metastatic
+melanoma previously on ipi/nivo with nivo maintenance with
+progression, clinical trial ___ of a glutaminase inhibitor
+___/nivolumab with progression, dasatinib complicated by
+cardiac ischemia, TVEC/pembro with progression, and most 
+recently
+on clinical trial ___ (CMP-001 + pembrolizumab) recently
+found to have disease progression as well as adrenal
+insufficiency, hypothyroidism, atrial fibrillation on coumadin,
+Vtach (s/p PPM/ICD), hypertension, and TIA who presents with
+weakness, fatigue, and confusion.
+
+Patient reports weakness, fatigue, intermittent dizziness, and
+confusion for approximately 1 month. She endorses generalized
+weakness which is worse in her legs. She has difficulty walking
+and climbing stairs due to her weakness. She notes she has had 
+to
+pull on her pant legs to get into her car for the past 6 months
+but notes this has significantly worsened over the past month.
+She denies numbness and tingling. She does endorse a few 
+episodes
+of both urinary and fecal (diarrhea) incontinence. She feels 
+more
+confused and has recently forgotten appointments and 
+medications.
+She reports intermittent episodes of dizziness, especially with
+standing. She had a fall about 1 week ago when she fell 
+backwards
+off 1 step onto pavement and hit her head. She denies LOC. She
+was seen at ___ with negative work-up. She notes
+alternating diarrhea and constipation. She also notes very poor
+appetite and poor PO intake. She is able to eat 1 full meal 
+every
+couple days. She also endorses some intermittent shortness of
+breath with exertion. She called her Oncologist who recommended
+evaluation in the ED.
+
+On arrival to the ED, initial vitals were 97.2 60 159/47 16 100%
+RA. Labs were notable for WBC 10.2, H/H 8.7/30.5, Plt 309, Na
+137, K 3.6, BUN/Cr ___, lactate 3.0 -> 1.3 -> 1.5. UA showed
+moderate leuks, no nitrite, 14 WBCs, and few bacteria. No
+cultures sent. She was given 1L LR. CXR showed no consolidation.
+Head CT showed No acute intracranial process. Prior to transfer
+vitals were 98.5 63 134/40 20 100% RA.
+
+On arrival to the floor, patient reports fatigued. She has no
+pain currently. She notes intermittent fevers to 101 with 
+chills.
+Has occasional palpitations. Has had some nausea with vomiting
+the past few days. She denies headache, vision changes, 
+numbness,
+cough, hemoptysis, chest pain, abdominal pain, hematemesis,
+hematochezia/melena, dysuria, hematuria, and new rashes.
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per OMR):
+Patient first noted rectal bleeding around ___. Over time
+bleeding continued and she had a change in the caliber of her
+bowel movements and was referred for a colonoscopy. She reports
+that some small polyps were removed and that there were some
+hemorrhoids, but no evidence of cancer. The bleeding continued
+and she assumed that this was related hemorrhoids. Eventually,
+she could feel a small mass prolapse in and out of her rectum 
+and
+was referred to Dr. ___ in Surgery. He was prepared to do
+surgery for repair of rectal prolapse, but in OR on ___ he
+found a 4 x 4 x 3 cm mass that had undergone torsion of the
+pedicle and become gangrenous. All of the gangrenous tissue and
+wide stalk was excised. 
+Pathology showed invasive melanoma with gross tumor size of 4.3 
+x
+3.7 x 2.3 cm. The thickness was at least 9 mm with ___ level
+IV, positive ulceration, and 34 mitoses per mm2, with no
+lymphovascular or perineural invasion. Margins appeared to be
+narrowly clear at the base of the stalk. 
+CT torso on ___ which was remarkable for numerous small, 
+up
+to 2 mm, bilateral lung nodules which were worrisome for
+metastatic disease, soft tissue fullness at the level of the
+anorectal region which was suboptimally assessed, and a 14 mm
+lymph node in the left perirectal region worrisome for 
+metastatic
+disease. This was followed up on ___ with a whole body
+PET/CT. The lung nodules noted on CT chest had no FDG uptake but
+were well below the resolution of PET/CT, the left perirectal
+lymph node had an SUV max of 4.4. On ___, patient saw Dr.
+___ in Medical ___. He noted that these are very rare
+lesions that are difficult to treat and suggested referral to 
+the
+___ at ___. Given concern for metastatic
+disease, we opted against any aggressive surgery and followed
+clinically and with imaging. 
+Unfortunately in ___, she was found to have new lung,
+liver,and inguinal node lesions. Patient was started on
+combination nivolumab and ipilimumab on ___. Now on
+nivolumab maintenance.
+
+PAST MEDICAL HISTORY:
+- Melanoma
+- Breast cancer s/p partial mastectomy
+- Congestive heart failure
+- Atrial fibrillation
+- Ventricular tachycardia s/p PPM and ICD
+- Hypertension
+- Hyperlipidemia
+- GERD
+- Depression
+- Right Carpal Tunnel Surgery 
+ 
+Social History:
+___
+Family History:
+Father with melanoma
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: Temp 98.1, BP 147/72, HR 60, RR 14, and O2 sat 98% RA.
+GENERAL: Very pleasant woman, in no distress, lying in bed
+comfortably.
+HEENT: Anicteric, PERLL, OP clear.
+CARDIAC: RRR, no murmurs.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally.
+ABD: Soft, non-tender, non-distended, positive bowel sounds.
+EXT: Warm, well perfused, no lower extremity edema.
+NEURO: A&Ox3, good attention and linear thought, CN II-XII
+intact. Strength full throughout. Sensation to light touch
+intact. Able to state ___ backwards. Able to do simple
+arithmetic. Knows president.
+SKIN: No significant rashes.
+ACCESS: Right chest wall port without erythema.
+
+DISCHARGE PHYSICAL EXAM 
+ADMISSION PHYSICAL EXAM:
+VS: Temp 98.1, BP 147/72, HR 60, RR 14, and O2 sat 98% RA.
+GENERAL: Very pleasant woman, in no distress, lying in bed
+comfortably.
+HEENT: Anicteric, PERLL, OP clear.
+CARDIAC: RRR, no murmurs.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally.
+ABD: Soft, non-tender, non-distended, positive bowel sounds.
+EXT: Warm, well perfused, no lower extremity edema.
+NEURO: A&Ox3, good attention and linear thought, CN II-XII
+intact. Strength full throughout. Sensation to light touch
+intact. Able to state ___ backwards. Able to do simple
+arithmetic. Knows president.
+SKIN: No significant rashes.
+ACCESS: Right chest wall port without erythema.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+
+___ 03:00PM BLOOD WBC-10.2* RBC-3.62* Hgb-8.7* Hct-30.5* 
+MCV-84 MCH-24.0* MCHC-28.5* RDW-18.5* RDWSD-57.0* Plt ___
+___ 03:00PM BLOOD Neuts-88.8* Lymphs-4.3* Monos-4.7* 
+Eos-0.8* Baso-0.4 Im ___ AbsNeut-9.08* AbsLymp-0.44* 
+AbsMono-0.48 AbsEos-0.08 AbsBaso-0.04
+___ 03:00PM BLOOD Plt ___
+___ 12:41AM BLOOD ___
+___ 05:24AM BLOOD Ret Aut-1.7 Abs Ret-0.05
+___ 03:00PM BLOOD Glucose-129* UreaN-12 Creat-0.7 Na-137 
+K-3.6 Cl-101 HCO3-23 AnGap-13
+___ 05:24AM BLOOD ALT-12 AST-31 LD(LDH)-846* AlkPhos-87 
+TotBili-0.4
+___ 05:24AM BLOOD Albumin-2.7* Calcium-8.8 Phos-3.0 Mg-1.6 
+Iron-23*
+___ 05:24AM BLOOD calTIBC-179* Hapto-221* Ferritn-343* 
+TRF-138*
+___ 03:24PM BLOOD Lactate-3.0*
+
+DISCHARGE LABS
+==============
+___ 06:03AM BLOOD WBC-7.4 RBC-3.46* Hgb-8.4* Hct-29.0* 
+MCV-84 MCH-24.3* MCHC-29.0* RDW-18.7* RDWSD-56.9* Plt ___
+___ 06:03AM BLOOD Plt ___
+___ 06:03AM BLOOD ___ PTT-36.0 ___
+___ 06:03AM BLOOD Glucose-127* UreaN-7 Creat-0.6 Na-143 
+K-4.7 Cl-104 HCO3-24 AnGap-15
+___ 06:03AM BLOOD ALT-16 AST-33 AlkPhos-101 TotBili-0.4
+___ 06:03AM BLOOD Calcium-9.0 Phos-3.7 Mg-1.9
+
+PERTINENT IMAGING 
+==================
+MRI BRAIN WITH CONTRAST
+IMPRESSION: 
+1. No abnormal contrast enhancement in the correlate areas to 
+the previously 
+described foci of T1 signal hyperintensity on the noncontrast 
+sequences 
+performed one day prior.  In the absence of contrast 
+enhancement, the 
+previously described T1 hyperintense foci are likely artifactual 
+or the result 
+at volume averaging from the adjacent vasculature. 
+2. Unchanged appearance of the 6 mm left paraophthalmic internal 
+carotid 
+artery aneurysm and 3 mm right paraophthalmic artery aneurysm, 
+better 
+characterized on the recent CT angiogram of the head and neck 
+from ___. 
+
+MRI THORACIC AND LUMBAR SPINE WITH CONTRAST
+1. No evidence of abnormal enhancement in the thoracolumbar 
+spine. 
+2. Mild multilevel degenerative change as characterized on MRI 
+the 
+thoracolumbar spine from ___. 
+
+CT HEAD WITHOUT CONTRAST
+IMPRESSION:  
+  
+No acute intracranial process. 
+
+CXR
+  
+Small pulmonary nodules on prior CT from ___ were 
+better assessed  on CT.  No focal consolidation. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with metastatic
+melanoma previously on ipi/nivo with nivo maintenance with
+progression, clinical trial ___ of a glutaminase inhibitor
+___/nivolumab with progression, dasatinib complicated by
+cardiac ischemia, TVEC/pembro with progression, and most 
+recently
+on clinical trial ___ (CMP-001 + pembrolizumab) recently
+found to have disease progression as well as adrenal
+insufficiency, hypothyroidism, atrial fibrillation on coumadin,
+Vtach (s/p PPM/ICD), hypertension, and TIA who presented with
+weakness, fatigue, and confusion. Initially concerned for 
+metastatic spread of disease to brain and spinal cord, but MRI 
+of brain and spine were obtained, which was negative for brain 
+mets of cord compression. Fatigue improved prior to discharge, 
+and was thought to be due to multifactorial and secondary to 
+lack of appropriate medication use, progression of malignancy, 
+anemia, dehydration, and malnutrition. 
+
+TRANSITIONAL ISSUES: 
+==================
+[ ] Close followup of INR given variable INR, needs INR check on 
+___ in ___ clinic
+[ ] If possible, would recommend transitioning to DOAC given 
+concern for labile INR on warfarin
+[ ] Repeat CBC within 1 week of discharge, to ensure stability, 
+given anemia during hospitalization  
+[ ] Consider PO iron supplementation given worsening of anemia
+[ ] Mild multilevel degenerative change seen on MRI in the 
+thoracolumbar spine, common in asymptomatic patients. There were 
+also multiple T1 and T2 hypointense lesions in the bilateral 
+kidneys,  including a 1.1 cm lesion in the superior pole of the 
+left kidney, incompletely characterized in the absence of 
+pre-contrast axial T1 sequence imaging. Would recommend 
+attention on follow-up imaging. 
+[ ] Incidental finding of extensive colonic diverticulosis on 
+MRI
+[ ] If continues to have fatigue of unclear etiology, she open 
+to trying Ritalin and this may be considered at that time
+
+ACUTE ISSUES:
+=============
+# Generalized Weakness, subjectively worst in Lower Extremities:
+# Fatigue:
+Likely multifactorial and secondary to lack of appropriate
+medication use (per daughter's concerns that she has not been
+taking all her medications as prescribed), progression of
+malignancy, anemia, dehydration, and malnutrition. Initially 
+concerned for adrenal insufficiency, which per endocrine consult 
+was not likely; ultimately did not change steroid dosing, on the 
+recommendations of the endocrine team. MRI head performed to 
+rule out metastasis to the brain, which was negative. MRI T and 
+L spine performed to rule out cord compression given history of 
+intermittent fecal incontinence, which was also negative. Home 
+___ arranged to assist with medications at home, and also set up 
+for home ___.  
+
+# Metastatic Melanoma:
+# Secondary Neoplasm of Lung:
+# Secondary Neoplasm of Liver:
+# Secondary Neoplasm of Lymph Node: Recently stopped clinical
+trial ___ (CMP-001 + pembrolizumab) due to disease
+progression. Unclear plan for future cancer-directed therapy. 
+Dr. ___ updated
+
+# Hypothyroidism
+Continued home levothyroxine; TSH normal 
+
+# Atrial Fibrillation
+# VTach s/p ICD/PPM
+# Hypertension
+# Supratherapeutic INR: continued on Warfarin, follow up with 
+___ clinic outpatient
+
+# GERD
+Continued home famotidine
+
+# Anemia in Malignancy: H/H lower than recent baseline. No
+evidence of bleeding. Iron studies indicating likely iron 
+deficiency with anemia of chronic inflammation/malignancy. 
+Hemolysis labs negative. Would recommend repeat CBC in 
+outpatient setting to ensure stability. 
+
+CORE MEASURES
+==============
+#HCP/Contact: Wife LOAN ___ 
+#Code: Full presumed  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Famotidine 20 mg PO BID 
+3. Levothyroxine Sodium 100 mcg PO DAILY 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Vitamin D ___ UNIT PO DAILY 
+6. Warfarin 5 mg PO 4X/WEEK (___) 
+7. Warfarin 2.5 mg PO 3X/WEEK (___) 
+8. Hydrocortisone 20 mg PO QAM 
+9. Hydrocortisone 5 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  ___  MD to order daily dose PO DAILY16 
+Follow up with your ___ clinic, have your INR rechecked on 
+___.  
+RX *warfarin [Coumadin] 2 mg 1 tablet(s) by mouth Take as 
+directed, once daily Disp #*10 Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  Famotidine 20 mg PO BID  
+4.  Hydrocortisone 20 mg PO QAM  
+5.  Hydrocortisone 5 mg PO QPM  
+6.  Levothyroxine Sodium 100 mcg PO DAILY  
+7.  Metoprolol Succinate XL 50 mg PO DAILY  
+8.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Fatigue 
+Metastatic Melanoma
+
+SECONDARY DIAGNOSIS:
+Anemia in Malignancy
+Atrial Fibrillation on Warfarin
+Secondary Adrenal Insufficiency 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+Dear Ms. ___,
+ 
+It was a pleasure caring for you at ___ 
+___.  
+ 
+WHY WAS I IN THE HOSPITAL?  
+- You were admitted because you were feeling very fatigued, and 
+there was concern that you might have had metastatic spread of 
+cancer. 
+ 
+WHAT HAPPENED TO ME IN THE HOSPITAL? 
+- We initially gave you higher doses of steroids, which did not 
+improve your symptoms significantly, so on the advice of your 
+endocrinology team we reverted back to your home dosing.  
+- You had an MRI of your brain and spine, which showed that you 
+did not have metastases in your brain or spine. 
+- You revealed that you may have been having trouble managing 
+your medications at home, so we set up a visiting nurse for you 
+to help you manage these.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.
+- Please recheck your INR on ___. Your physician and 
+___ clinic nurses ___ discuss which dose of warfarin is 
+most appropriate for you going forward (likely plan to take 2mg 
+on ___, but your ___ clinic will call you to confirm the 
+final dosing). 
+
+We wish you the best!  
+ 
+Sincerely,  
+Your ___ Team
+
+ 
+Followup Instructions:
+___

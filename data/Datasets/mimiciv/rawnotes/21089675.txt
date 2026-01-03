@@ -1,0 +1,440 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ACE Inhibitors / ___ Receptor Antagonist
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain, lightheadedness, toe gangrene
+ 
+Major Surgical or Invasive Procedure:
+___ Right foot partial ___ ray amputation
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with a history of NICM (EF ___, 
+AF/SSS/VT on amiodarone s/p ICD to CRT (___), ESRD on HD, PVD 
+with left hallux dry gangrene presenting after episode of chest 
+tightness, lightheadedness, and weakness after dialysis. After 
+his last dialysis session (during which 1L was removed), the 
+patient had 30 min of chest tightness. This was associated with 
+shortness of breath, palpitations, and weakness that lasted 2 
+hours. He also endorsed lightheadedness when standing and blurry 
+vision, which have since resolved.
+
+The patient came to the ED, where a pacemaker interrogation was 
+performed by EP, demonstrating normal pacer function with 98.6% 
+AS-VP. Troponin was 0.14 and MB was 5. Cardiology recommended 
+admission, but the patient left AMA to take his daughter to an 
+appointment. He returned shortly thereafter and agreed to be 
+admitted.
+
+The patient also has a chronic non-healing left great toe wound 
+that has been painful for the past 10 months and has become more 
+swollen and productive of yellow discharge over the past week. 
+He was evaluated by podiatry and planned for a partial 
+amputation.
+
+In the ED, initial VS were 98.2 78 128/69 15 97RA. Exam was 
+notable for RRR, clear lungs, necrotic toe with brisk pulse, 
+swelling with mild erythema, no tenderness or visible discharge.
+
+Labs were:
+
+139  93  19    
+--------------< 87
+3.2  30  3.7   
+               93 
+6.9 > 10.7/35 <116
+ 
+CK: 115  MB: 5
+
+N:79.0 L:6.6 M:10.8 E:2.6 Bas:0.7 ___: 0.3 Absneut: 5.46 
+Abslymp: 0.46 Absmono: 0.75 Abseos: 0.18 Absbaso: 0.05  
+
+___: 46.4  PTT: 51.0  INR: 4.2
+
+Foot radiograph showed no evidence of acute osteomyelitis. CXR 
+showed stable cardiomegaly, resolution of retrocardiac opacity, 
+and pacemaker placement unchanged. ECG showed no evidence of 
+ischemia. Patient received vancomycin 1000mg and 
+Piperacillin-Tazobactam 4.5 g. Blood cultures sent. Transfer VS 
+were 97.7 67 116/68 16 100%RA. Podiatry was consulted and 
+planned partial right toe amputation for the following day, and 
+the patient was made NPO. Decision was made to admit to medicine 
+for further management.
+ 
+On arrival to the floor, patient denies chest pain or shortness 
+of breath. He says he has only had one episode of chest 
+tightness and shortness of breath many years ago. He sleeps at 
+an incline and often wakes up with shortness of breath. He also 
+says that in the last 9 months he has noticed decreased 
+tolerance for walking, but attributes this to worsening leg pain 
+from his PVD. The patient also denies pain in his foot, but says 
+in the past week he has notice yellow discharge that he has 
+never had before.
+
+ 
+Past Medical History:
+ESRD on HD
+NICM (EF ___, thought to be due to HTN)
+VT, LBBB, AF, SSS on amiodarone, s/p ICD (___) to CRT (___)
+PVD s/p LLE angioplasty and stent ___
+HTN
+HLD
+Parathyroidectomy c/b laryngeal nerve injury
+Cholelithiasis s/p ERCP (___)
+Pulm HTN
+Thrombocytopenia
+Anemia
+Radiocephalic fistula aneurysm
+ 
+Social History:
+___
+Family History:
+Grandfather died of MI at ___
+Father died of renal disease at ___
+Mother had "heart problems"
+Sister has DM and lupus
+ 
+Physical Exam:
+ADMISSION EXAM
+====================
+VS: 98.1 119/74 61 18 98RA
+GENERAL: well appearing, thin man lying comfortably flat in bed  
+
+HEENT: anicteric sclera, pink conjunctiva, no JVD, nontender 
+supple neck 
+HEART: RRR, normal S1/S2, ___ holosystolic murmur heard best at 
+the apex and left sternal border
+LUNGS: faint basilar crackles on the right, no wheezes or 
+rhonchi, no use of accessory muscles
+ABDOMEN: soft, NDNT, +BS, no HSM
+EXTREMITIES: 1+ pitting edema bilaterally to patella; slight 
+coolness in b/l ___ L>R; pulses palpable; L great toe with dry 
+gangrene to the MTP, mild tenderness to palpation, serous 
+discharge from plantar surface  
+NEURO: Normal mental status. CN ___ grossly intact. Repositions 
+in bed without weakness or ataxia.
+
+DISCHARGE EXAM
+====================
+VS: 98.4 ___ 18 100%RA
+GENERAL: well appearing, thin man lying comfortably flat in bed  
+
+HEENT: anicteric sclera, pink conjunctiva, no JVD
+HEART: RRR, ___ holosystolic murmur heard best at the apex and 
+left sternal border. Pacemaker with no tenderness or erythema.
+LUNGS: non-labored, CTAB
+ABDOMEN: soft, NDNT, +BS, no HSM
+EXTREMITIES: trace edema; slight coolness in b/l ___ L>R; pulses 
+palpable; R foot wrapped with clean, dry, non-bloody bandages 
+NEURO: Normal mental status. CN ___ grossly intact. Repositions 
+in bed without weakness or ataxia.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+============================
+___ 12:18AM BLOOD WBC-6.9 RBC-3.78* Hgb-10.7* Hct-35.0* 
+MCV-93 MCH-28.3 MCHC-30.6* RDW-14.4 RDWSD-48.1* Plt ___
+___ 12:18AM BLOOD Neuts-79.0* Lymphs-6.6* Monos-10.8 
+Eos-2.6 Baso-0.7 Im ___ AbsNeut-5.46 AbsLymp-0.46* 
+AbsMono-0.75 AbsEos-0.18 AbsBaso-0.05
+___ 12:18AM BLOOD ___ PTT-51.0* ___
+___ 12:18AM BLOOD Glucose-87 UreaN-19 Creat-3.7*# Na-139 
+K-3.2* Cl-93* HCO3-30 AnGap-19
+___ 12:18AM BLOOD ALT-23 AST-19 LD(LDH)-267* CK(CPK)-115 
+AlkPhos-121 TotBili-0.7
+___ 12:18AM BLOOD Calcium-7.6* Phos-3.4 Mg-1.9
+___ 12:18AM BLOOD CRP-19.0*
+___ 12:26AM BLOOD Lactate-0.9
+
+CARDIAC MARKERS:
+___ 12:18AM BLOOD CK-MB-5
+___ 12:18AM BLOOD cTropnT-0.14*
+___ 07:00AM BLOOD cTropnT-0.14*
+___ 07:40AM BLOOD CK-MB-3 cTropnT-0.12*
+
+DISCHARGE LABS
+===========================
+___ 07:40AM BLOOD WBC-9.1 RBC-3.57* Hgb-10.3* Hct-32.6* 
+MCV-91 MCH-28.9 MCHC-31.6* RDW-13.9 RDWSD-46.4* Plt ___
+___ 07:40AM BLOOD ___ PTT-41.9* ___
+___ 07:40AM BLOOD Glucose-89 UreaN-32* Creat-5.0*# Na-138 
+K-4.6 Cl-96 HCO3-29 AnGap-18
+___ 07:40AM BLOOD Calcium-7.5* Phos-3.9 Mg-1.9
+
+___ 07:24AM BLOOD %HbA1c-4.6 eAG-85
+
+MICRO
+===========================
+Blood Culture, Routine (Final ___:    NO GROWTH. 
+Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+STUDIES
+============================
+___ Chest (Pa & Lat)
+1. Right pectoral pacemaker device is seen in unchanged position 
+with leadsprojecting over the right atrium, right ventricle, and 
+left ventricle.
+2. Interval resolution of previously noted retrocardiac opacity 
+from ___.
+3. Stable cardiomegaly 
+
+___ ECG
+Atrial-sensed ventricular-paced rhythm. Stable from prior.
+
+___ AP,LAT & OBL RIGHT
+IMPRESSION:  
+No definite radiographic evidence of acute osteomyelitis.  If 
+clinical concern
+is high, MRI is more sensitive.
+Similar appearance of the big toe compared to prior studies, 
+with degenerative
+changes seen.
+Subtle lucency projecting over the soft tissue at the level of 
+the first
+distal phalanx, but also seen on prior studies and is felt less 
+likely to be
+acute.  No definite soft tissue gas seen elsewhere.
+
+___ AP,LAT & OBL RIGHT
+FINDINGS:  
+Compared to ___, the right first toe and distal 
+portion of the
+right first metatarsal bone have been resected.
+Otherwise, doubt significant interval change.  No fracture or 
+dislocation is
+detected.  No new area of osteolysis identified.
+
+___ Tissue: TOES, AMPUTATION, NON-TRAUMATIC
+PATHOLOGIC DIAGNOSIS:
+1. First toe, right foot, amputation: Gangrene; underlying bone 
+without significant acute
+inflammation.
+2. Bone margin, first toe right foot, excision: Bone with 
+reparative changes; patchy intramedullary fat
+necrosis without significant acute inflammation. 
+
+ 
+Brief Hospital Course:
+___ with NICM (EF ___, AF/SSS/VT on warfarin and amiodarone 
+s/p ICD to CRT, ESRD on HD, admitted for presyncope after 
+dialysis and chronic dry gangrene of right hallux. 
+
+# Presyncope
+Likely orthostasis since occurred with standing after 1L removed 
+at HD. Pacemaker interrogation was negative for arrhythmia. He 
+had no further chest pain or palpitations during his 
+hospitalization and there was no evidence of cardiac ischemia, 
+decompensated heart failure, PE, TIA, or seizure.
+
+# Right hallux dry gangrene
+He also underwent a partial right hallux amputation for chronic 
+dry gangrene. The patient remained afebrile and without exam or 
+radiographic signs of infection. He received one dose of 
+vancomycin and piperacillin/tazobactam in the ED, and was 
+discharged on prophylactic amoxicillin/clavulanate for a 7 day 
+course per Podiatry with close Podiatry f/u, ___ for wound care, 
+and home ___. Bone pathology and cultures were pending at 
+discharge.
+
+# Atrial fibrillation with sick sinus syndrome
+# h/o ventricular tachycardia
+Patient was recently admitted for ICD shock for VT due to 
+patient not taking amiodarone. Rate and rhythm now well 
+controlled on home amiodarone and metoprolol. ICD interrogation 
+several days prior to admission non-concerning.
+
+# Supratherapeutic anticoagulation
+INR 4.2 on admission. Given VitK ___ preoperatively. Warfarin 
+restarted ___. INR 2.2 at discharge (goal ___, closer to 2 
+given triple therapy).
+
+# Non-ischemic dilated cardiomyopathy / chronic systolic heart 
+failure (EF ___
+No evidence for acute exacerbation. Pacemaker interrogation 
+found no dysfunction or arrhythmias. Volume status was managed 
+with HD, and home metoprolol was continued. Patient not on 
+___ due to reported allergy.
+
+# Peripheral vascular disease s/p angioplasty and stent
+Had recent balloon angioplasty and stent of anterior and 
+posterior tibial arteries (___). No acute ischemic symptoms. 
+Home meds were continued (ASA, clopidogrel, atorva 80).
+
+# ESRD on HD
+No indications for emergent dialysis. Nephrology was consulted 
+and patient received scheduled HD. Home VitD was continued and 
+nephrocaps started. Calcium acetate was stopped since 
+calcium-phosphate product was low.
+
+# h/o cefazolin hepatotoxicity ___
+Resolved -- repeat LFTs this admission normal.
+
+# Anxiety
+Patient endorsed severe daily anxiety and stress regarding his 
+health problems and medication side effects, which appears to be 
+contributing to his poor adherence and follow-up. He declined 
+counseling or medication this admission, but would be interested 
+in seeking psychiatric care as an outpatient.
+
+TRANSITIONAL ISSUES:
+=====================
+-Please draw INR at ___ appointment on ___. Patient will 
+also have INR drawn at dialysis on ___. Warfarin 
+held, then decreased from 4mg to 3mg. INR 2.2 on day of 
+discharge. 
+-Wound care: keep dressing clean, dry, and intact until Podiatry 
+f/u.
+-Abx: discharged on empiric amoxicillin/clavulanate for a 7-day 
+course (d1= ___ pending bone biopsy cultures.
+-Calcium acetate stopped prior to hospitalization
+-Fistula aneurysm: f/u with transplant surgery scheduled 
+___ 
+-Anxiety: significant symptoms that appear to interfere 
+w/medication adherence and f/u. Declined counseling and 
+medication. Please continue to offer.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 25 mg PO DAILY 
+2. Amiodarone 200 mg PO DAILY 
+3. Warfarin 4 mg PO DAILY16 
+4. Atorvastatin 80 mg PO QPM 
+5. OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - Moderate 
+
+6. Clopidogrel 75 mg PO DAILY 
+7. Aspirin 81 mg PO DAILY 
+8. Nephrocaps 1 CAP PO DAILY 
+9. Albuterol Inhaler 2 PUFF IH Q6H:PRN shortness of breath, 
+wheezing 
+10. Calcium 600 + D(3) (calcium carbonate-vitamin D3) unknown 
+unknown oral DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth TID:PRN Disp #*180 
+Tablet Refills:*0 
+2.  Amoxicillin-Clavulanic Acid ___ mg PO Q24H 
+RX *amoxicillin-pot clavulanate 500 mg-125 mg 1 tablet(s) by 
+mouth Daily Disp #*6 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth BID:PRN Disp 
+#*60 Capsule Refills:*0 
+4.  Senna 8.6 mg PO BID:PRN constipation 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth BID:PRN Disp #*60 
+Tablet Refills:*0 
+5.  TraMADol 50 mg PO Q8H:PRN Pain - Moderate 
+RX *tramadol 50 mg 1 tablet(s) by mouth q8h:PRN Disp #*21 Tablet 
+Refills:*0 
+6.  Warfarin 3 mg PO DAILY16 
+RX *warfarin 1 mg 3 tablet(s) by mouth daily Disp #*180 Tablet 
+Refills:*0 
+7.  Albuterol Inhaler 2 PUFF IH Q6H:PRN shortness of breath, 
+wheezing  
+8.  Amiodarone 200 mg PO DAILY  
+9.  Aspirin 81 mg PO DAILY  
+10.  Atorvastatin 80 mg PO QPM  
+11.  Calcium 600 + D(3) (calcium carbonate-vitamin D3) unknown  
+oral DAILY  
+12.  Clopidogrel 75 mg PO DAILY  
+13.  Metoprolol Succinate XL 25 mg PO DAILY  
+14.  Nephrocaps 1 CAP PO DAILY  
+15.Standard walker
+Dx: ICD10: S98 Amputation R great toe 
+Px: Good
+___: 13 months 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+Right hallux dry gangrene status post partial amputation
+Presyncope
+
+SECONDARY DIAGNOSES:
+Chronic systolic heart failure / non-ischemic dilated 
+cardiomyopathy
+Chronic renal failure / end-stage renal disease
+Supratherapeutic anticoagulation
+Peripheral vascular disease status post angioplasty and stent
+Chronic atrial fibrillation and sick sinus syndrome status post 
+implantable cardiac defibrillator placement
+History of ventricular tachycardia
+Fistula aneurysm
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Estimado Sr. ___,
+
+Usted fue internado ___ hospital por mareos y palpitaciones. 
+___ y ___ cardiaco y no 
+encontramos ningun problema, y sus sintomas se resolvieron.
+
+Tambien tuvo una cirugia para ___ 
+___ fue bien. No encontramos ninguna infeccion. 
+
+Instrucciones:
+- ___ citas con ___ medico de atencion ___ 
+___. Por favor no ___.
+- ___ limpio y seco ___ con el 
+___. No cambie el ___.
+- Siga tomando ___ recetados.
+- No dude en llamar a sus medicos o ___ hospital si tiene 
+fiebre, escalofrios, dolor ___ no se controla con ___, 
+o cualquier sintoma ___. 
+
+___ una recuperacion rapida!
+
+Atentamente,
+___ medico de ___
+Dear Mr. ___,
+
+You were admitted to the hospital for dizziness and 
+palpitations. We check your pacemaker and monitored your heart 
+rate and found no abnormalities, and your symptoms resolved.
+
+You also had surgery to remove your injured toe. The procedure 
+went well. We found no infection.
+
+Instructions from when you leave the hospital:
+- We made appointments for you with your primary care doctor and 
+podiatrist. Please do not miss them.
+- Keep your foot bandage clean and dry until your appointment 
+with the podiatrist. Do not change the bandage.
+- Continue to take all of your medications as prescribed.
+- Do not hesitate to call your doctors ___ return to the hospital 
+if you have fever, chills, pain that is not controlled with 
+medications, or any symptoms that concern you.
+
+We wish you a speedy recovery!
+
+Sincerely,
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___

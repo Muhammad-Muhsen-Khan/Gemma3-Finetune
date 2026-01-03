@@ -1,0 +1,216 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+sepsis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ recently discharged to ___ on ___ after prolonged  
+ hospitalization s/p distal gastrectomy and B-2 for locally  
+ invasive adenoca c/b afferent limb ischemia s/p resection  
+ afferent limb, RNY D-J reconstruction and CCY, c/b enteric leak 
+ 
+ and EC fistula s/p wound exploration, and tracheostomy 
+placement  
+ presents with sepsis. At her LTAC today was noted to be less  
+ responsive, with hypotension to the low ___ and hypothermia to  
+
+ 92. She received an unknown amount of crystalloid and external  
+
+ warming at ___ and was brought to ___.  
+ On arrival to ___, she was awake but not following commands.  
+
+ Her tracheostomy site was unremarkable, and she was placed on 
+APV  
+ 60%/350x15/PEEP8, and saturations in the high ___. She 
+continued  
+ to be warmed. She was mildly tender in the RLQ, though this was 
+ 
+ difficult to assess. Her abdominal wound and JP drain were  
+ putting out bilious material, unchanged from previous. A Foley  
+
+ catheter was putting out light colored urine containing a  
+ significant amount of sediment. She was started on levophed,  
+  When she was discharged from ___ on ___, she was not on  
+antibiotics; however, meropenem was started at the ___ on ___. 
+ 
+
+ 
+Past Medical History:
+PMH: hypertension, hyperlipidemia, gastric ulcer (___)
+PSH: s/p TAH for fibroids, Left Breast biopsy in ___, surgery 
+at age ___ following polio complications
+
+ 
+Social History:
+___
+Family History:
+hypertension, no family history of solid organ tumors
+ 
+Physical Exam:
+PE ON DISCHARGE
+BP:128/58; HR 75; R18; T98.8; 02 sat:100% min vent settings
+GEN: intermittent agitation, emaciated 
+Eyes: anicteric
+Neck: no JVD
+Trach site: c/d/i
+Lungs: decreased BS at bases, scattered rhonchi
+Cor: normal S1S2; I/VI systolic murmur at LSB; no ___ or rub
+appreciated
+Abdomen: BSA; no masses appreciated. Slightly-tender to 
+palpation
+in lower quadtrants. No organomegaly appreciated. EC fistula 
+ostomy appliance. JP drain serous minimal output. Gtube to 
+gravity. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is an ___ who was recently discharged after a 
+prolonged ICU course summarized in the HPI. She was admitted to 
+the TSICU from ___, had aline placed in ED, with SBP on 
+___. She was bloused with some improvement of blood 
+pressures. She required single agent pressor (levo) with 
+adequate MAPs. She was hypoglycemic and required multiple 
+boluses with dextrose. She was started on antibiotics for 
+empiric VAP. CT abdomen did not demonstrate intra-abdominal 
+abscesses that could account for her sepsis. ID was consulted. 
+
+HD2, TPN was restarted. She was transfused blood for anemia. She 
+was bloused albumin. 
+
+HD3, family meeting was held and the patient was made DNR. 
+
+By HD4, the pressors were weaned off. She had an episode of 
+bilious emesis overnight with concern for aspiration. NGT was 
+placed. Gtube remained to gravity. 
+
+On HD5, pts platelets continued to drop to 85 (from 200's on 
+admission). SQH was discontinued and HITT panel was sent. INR 
+was 2.5 therefore anticoagulation was not started. Self resolved 
+episode of hematuria in the setting of elevated INR. 
+
+On HD6, the patient was stable so she was discharged to ___ in 
+stable condition. 
+
+ Work up for septic focus has been unrevealing to date: 
+_x0095_Abd Ct scan on ___ did not show any abscess; midline abd wall
+defect with fluid; bibasilar consolidations 
+_x0095_BC from ___  neg
+_x0095_Mycolytic  BC from ___ pending
+_x0095_Sputum from ___ and ___ isolated MSSA
+_x0095_Sputum ___: neg legionella
+_x0095_Peritoneal fluid ___ isolated  mixed bacterial flora; no ___ 
+yeast; not C alibcans 
+_x0095_CXR on ___ had possible RLL consolidation
+_x0095_Duplex of UE: no DVT
+
+Per ID recommendations, linezolid for VRE converage, Cefepime 
+for empiric gnr coverage, Flagyl for ___ coverage, 
+Micafungin for yeast coverage until ___. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+2. camphor-menthol 0.5-0.5 % topical Q8H:PRN itching 
+3. Fentanyl Patch 12 mcg/h TD Q72H 
+4. Heparin 5000 UNIT SC BID 
+5. HYDROmorphone (Dilaudid) 0.5 mg IV Q3H:PRN pain 
+6. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+7. Meropenem 1000 mg IV Q12H 
+8. OLANZapine (Disintegrating Tablet) 5 mg PO BID 
+9. Ondansetron 4 mg IV Q8H:PRN nausea 
+10. Pantoprazole 40 mg IV Q24H 
+11. Ursodiol 300 mg PO BID 
+
+ 
+Discharge Medications:
+1. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+2. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+3. OLANZapine (Disintegrating Tablet) 5 mg PO BID 
+4. Ondansetron 4 mg IV Q8H:PRN nausea 
+5. Pantoprazole 40 mg IV Q24H 
+6. CefePIME 2 g IV Q12H 
+RX *cefepime [Maxipime] 2 gram 1 vial IV q12 Disp #*20 Vial 
+Refills:*0
+7. Linezolid ___ mg IV Q12H 
+RX *linezolid ___ mg/300 mL 1 vial IV q12 Refills:*0
+8. MetRONIDAZOLE (FLagyl) 500 mg IV Q8H 
+RX *metronidazole in NaCl (iso-os) [Metro I.V.] 500 mg/100 mL 
+500 mg IV q8 Disp #*30 Intravenous Bag Refills:*0
+9. camphor-menthol 0.5-0.5 % topical Q8H:PRN itching 
+10. Fentanyl Patch 12 mcg/h TD Q72H 
+11. Ursodiol 300 mg PO BID 
+12. Micafungin 100 mg IV Q24H 
+RX *micafungin [Mycamine] 100 mg 1 vial IV q24 Disp #*10 Vial 
+Refills:*0
+13. HYDROmorphone (Dilaudid) 0.5 mg IV Q3H:PRN pain 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Sepsis
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+You were admitted to the surgery service at ___ after an 
+episode of sepsis. You required medication to maintain your 
+blood pressure but you are now off those medications and your 
+blood pressures maintain at a proper level on their own. You are 
+now safe to be discharged in ___ rehabilitation center to 
+complete your recovery with the following instructions:
+.
+Please continue to keep J-tube to gravity drainage. Monitor and 
+measure an output. Keep securely attached to the patient to 
+prevent dislocation. 
+.
+Wound care: Mini-wound manager, empty Qshift and prn. Change 
+weekly. Use strip paste to adhere the pouch. For skin use No 
+Sting Barrier Wipe to protect from effluent all to dry. Cover 
+Gtube and drain sites with tracheostomy foam dressings then 
+Softsorb change daily and prn to keep skin dry. 
+.
+Left JP Drain Care: To bulb suction. Cleanse insertion site with 
+mild soap and water or sterile saline, pat dry, and place a 
+tracheostomy dressing. Monitor and record quality and quantity 
+of output. Empty bulb frequently. Ensure that the JP is secured 
+to the patient.
+Monitor for s/s infection or dislocation. 
+.
+Portex cuffed trach 8.0mm: Care per protocol. 
+Target volume - 350
+PEEP - 5 
+FiO2 - 35%
+RR - 15
+ 
+Followup Instructions:
+___

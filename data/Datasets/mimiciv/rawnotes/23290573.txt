@@ -1,0 +1,387 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+erythromycin (bulk) / Relafen / Claritin / Bactrim / Elavil / 
+Salsalate / Singulair / narcotics
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Slip and fall 
+ 
+Major Surgical or Invasive Procedure:
+None. 
+
+ 
+History of Present Illness:
+___ y/o F with PMHx DM2, HTN, osteoporosis, recent falls, leg
+weakness, asthma who presents s/p fall onto RUE. Pt states she
+was walking down her hallway yesterday afternoon when she 
+tripped
+over her feet and fell onto her R arm. Denies headstrike or LOC.
+Endorsing constant pain from R shoulder down to her R forearm,
+exacerbated with movement. She has a history of rotator cuff
+surgery on her R shoulder. Denies numbness/tingling in R arm or
+any other extremity. No pain in her neck, back, or lower
+extremities. Denies chest pain, dyspnea, nausea, vomiting,
+fevers, chills, or any prodromal symptoms.
+
+In the ED, initial vitals were:
+Temp 97.8 | HR 62 | BP 121/50 | RR 15 | SpO2 99% RA
+
+Exam was notable for:
+R wrist full ROM, R elbow unable to fully extend ___ pain, R
+shoulder unable to fully abduct ___nd ulnar
+pulses intact.
+
+XRay imaging revealed right humeral neck fracture. She was
+evaluated by Ortho in the ED, who recommended cuff and collar 
+for
+immobilization, non-weight bearing to the RUE. She was evaluated
+by ___ who thought patient was not safe for home discharge and
+recommended rehab placement.
+
+During her stay in the ED, pt was noted on telemetry to have
+bradycardia while sleeping, as well as hypoxia. Labs were 
+notable
+for elevated troponin to 0.11. ECG without ST elevation. She
+denied chest pain, dyspnea, nausea, diaphoresis, or any anginal
+equivalents. Cardiology recommended admission to medicine for
+further management.
+
+On arrival to the floor, Ms. ___ reports that she is feeling
+well though still has pain in her RUE. Denies any chest pain,
+dyspnea, abdominal pain, nausea. She says that her current pain
+medications help relieve her arm pain; however, they are not
+fully sufficient. She is hesitant to try any opioids, as she has
+had significant adverse reactions to them in the past.
+
+Of note, patient ambulates around home with walker at baseline
+and is able to use the restroom and shower without help. 
+Notably,
+has a previous diagnosis of a left foot drop for which she uses 
+a
+left foot brace whenever she is ambulating. 
+
+REVIEW OF SYSTEMS:
+==================
+Per HPI, otherwise, 10-point review of systems was within normal
+limits.
+
+ 
+Past Medical History:
+ALLERGIC RHINITIS                                               
+ANEMIA                                                          
+ASTHMA                                                          
+CARPAL TUNNEL SYNDROME                                          
+CATARACTS                                                       
+CHRONIC LOW BACK PAIN                                           
+DEGENERATIVE JOINT DISEASE                                      
+DEPRESSION                                                      
+DIABETES TYPE II                                                
+DYSFUNCTIONAL UTERINE BLEEDING                                  
+GASTROESOPHAGEAL REFLUX                                         
+HYPERTENSION                                                    
+HYPOTHYROIDISM                                                  
+LIPODERMATOSCLEROSIS                                            
+OBESITY                                                         
+OSTEOPOROSIS                                                    
+R SHOULDER FX                                                   
+HYPERCHOLESTEROLEMIA                                            
+___ WEAKNESS, L>R                                            
+LUMBAR SPINAL STENOSIS 
+ 
+Social History:
+___
+Family History:
+Mother died at ___ from lung cancer and breast cancer (smoked); 
+Father died of CAD (alcoholic); Brother died of complications 
+from poorly controlled diabetes.
+ 
+Physical Exam:
+===========================
+ADMISSION PHYSICAL 
+===========================
+VITALS: ___ Temp: 97.6 PO BP: 172/82 L Lying HR: 79 
+RR:
+18 O2 sat: 96% O2 delivery: 2L Nc FSBG: 120 
+HR: 71, SpO2 99 on 2L
+GENERAL: Lying in bed with right arm in sling, in no acute
+distress. Significant kyphoscoliosis.
+HEENT: EOMI. Sclera anicteric and without injection. MMM. Nasal
+cannula in place.
+CARDIAC: Normal rate and rhythm. Grade ___ systolic murmur heard
+loudest over the apex.
+LUNGS: Clear to auscultation bilaterally in anterior fields
+without wheezes, rhonchi or rales. No increased work of
+breathing.
+ABDOMEN: Normal bowel sounds. Soft, nontender, non distended, 
+EXTREMITIES: Warm. No edema. Pulses DP/Radial 2+ bilaterally.
+Left AFO brace in place.
+NEUROLOGIC: AAOx3. CN2-12 intact. RUE motion restricted, pain
+limited, and in sling. 
+
+===========================
+DISCHARGE  PHYSICAL 
+===========================
+VITALS: T 98.1 BP 143/86 HR 111 RR 20 94%Ra 
+General: elderly women, well groom, sitting hunched over in 
+achair
+HEENT: epiglottis visible on mouth inspection 
+Back: Significant kyphoscoliosis.
+CV: regular rate, occasional short pause, systolic murmur 
+Chest: clear to auscultation bilaterally in anterior fields 
+without wheezes, rhonchi or rales. Normal work of breathing. 
+MSK: R arm has strong radial pulse, no numbness, intact strenth
+ABDOMEN: Normal bowel sounds. Soft, nontender, non distended, 
+EXTREMITIES: Warm. No edema. Pulses DP/Radial 2+ bilaterally. 
+Left AFO brace in place.
+NEUROLOGIC: AOx3, quiet affect, face grossly symmetric, unable 
+to assess RUE ___ pain, ___ strength in other extremities w 
+coaching
+ 
+Pertinent Results:
+=====================================
+ADMISSION LABS 
+=====================================
+___ 11:48AM BLOOD WBC-8.6 RBC-4.94 Hgb-11.0* Hct-37.1 
+MCV-75* MCH-22.3* MCHC-29.6* RDW-16.3* RDWSD-43.8 Plt ___
+___ 11:48AM BLOOD Neuts-81.2* Lymphs-8.8* Monos-7.8 Eos-1.4 
+Baso-0.3 Im ___ AbsNeut-6.97* AbsLymp-0.76* AbsMono-0.67 
+AbsEos-0.12 AbsBaso-0.03
+___ 11:48AM BLOOD ___ PTT-32.8 ___
+___ 11:48AM BLOOD D-Dimer-644*
+___ 11:48AM BLOOD Glucose-99 UreaN-17 Creat-0.6 Na-147 
+K-3.4* Cl-100 HCO3-31 AnGap-16
+___ 11:48AM BLOOD CK(CPK)-69
+___ 11:48AM BLOOD cTropnT-0.11*
+___ 03:22PM BLOOD CK-MB-7 proBNP-850*
+___ 03:22PM BLOOD cTropnT-0.13*
+___ 09:25PM BLOOD cTropnT-0.12*
+___ 11:48AM BLOOD Calcium-8.9 Phos-3.3 Mg-1.8
+___ 03:22PM BLOOD Iron-29*
+___ 03:22PM BLOOD calTIBC-333 Ferritn-43 TRF-256
+___ 09:25PM BLOOD TSH-5.5*
+
+=====================================
+PERTINENT INTERVAL  LABS 
+=====================================
+___ 07:35AM BLOOD 25VitD-40
+
+=====================================
+DISCHARGE LABS 
+=====================================
+___ 08:10AM BLOOD WBC-6.2 RBC-4.51 Hgb-10.1* Hct-34.1 
+MCV-76* MCH-22.4* MCHC-29.6* RDW-17.0* RDWSD-45.0 Plt ___
+___ 08:10AM BLOOD Neuts-61.6 ___ Monos-9.4 Eos-3.2 
+Baso-0.5 Im ___ AbsNeut-3.79 AbsLymp-1.53 AbsMono-0.58 
+AbsEos-0.20 AbsBaso-0.03
+___ 08:10AM BLOOD Glucose-83 UreaN-16 Creat-0.5 Na-143 
+K-3.6 Cl-98 HCO3-34* AnGap-11
+___ 08:10AM BLOOD Calcium-9.0 Phos-3.5 Mg-1.6
+
+=====================================
+PROCEDURES/STUDIES/IMAGING 
+=====================================
+Shoulder x ray 
+AP portable upright view of the chest.  There is a fracture 
+involving the neck
+of the right humerus which appears acute.  Surgical anchors are 
+seen imbedded
+within the right humeral head.  Lung volumes are quite low.  
+There is no large
+effusion or pneumothorax seen.  The patient's chin obscures the 
+superior
+mediastinum and right lung apex.  Heart size cannot be reliably 
+assessed. 
+Lumbar spinal hardware is partially visualized.
+Multiple views of the right shoulder and humerus were provided 
+demonstrating
+an acute fracture involving the neck of the right humerus with 
+slight medial
+displacement of the distal fracture fragment.
+
+Elbow x ray 
+Three views of the right elbow provided.  Flexion position of 
+the right elbow
+somewhat limits evaluation.  Partially visualized right humeral 
+neck fracture.
+No definite fracture is seen involving the right elbow on the 
+views provided.
+
+Chest x ray 
+Low lung volumes with elevated right hemidiaphragm and 
+subsequent
+bronchovascular crowding.  There is no focal consolidation, 
+large volume
+effusion, or pneumothorax.  There are no signs of congestion or 
+edema.  The
+cardiomediastinal silhouette is difficult to evaluate but 
+appears stable. 
+Imaged osseous structures are intact.
+
+ECHO
+Suboptimal image quality. Dilated right ventricle with mild RV 
+systolic dysfunction. Normal global left ventricular systolic 
+function. Moderate to severe functional tricuspid regurgitation. 
+At least moderate pulmonary hypertension.
+ 
+Brief Hospital Course:
+=============================
+BRIEF SUMMARY 
+=============================
+
+___ y/o women with a long history of severe spinal stenosis s/p 
+multiple lumbosacral surgeries with known bilateral foot drop, 
+kyphoscoliosis, and osteoporosis who presents after a slip and 
+fall. She sustained a right humeral neck fracture and is being 
+managed non operatively. Her presentation was also complicated 
+by NSTEMI, sinus pauses, and nocturnal desaturations.  We 
+verified that her lower extremity neurologic deficits were long 
+standing when compared to prior neurology clinic notes. 
+
+Her NSTEMI was managed conservatively, we changed her verapamil 
+to amlodipine to limit risk from the 1.5 second sinus pauses, 
+and we felt like the nocturnal desaturations were related to a 
+sleep disorder largely driven by restrictive physiology from her 
+chest wall mechanics. This seems like a long standing issue 
+given the pulmonary hypertension with RV dysfunction noted on 
+her ECHO, but given that her orthopedic limitations override any 
+cardiac limitations, we felt like a less aggressive approach was 
+more appropriate at this time. 
+
+Additionally, there was an interesting physical exam finding of 
+a visible epiglottis on oral inspection. She had no issues with 
+dysphagia or aspiration and no further workup was pursued. 
+
+Also of note, patient have some bursts of tachycardia to 150s. 
+On review of telemetry, unclear if this is sinus with P waves 
+buried in prior T waves given prolonged PR interval, or if it is 
+different rhythm (most likely MAT vs afib). If afib, CHADS2VASC 
+would be 4 (1 for HTN, 2 for age, 1 for sex). It is very 
+possible that now that her nodal agent (verapamil) was stopped, 
+we are unmasking these rhythms. Given her falls and lack of 
+MI/stroke history, do not feel anticoagulation is indicated. Can 
+discuss in the future as outpatient. 
+
+=============================
+TRANSITIONAL ISSUES 
+=============================
+CARDIAC:
+[ ] Changed verapamil to amlodipine given sinus pauses and ___ 
+degree AV delay. 
+[ ] Noted to have intermittent tachycardia on telemetry, in 
+setting of pain or bowel movements. Recommend controlling pain 
+well and keep bowel regimen to avoid these episodes. (Of note, 
+patient not symptomatic during them). 
+[ ] Can discuss possible SVT vs afib, however medications to 
+treat either are relatively contraindicated in her and evidence 
+of afib not very convincing (3 tele strips with brief rates in 
+150s). 
+
+RUE FRACTURE:
+[ ] Schedule follow up with ortho trauma - Dr. ___ 
+she be seen by ___ near ___  and have repeat x-rays of 
+the shoulder on arrival.
+[ ] Patient is on tramadol 25mg PRN for pain, consider 
+uptitrating to 50mg if pain is interrupting her ability to 
+participate in rehab. 
+[ ] Right arm non-weight bearing ___ fracture.
+
+FOLLOW-UP ISSUES:
+[ ] Patient should have boot for RLE as has foot-drop on this 
+side as well. 
+[ ] Iron deficiency noted, consider outpatient repletion/workup 
+[ ] Recommend outpatient sleep study as was desaturating to high 
+___ on room air overnight while sleeping. 
+[ ] Recommend discussing goals of care and code status with 
+patient and family given likelihood of poor outcome should 
+patient arrest. 
+
+Greater than ___ hour spent on care on day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Albuterol Inhaler 2 PUFF IH Q6H:PRN Dyspnea 
+3. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation DAILY 
+4. Alendronate Sodium 70 mg PO 1X/WEEK (___) 
+5. Furosemide 20 mg PO DAILY 
+6. ipratropium bromide 42 mcg (0.06 %) nasal TID 
+7. Levothyroxine Sodium 100 mcg PO DAILY 
+8. Omeprazole 40 mg PO DAILY 
+9. Ranitidine 300 mg PO QHS 
+10. Verapamil SR 240 mg PO BID 
+11. Clotrimazole Cream 1 Appl TP BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO TID  
+2.  amLODIPine 5 mg PO DAILY  
+3.  Bisacodyl 10 mg PO DAILY:PRN Constipation - Second Line  
+4.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+5.  Senna 8.6 mg PO BID  
+6.  TraMADol 25 mg PO Q6H:PRN Pain - Severe 
+RX *tramadol 50 mg 0.5 (One half) tablet(s) by mouth every six 
+(6) hours Disp #*12 Tablet Refills:*0 
+7.  Albuterol Inhaler 2 PUFF IH Q6H:PRN Dyspnea  
+8.  Alendronate Sodium 70 mg PO 1X/WEEK (___)  
+9.  Aspirin 81 mg PO DAILY  
+10.  Clotrimazole Cream 1 Appl TP BID  
+11.  Furosemide 20 mg PO DAILY  
+12.  ipratropium bromide 42 mcg (0.06 %) nasal TID  
+13.  Levothyroxine Sodium 100 mcg PO DAILY  
+14.  Omeprazole 40 mg PO DAILY  
+15.  Ranitidine 300 mg PO QHS  
+16.  Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Mechanical fall from chronic foot drop leading to right proximal 
+humeral fracture 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+===================================
+WHY DID YOU COME TO THE HOSPITAL?
+===================================
+-You fell at home.
+
+================================
+WHAT HAPPENED AT THE HOSPITAL?
+================================
+-You were seen by the orthopedic surgery team because you broke 
+your arm, fortunately there was no need to perform surgery. 
+-We stopped a blood pressure medication called verapamil, and 
+started amlodipine instead. This is because we noticed some 
+pauses while monitoring the heart rhythm.
+
+====================================================
+WHAT NEEDS TO HAPPEN WHEN YOU LEAVE THE HOSPITAL?
+=====================================================
+-Work hard at rehab to regain the strength. 
+ 
+Followup Instructions:
+___

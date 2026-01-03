@@ -1,0 +1,417 @@
+Notes
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Lovenox
+ 
+Attending: ___.
+ 
+Chief Complaint:
+increased seizure frequency (sensation rising up arm to face to 
+leg)
+ 
+Major Surgical or Invasive Procedure:
+None 
+ 
+History of Present Illness:
+HISTORY OF THE PRESENTING ILLNESS:
+#ERROR!
+The patient is a ___ year old woman, currently 8-weeks pregnant,
+with recently diagnosed cortical VST and right parietal infarct
+complicated by focal seizures recently discharged from the 
+stroke
+service who now represents to the ED after 2 breakthrough focal
+sensory seizures.
+
+To briefly review her recent hospitalization, she was originally
+admitted to the stroke service at ___ on ___ as a transfer
+from ___ after originally presenting with headache, emesis, and
+left arm numbness/weakness. While at ___, she had an MRI/MRV and
+was found to have right parietal infarct with hemorrhage due to
+cortical venous sinus thrombosis. The patient was transferred to
+___ and started on systemic anticoagulation (first with
+heparin, then Lovenox as heparin was not immediately effective)
+and admitted to the neuro ICU for close monitoring. 
+
+Her hospitalization was complicated by focal sensory seizures,
+involving tingling of the left fingertips, spreading proximally
+up the arm to the corner of her mouth, with secondary
+generalization on one occasion for which she was started on
+Keppra. Dose was increased to ___ mg BID due to two short
+episodes of left arm tingling without generalization on ___,
+while she was still admitted. With the higher dose, she
+experienced no further sensory symptoms. 
+ 
+This morning, however, at approximately 4 AM, she awoke with
+tingling in her left finger tips and the corner of the left side
+of her mouth. Over the course of 5 to 10 minutes, her symptoms
+spread proximally to the left shoulder and began to involve the
+left half of her tongue such that she was talking "with a lisp"
+according to her husband. As the tingling in her mouth resolved,
+she noticed tingling along the dorsum of her left foot. She is
+unable to say if this spread up her leg towards her thigh. These
+leg and mouth symptoms persisted for 45 minutes before 
+resolving.
+The left arm tingling persisted for several hours. 
+
+She had a mild headache in the afternoon which was relieved with
+Tylenol. 
+
+Then, at about 2:15 ___, she had another event similar to the one
+earlier in the morning. This started with tingling in the left
+side of her face and left finger tips as well as numbness along
+the left half of her tongue. Neither episode involved any
+impairment in awareness.
+
+The patient has been adherent with both her Keppra and Lovenox.
+She has not missed any doses of either. She has taken a total of
+4 days worth of Keflex for a UTI that was diagnosed while she 
+was
+admitted. She has no urinary complaints at this time.
+ 
+Patient currently endorsing left cheek, hand, and arm tingling.
+Denies any current symptoms in the left leg.
+
+Of note, per discharge summary: 
+
+"Given Xa Level slightly elevated on 110 mg, and taking into
+account the pharmacokinetics of pregnancy, her dose was changed
+dose of lovenox from 110 mg to 100 mg twice a day at time of
+discharge recommended by pharmacy, with follow up Xa levels
+planned to be followed at maternal-fetal medicine and 
+hematology visits."
+
+However, discharge summary medication list states "Enoxaparin
+(Treatment) 110 mg SC Q12H.
+
+On neurological ROS, the patient denies loss of vision, blurred
+vision, diplopia, dysarthria, dysphagia, lightheadedness,
+vertigo, tinnitus or hearing difficulty. Denies difficulties
+producing or comprehending speech.  Endorses weakness associated
+with the sensory changes because she "could not feel" her arm
+normally. No other focal weakness. No bowel or bladder
+incontinence or retention. Denies difficulty with gait.
+ 
+On general review of systems, the patient denies recent fever or
+chills.  No night sweats or recent weight loss or gain. Denies
+cough, shortness of breath.  Denies chest pain or tightness,
+palpitations.  Denies nausea, vomiting, diarrhea, constipation 
+or
+abdominal pain.  No recent change in bowel or bladder habits.  
+No
+dysuria.  Denies arthralgias or myalgias. Denies rash.
+ 
+Past Medical History:
+1. Migraine headache
+2. Pregnancy
+ 
+Social History:
+___
+Family History:
+Denies family history of stroke, seizure, PEs, DVTs, 
+miscarriages
+
+ 
+Physical Exam:
+Physical Exam no Admission:
+PHYSICAL EXAMINATION:
+#ERROR!
+Vitals: T 97.9, HR 123, BP 151/103, RR 20, Sa 99% RA
+General: Awake, cooperative, slightly anxious.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Normal work of breathing
+Cardiac: RRR, warm, well-perfused
+Abdomen: Gravid, soft, non-distended
+Extremities: No ___ edema.
+Skin: no rashes or lesions noted.
+ 
+Neurologic Exam:
+
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Pt was able to name both high and low frequency objects. Able to
+follow both midline and appendicular commands. There was no
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 5 to 3 mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. Fundoscopic
+exam revealed no papilledema, exudates, or hemorrhages.
+V: Facial sensation intact to light touch. Endorsing tingling
+along the V2 and V3 distributions. 
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+  Delt Bic Tri WrE  FE  IP Quad Ham  TA ___  ___ 
+L  5    ___   5    ___    5    5      5   
+R  5    ___   5    ___    5    5      5   
+
+-Sensory: No deficits to light touch, pinprick, cold sensation,
+vibratory sense, proprioception throughout. No agraphesthesia in
+either hand.
+
+-DTRs: ___ adductors
+  ___ Tri ___ Pat Ach
+L  2  2    2    3   2
+R  2  2    2    3   2
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF bilaterally.
+
+-Gait/Station: Deferred
+#ERROR!
+
+Physical Exam on Discharge:
+PHYSICAL EXAMINATION:
+#ERROR!
+Vitals: 24 HR Data (last updated ___ @ 644)
+    Temp: 98 (Tm 98.3), BP: 140/90 (115-140/77-90), HR: 100
+(93-100), RR: 18, O2 sat: 96% (96-98), O2 delivery: RA, Wt: 237
+lb/107.5 kg  
+
+General: Awake, cooperative, slightly anxious.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Normal work of breathing
+Cardiac: RRR, warm, well-perfused
+Abdomen: Gravid, soft, non-distended
+Extremities: No ___ edema.
+Skin: no rashes or lesions noted.
+ 
+Neurologic Exam:
+
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Pt was able to name both high and low frequency objects. Able to
+follow both midline and appendicular commands. There was no
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 5 to 3 mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch. Endorsing tingling
+along the V2 and V3 distributions. 
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+  Delt Bic Tri WrE  FE  IP Quad Ham  TA ___  ___ 
+L  5    ___   5    ___    5    5      5   
+R  5    ___   5    ___    5    5      5   
+
+-Sensory: No deficits to light touch, pinprick, cold sensation,
+vibratory sense, proprioception throughout. No agraphesthesia in
+either hand. 
+
+-DTRs: 
+ Differed. 
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. Slight dysmetria on FNF of Left hand based on thumb
+test with increased difficulty grabbing right thumb, likely
+sensory related difficulty.    
+
+-Gait/Station: Deferred
+ 
+Pertinent Results:
+___ 07:00AM BLOOD WBC-8.1 RBC-4.53 Hgb-12.7 Hct-37.8 MCV-83 
+MCH-28.0 MCHC-33.6 RDW-12.7 RDWSD-38.3 Plt ___
+___ 03:14PM BLOOD Neuts-72.7* ___ Monos-5.4 
+Eos-0.2* Baso-0.2 Im ___ AbsNeut-5.89 AbsLymp-1.70 
+AbsMono-0.44 AbsEos-0.02* AbsBaso-0.02
+___ 07:00AM BLOOD ___ PTT-33.9 ___
+___ 07:00AM BLOOD Heparin-0.46
+___ 11:09PM BLOOD LMWH-0.93
+___ 07:00AM BLOOD Glucose-89 UreaN-8 Creat-0.5 Na-140 K-4.3 
+Cl-104 HCO3-19* AnGap-17
+___ 07:00AM BLOOD Calcium-9.5 Phos-3.6 Mg-1.9
+___ 07:00AM BLOOD LEVETIRACETAM (KEPPRA)-PND
+___ 04:40PM URINE Blood-TR* Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NORMAL pH-6.5 
+Leuks-MOD*
+___ 04:40PM URINE RBC-3* WBC-9* Bacteri-NONE Yeast-NONE 
+Epi-1
+
+___ 4:40 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION
+
+EEG read is pending.
+ 
+Brief Hospital Course:
+This is a ___ year old woman, currently 8-weeks pregnant, with 
+recently diagnosed cortical VST and right parietal infarct 
+complicated by focal seizures who represents to the ED after 2 
+breakthrough focal sensory seizures.  These events are described 
+as left-sided paresthesias going up her arm, to her face, and 
+with new symptoms of extending to her leg.  Exam on presentation 
+was notable for paresthesias in the left face, along V2 and V3 
+distributions.  Her exam this morning was with resolved 
+paresthesias, improvement in prior agraphesthesia, and 
+improvement in left arm strength, and only noticeable for slight 
+sensory dysmetria on left arm.  Based on patient's exam and 
+symptoms, there is very low concern for worsening venous sinus 
+thrombosis or hemorrhage.  The concern for her current etiology 
+is focal seizures versus local edema with secondary symptoms.  
+The 45-minute time course of these events is more concerning for 
+local edema, but the nocturnal prevalence of the events, and her 
+increased Keppra (levetiracetam) clearance seen by her 
+levetiracetam level on ___ being 15.3, makes increase Keppra 
+clearance as a likely possibility for subtherapeutic levels at 
+time of events.  Plan will be for extended routine EEG 
+inpatient, and ambulatory EEG outpatient, with outpatient 
+epilepsy specialist to follow.  At time of discharge plan will 
+be to increase Keppra from ___ mg twice daily to ___ mg in the 
+morning, and 3000 mg in the evening.  Plan to otherwise continue 
+other medications as at time of last discharge, with the 
+exception of discontinuing her empiric antibiotics for UTI, as 
+cultures grew out negative for any specific organism.  
+
+Transitional issues:
+[] Ambulatory EEG.
+[] ___ Doctors to Follow-up factor Xa levels as previously 
+discussed.  Currently on enoxaparin 100 mg twice daily. 
+[] Follow up as previously described in last DC summary. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Prenatal Vitamins 1 TAB PO DAILY 
+2. Cephalexin 500 mg PO BID 
+3. Acetaminophen ___ mg PO Q6H:PRN Pain - Mild/Fever 
+4. FoLIC Acid 1 mg PO DAILY 
+5. LevETIRAcetam ___ mg PO BID 
+6. Ondansetron ODT 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+7. Enoxaparin (Treatment) 100 mg SC Q12H Cortical Vein 
+Thrombosis  
+
+ 
+Discharge Medications:
+1.  LevETIRAcetam 3000 mg PO QHS 
+RX *levetiracetam [Keppra] 1,000 mg 3 tablet(s) by mouth at 
+bedtime Disp #*180 Tablet Refills:*0 
+2.  LevETIRAcetam ___ mg PO QAM 
+RX *levetiracetam 1,000 mg 2 tablet(s) by mouth once a day 
+(Morning) Disp #*120 Tablet Refills:*0 
+3.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild/Fever  
+4.  Enoxaparin (Treatment) 100 mg SC Q12H Cortical Vein 
+Thrombosis  
+RX *enoxaparin 100 mg/mL 1 mL SubQ twice a day Disp #*40 Syringe 
+Refills:*0 
+5.  FoLIC Acid 1 mg PO DAILY  
+6.  Ondansetron ODT 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+7.  Prenatal Vitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Increased Focal onset Seizure without generalization.
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ neurology with symptoms of increased 
+paresthesia extending now to your leg on your left side, 
+concerning for increased seizure frequency in the setting of 
+right parietal infarct with hemorrhage from cortical venous 
+sinus thrombosis.  Your symptom pattern is concerning for focal 
+seizures versus coming and going symptoms in the setting of 
+expected local swelling from your cortical venous sinus 
+thrombosis.  Your symptoms have been having a nighttime pattern, 
+and have resolved on examination this morning.  Your exam has 
+continued to improve with now only mild sensory dysmetria on 
+your left arm/hand.  We checked your Keppra/levetiracetam levels 
+upon arrival, and these results will be available to your 
+outpatient epilepsy neurologist on follow-up.  We have also 
+obtained a routine extended EEG to look for focal seizures.  
+These results will also be available for your outpatient 
+epilepsy neurologist.  Lastly we are recommending that you have 
+a outpatient continuous EEG/home EEG for further evaluation of 
+these events to help differentiate between seizure and local 
+swelling.  These results will be followed up with your 
+outpatient epilepsy/seizure specialist.
+
+We are making the following medication changes:
+- We are stopping your antibiotic for your urinary tract 
+infection, as final cultures are negative for urinary tract 
+infection.
+
+-We are changing your Keppra/levetiracetam dosing from ___ mg 
+twice a day to ___ mg in the morning, and 3000 mg at night 
+given your nighttime pattern of seizure-like events.
+
+-Continue taking enoxaparin/Lovenox ___ mg twice a day.
+
+****FOR HOME EEG PREPARATION:****
+#ERROR!
+Dear Ms. ___, 
+  
+
+___, MD has requested that you be scheduled for an 
+electroencephlogram (EEG) test.  If you did not get an 
+appointment today, please call ___ to schedule one.  
+The tests will be performed at the EEG Lab on the ___ Floor of 
+the ___ at ___.  Prior to the test, make sure that your hair is clean 
+and dry and that no oils, gels, hairsprays, or conditioners are 
+used on the day of the study. Also make sure that you have had a 
+reasonably substantial meal prior to the study. 
+
+As previously planned you will follow-up with all your 
+providers.  You should also continue to take your prenatal 
+vitamins, folic acid, enoxaparin, and Zofran as previously 
+described at last discharge.
+
+You should continue to follow safety precautions for prevention 
+of injury from the seizure.  You should call if there is any 
+noticed increased call frequency or pattern of events, and if 
+more concerned he should report to the emergency room.  Please 
+report to the emergency room immediately if you have any events 
+leading to loss of consciousness.
+
+Thank you for the opportunity partake in your care, 
+The ___ neurology team.
+ 
+Followup Instructions:
+___

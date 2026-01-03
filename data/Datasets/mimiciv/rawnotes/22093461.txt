@@ -1,0 +1,183 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with Crohn's disease c/b splenic flexure stricture s/p L 
+colectomy ___ - ___ c/b colon perforation s/p 
+completion colectomy, ileosigmoid anastomosis (___) c/b 
+anstomotic leak s/ple abdominal washouts and VACs (___) 
+c/b EC fistula s/p EC fistula ta multipkedown and revision of 
+ileorectal anastomosis to J pouch (___) and ileostomy s/p 
+ileostomy takedown (___). She presents today with lower 
+pelvic pain and fevers x 1 week. She reports that 1 week ago, 
+she started having lower abdominal/pelvic pain. 2 days ago she 
+started having low grade fevers, which prompted her to seek 
+medical attention. She denies nausea/vomiting. She is tolerating 
+PO. She has a non-bloody bowel movement every hour or two, which 
+has been constant since her ileostomy takedown with no changes 
+over the past week. She is not on any medication for her Crohn's 
+disease. She denies any flatus through her vagina or urethra.
+
+Of note, she had a routine MRI on ___ which showed overall 
+improvement from prior with tethered loops of small bowel within 
+the pelvis, but with no evidence of focal abscess at the time. 
+ 
+Past Medical History:
+Crohn's disease dx at ___ years of age  
+Pelvic Fracture ___ with resultant addiction to Rx Narcotics
+
+Past Surgical History:
+- ___ - Abdominal washout, placement of V.A.C
+- ___ - Abdominal washout, Placement of a VAC.
+- ___ - Exploratory laparotomy, drainage of 
+intraabdominal abscess, lysis of adhesions and open abdomen with 
+placement of a VAC.
+- ___ Completion colectomy, ileosigmoid anastomosis (Dr. 
+___
+- ___ Laparoscopic assisted left colectomy (Dr. ___
+ 
+Social History:
+___
+Family History:
+No family history of IBD 
+
+ 
+Physical Exam:
+General: no acute distress. 
+Neuro: alert and oriented to person, place and date. 
+psych: mood is "good."
+pulmonary: respirations are unlabored on room air. 
+cardiac: normal rate and rhythm. no murmurs, rubs or gallops. 
+abdomen: soft, mildly tender over the supra-pubic area. No 
+rebound or guarding. 
+extremities: warm and well-perfused with no edema.
+ 
+Pertinent Results:
+___ 06:45AM BLOOD WBC-9.0 RBC-3.62* Hgb-10.1* Hct-30.9* 
+MCV-85 MCH-27.9 MCHC-32.7 RDW-13.4 RDWSD-42.3 Plt ___
+___ 03:40AM BLOOD Neuts-82.4* Lymphs-10.3* Monos-5.5 
+Eos-0.7* Baso-0.4 Im ___ AbsNeut-13.44* AbsLymp-1.68 
+AbsMono-0.90* AbsEos-0.12 AbsBaso-0.06
+___ 06:45AM BLOOD Plt ___
+___ 06:45AM BLOOD Glucose-107* UreaN-4* Creat-0.4 Na-143 
+K-3.6 Cl-104 HCO3-26 AnGap-13
+___ 03:40AM BLOOD ALT-38 AST-22 AlkPhos-136* TotBili-0.6
+___ 06:45AM BLOOD Calcium-8.2* Phos-2.4* Mg-2.___RIEF HOSPITAL COURSE TEMPLATE  
+ Mrs. ___ presented to our emergency department as a transfer 
+from an outside hospital on ___ with abdominal pain in the 
+setting of known Crohn's disease. Her WBC count was elevated to 
+16.3 and C-reactive protein to 16.9. CT scan at an ___ 
+___ demonstrated a fluid collection in the pelvis 
+consistent with a mesenteric abscess veruss tubo-ovarian 
+abscess. OB/Gyn was consulted who felt that a lack of cervical 
+motion tenderness and her imaging was most consistent with an 
+intra-mesenteric infection rather than a tubo-ovarian abscess. 
+The patient was started on cefepime and metronidazole and 
+transitioned to augmentin and metronidazole with plans to 
+complete a 10 day course. 
+ On ___, the patient was discharged to home. At discharge, 
+he/she was tolerating a regular diet, passing flatus, stooling?, 
+voiding, and ambulating independently He/She will follow-up in 
+the clinic in ___ weeks. This information was communicated to 
+the patient directly prior to discharge.  
+ Include in Brief Hospital Course for Every Patient and check of 
+boxes that apply:  
+
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+Please take with food. 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet by mouth 
+every 12 hours Disp #*20 Tablet Refills:*0 
+3.  MetroNIDAZOLE 500 mg PO Q8H 
+Please take with food 
+RX *metronidazole [Flagyl] 500 mg 1 tablet(s) by mouth every 8 
+hours Disp #*30 Tablet Refills:*0 
+4.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+do not drink alcohol or drive on this medication. 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 6 hours as needed 
+Disp #*10 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+mesenteric abscess secondary to Crohn's disease
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+ Mrs. ___ presented to the emergency department at ___ with 
+1 week of lower abdominal/pelvic pain and 2 days of low grade 
+fevers.  CT scan from ___ demonstrated findings 
+consistent with a pelvic abscess secondary to Crohn's disease.  
+You were restarted on intravenous antibiotics and transition to 
+oral antibiotics for discharge.
+ You have tolerated a regular diet, are passing gas and your 
+pain is controlled with pain medications by mouth. You may 
+return home to finish your recovery.  
+ If you are taking narcotic pain medications there is a risk 
+that you will have some constipation. Please take an over the 
+counter stool softener such as Colace, and if the symptoms do 
+not improve call the office.  
+ If you have any of the following symptoms please call the 
+office for advice ___:  
+ fever greater than 101.5  
+ increasing abdominal distension  
+ increasing abdominal pain  
+ nausea/vomiting  
+ inability to tolerate food or liquids  
+ prolonged loose stool  
+ extended constipation  
+ inability to urinate  
+ Pain  
+ It is expected that you will have pain secondary to this 
+abscess. You should continue to take 2 Extra Strength Tylenol 
+(1000mg) for pain every 8 hours around the clock and you may 
+also take Advil (Ibuprofen) 600mg every hours for 7 days. Please 
+do not take more than 3000mg of Tylenol in 24 hours or any other 
+medications that contain Tylenol such as cold medication. Do not 
+drink alcohol while or Tylenol. Please take Advil with food. If 
+these medications are not controlling your pain to a point where 
+you can ambulate and preform minor tasks, you should take a dose 
+of the narcotic pain medication hydromorphone. Please take this 
+only if needed for pain. Do not take with any other sedating 
+medications or alcohol. Do not drive a car if taking narcotic 
+pain medications. You should only drive a car on your own if you 
+are off narcotic pain medications and feel as if your reaction 
+time is back to normal so you can react appropriately while 
+driving.  
+
+We wish you a speedy recovery!
+ 
+Followup Instructions:
+___

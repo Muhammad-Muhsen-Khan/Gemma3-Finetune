@@ -1,0 +1,366 @@
+Notes
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Afib with RVR, failure to take home medications
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+ This is a ___ male with PMHx of CAD s/p CABG and recent 
+NSTEMI (s/p DES to ___-LCx), atrial fibrillation, who presented 
+to ___ with afib with RVR. He was found to be in atrial 
+fibrillation with rapid ventricular rate the morning of 
+admission by his ___. He was sent to ___ and was given 
+IV metoprolol. His daughter called his primary care doctor who 
+recommended transfer to ___ for further management.  
+ Of note, the patient was recently diagnosed with atrial 
+fibrillation by his PCP. He was sent for a stress test which 
+returned positive. He was then sent to ___ for cath and was 
+found to have 90% stenosis in the distal LMCA with an additional 
+90% stenosis in the proximal LCx beyond the bifurcation. He had 
+a DES placed to LM-Lcx and was discharged on aspiring, Plavix, 
+and warfarin. Since discharge, the patient reports that he has 
+not been doing well at home. He has been having some foot pain 
+and has forgotten several doses of medication. His daughter is 
+concerned that he has been having problems with his memory 
+recently.  
+ ___:  
+ wbc 10.5, H/H 13.5/41.1, Plt 457  
+ Na 135, K 4.3, Cl 101, HCO3 24, BUN 17, Cr 1.08, Glu 153  
+ trop .02  
+ INR 1.53  
+ In the ED initial vitals were: 97.0 66 90/48 16 99% RA  
+ -EKG: atrial flutter with rate @ 60, normal axis  
+ -Labs/studies notable for: UA hazy, mod leuks, mod blood, 26 
+WBC, few bacteria  
+ -CXR: 1. No acute intrathoracic process. 2. Centrilobular 
+emphysema.  
+ -Patient was given: nothing  
+ -Vitals on transfer: 98.2 65 102/48 95% RA  
+ On the floor the patient denies any active complaints.  
+ ROS:  
+ Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+syncope or presyncope. Denies exertional buttock or calf pain.  
+ On further review of systems, denies any prior history of 
+stroke, deep venous thrombosis, cough, black stools or red 
+stools. Denies recent fevers, chills or rigors. Denies any 
+dysuria. All of the other review of systems were negative.  
+
+ 
+Past Medical History:
+-MIx3, status-post stent ___ years ago, and CABG and St.
+___ ___ years ago.  
+-Diabetes Mellitus II, not on medication.  
+-s/p Cholecystectomy  
+-s/p Colon CA, status-post resection x2 (no radiation)
+-Manic depression  
+-History of pneumothorax (at age ___ s/p thoracotomy 
+-OSA
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY: Dad had 2 aortas (?) and cerebral aneurysms,
+Diabetes, manic depression and colon cancer in dad
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM:
+#ERROR!
+VS: 97.8 ___ 19 96% RA  
+ GENERAL: resting comfortably, NAD. Oriented x3. Mood, affect 
+appropriate.  
+ HEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor 
+or cyanosis of the oral mucosa.  
+ NECK: Supple with JVP of 11 cm.  
+ CARDIAC: irregular rhythm,, normal S1, S2. No 
+murmurs/rubs/gallops. No thrills, lifts.  
+ LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ ABDOMEN: Soft, NTND. No HSM or tenderness.  
+ EXTREMITIES: No c/c/e. No femoral bruits.  
+ PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE PHYSICAL EXAM:
+#ERROR!
+Vitals:  97.8 95/56-116/57 ___ 98% on RA
+Tele: A flutter with bradycardia
+GENERAL: Elderly male, resting comfortably, NAD. Oriented x3. 
+Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor 
+or cyanosis of the oral mucosa.  
+NECK: Supple with JVP not elevated.  
+CARDIAC: irregular rhythm,, normal S1, S2. No 
+murmurs/rubs/gallops. No thrills, lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+PULSES: Distal pulses palpable and symmetric  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+#ERROR!
+___ 06:15AM BLOOD WBC-9.9 RBC-4.02* Hgb-11.8* Hct-36.3* 
+MCV-90 MCH-29.4 MCHC-32.5 RDW-13.2 RDWSD-43.8 Plt ___
+___ 06:15AM BLOOD ___ PTT-28.2 ___
+___ 06:15AM BLOOD Glucose-101* UreaN-19 Creat-0.8 Na-137 
+K-4.8 Cl-102 HCO3-23 AnGap-17
+___ 06:15AM BLOOD Calcium-8.5 Phos-3.4 Mg-2.2
+
+DISCHARGE LABS:
+#ERROR!
+___ 07:26AM BLOOD WBC-7.4 RBC-4.41* Hgb-12.7* Hct-40.2 
+MCV-91 MCH-28.8 MCHC-31.6* RDW-13.2 RDWSD-44.6 Plt ___
+___ 07:26AM BLOOD ___ PTT-30.3 ___
+___ 07:26AM BLOOD Glucose-118* UreaN-14 Creat-0.9 Na-136 
+K-5.3* Cl-101 HCO3-27 AnGap-13
+___ 07:26AM BLOOD Calcium-9.4 Phos-3.7 Mg-2.3
+
+PERTINENT FINDINGS:
+#ERROR!
+
+Labs:
+------
+
+___ 06:50AM BLOOD %HbA1c-6.8* eAG-148*
+
+Micro:
+-------
+___ 02:33AM URINE Color-Yellow Appear-Hazy Sp ___
+___ 02:33AM URINE Blood-MOD Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-MOD
+___ 02:33AM URINE RBC-6* WBC-26* Bacteri-FEW Yeast-NONE 
+Epi-0
+
+Studies/Imaging:
+------------------
+CXR ___: 
+There is no consolidation, pleural effusion or pneumothorax. 
+Note is made of centrilobular emphysema. Heart size is normal. 
+Thoracic aortic stent graft appears unremarkable in position 
+when compared to the more recent CTA dated ___. A 
+compression deformity involving a lower thoracic vertebral body 
+is unchanged. Otherwise no acute osseous abnormalities 
+identified.   
+
+IMPRESSION: 
+1. No acute intrathoracic process. 
+2. Centrilobular emphysema. 
+
+ 
+Brief Hospital Course:
+___ male with PMHx of CAD s/p CABG and recent NSTEMI 
+(s/p DES to LM-LCx ___, atrial fibrillation, who initially 
+presented to OSH with afib with RVR, transferred to ___ for 
+further management. 
+
+# ATRIAL FIBRILLATION/FLUTTER: Recent diagnosis of unclear 
+duration, incidentally found on annual physical exam. Was noted 
+at OSH to be in afib with RVR and received metoprolol and 
+quickly became rate controlled. On arrival to ___, after 
+interviewing the patient, it became clear he did not take any of 
+his medications for the 1.5 days prior to admission due to 
+difficulty ambulating to his pills from foot pain. He was 
+started on fractionated home doses of metoprolol and diltiazem. 
+He was recorded on telemetry to have an episode of profound 
+(into the ___, but asymptomatic, bradycardia. No intervention 
+was required but his diltiazem dose was decreased and ultimately 
+discontinued. He was transitioned to metoprolol succinate 200mg 
+daily with adequate rate control and continued on Plavix 
+(previous NSTEMI) and Coumadin with plan for point of care INR 
+testing going forward with ___.
+ 
+# CAD: Pt has a history of coronary artery disease s/p CABG and 
+was recently found to have an NSTEMI in setting of AF w/ rapid 
+ventricular rate. He is s/p DES to LM-LCx on ___. Patient 
+reported not taking his Plavix or aspirin due to forgetfulness 
+and foot pain. He was restarted on Plavix which he should 
+continue for at least one year (started ___. He was also 
+given aspirin, beta blocker (as per above) and Atorvastatin 80mg 
+daily. Patient should stay on triple therapy for at least one 
+month (started ___ after which aspirin can be stopped 
+while maintained on Plavix. Should undergo TTE as an outpatient. 
+Of note, lisinopril and IMDUR were discontinued due to patient 
+confusion with medications and well controlled blood pressure.
+
+# Foot Pain: Patient described foot pain as unilateral over L 
+great toe. Stated pain was so great that he could not put on his 
+shoe. Appeared very sensitive to palpation, warm and red, 
+concerning for gout as opposed to initial concern for diabetic 
+neuropathy. No evidence of infection. Was started on colchicine 
+empiric therapy without crystal confirmation with significant 
+improvement. Did not discharge on allopurinol, patient should be 
+likely get crystal diagnosis prior to starting allopurinol 
+chronically.
+
+# Diminished ADLS: patient has reported difficulty feeling 
+steady on his feet as of late and stated that he was having 
+difficulty keeping track of his medications (e.g. missing doses 
+of Plavix for his stent). His daughter and PCP were concerned 
+about his independence. Patient was assessed by physical therapy 
+and deemed stable and independent once gout resolved.  Patient 
+was also assessed by occupational therapy who noted with 
+cognitive testing, pt is functionally able to perform medication
+management and demonstrated good safety awareness but did 
+exhibit mild deficits in short term memory. Ultimately, with 
+discussion with daughter, patient and PCP, decided patient would 
+be ok to go home with ___ monitoring and close follow up with 
+PCP.
+
+# DIABETES TYPE II: Moderately well controlled, held home 
+metformin, and maintained on Humalog insulin sliding scale.  
+Resumed on metformin a time of discharge.  
+
+# HYPERTENSION: clinically stable. Discontinued IMDUR and 
+Lisinopril dosing, due to BPs in low 100s, asymptomatic and 
+patient had difficulty with medication compliance. 
+
+# URINARY RETENTION: Resolved. Patient was discharged on 
+previous admission with  Nitrofurantoin for total of 7 days 
+which patient stats he completed. His UA was  frankly positive, 
+but patient was asymptomatic. No further treatment for UTI 
+provided. Patient was voiding well with tamsulosin. Plan for 
+patient to f/u with PCP ___ discharge regarding ongoing 
+prostate issues and urinary retention.  
+
+# Manic Depression: Mood stable, affect appropriate. Continued 
+on Lithium Carbonate 600 mg PO DAILY.
+
+TRANSITIONAL ISSUES:
+#ERROR!
+[ ] ___ should recheck INR via fingerstick/point of care testing 
+and communicate results to Dr ___ at: ___ 
+Location: ___: ___ Phone: ___ ICD 
+10: ___ Fax: ___ 
+[ ] Patient should be monitored to ensure taking Aspirin, 
+Plavix, Coumadin. 
+[ ] Discontinued diltiazem secondary to bradycardia, and 
+Lisinopril and IMDUR due to hypotension. 
+[ ] Episode concerning for gout, no crystal confirmation. 
+Holding off allopurinol due to lack of confirmed diagnosis. Next 
+flare should obtain athrocentisis. 
+[ ] Patient should be considered for geriatrics referral from 
+PCP.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+3. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+4. Lithium Carbonate 600 mg PO DAILY 
+5. Metoprolol Succinate XL 100 mg PO DAILY 
+6. Clopidogrel 75 mg PO DAILY 
+7. Diltiazem Extended-Release 240 mg PO DAILY 
+8. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+9. Tamsulosin 0.4 mg PO QHS 
+10. MetFORMIN (Glucophage) 1000 mg PO DAILY 
+11. Warfarin 5 mg PO DAILY16 
+12. Lisinopril 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+3. Clopidogrel 75 mg PO DAILY 
+4. Lithium Carbonate 600 mg PO DAILY 
+5. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+6. Tamsulosin 0.4 mg PO QHS 
+7. MetFORMIN (Glucophage) 1000 mg PO DAILY 
+8. Metoprolol Succinate XL 200 mg PO DAILY 
+RX *metoprolol succinate 200 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+9. Warfarin 7.5 mg PO DAILY16 
+RX *warfarin [Coumadin] 7.5 mg 1 tablet(s) by mouth at bedtime 
+Disp #*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY:
+#ERROR!
+- Afib w/ RVR
+- CAD 
+- Gout 
+
+SECONDARY:
+#ERROR!
+- Hypertension
+- Manic Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ for 
+failure to take your medications, rapid heart rate, and foot 
+pain.
+
+WHAT HAPPENED DURING YOUR HOSPITAL STAY?
+#ERROR!
+-You were given your normal home medications with good effect. 
+You heart rate slowed down appropriately.  Stopped your 
+diltiazem and increased your metoprolol to help prevent your 
+heart rate from slowing down too much.
+-Your foot pain was determined to be from gout and you were 
+treated with a medication called Colchicine as well as Tylenol. 
+- You were evaluated by physical therapy who felt that you were 
+stable to walk on your own.
+- You were deemed medically stable and ready to go home with a 
+visiting nurse.
+
+WHAT SHOULD YOU DO FOLLOWING DISCHARGE?
+#ERROR!
+- You should take all of your heart medications as prescribed.
+  -- You are now on aspirin. You need to take aspirin everyday. 
+If you stop taking aspirin, you risk the stent clotting and 
+death. Do not stop taking aspirin until ___. 
+  -- You are now on Plavix (also known as clopidogrel). This 
+medication helps keep your stent open. Do not stop taking plavix 
+unless you are told by your cardiologist. No other doctor can 
+tell you to stop taking this medication. Please continue to take 
+Plavix with your Coumdain daily going forward. 
+  -- We stopped your diltiazem dose to avoid complicated medical 
+regimen and stopped your IMDUR and Lisinopril because they 
+lowered your blood pressure too much. 
+- You should follow up with your PCP and ___ after 
+discharge from your rehab.
+
+It was a pleasure taking care of you during your hospital stay. 
+If you have any questions about the care you received, please do 
+not hesitate to ask.
+
+Sincerely,
+Your Inpatient ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,291 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___               Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+face weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ woman with a history of ADD who
+presents with 1.5 weeks of left dental pain, subjective fevers, 
+2
+days of right facial weakness and abnormal taste. 
+
+She first developed pain in one of her left maxillary molars
+___ from back) last ___. Over the subsequent week the
+pain worsened. She once measured a temperature ___ F, and on
+other nights this week noted night sweats. She went to the 
+health
+clinic at ___ 2 days ago and was given a 
+prescription
+for Augmentin to treat sinusitis. She does also complain of
+left-sided congestion, but says her tooth pain was her primary
+complaint and focused very clearly on a single tooth. 
+
+That evening she noticed right-sided facial weakness, and has
+since had ever-increasing difficulty drinking fluids due to this 
+
+weakness. She endorses abnormal taste, but denies any changes in
+her hearing including hyperacusis. She still complains of
+worsening tooth pain as well as night sweats. She also complains
+of left frontal headache. 
+
+She does not have any history of cold sores. She denies any
+photo/phonophobia, neck stiffness, confusion, or malaise. 
+
+ROS:
++ Right facial weakness
++ Left frontal headache
++ Left dental pain
++ Night sweats
+
+- No recent loss of vision, blurred vision, diplopia, 
+dysarthria,
+lightheadedness, vertigo, tinnitus, or hearing difficulty. 
+ 
+Past Medical History:
+ADHD
+ 
+Social History:
+___
+Family History:
+Father with rheumatoid arthritis. 
+ 
+Physical Exam:
+Admission physical exam
+-Vitals: T:96.0  BP:116/90  HR:99  RR:16  SaO2:98%
+
+-General: Awake, cooperative, NAD.
+-HEENT: NC/AT. No scleral icterus noted. MMM. No lesions noted 
+in
+oropharynx.
+-Neck: Supple. No nuchal rigidity.
+-Cardiac: Well perfused. 
+-Pulmonary: Breathing comfortably on room air.
+-Abdomen: Soft, NT/ND. 
+-Extremities: No cyanosis, clubbing, or edema bilaterally. 
+-Skin: No rashes or other lesions noted.
+
+NEUROLOGIC EXAM:
+-Mental Status: Alert, oriented x 3. Able to relate detailed
+history without difficulty. Attentive. Language is fluent. There
+are no paraphasic errors. Able to read without difficulty. Able
+to follow both midline and appendicular commands. 
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 5 to 3mm and brisk. VFF to confrontation and no
+extinction. 
+III, IV, VI: EOMI without nystagmus. 
+V: Facial sensation decreased on left (V1-V2>V3) to light touch
+and pin-prick ~75% of normal (moving from R->L, abnormal
+sensation begins approximately 2cm to the left of midline).
+VII: Right upper and lower facial weakness -- decreased brow
+activation, slowed blink, weak eye closure, and facial droop.
+Taste impaired to saccharine solution on right side of tongue. 
+No
+stylomastoid foramen tenderness. 
+
+VIII: Hearing grossly intact to speech. No hyperacusis. 
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline and equal strength bilaterally.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally. No adventitious movements, such as tremor, noted. 
+No
+asterixis noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___      ___   5    5  5     5     
+R  5    ___      ___   5    5  5     5     
+
+-Sensory: No deficits to light touch or pinprick throughout
+(except left face as above). 
+
+-Coordination: No intention tremor. No dysmetria on FNF.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  
+
+Discharge physical exam
+-General: Awake, cooperative, NAD.
+-HEENT: NC/AT. No scleral icterus noted. MMM. 
+-Neck: Supple. No nuchal rigidity.
+-Cardiac: Well perfused. 
+-Pulmonary: Breathing comfortably on room air.
+-Abdomen: Soft, NT/ND. 
+-Extremities: No cyanosis, clubbing, or edema bilaterally. 
+-Skin: No rashes or other lesions noted.
+
+NEUROLOGIC EXAM:
+-Mental Status: Alert. Able to relate detailed
+history without difficulty. Attentive. Language is fluent. There
+are no paraphasic errors. Able
+to follow both midline and appendicular commands. 
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 5 to 3mm and brisk. VFF to confrontation 
+III, IV, VI: EOMI without nystagmus. 
+V: Facial sensation decreased on left (V1-V2>V3) to light touch
+and pin-prick ~75% of normal 
+VII: Right upper and lower facial weakness --  weak eye closure, 
+and facial droop.
+
+VIII: Hearing grossly intact to speech. No hyperacusis. 
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline and equal strength bilaterally.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally. No adventitious movements, such as tremor, noted. 
+No
+asterixis noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___ 
+L  5    ___      ___   5    5  5     5     
+R  5    ___      ___   5    5  5     5     
+
+-Sensory: No deficits to light touch or pinprick throughout
+(except left face as above). 
+
+-Coordination: No intention tremor. No dysmetria on FNF.
+
+-Gait: Walks independently
+
+ 
+Pertinent Results:
+Labs
+___ 12:53PM BLOOD WBC-8.0 RBC-4.21 Hgb-11.0* Hct-35.6 
+MCV-85 MCH-26.1 MCHC-30.9* RDW-13.2 RDWSD-40.2 Plt ___
+___ 12:53PM BLOOD CRP-106.8*
+
+MRI brain
+1. Findings compatible with sinusitis in an ostiomeatal unit 
+pattern involving 
+the left maxillary sinus, anterior left ethmoid air cells, and 
+left frontal 
+sinus.  Correlate for acuity. 
+2. No definite cranial nerve abnormality.  Specifically, 
+bilateral symmetric 
+enhancement of the facial nerves, particularly within the 
+tympanic segments, 
+is likely normal given its bilaterally and is of unlikely 
+clinical 
+significance. 
+
+CT sinus
+1. Near complete opacification of the left maxillary sinus, as 
+well as partial 
+opacification of the left-sided ethmoid air cells, and mild 
+mucosal thickening 
+in the left frontal sinus, findings concerning for acute 
+sinusitis given the 
+clinical context. 
+2. No evidence of facial abscess or periodontal disease. 
+
+ 
+Brief Hospital Course:
+___ is a ___ woman with a history of ADD who
+presented with 1.5 weeks of left dental pain, night sweats, left
+frontal headache, 2 days of right facial weakness and abnormal
+taste. Her exam is notable for right ___ nerve palsy with
+abnormal taste and upper and lower facial weakness; as well as
+mild sensory deficit on the left side of her face. She underwent 
+MRI brain w/wo contrast and with thin cuts which was normal. 
+The etiology of her symptoms is thought to be due to Bells 
+Palsy. Regarding her left mild sensory deficits, this is likely 
+due to acute left sided sinusitis causing some abnormal 
+sensation. At this time we do not think she has multiple cranial 
+neuropathy. We will treat the bells palsy with prednisone. We 
+will also continue her augmentin for the sinusitis. We did 
+discuss with the patient and her mother, that should she have 
+new focal neurological deficits or worsening infectious symptoms 
+she would need to come back to the ED. Otherwise she will follow 
+up with neurology in the next few days, as well as with her 
+dentist.
+
+=============================
+Transitional issues:
+-Follow up neurology 
+-Follow up with dentist
+-complete 7 days of prednisone 60mg daily (until ___
+-complete a 10 day course (until ___
+ 
+Medications on Admission:
+n/a
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H Duration: 8 Days 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tab-cap by mouth 
+every twelve (12) hours Disp #*15 Tablet Refills:*0 
+2.  PredniSONE 60 mg PO DAILY 
+RX *prednisone 20 mg 3 tablet(s) by mouth once a day Disp #*18 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right facial nerve palsy
+Sinusitis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___ 
+
+___ were admitted to ___ for right sided facial weakness due 
+to a condition called Bell's palsy, which is a condition in 
+which the muscles on one side of your face become weak or 
+paralyzed. It is usually caused by some kind of compression to 
+the seventh cranial nerve, such as inflammation. This is also 
+called the _x0093_facial nerve._x0094_ Bell_x0092_s palsy can happen to anyone. It 
+usually resolves within weeks to months, if it is mild such as 
+in your case. Your MRI brain did not show any cranial nerve 
+abnormality but did show evidence of sinusitis. We are treating 
+your sinusitis with augmentin. For your bell's palsy we will 
+start ___ on steroids which ___ should take for 7 days. 
+
+Please follow up with Neurology and your dentist and primary 
+care physician as listed below.  
+
+If ___ experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision or double vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+___  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body 
+ - Worsening of your infectious symptoms such as fevers 
+ 
+
+Sincerely,  
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

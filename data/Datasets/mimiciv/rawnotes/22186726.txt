@@ -1,0 +1,258 @@
+Notes
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amoxicillin / prednisone / Keflex / wool
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+___ Pericardiocentesis
+attach
+ 
+Pertinent Results:
+PERTINENT STUDIES:
+___ Transthoracic Echo Report 
+LVEF >55% (visual). Focused study. Large, loculated anterior 
+pericardial effusion with failure of full expansion of the right 
+ventricular free wall during diastole c/w elevated pericardial 
+pressures and tamponade. Mild symmetric left ventricular 
+hypertrophy with normal cavity size and systolic
+function. Due to suboptimal image quality, a focal wall motion 
+abnormality cannot be fully excluded.
+Compared with the prior TTE ___, the findings are 
+similar.
+
+___ Transthoracic Echo Report-amended 
+LVEF 79% (quant biplane). Suboptimal image quality. Large 
+anterior loculated pericardial effusion with echo evidence for 
+hemodynamic compromise/tamponade physiology. No prior study 
+available for comparison.
+
+ADMISSION LABS:
+___ 12:38AM BLOOD WBC-5.1 RBC-4.13 Hgb-12.4 Hct-37.9 MCV-92 
+MCH-30.0 MCHC-32.7 RDW-13.2 RDWSD-44.1 Plt ___
+___ 12:38AM BLOOD Neuts-56.6 ___ Monos-6.2 Eos-1.9 
+Baso-0.6 Im ___ AbsNeut-2.90 AbsLymp-1.77 AbsMono-0.32 
+AbsEos-0.10 AbsBaso-0.03
+___ 12:38AM BLOOD ___ PTT-27.7 ___
+___ 12:38AM BLOOD Glucose-111* UreaN-13 Creat-0.7 Na-143 
+K-3.6 Cl-107 HCO3-22 AnGap-14
+___ 12:42AM BLOOD Lactate-1.1
+___ 12:38AM BLOOD cTropnT-<0.01
+
+DISCHARGE LABS:
+___ 05:17AM BLOOD WBC-5.3 RBC-4.25 Hgb-12.9 Hct-38.4 MCV-90 
+MCH-30.4 MCHC-33.6 RDW-13.2 RDWSD-43.5 Plt ___
+___ 05:17AM BLOOD Glucose-181* UreaN-14 Creat-0.7 Na-141 
+K-3.8 Cl-102 HCO3-25 AnGap-14
+___ 05:17AM BLOOD Calcium-9.6 Phos-3.6 Mg-1.6
+
+THYROID:
+___ 06:08AM BLOOD TSH-6.0*
+___ 06:08AM BLOOD Free T4-1.2
+
+ 
+Brief Hospital Course:
+PATIENT SUMMARY:
+___ year old female with history of CAD s/p CABG (___), IDDM, 
+hypertension, HLD, obesity, sphenoid encephalocele s/p multiple 
+repairs with neurosurgery, who presents with chest pain, found 
+to have large pericardial effusion, with echogenic but no 
+clinical evidence of tamponade. 
+
+TRANSITIONAL ISSUES:
+#ERROR!
+[]Recommend interval TTE (approx in 2 weeks) to monitor 
+pericardial effusion, attempted drainage unsuccessful at ___ 
+but serial monitoring with TTE with stable effusion, Pulsus 8 on 
+discharge - if enlarges or becomes symptomatic, discussion with 
+Dr. ___ surgical options
+[]Ensure that patient is up-to-date with age-appropriate 
+malignancy screening and preventative vaccinations
+[]Recommend repeat CT chest in 6 months to follow-up 4 to 5mm 
+noncalcified RUL nodule incidentally found during 
+hospitalization 
+[]Home metoprolol 25mg BID held on discharge, outpatient 
+cardiologist to re-initiate as indicated
+[]Per cardiac surgery, can follow-up with plastic surgery as 
+scheduled, does not need follow-up with cardiac surgery at this 
+time
+
+#ERROR!
+ACTIVE ISSUES: 
+#ERROR!
+#Pericardial effusion:
+Patient with pericardial effusion after CABG in ___. Per 
+surgery, mediastinal fluid collections appear essentially 
+unchanged when compared to previous chest CT from ___. 
+Hemodynamically stable without clinical tamponade; however, TTE 
+with significant impingement of RV in diastole with echo 
+findings
+of tamponade. Was started on empiric IV antibiotics 
+(vanc/cefepime) but discontinued given no signs of infection and 
+stability compared to prior CT.  Blood cultures remained 
+negative during stay. Pericardiocentesis attempted with ability 
+to access the "effusion" but unable to aspirate fluid - in 
+discussion with cardiac surgery, likely has become gelatinous 
+overtime and would require surgical exploration. Given 
+asymptomatic without pulsus or tachycardia on exam, felt not 
+worth risks of surgery given her complicated wound healing from 
+prior sternotomy. Do not expect collection to rapidly expand 
+with stability while inpatient though recommend repeat TTE in 
+approximately 2 weeks. Discussed with patient symptoms that 
+would warrant call to cardiologist or presentation to ED. Spoke 
+with cardiac surgery who felt comfortable with discharge as. 
+Plastic surgery evaluated wound before discharge and recommended 
+follow-up wit Dr. ___ in clinic on ___ as scheduled. 
+Patient reports she is scheduled for sinus surgery in the coming 
+weeks. Her ENT and Neurosurgeon were emailed re this 
+hospitalization and consideration of pre-op anesthesia eval to 
+discuss best course ___, do not believe there is a 
+contraindication to general anesthesia, but appopriate 
+precautions required with induction including adequate preload 
+and avoidance of hypotension.
+
+#ERROR!
+CHRONIC ISSUES: 
+#ERROR!
+#HTN
+Held home Lasix 40mg daily, losartan 25mg daily to prevent 
+preload reduction
+
+#CAD s/p CABG
+Continued home ASA, statin, metoprolol
+
+#DM
+Held home metformin while inpatient, and continued home insulin 
+with ISS. Was discharged on metformin. 
+
+#HLD
+Continued home statin, fenofibrate
+
+#GERD
+Continued home ranitidine
+
+#ERROR!
+# LANGUAGE: ___ 
+# CODE STATUS: FULL
+# CONTACT: Health Care Proxy: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild/Fever 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. MetFORMIN XR (Glucophage XR) 500 mg PO BID 
+5. Metoprolol Tartrate 25 mg PO BID 
+6. Potassium Chloride 20 mEq PO DAILY 
+7. Ranitidine 150 mg PO DAILY 
+8. Fenofibrate 145 mg PO QHS 
+9. Multivitamins 1 TAB PO DAILY 
+10. Vitamin D 5000 UNIT PO DAILY 
+11. Amitriptyline 50 mg PO QHS 
+12. Humalog 30 Units Breakfast
+Humalog 30 Units Lunch
+Humalog 30 Units Dinner
+Tujeo 60 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+13. Fish Oil (Omega 3) 1000 mg PO DAILY 
+14. OxyCODONE (Immediate Release) 5 mg PO DAILY:PRN Pain - 
+Moderate 
+
+ 
+Discharge Medications:
+1.  Humalog 30 Units Breakfast
+Humalog 30 Units Lunch
+Humalog 30 Units Dinner
+Tujeo 60 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+2.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild/Fever  
+3.  Amitriptyline 50 mg PO QHS  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 80 mg PO QPM  
+6.  Fenofibrate 145 mg PO QHS  
+7.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+8.  MetFORMIN XR (Glucophage XR) 500 mg PO BID  
+9.  Multivitamins 1 TAB PO DAILY  
+10.  Potassium Chloride 20 mEq PO DAILY  
+11.  Ranitidine 150 mg PO DAILY  
+12.  Vitamin D 5000 UNIT PO DAILY  
+13. HELD- Metoprolol Tartrate 25 mg PO BID  This medication was 
+held. Do not restart Metoprolol Tartrate until you discuss with 
+your cardiologist
+14. HELD- OxyCODONE (Immediate Release) 5 mg PO DAILY:PRN Pain - 
+Moderate  This medication was held. Do not restart OxyCODONE 
+(Immediate Release) until you discuss with your PCP
+
+ 
+___:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+PRIMARY DIAGNOSIS: 
+Pericardial effusion
+
+SECONDARY DIAGNOSIS: 
+CAD s/p CABG (___)
+IDDM
+Hypertension
+HLD
+Obesity
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+#ERROR!
+- You were admitted because you had chest pain and were found to 
+have fluid around your heart. 
+
+WHAT HAPPENED IN THE HOSPITAL?  
+#ERROR!
+- Imaging revealed fluid around her heart.  We will believe this 
+is related to your CABG in ___. 
+- We started empiric IV antibiotics, given concern for 
+infection. However, given stability and lack of fevers, we 
+discontinued these. 
+- We attempted to sample the fluid around your heart.  However, 
+we were unable to access this area. Given your stability under 
+our observation, and with discussion with your cardiac surgeron, 
+we felt comfortable discharging you with close outpatient follow 
+up.
+- The plastic surgery team also evaluated your wound while you 
+were an inpatient. 
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+#ERROR!
+-Be sure to continue take all your medications and attend her 
+appointments as listed below.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Your ___ Team 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,354 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Nausea
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization (___)
+
+ 
+History of Present Illness:
+___ woman with history notable for dyslipidemia, GERD,
+and hypothyroidism presenting as transfer from ___ for STEMI.
+
+She reports ___ days of vague feeling of unwellness though never
+having any chest pain. Was planning to attend a concert earlier
+tonight but then stayed home because she was feeling worse,
+though is not able to specifically characterize her symptoms. 
+She
+developed mild nausea but did not vomit, and at no point did she
+develop any chest pain.
+
+After discussing her symptoms with her neighbor she decided to
+report to the ___ for further management. Initial EKGs
+showed subtle ST changes, though subsequent ones with more
+concerning findings of STEMI. She was transferred to ___ for
+emergent catheterization. 
+
+Her cath was notable for single vessel disease with 100%
+occlusion of the RCA. A single DES was placed with procedure
+notable for transient bradycardia and hypotension while crossing
+the lesion. She received a single dose of atropine for this and
+issue did not recur thereafter.
+
+Upon arrival to the floor, ___ reports overall feeling
+improved. Remains chest pain free. Still with slight nausea but
+her feeling of unwellness has subsided. She otherwise denies any
+recent fever, chills, dyspnea, abdominal pain, vomiting, or
+diarrhea. 
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- age
+- dyslipidemia
+
+2. CARDIAC HISTORY  
+- none
+
+3. OTHER PAST MEDICAL HISTORY 
+- hypothyroidism
+- GERD
+ 
+Social History:
+___
+Family History:
+Mother with history of CHF. Father with history of CVA.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+======================
+VITALS: Temp: 97.7 PO BP: 121/70 L Lying HR: 90 RR: 16 O2 sat:
+99% O2 delivery: RA 
+GENERAL: Well appearing woman in no acute distress. Comfortable. 
+
+NEURO: AAOx3. CNII-XII grossly intact. Moving all four
+extremities with purpose. 
+HEENT: NCAT. EOMI. MMM.
+CARDIAC: Regular rate & rhythm. Normal S1/S2. No murmurs, rubs,
+or gallops. No carotid bruits.
+PULMONARY: Clear to auscultation bilaterally. Breathing
+comfortably on room air.
+ABDOMEN: Soft, non-tender, non-distended.
+EXTREMITIES: Warm, well perfused, non-edematous. 
+SKIN: No significant rashes.
+
+DISCHARGE PHYSICAL EXAM
+======================
+GENERAL: WDWN adult woman sitting in bed reading 
+HEENT: NCAT, sclerae anicteric, MMM
+NECK: Supple, JVP not elevated
+CARDIAC: RRR,normal S1/S2, no m/r/g
+PULMONARY: CTAB, no increased work of breathing
+ABDOMEN: Soft, non-tender, non-distended, normoactive BS
+EXTREMITIES: Warm, DP pulses 2+ bilaterally, no edema 
+NEURO: A&Ox3, CN grossly intact, spontaneously moving all
+extremities
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+
+___ 02:15AM BLOOD WBC-15.6* RBC-5.20 Hgb-14.7 Hct-45.3* 
+MCV-87 MCH-28.3 MCHC-32.5 RDW-12.3 RDWSD-39.3 Plt ___
+___ 02:15AM BLOOD Neuts-83.0* Lymphs-9.5* Monos-6.1 
+Eos-0.3* Baso-0.4 Im ___ AbsNeut-12.94* AbsLymp-1.49 
+AbsMono-0.95* AbsEos-0.05 AbsBaso-0.07
+___ 02:15AM BLOOD ___ PTT-142.4* ___
+___ 02:15AM BLOOD Plt ___
+___ 02:15AM BLOOD Glucose-135* UreaN-17 Creat-0.9 Na-142 
+K-4.8 Cl-105 HCO3-22 AnGap-15
+___ 02:15AM BLOOD cTropnT-0.20*
+___ 07:18AM BLOOD Calcium-9.0 Phos-3.6 Mg-2.0 Cholest-171
+___ 07:18AM BLOOD Triglyc-54 HDL-69 CHOL/HD-2.5 LDLcalc-91
+___ 07:18AM BLOOD TSH-1.4
+
+PERTINENT LABS
+==============
+___ 02:15AM BLOOD cTropnT-0.20*
+___ 07:18AM BLOOD CK-MB-237* cTropnT-6.48*
+___ 02:50PM BLOOD CK-MB-186* cTropnT-8.56*
+___ 06:22AM BLOOD %HbA1c-5.4 eAG-108
+___ 07:18AM BLOOD Triglyc-54 HDL-69 CHOL/HD-2.5 LDLcalc-91
+___ 07:18AM BLOOD TSH-1.4
+
+DISCHARGE LABS
+===============
+___ 06:20AM BLOOD WBC-9.1 RBC-3.69* Hgb-10.4* Hct-32.7* 
+MCV-89 MCH-28.2 MCHC-31.8* RDW-12.7 RDWSD-40.7 Plt ___
+___ 06:20AM BLOOD Plt ___
+___ 06:20AM BLOOD Glucose-93 UreaN-15 Creat-0.8 Na-145 
+K-4.3 Cl-111* HCO3-24 AnGap-10
+___ 06:20AM BLOOD Calcium-9.2 Phos-3.9 Mg-2.0
+
+IMAGING/PROCEDURES
+==================
+CHEST X RAY (___)
+IMPRESSION: 
+ 
+No prior chest radiographs available.
+ 
+Lungs fully expanded and clear.  Heart mildly enlarged.  Normal 
+pulmonary
+mediastinal vasculature.  No edema.  No appreciable pleural 
+effusion.
+
+CARDIAC CATHETERIZATION (___)
+Coronary Description
+The coronary circulation is right dominant.
+LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel. This vessel bifurcates into the Left Anterior 
+Descending and Left Circumflex systems.
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel and is free of significant 
+stenosis.
+Cx: The Circumflex artery, which arises from the LM, is a large 
+caliber vessel and is free of significant stenosis.
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a large caliber vessel. There is a 100% stenosis in the mid 
+segment.
+Interventional Details
+Percutaneous Coronary Intervention: Percutaneous coronary 
+intervention (PCI) was performed on an ad hoc basis based on the 
+coronary angiographic findings from the diagnostic portion of 
+this procedure. A 6 ___ JR4 guide provided adequate support. 
+Crossed with a Prowater wire into the distal PDA. Predilated 
+with a 2.5 mm balloon and then 3.0 balloon after failed stent 
+delivery. 6 ___ Guidezilla required for delivery of 2.75 x 28 
+mm Promus that was deployed at 14 ATM. Postdilated with a 3.0 x 
+12
+mm NC balloon at ___ ATM. Final angiography revealed normal 
+flow, no dissection and 0% residual stenosis.
+Complications: There were no clinically significant 
+complications.
+Findings
+_x0095_ Single vessel coronary artery disease.
+_x0095_ Successful PCI with drug-eluting stent of the RCA coronary 
+artery.
+
+___ (___)
+CONCLUSION:
+The left atrial volume index is moderately increased. The right 
+atrium is mildly enlarged. The estimated right atrial pressure 
+is >15mmHg. There is normal left ventricular wall thickness with 
+a normal cavity size. Overall left ventricular systolic function 
+is moderately-to-severely depressed secondary to hypokinesis of 
+the inferior
+septum, and akinesis of the inferior free wall and posterior 
+wall. The visually estimated left ventricular ejection fraction 
+is 30%. There is no resting left ventricular outflow tract 
+gradient. Normal right ventricular cavity size with normal free 
+wall motion. The aortic sinus diameter is normal for gender with 
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal. The aortic valve leaflets (3) are mildly
+thickened. There is no aortic valve stenosis. There is no aortic 
+regurgitation. The mitral valve leaflets appear structurally 
+normal with no mitral valve prolapse. There is an eccentric, 
+inferolateral directed jet of moderate to severe [3+] mitral 
+regurgitation. The tricuspid valve leaflets appear structurally 
+normal. There is physiologic tricuspid regurgitation. The 
+estimated pulmonary artery systolic pressure is normal. There is 
+no
+pericardial effusion.
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN
+
+___ woman with history notable for dyslipidemia, GERD,
+and hypothyroidism admitted for STEMI s/p DES to RCA, now
+resolved.
+
+# CORONARIES: 100% occlusion RCA s/p DES
+# PUMP: unknown on admission
+# RHYTHM: sinus
+
+# STEMI
+___ presented with two days "feeling unwell", one evening 
+nausea, EKG with ST-elevations in inferior leads, initial 
+troponin 0.2. Treated with ASA, ticagrelor, heparin gtt, 
+atorvastatin 80.
+Killip Class I on admission. Cath revealed complete occlusion of 
+the RCA, s/p DES x1 with resolution of symptoms. NSVT x2 
+overnight after cath, asymptomatic, remained hemodynamically 
+stable. Troponin 0.20->6.48->8.56, CK-MB 237->186. 
+Post-procedure ___ felt well without CP or anginal 
+equivalent symptoms for duration of admission. Started on 
+metoprolol tartrate, transitioned to succinate prior to 
+discharge. Monitored for ___ post-STEMI. ___ notable for EF 30% 
+with akinetic inferior and infero-lateral wall, ___ MR. ___ 
+remained without evidence of clinical heart failure or 
+symptomatic MR. ___ inhibitor given reduced EF. TSH and 
+A1C WNL, lipids with LDL 91. On ___ had PVCs with short run of 
+bigeminy prior to AM dose of metoprolol, subsequently resolved, 
+no other events on telemetry.
+Treatments on Discharge:
+- Aspirin 81 mg PO/NG DAILY
+- Ticagrelor 90 mg PO/NG BID
+- Atorvastatin 80 mg PO/NG QPM
+- Metoprolol succinate 12.5MG daily
+- Lisinopril 2.5MG daily
+Transitional:
+- Refer to cardiac rehab
+- Repeat ___ in 40 days, consider evaluation for ICD if EF
+remaining <35%
+- Uptitrate ___, Beta Blocker as tolerated, consider adding
+spironolactone given EF
+- Re-evaluate MR on repeat ___
+
+# Anemia
+Hgb drop from 14.7 on admission to 10.9 post-procedurally, 
+likely intra-procedural blood loss. No evidence of RP bleed. 
+Repeat hemoglobin stable at 11.3. No overt bleeding prior to 
+discharge.
+
+CHRONIC / STABLE ISSUES
+=================================
+# HYPOTHYROIDISM
+Continued levothyroxine Sodium 75 mcg PO/NG DAILY.
+
+# GERD
+Continued omeprazole 40 mg PO DAILY.
+
+TRANSITIONAL ISSUES
+- Refer to cardiac rehab
+- Repeat ___ in 40 days, consider evaluation for ICD if EF
+remaining <35%
+- Uptitrate ___, Beta Blocker as tolerating, consider adding
+spironolactone given EF
+- Re-evaluate MR on repeat ___ Medications:
+Aspirin 81MG daily
+Ticagrelor 90MG twice daily
+Atorvastatin 80 mg PO/NG QPM
+Metoprolol succinate 12.5MG daily
+Lisinopril 2.5MG daily
+Changed Medications: None
+Stopped/Held Medications: None
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 75 mcg PO DAILY 
+2. Omeprazole 40 mg PO DAILY 
+3. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+4. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*1 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth At bedtime Disp #*30 
+Tablet Refills:*1 
+3.  Lisinopril 2.5 mg PO DAILY 
+RX *lisinopril 2.5 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*1 
+4.  Metoprolol Succinate XL 12.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 0.5 (One half) tablet(s) by mouth 
+Daily Disp #*30 Tablet Refills:*1 
+5.  TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth Twice daily 
+Disp #*30 Tablet Refills:*1 
+6.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+7.  Levothyroxine Sodium 75 mcg PO DAILY  
+8.  Omeprazole 40 mg PO DAILY  
+9.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ST-Elevation Myocardial Infarction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+It was a pleasure taking care of you at ___ 
+___. 
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted to the hospital because of a heart attack 
+(ST-elevation myocardial infarction).
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- You underwent a procedure (cardiac catheterization) that 
+revealed a blocked blood vessel. The blood vessel was opened and 
+a stent was placed.
+- You had an ultrasound of your heart, which revealed weakening 
+of the heart muscle (heart failure with reduced ejection 
+fraction) after your recent heart attack.
+- You were started on medications for your heart attack and to 
+help your heart heal appropriately.
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- If you develop chest pain, shortness of breath, nausea, 
+palpitations, or feel similar to how you felt prior to your 
+heart attack, you should go to the emergency department or call 
+___.
+- You should weigh yourself everyday. If you gain more than 3 
+lbs you should call your regular doctor.
+- You should continue to take your medications as prescribed. 
+- You should attend the appointments listed below. 
+
+We wish you the best!
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

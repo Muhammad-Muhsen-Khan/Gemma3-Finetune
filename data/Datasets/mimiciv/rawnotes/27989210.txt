@@ -1,0 +1,696 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with non-ischemic cardiomyopathy (EF 40-45%), refractory 
+multiple myeloma (on daratumab/velcade/pomalyst, last ___, 
+CKD3, hospitalized ___ for sepsis due to GNR UTI c/b 
+demand NSTEMI and acute decompensated HF, hospitalized 
+___ for chest pain and HF (cath clean), who presents 
+as intubated transfer from ___.  
+
+Per report from EMS and per family, she was feeling well this 
+morning, and then started to complain of some shortness of 
+breath and difficulty breathing. When EMS found her, she became 
+less responsive. An LMA was placed in the field and she was 
+brought to ___, where she was intubated with 6.5cm ETT. CXR 
+was suggestive of PNA vs. CHF exacerbation. EKG found old LBBB 
+but no acute findings, and troponins were negative x2. CT head 
+was limited by motion but found no acute process. She was given 
+80 of Lasix and at the time of transfer had put out 1400 in 
+urine. She was also given vancomycin, cefepime, and 
+levofloxacin. Stat echo was performed which found preserved EF 
+and moderate MR. ___ was consulted, and patient was also 
+discussed with patient's primary cardiologist, and both 
+recommended transfer for tertiary care. 
+
+Of note, patient became transiently hypotensive to ___ when 
+sedated with propofol, and was switched to fentanyl/midazolam.
+ 
+In the ED, initial vitals:  64 102/41 17 95% intubated 
+- Labs were notable for:  H/H 8.8/27.2 (baseline 9.2), Cr 2.5 
+(baseline 1.61), VBG 7.34/36, lactate 1.2, lipase 36. Serum tox 
+positive for benzos
+- Notably at ___, trop was neg x 2, BNP was 13K 
+- Flu PCR negative
+- Imaging:  
+-----CXR showed hazy opacification of bilateral mid and lower 
+lungs may represent layering pleural effusions or airspace 
+consolidation 
+--___ US showed no DVT, right femoral pseudoaneurysm partially 
+thrombosed
+- Patient was given:  fentanyl and midazolam infusions
+  
+On arrival to the FICU, patient is intubated and sedated on 
+fentanyl/midazolam.
+
+ 
+Past Medical History:
+Multiple myeloma -- Stage IIIB IgG Lambda. Disease progression 
+despite advanced therapies. Started ___ on C3D1 
+daratumumab/velcade with pomalyst.
+Complications:
+- Chronic kidney disease, stage III (moderate) 
+- Left hydronephrosis
+- Lymphadenopathy with secondary ___ edema
+- Anemia
+- Neuropathy
+
+Cardiac history:
+- Non-ischemic cardiomyopathy (chemo vs. idiopathic) -- EF 
+40-45%, inferior/septal hypokinesis, cath clean
+- NSTEMI ___, cath clean
+- LBBB (left bundle branch block) 
+- Sinus bradycardia 
+- Hyperlipidemia 
+- Essential hypertension, benign 
+
+Hypothyroidism 
+Sensorineural hearing loss 
+Osteoporosis 
+Insomnia due to medical condition 
+Dysuria 
+Urinary tract infection 
+Chest pain 
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+==========================
+VITALS: Tmax 98.6 HR 63 BP 117/46 (MAP 59) RR 15 SpO2 98 
+I/O: reviewed in Metavision
+VENT: reviewed at bedside
+GENERAL: intubated, sedated, unresponsive
+HEENT: AT/NC  
+NECK: JVP not elevated
+CARDIAC: RRR, normal S1/S2, ___ holosystolic murmur best heard 
+at the apex
+LUNG: mechanical breath sounds bilaterally, no wheezes or 
+crackles
+ABDOMEN: soft, non-distended, +BS, no HSM.
+EXTREMITIES: Warm. 1+ edema at ankles.  
+PULSES: 2+ femoral pulses bilaterally. No femoral hematoma or 
+bruit. 2+ DP pulse on left, non-palpable on right.
+NEURO: sedated, no response to voice or painful stimulus. 
+Intermittent spontaneous movements of feet.
+
+DISCHARGE PHYSICAL EXAM:
+============================
+ VS: T 98.7, BP 95-148/50-80, HR 63 (52-77), RR 18, 99% on RA
+I/Os: ___ 
+Weight: 61.4<-61.5<-60.6<-59.2<-59.2<-61.8 kg
+Last known dry weight: 62.5 kg
+GENERAL: NAD, well-appearing woman, appropriately interactive 
+and pleasant. AOx3.
+HEENT: NC/AT. MM slightly dry. OP clear.
+NECK: Supple. JVP 1cm slightly above clavicle while sitting 
+upright in chair, slight augmention w/abdominal pressure.
+CARDIAC: RRR. S1, S2. II/VI holosystolic murmur at apex, no rubs 
+or gallops.
+LUNGS: Respiration is unlabored with no accessory muscle use. 
+Trace crackles at b/l base (resolved as of ___.
+ABDOMEN: NABS. Soft, non-tender, non-distended. No CVA 
+tenderness. 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis. 1+ 
+edema in left lower leg up to knee (vs trace to ankle on ___, 
+trace on right.
+SKIN: No significant skin lesions or rashes. Port dressing in 
+place, C/D/I.
+PULSES: Distal pulses palpable and symmetric.
+ 
+Pertinent Results:
+ADMISSION LABS:
+====================
+___ 02:28PM BLOOD WBC-7.6 RBC-2.56* Hgb-8.8* Hct-27.2* 
+MCV-106* MCH-34.4* MCHC-32.4 RDW-15.9* RDWSD-61.6* Plt ___
+___ 02:28PM BLOOD ___ PTT-25.4 ___
+___ 02:28PM BLOOD UreaN-33* Creat-2.5*
+___ 09:29PM BLOOD Glucose-94 UreaN-36* Creat-2.7* Na-139 
+K-4.8 Cl-109* HCO3-19* AnGap-16
+___ 09:29PM BLOOD ALT-7 AST-22 AlkPhos-43 TotBili-<0.2
+___ 02:28PM BLOOD Lipase-36
+___ 09:29PM BLOOD Albumin-2.5* Calcium-8.2* Phos-4.0 Mg-1.6
+___ 02:28PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-POS* Barbitr-NEG Tricycl-NEG
+___ 02:42PM BLOOD pO2-57* pCO2-36 pH-7.34* calTCO2-20* Base 
+XS--5
+___ 02:42PM BLOOD Glucose-91 Lactate-1.2 Na-138 K-4.4 
+Cl-113* calHCO3-19*
+___ 02:42PM BLOOD Hgb-8.9* calcHCT-27 O2 Sat-89 COHgb-0 
+MetHgb-0
+___ 02:42PM BLOOD freeCa-1.12
+___ 11:33PM URINE Color-Yellow Appear-Hazy Sp ___
+___ 11:33PM URINE Blood-LG Nitrite-NEG Protein-100 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG
+___ 11:33PM URINE RBC->182* WBC-93* Bacteri-FEW Yeast-NONE 
+Epi-0
+___ 11:33PM URINE CastGr-9* CastHy-9*
+___ 11:33PM URINE Hours-RANDOM UreaN-320 Creat-51 Na-88
+
+MICROBIOLOGY:
+Urine cx (___): negative
+Blood cx (___): negative
+
+Sputum studies (___)
+GRAM STAIN (___): 
+      <10 PMNs and <10 epithelial cells/100X field. 
+      NO MICROORGANISMS SEEN. 
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED. 
+RESPIRATORY CULTURE (___): SPARSE GROWTH Commensal 
+Respiratory Flora. 
+FUNGAL CULTURE (___): NO FUNGUS ISOLATED. 
+
+Urine cx (___): negative
+
+Legionella Urinary Antigen (___): NEGATIVE FOR LEGIONELLA 
+SEROGROUP 1 ANTIGEN.
+S. pneumonaie Urinary Antigens (___): Not Detected 
+
+IMAGING: 
+
+Chest portable (___):
+1. Hazy opacification of bilateral mid and lower lungs may 
+represent layering pleural effusions, underlying consolidation 
+not excluded.  Right pectoral Port-A-Cath tip terminates in the 
+upper SVC, otherwise standard position of all support devices.  
+Appropriate position of all support devices. 
+
+LENIS ___:
+IMPRESSION: 
+1. No evidence of deep venous thrombosis in the bilateral lower 
+extremity 
+veins. 
+2. Nonvisualization of the left peroneal veins. 
+3. 3.1 cm hypoechoic lesion in the left groin likely represents 
+a partially thrombosed pseudoaneurysm. 
+  
+Renal U/S (___):
+FINDINGS:  
+The right kidney measures 9.8 cm. The left kidney measures 10.2 
+cm. There is mild bilateral hydronephrosis, without stones or 
+masses.  Normal cortical echogenicity and corticomedullary 
+differentiation are seen bilaterally. 
+The bladder is collapsed around a Foley catheter, and is 
+therefore not fully assessed on the current study. 
+IMPRESSION:  
+Mild bilateral hydronephrosis, without evidence of 
+nephrolithiasis.  No prior studies available for comparison. 
+
+ART DUP EXT LO UNI;F/U LEFT (___):
+FINDINGS:  
+Grayscale, color, and Doppler images of the left groin in the 
+region of 
+clinical concern is notable for a heterogeneous, hypoechoic 
+region spanning approximately 2.5 x 1.5 cm, without internal 
+flow.  On series 1a, image 12, there is suggestion of trace flow 
+from the common femoral artery into this suspected 
+largely-thrombosed pseudoaneurysm. 
+IMPRESSION:  
+2.5 x 1.5 cm largely-thrombosed pseudoaneurysm, with equivocal 
+small focus of slow flow adjacent to the common femoral artery 
+
+Chest Portable (___):
+IMPRESSION: 
+1. Significantly improved right mid to lower lung opacification, 
+likely 
+reflecting improved right pleural effusion. 
+2. Decreased retrocardiac opacification and obscuration of left 
+hemidiaphragm, most consistent with improved atelectasis. 
+3. Improved pulmonary vascular congestion.  No overt pulmonary 
+edema. 
+4. Stable moderate cardiomegaly. 
+
+CXR PA&LAT (___):
+FINDINGS:  
+Borderline heart size, improved since prior.  Pulmonary 
+vascularity has 
+improved.  Pulmonary edema has nearly resolved.  Bibasilar 
+opacities have 
+nearly resolved.  No pleural effusion.  Right Port-A-Cath in 
+place.  Loss of height few thoracic vertebral bodies mid, lower 
+thoracic spine. 
+IMPRESSION:  
+Improved cardiopulmonary findings. 
+
+Renal U/S (___):
+FINDINGS:  
+The right kidney measures 10.5 cm. The left kidney measures 10.2 
+cm. There is mild bilateral hydronephrosis, not significantly 
+changed on the right and slightly improved on the left since 
+___.  No stones or masses are seen bilaterally.  Normal 
+cortical echogenicity and corticomedullary 
+differentiation are seen bilaterally. The bladder is moderately 
+well distended and normal in appearance. A ureteral stent is 
+partially visualized in the bladder. 
+IMPRESSION:  
+Mild bilateral hydronephrosis not significantly changed on the 
+right and and slightly improved on the left since ___. 
+
+CARDIAC STUDIES:
+___ ___:  
+LA: Normal size  
+RA: Mechanically ventilated, cannot assess RA pressure.  
+LV: Mild LV inferior hypokinesis. Mild LV global hypokinesis (EF 
+40-45%).  
+RV: Normal chamber size and free wall motion. Paradoxic septal 
+motion c/w conduction abnormality/ventricular pacing.  
+Aorta: Normal  
+MV: 2+ MR  
+TV: 1+ TR. Indeterminate PA systolic pressure.  
+PV/PA: Normal leaflets, no PS, physiologic PR  
+Pericardium: No effusion  
+ 
+General: Suboptimal image quality - poor windows  
+The left atrium is normal in size. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity size is 
+normal. There is mild regional left ventricular systolic 
+dysfunction as shown above. There is mild global left 
+ventricular hypokinesis (LVEF = 40-45 %). Right ventricular 
+chamber size and free wall motion are normal. There is no aortic 
+valve stenosis. Mild to moderate (___) aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. Moderate 
+(2+) mitral regurgitation is seen. The tricuspid valve leaflets 
+are mildly thickened. The pulmonary artery systolic pressure 
+could not be determined. There is no pericardial effusion.
+
+OTHER RELEVANT LABS:
+==========================
+___ 06:20AM BLOOD WBC-4.8 RBC-2.34* Hgb-8.0* Hct-25.0* 
+MCV-107* MCH-34.2* MCHC-32.0 RDW-16.4* RDWSD-64.0* Plt ___
+___ 06:20AM BLOOD Plt ___
+___ 02:28PM BLOOD ___ 06:45AM BLOOD Ret Aut-2.0 Abs Ret-0.05
+___ 06:20AM BLOOD Glucose-89 UreaN-46* Creat-4.4* Na-139 
+K-5.0 Cl-104 HCO3-18* AnGap-22*
+___ 05:23AM BLOOD LD(LDH)-198
+___ 06:45AM BLOOD LD(LDH)-200 TotBili-0.3
+___ 09:29PM BLOOD ALT-7 AST-22 AlkPhos-43 TotBili-<0.2
+___ 05:16AM BLOOD ___
+___ 06:20AM BLOOD Calcium-7.3* Phos-5.2* Mg-1.7
+___ 09:59AM BLOOD UricAcd-10.0*
+___ 06:45AM BLOOD Calcium-8.2* Phos-3.3 Mg-2.6 Iron-43
+___ 06:45AM BLOOD calTIBC-195* Hapto-275* Ferritn-1432* 
+TRF-150*
+___ 06:51AM BLOOD PEP-AWAITING F Fr K/L-PND IgG-2751* 
+IgA-5* IgM-6* IFE-PND
+___ 05:31AM BLOOD Lactate-0.9
+___ 06:36AM BLOOD freeCa-0.98*
+___ 01:54PM URINE Color-Red Appear-Cloudy Sp ___
+___ 01:54PM URINE Blood-LG Nitrite-NEG Protein-300 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG
+___ 01:54PM URINE RBC->182* WBC->182* Bacteri-MOD 
+Yeast-NONE Epi-0
+___ 01:54PM URINE AmorphX-MOD
+___ 05:56AM URINE Hours-RANDOM Creat-30 TotProt-195 
+Prot/Cr-6.5*
+___ 05:56AM URINE U-PEP-PND
+
+DISCHARGE LABS:
+==========================
+___ 06:20AM BLOOD WBC-4.8 RBC-2.34* Hgb-8.0* Hct-25.0* 
+MCV-107* MCH-34.2* MCHC-32.0 RDW-16.4* RDWSD-64.0* Plt ___
+___ 06:20AM BLOOD Glucose-89 UreaN-46* Creat-4.4* Na-139 
+K-5.0 Cl-104 HCO3-18* AnGap-22*
+___ 06:20AM BLOOD Calcium-7.3* Phos-5.2* Mg-1.7
+ 
+Brief Hospital Course:
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+================================================================
+
+ICU COURSE:
+
+# Acute Hypoxemic Respiratory Failure:
+Family reported acute onset of symptoms the morning of admission 
+(___). There were no clear consolidations on CXR but PNA was 
+initially on the differential given immunosuppression from 
+myeloma and active chemo (daratumamab associated with ___ 
+pneumonia risk), elevated WBC, and improvement with 
+broad-spectrum abx. However, the nature of her symptoms were 
+attributed to acute decompensated heart failure/flash pulmonary 
+edema in the setting of MR given elevated BNP, global 
+hypokinesis and 2+ MR on ___ at ___. There was no evidence 
+for ACS (ECG with stable LBBB, trops negative x2, no e/o new 
+arrhythmia). Patient takes bronchodilators at home, but had no 
+evidence of hypercarbia on ABG or increased pressures on vent to 
+suggest contribution from obstructive lung disease or airway 
+resistance. Patient was initially intubated and sedated. She was 
+extubated on ___ AM. She was diuresed with 80 mg IV on ___ 
+and was net negative 2.4L. She was also continued on her home 
+regimen of Acei/Coreg. She was initially started on vancomycin, 
+ceftadizime, and doxycycline that was transitioned to 
+ceftazidime and doxycycline.
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+================================================================
+
+CARDIOLOGY FLOOR COURSE:
+
+# Acute Exacerbation of Chronic Systolic Heart Failure (EF 
+40-45%, nonischemic):
+Patient has known non-ischemic cardiomyopathy with EF 40-45%, 
+though to be secondary to chemotherapy drugs or idiopathic. 
+Likely dry weight 62.5 kg (office weight ___. She was 
+previously on home diuretics (iso particular chemotherapy 
+regimens), but has not been recently. Of note, patient had 
+NSTEMI ___, presenting to ___, but cath showed clean 
+coronaries (?coronary vasospasm). She presented originally to 
+___ with pulmonary edema and possible layering effusions on 
+CXR, with BNP 13244 (unknown baseline), and on recheck at ___ 
+was ___, concerning for acute exacerbation. ___ at ___ 
+with regional and global LV systolic dysfunction and 2+ MR; EF 
+and other findings appear stable from prior reports, but MR is 
+new. Per ___ note, the patient's primary cardiologist and 
+inpatient cardiology teams recommended transfer for further 
+cardiology evaluation. Possible precipitants for exacerbation 
+include PNA, toxicity from new chemo regimen (C3D1 ___, 
+especially 3 days of dexamethasone that was co-administered. 
+There was low suspicion for ACS given negative trops x2 and 
+recent clean cath, though ECG interpretation is limited by old 
+LBBB. Patient diuresed with IV Lasix 80 mg BID (___), 
+and achieved euvolemia. She was subsequently transitioned to 
+torsemide 40 mg PO QD on ___, but developed worsening ___ on 
+CKD as below. Diuresis was held, and following 1L IVF, Cr did 
+not improve significantly. At time of discharge, pt appears 
+slightly hypervolemic, but given her tenuous renal function, 
+held off on additional diuresis or additional fluid repletion. 
+Discharge weight is 61.4 kg. Cr 4.4 on ___. Of note, patient's 
+telemetry was notable for intermittient atrial tachycardia and 
+wandering pacemaker. Her home carvediolol was increased from 
+3.125 mg BID to 12.5 BID, with HRs well-controlled in the ___ 
+with intermittent spikes above 100. In addition, patient's chart 
+review was notable for recent hypotension in the outpatient 
+setting and her home Imdur, amlodipine, and lisinopril were held 
+and not restarted prior to transfer. SBPs well controlled, and 
+ranging from ___.
+
+# ___ on CKD Stage 3
+Patient with known CKD Stage 3, secondary to multiple myeloma 
+progression. Cr 2.7 on admission, up from 1.6-1.7 (reported at 
+___ in ___, although was 2.4 at follow-up office visit in 
+___, and was 2.7 on ___. Differential includes 
+hypovolemia, although BUN/Cr not c/w pre-renal etiology, 
+cardiorenal iso acute CHF exacerbation, and/or worsening of 
+known L hydronephrosis (also attributed to MM), although pt is 
+s/p L ureteral stent placement on ___. Cr bumped 
+4.6<-3.9<-3.1<-2.8 while diuresing as above. UA obtained which 
+was dirty w/WBC and RBC and patient empirically treated with IV 
+ceftriaxone (___) until urine cx resulted negative 
+(concern for bacteruria after recent urological procedure). Ucx 
+NGTD. Electrolytes were wnl, but UOP transiently dropped <1L  
+per day, w/some c/f worsening hydronephrosis/obstruction. 
+Obtained renal U/S ___ which showed that R hydronephrosis is 
+unchanged, and L hydronephrosis is slightly improved from prior. 
+Considered differential of worsening myeloma nephropathy, light 
+chain cast nephropathy, AL amyloidosis, monoclonal 
+immunoglobulin deposition disease, glomerulonephritis. C/w 
+myeloma progression, most recent labs on ___ at ___ were 
+notable for serum IgG (2904) and serum lambda chains (5134) 
+rising, w/abdominal CT ___, showing L>R biopsy-proven 
+malignant retroperitoneal/internal iliac LAD, w/LN biopsy c/w 
+MM. Also some c/f for crystal nephropathy, but urine sediment 
+w/RBC 50 per high-powered field (dysmorphic), rare granular 
+casts, and no crystals. Additional studies here notable for 
+elevated Pr/Cr 6.5 c/w nephrotic range proteinuria, c/f 
+glomerulonephritis. SPEP w/elevated IgG; UPEP and free light 
+chains are pending. Following 1L IVF and holding off on 
+diuresis, Cr improved to 4.2 from 4.6, although patient appears 
+slightly hypervolemic. Nephrology was consulted, and agreed with 
+the decision to hold off on further diuresis or fluid repletion. 
+Nephrotoxic medications were avoided, and other meds were 
+renally dosed. Patient's home acyclovir ppx was held and has not 
+been restarted. Of note, had multiple  discussions with the 
+patient that she may benefit from renal biopsy to evaluate 
+nephrotic syndrome, or potentially a Mag study to evaluate for 
+worsening obstructive disease, but at this time, patient is 
+leaning against these studies. In order to be closer to her 
+family, and her outpatient providers (who are based out of 
+___, decision was made with patient and primary 
+___ team to transfer patient to ___ for 
+additional care. Cr on ___ at time of discharge is 4.4. 
+
+# Acute Hypoxemic Respiratory Failure | Pneumonia:
+Resolved. Family reports acute onset of symptoms the morning of 
+admission. Unclear etiology. PE unlikely given normal RV 
+function on ___ at ___ and neg LENIs, but she is at high 
+risk due to MM/daratumamab (Wells 1 for malignancy). No e/o ACS 
+(ECG with stable LBBB, trops negative x2). Patient takes 
+bronchodilators at home, but has no hypercarbia on ABG or 
+increased pressures on vent to suggest contribution from 
+obstructive lung disease. No clear consolidations on CXR, but 
+PNA considered given leukocytosis at ___, immunosuppression 
+from myeloma, active chemo (daratumamab associated with ___ 
+pneumonia risk), and improvement with broad-spectrum abx, 
+although all blood, urine, sputum, Legionella/S.pneumo negative. 
+Patient was treated empirically with vanc/ceftaz (___), 
+and transitioned to doxycycline (___), for total 5-day 
+empiric treatment course for CAP. As below, patient had clear 
+e/o decompensated HF, likely volume overload from combination of 
+dexamethasone (three day course ___ as part of C3 
+chemo, and ___ on CKD iso known hydronephrosis from myeloma). 
+Since transition to doxycycline (and with diuresis as below), 
+patient was no longer hypoxic, w/significant improvement in 
+pulmonary edema on CXR ___. She continues to be satting in 
+high-90s on RA w/o SOB at time of discharge.
+
+# Multiple Myeloma:  
+Per chart review/oncology notes from ___, ___ has 
+stage IIIB IgG Lambda with disease progression despite several 
+advanced therapies. Most recently, she was started on C3D1 
+(___) daratumumab/velcade with intermittent pomalyst. Her 
+course has been complicated by anemia, CKD, lymphadenopathy c/b 
+left hydronephrosis s/p L ureteral stent ___, recent admission 
+for urosepsis, and cardiomyopathy, most likely related to 
+chemotherapy. Port site c/d/i. Patient was initially continued 
+on acyclovir 400 mg PO BID for prophylaxis, which was held in 
+the setting ___ on CKD as above.  
+
+# Anemia: 
+This is chronic, macrocytic and wth baseline Hgb 9.2. Per chart 
+review, has been attributed to long-standing myeloma and CKD. 
+Hgb during admission ranging from ___. Obtained additional Fe 
+studies during hospitalization, c/w anemia of chronic 
+inflammation and some BM failure. Haptoglobin, Tbili not 
+suggestive of hemolysis. Stool guaiac neg.
+
+# Hypocalcemia: 
+Patient with low free Ca 0.98, likely secondary to longstanding 
+CKD. Treated her with IV calcium gluconate 2g on ___, and 
+continued on Ca carbonate PO 1000 mg daily along with vitamin D 
+1000 IU daily.
+
+# Diarrhea: 
+Pt endorses having hx of intermittent diarrhea for the last 
+several years, which she self-treats with loperamide, and which 
+has never been worked up. Has had loose stools since ___ w/o 
+BRBPR and stools are not dark or foul-smelling. Patient is 
+afebrile and w/o nausea, vomiting, or abdominal pain. No 
+elevated WBC, but patient has marrow comprise ___ multiple 
+myeloma. C. diff negative. Patient's magnesium was repleted IV 
+versus orally, to avoid precipitating additional diarrhea. 
+Diarrhea should be further evaluated in outpatient setting.
+
+# Pseudoaneurysm  
+LENIs were obtained as part of DVT r/o. While there was no e/o 
+___ DVT, imaging was notable for L femoral artery pseudoaneurysm 
+2.5x1.5cm, partially thrombosed, w/small focus of slow flow 
+adjacent to common femoral. Most likely explanation is that this 
+is a complication of recent cardiac cath at ___ (___) w/L 
+groin approach. On exam, patient is warm and well-perfused, 
+___ pulses intact, no e/o unilateral swelling, and therefore 
+no c/f acute limb ischemia. Vascular and ___ teams were 
+consulted, and given that no indication for coiling, given that 
+pseudoaneurysm is already near completely thrombosed, there is 
+no indication for coiling. Vascular recommended repeat 
+ultrasound in 1 month and follow up in Vascular Surgery.
+
+# Encephalopathy
+Patient was noted to be disoriented upon admission at 
+___. This was in the setting of hypoxia and 
+respiratory distress. ___ at ___ was limited by motion, 
+but was negative for acute intracranial process. As sedation was 
+weaned, and patient's oxygenation improved with sats in the high 
+___ on RA, patient's orientation improved to baseline.
+
+# Hypothyroidism: Patient was continued on home levothyroxine 
+100 mcg daily.
+
+# Hyperlipidemia: Patient was continued on home atorvastatin 
+80mg daily.
+
+DISCHARGE WEIGHT: 61.4 kg
+DISCHARGE CREATININE: 4.4
+
+CODE: FULL
+Communication: husband (___) ___, daughter 
+(___) ___, cell
+
+TRANSITIONAL ISSUES:
+- At time of transfer, serum free light chains and UPEP are 
+pending.
+- At time of transfer, patient, although slightly hypervolemic, 
+is not on diuretic regimen in the setting of persistent ___ on 
+CKD. Please evaluate volume status and renal function, and 
+consider re-initiating gentle diuresis.
+- Patient's carvedilol 3.125 mg BID was increased to 12.5mg BID 
+in the setting of intermittent atrial tachycardia/wandering 
+pacemaker. Her HRs are well-controlled (in the ___ on this 
+regimen. 
+- Patient's acyclovir 400 mg BID was held in the setting of her 
+___ on CKD, and was not started at time of transfer. Please 
+restart pending improvement in renal function.
+- Patient's chronic diarrhea should be further evaluated in 
+outpatient setting. 
+- Patient will need repeat ultrasound in 1 month for left common 
+femoral artery pseudoaneurysm and follow up with Vascular 
+Surgery.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acyclovir 400 mg PO BID 
+2. amLODIPine 10 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Atorvastatin 80 mg PO QPM 
+5. Carvedilol 3.125 mg PO BID 
+6. Cyanocobalamin 50 mcg PO DAILY 
+7. Dexamethasone 10 mg PO DAILY 
+8. FoLIC Acid 1 mg PO DAILY 
+9. HYDROcodone-Acetaminophen (5mg-325mg) 1 TAB PO Frequency is 
+Unknown 
+10. Isosorbide Mononitrate (Extended Release) 60 mg PO BID 
+11. Levothyroxine Sodium 100 mcg PO DAILY 
+12. Lisinopril 2.5 mg PO DAILY 
+13. Omeprazole 20 mg PO DAILY 
+14. Pomalyst (pomalidomide) 3 mg oral UNKNOWN' 
+___. TraZODone 50 mg PO QHS:PRN insomnia 
+16. Magnesium Oxide 400-800 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Calcium Carbonate 1000 mg PO DAILY  
+2.  Vitamin D 1000 UNIT PO DAILY  
+3.  Carvedilol 12.5 mg PO BID  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 80 mg PO QPM  
+6.  Cyanocobalamin 50 mcg PO DAILY  
+7.  FoLIC Acid 1 mg PO DAILY  
+8.  Levothyroxine Sodium 100 mcg PO DAILY  
+9.  Omeprazole 20 mg PO BID  
+10.  TraZODone ___ mg PO QHS:PRN insomnia  
+11. HELD- Acyclovir 400 mg PO BID  This medication was held. Do 
+not restart Acyclovir until there is improvement in kidney 
+function. 
+12. HELD- Dexamethasone 10 mg PO DAILY  This medication was 
+held. Do not restart Dexamethasone until you are instructed by 
+your oncologist.
+13. HELD- Pomalyst (pomalidomide) 3 mg oral DAILY Duration: 3 
+Weeks  This medication was held. Do not restart Pomalyst until 
+you are instructed by your oncologist.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+PRIMARY: Acute Hypoxic Respiratory Failure, Acute on Chronic 
+Systolic Heart Failure, Acute Kidney Injury
+SECONDARY: Multiple Myeloma, Chronic Kidney Disease, 
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ after having difficulty breathing at 
+home, for which you needed to be placed temporarily on a 
+breathing machine. We think this was caused by acute heart 
+failure, a condition where the heart does not pump very well, 
+leading to fluid build up in the lungs. We gave you medications 
+to remove extra fluid, which improved your breathing.
+
+However, while you were here, you developed worsening kidney 
+function. We performed tests and consulted our kidney 
+specialists. Ultimately, we think the most likely cause of the 
+kidney dysfunction is your multiple myeloma. Other causes are 
+possible, and our kidney specialists would recommend obtaining a 
+kidney biopsy to diagnose the problem.
+
+After discussing with you and your outpatient doctors, we 
+decided that it would be best to continue your care at ___ 
+___, where many of your regular doctors are, 
+including your oncologist. They will be able to better guide the 
+direction of your care and continue chemotherapy if needed.
+
+It was a pleasure to take care of you. We wish you the best!
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

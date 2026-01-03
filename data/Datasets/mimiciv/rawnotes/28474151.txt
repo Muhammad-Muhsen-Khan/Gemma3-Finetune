@@ -1,0 +1,328 @@
+Notes
+ 
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / tetracycline / naproxen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ female with asthma, COPD, and diastolic CHF 
+presenting for evaluation of near-syncopal episode today. 
+Patient notes that she has had fatigue for approximately 1 week. 
+No changes to her appetite or unintentional weight loss. She 
+notes that her symptoms improved when she missed 3 days of her 
+morning medications (losartan, diltiazem) over the weekend. No 
+sick contact. No cough, CP, SOB, increased sputum or changes to 
+her sputum. On ___, her fatigue became slightly worse and 
+she felt lethargic. On ___ morning, patient developed 
+nausea, had one episode of emesis and had difficulty tolerating 
+PO. She had ___ mid-abdominal pain. Otherwise, no diarrhea, 
+dysuria. She had a near syncopal episode while standing and was 
+caught by her son. No associated palpitations, SOB or CP. She 
+did not hit her head. No confusion. She denies any chest pain or 
+palpitations or shortness of breath. No focal neurologic sx. EMS 
+was called and patient brought to BIN. At ___:  
+ 
+ CT torso - negative  
+ New ___, lactate 5.6  
+ empirically treating with vanc/zosyn  
+ urine now pending  
+ 
+Unable to stay at ___ given ICU requirement. Pressures improved 
+with IVF.  
+ 
+ UA at ___ negative  
+ Trop neg  
+ K 3.1, Cr 1.8  
+ BNP 593  
+ Patient took 2 ASA and drank 1 glass of wine today. Denies OTC 
+meds, supplements  
+ EKG: NSR, HR 68, NA, QTC 558, no STE  
+ Lactate improved with IVF. Patient was suitable for floor 
+admission, ___ and possible sepsis of unknown etiology  
+ In the ED, initial vitals were: 98.0 108/56 74 19 92%RA  
+ Exam notable for: well appearing, benign exam  
+ Labs notable for:  
+ Lactate 2.3  
+ 146|106|34  
+ ----------<115  
+ 3.6|28|1.5  
+ Ca 7.9 Mg 2.2 Phos 3.9  
+ Trop x1 negative  
+ LFTs and CBC WNL  
+ Patient was given:  
+ 1LNS, 1x duoneb, pravastatin 40mg, montelukast 10mg  
+ On the floor, VS were: 97.7; 121 / 62; 76; 20; 96 RA. She 
+reported feeling fine and would like to go home. No residual 
+light-headedness. Otherwise, she noted that she was started on 
+torsemide this year. She has a cardiologist, who ordered her for 
+a TTE in ___. Otherwise, she denied any history of pulmonary 
+edema ___ swelling outside of pregnancy. 
+ 
+Past Medical History:
+COPD (history of ___ exacerbations in the past, followed by pulm 
+at ___  
+HTN  
+Asthma  
+HLD  
+Cataract s/p surgery  
+dCHF (EF 70% in ___
+#ERROR!
+s/p hysterectomy  
+s/p CCY  
+s/p hemorrhoidectomy  
+s/p tonsillectomy 
+ 
+Social History:
+___
+Family History:
+Brother with heart disease. +CVA, +HTN. No cancers 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+#ERROR!
+ Vital Signs: 97.7; 121 / 62; 76; 20; 96 RA  
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+ CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.  
+ 
+
+DISCHARGE PHYSICAL EXAM
+#ERROR!
+Vitals: 98.1 | 137/62 | 80 | 16 | 95%ra 
+  24h I: 2815cc || 24h O: 980cc
+  Ambulatory O2 sats >95-98% with one brief desat to 91%RA (<1 
+minutes)
+  Orthostatic BP: Laying 137/62 || Sitting 150/79 || Standing 
+151/59
+General: Well-appearing, alert, no acute distress
+HEENT: Sclera anicteric, somewhat dry mucous membranes, 
+oropharynx clear  
+Neck: supple, no JVD
+Lungs: Clear to auscultation bilaterally, left-sided crackles to 
+mid-lung, mild inspiratory wheezing
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, no rebound or guarding
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: Not flushed, no diaphoretic, no rashes on face or upper 
+extremity. Right posterior arm with 7cmx3cm ecchymosis, 
+nontender, not raised. 
+Neuro: Moving all limbs against gravity, face symmetric
+
+ 
+Pertinent Results:
+ADMISSON LABS
+#ERROR!
+___ 07:12PM   GLUCOSE-120* UREA N-19 CREAT-0.9 SODIUM-144 
+POTASSIUM-3.8 CHLORIDE-109* TOTAL CO2-24 ANION GAP-15
+___ 10:30AM   GLUCOSE-120* UREA N-24* CREAT-1.1 SODIUM-145 
+POTASSIUM-2.5* CHLORIDE-108 TOTAL CO2-26 ANION GAP-14
+___ 07:12PM   CALCIUM-8.4 PHOSPHATE-2.7 MAGNESIUM-2.1
+___ 10:30AM   CALCIUM-7.8* PHOSPHATE-2.2* MAGNESIUM-2.0
+___ 10:30AM   WBC-8.8 RBC-3.71* HGB-11.0* HCT-34.6 MCV-93 
+MCH-29.6 MCHC-31.8* RDW-14.0 RDWSD-47.2*
+___ 02:52AM   GLUCOSE-115* UREA N-34* CREAT-1.5* 
+SODIUM-146* POTASSIUM-3.6 CHLORIDE-106 TOTAL CO2-28 ANION GAP-16
+___ 02:52AM   ALT(SGPT)-21 AST(SGOT)-19 ALK PHOS-45 TOT 
+BILI-0.2
+___ 02:52AM   ALBUMIN-3.6 CALCIUM-7.9* PHOSPHATE-3.9 
+MAGNESIUM-2.2
+___ 02:52AM   WBC-9.7 RBC-3.84* HGB-11.4# HCT-36.1 MCV-94 
+MCH-29.7 MCHC-31.6*# RDW-14.0 RDWSD-47.7*
+___ 02:52AM   NEUTS-69.0 ___ MONOS-9.3 EOS-1.2 
+BASOS-0.7 IM ___ AbsNeut-6.65* AbsLymp-1.87 AbsMono-0.90* 
+AbsEos-0.12 AbsBaso-0.07
+
+DISCHARGE LABS
+#ERROR!
+___ 06:50AM BLOOD WBC-8.2 RBC-3.88* Hgb-11.5 Hct-36.7 
+MCV-95 MCH-29.6 MCHC-31.3* RDW-14.2 RDWSD-48.6* Plt ___
+___ 06:50AM BLOOD Glucose-90 UreaN-15 Creat-0.8 Na-144 
+K-3.6 Cl-104 HCO3-24 AnGap-___ female with a history of chronic diastolic 
+congestive heart failure, hypertension, asthma, and COPD, who 
+presented after a syncopal episode in the setting of probable 
+viral gastroenteritis, combined with restarting home losartan 
+and diltiazem after 1 week only on torsemide.
+
+ACTIVE HOSPITAL PROBLEMS
+#ERROR!
+# SYCNOPE: Most likely vasovagal in setting of hypovolemia from 
+poor PO intake and possible GI viral illness causing her 
+nausea/vomiting, along with restarting of losartan and diltiazem 
+after 3 days without these medications. [She reported previously 
+feeling unwell on diltiazem, losartan & torsemide, and felt 
+improved with stopping of diltiazem & losartan]. Syncope 
+happened while she was bending over vomiting into toilet, which 
+could certainly increase vagal tone. Infection much less likely. 
+Orthostatics, EKG and telemetry reassuring. Antihypertensives 
+were initially held. Restarted on her home torsemide 20mg daily. 
+Losartan dose was restarted at one-half the previous dose 
+(50mg). Diltiazem was not restarted at discharge. Discharge 
+vital signs were normal; patient was without lightheadedness.
+
+# DIASTOLIC HEART FAILURE: Patient was dyspnic overnight 
+___, likely due to IV fluids and holding all home 
+mediciations. Symptoms improved with 40mg IV Lasix. Discharged 
+on regular home torsemide (20mg daily), half of home losartan 
+(50mg dialy), and without diltiazem. 
+
+# HTN: As above, reduced dose of losartan and held diltiazem. 
+Patient normotensive (120s-150s/50s-60s) throughout admission.   
+
+
+# ___: Improved with fluids. Baseline ___ (per Dr. ___ 
+___. Was 1.5 on admission, improved to 0.8.
+
+CHRONIC, STABLE ISSUES:
+#ERROR!
+# COPD: No e/o exacerbation. Home Advair/albuterol.
+# Asthma: Home monteluekast  
+# HLD: Home pravastatin  
+# Anxiety/Depression: Home Escitalopram
+# Caratacts: Home latanoprost
+ 
+
+# CODE: Full (presumed). Patient wanted to talk with her son 
+about changing this.  
+# CONTACT: ___ (son) ___  
+
+#ERROR!
+TRANSITIONAL ISSUES
+#ERROR!
+# HYPERTENSION: patient felt improved when holding losartan & 
+diltiazem. Losartan restarted, but at half dose (50 mg daily). 
+Diltiazem 300 mg daily not restarted. Would monitor BP, 
+especially given diastolic HF and restart if patient remains 
+hypertensive.
+# DIASTOLIC HEART FAILURE: patient presented likely hypovolemic 
+from acute gastroenteritis & home diuretics. Consider dose 
+adjustment as needed. 
+ # DISCHARGE WEIGHT: 71.8 kg
+ # Echo scheduled for patient ___, as ordered by patient's 
+cardiologist, ___ 
+ # Prolonged QTc: initially 555 msec, repeat down to 444. Would 
+consider repeat EKG. 
+# COPD: patient previously on prednisone daily, but patient self 
+tapered off prior to admission. Reports baseline dyspnea ___. 
+Would consider initiation of other therapy, since Advair at 
+500/50. 
+# ECCHYMOSIS: posterior aspect of RUE, roughly 7 cm x 4 cm. 
+Non-tender, no site of phlebotomy/IV access. Would monitor for 
+hematoma development/worsening. 
+# CODE STATUS: Patient expressed interest in discussing this and 
+potentially changing from full code, but wanted to speak with 
+her son. Recommend following up in outpatient setting.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Losartan Potassium 100 mg PO DAILY 
+2. Pravastatin 40 mg PO QPM 
+3. Montelukast 10 mg PO QHS 
+4. Aspirin 81 mg PO DAILY 
+5. Albuterol Inhaler 1 PUFF IH Q6H:PRN shortness of breath 
+6. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+7. Torsemide 20 mg PO DAILY 
+8. Escitalopram Oxalate 5 mg PO DAILY 
+9. Incruse Ellipta (umeclidinium) 62.5 mcg/actuation inhalation 
+QHS 
+10. Diltiazem Extended-Release 300 mg PO DAILY 
+11. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler 1 PUFF IH Q6H:PRN shortness of breath 
+2. Aspirin 81 mg PO DAILY 
+3. Escitalopram Oxalate 5 mg PO DAILY 
+4. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+5. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+6. Montelukast 10 mg PO QHS 
+7. Pravastatin 40 mg PO QPM 
+8. Torsemide 20 mg PO DAILY 
+9. Incruse Ellipta (umeclidinium) 62.5 mcg/actuation inhalation 
+QHS 
+10. Losartan Potassium 50 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+#ERROR!
+Orthostatic hypotension
+Acute Kidney Injury
+Chronic Diastolic Heart Failure
+Hypertension
+
+SECONDARY DIAGNOSIS
+#ERROR!
+Chronic Obstructive Pulmonary Disease
+Asthma
+Hyperlipidemia
+Anxiety/Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted because you fainted (lost consciousness). We 
+think this was likely due to dehydration in the setting of 
+feeling unwell, taking less food, vomiting, and being on too 
+many pills for your blood pressure. 
+
+You improved with some fluids. Your lab values and vital signs 
+were much better by the next day.
+
+We are sending you home on your normal torsemide dose, half of 
+your losartan dose, and none of your diltiazem, because you told 
+us you felt better and had fewer symptoms the week you did not 
+take losartan and diltiazem. 
+
+Please be sure to follow up with your primary care doctor and 
+cardiologist in the next one to two weeks.
+
+Please return to the nearest hospital if you begin to feel 
+unwell again. 
+
+It was a pleasure taking care of you!
+
+We wish you the best.
+-Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,242 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+da-EPOCH
+ 
+Major Surgical or Invasive Procedure:
+IT MTX
+
+ 
+History of Present Illness:
+Ms. ___ is a pleasant ___ w/ HLH/MAS who is p/f C6
+EPOCH. She initially presented c/ pancytopenia, fatigue,
+persistent fevers, worsening anemia, arthralgias/myalgias who 
+was
+started on anakinra/prednisone/cyclosporine for presumed Adult
+Still's disease with poor response and found to have primary 
+high
+grade breast lymphoma complicated by HLH. She was started on ___ and completed C5 on ___ and tolerated it well. She states
+since discharge, she has not had any F/C, no N/V, no mouth 
+sores,
+no CP/SOB, no abd pain. She did have a rash and some swelling of
+her left large toe and diagnosed w/ a cellulitis and that has
+since resolved on cephalexin. 
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY: 
+DLBCL of the breast, presenting initially as HLH which was at
+first thought to be Adult-onset Still's Disease before occult
+lymphoma in the breast was discovered. 
+History of intrapartum bleeding, s/p "staples" to her fallopian 
+tubes
+
+TREATMENT HISTORY: 
+___ Cycle 1 DA-EPOCH-R (level 1)
+S/p IT MTX and LP. LP on ___ Cycle 2 DA-EPOCH-R (level -1)
+___ IT MTX 
+___ Port placed (double lumen power Port-a-cath)
+ 
+Social History:
+___
+Family History:
+Mother with CAD. No FH immunologic or rheumatologic disorders. 
+No FH of malignancies.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITAL SIGNS: Vital Signs sheet entries for ___: 
+BP: 118/75. Heart Rate: 73. O2 Saturation%: 100. Weight: 133.5
+(With Clothes). Height: 64 (Measured) (Entered in Nursing IPA).
+BMI: 22.9. Temperature: 98.2. Resp. Rate: 18.
+General:  NAD, Resting in bed comfortably
+HEENT:  MMM, no OP lesions, no cervical/supraclavicular
+adenopathy, + alopecia 
+CV:  RR, NL S1S2 no S3S4 No MRG
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, NTND, no palpable masses or HSM
+LIMBS: WWP, no ___, no tremors
+SKIN:  No rashes on the extremities however there is slight
+residual erythema around her left large toe without TTP, no
+streaking, there is also some slight erythema around the right
+ankle, and there are scattered telengiectasias along the distal
+lower extremities, there is no erythema over the left chest port
+however there is slight erythema around the scar from port
+insertion
+NEURO:  Grossly normal
+
+DISCHARGE PHYSICAL EXAM:
+VITAL SIGNS: 
+BP: 120/80 Heart Rate: 52 O2 Saturation%: 99 Weight: 140 (With
+Clothes). Height: 64 (Measured) (Entered in Nursing IPA). 
+Temperature: 97.1 Resp. Rate: 18
+General:  NAD, Resting in bed comfortably
+HEENT:  MMM, no OP lesions, no cervical/supraclavicular
+adenopathy, + alopecia 
+CV:  RR, NL S1S2 no S3S4 No MRG
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, NTND, no palpable masses or HSM
+LIMBS: WWP, no ___, no tremors
+SKIN:  No rashes on the extremities however there is slight
+residual erythema around her left large toe without TTP, no
+streaking, there is also some slight erythema around the right
+ankle, and there are scattered telengiectasias along the distal
+lower extremities, there is no erythema over the left chest port
+however there is slight erythema around the scar from port
+insertion
+NEURO:  Grossly normal
+
+ 
+Pertinent Results:
+___ 12:00AM BLOOD WBC-2.4* RBC-2.69* Hgb-8.3* Hct-25.3* 
+MCV-94 MCH-30.9 MCHC-32.8 RDW-15.7* RDWSD-54.0* Plt ___
+___ 12:00AM BLOOD WBC-1.9*# RBC-2.80* Hgb-8.6* Hct-27.4* 
+MCV-98 MCH-30.7 MCHC-31.4* RDW-16.8* RDWSD-60.1* Plt ___
+___ 12:00AM BLOOD Neuts-91.7* Lymphs-5.8* Monos-0.8* 
+Eos-0.0* Baso-0.0 Im ___ AbsNeut-2.22 AbsLymp-0.14* 
+AbsMono-0.02* AbsEos-0.00* AbsBaso-0.00*
+___ 12:00AM BLOOD Neuts-84.1* Lymphs-12.4* Monos-1.5* 
+Eos-0.0* Baso-0.5 Im ___ AbsNeut-1.63# AbsLymp-0.24* 
+AbsMono-0.03* AbsEos-0.00* AbsBaso-0.01
+___ 12:00AM BLOOD Glucose-145* UreaN-18 Creat-0.4 Na-136 
+K-3.8 Cl-101 HCO3-26 AnGap-13
+___ 12:00AM BLOOD Glucose-187* UreaN-11 Creat-1.0 Na-139 
+K-4.4 Cl-105 HCO3-25 AnGap-13
+___ 12:00AM BLOOD ALT-13 AST-9 LD(LDH)-159 AlkPhos-43 
+TotBili-0.2
+___ 12:00AM BLOOD ALT-19 AST-16 LD(LDH)-186 AlkPhos-63 
+TotBili-<0.2
+___ 12:00AM BLOOD Albumin-3.1* Calcium-8.3* Phos-3.1 Mg-2.2 
+UricAcd-2.2*
+___ 12:00AM BLOOD Albumin-3.5 Calcium-8.7 Phos-3.2 Mg-2.___ ___ w/ newly diagnosed
+DLBCL of the right breast s/p C5 of DA-EPOCH-R now presenting 
+for
+C6 of regimen at dose level 2. Most recent PET scan on ___
+shows no FDG avidity along right breast; however, avidity along
+thighs present and associated with phlebitis
+
+C6D6 ___
+
+#High Grade Breast DLBCL: 
+ Will continue chemo as per protocol. 
+- Prednisone 100 mg PO BID x 5 Days, will need taper at d/c 
+- Rituximab 600 mg IV ___.
+- continue acyclovir and atovaquone for infectious ppx
+- holding fluconazole while receiving chemotherapy
+- neupogen 24hrs to 72hrs post chemo
+- follow up w/ Dr. ___ to be arranged
+- LP on ___ prior to d/c home
+- f/u next ___ or sooner in clinic if issues arise
+
+# DVT: Acute deep venous thrombosis of the right subclavian,
+axillary, basilic, and brachial veins diagnosed on ___ by
+ultrasound in the setting of pain complaints on RUE where PICC
+line was previously placed for C2 chemotherapy. Continues on
+Lovenox 80mg Daily (though at 1.5 mg/kg, dose 90 mg daily, 
+prefer
+to be on the lower end due to TCP). Patient will also hold
+injection during periods of thrombocytopenia.
+
+# Left Toe Cellulitis
+Seems to be healing well, today D10 of cephalexin. She was
+instructed to hold the antibiotic during chemo and she will
+resume it on discharge. 
+
+#FVO: up approx. 5lb from baseline weight asymptomatic monitor
+I/Os diurese prn
+
+# History Orthostasis/Hypotension: BP stable on admission. She
+did not experience any difficulty with prednisone taper,
+completed dose prior to admission. We will continue post each
+cycle of EPOCH. 
+
+#Infectious Prophylaxis:
+- PCP: ___
+- HSV/VZV: Acyclovir
+- Fungal: Fluconazole, holding due to drug/drug interaction w/
+chemotherapy
+
+Access: POC placed ___
+FEN: Regular diet
+Pain control: Oxycodone PRN
+Bowel regimen: Colace and Senna BID; Miralax PRN
+CODE: Full
+DVT: Lovenox 80mg daily 
+CONTACT: ___ (Daughter) ___
+Disposition: home
+Code Status: FULL
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acyclovir 400 mg PO Q8H 
+2. Atovaquone Suspension 1500 mg PO DAILY 
+3. Cephalexin 500 mg PO Q6H 
+4. Enoxaparin Sodium 80 mg SC Q24H 
+5. Zarxio (filgrastim-sndz) 300 mcg/0.5 mL injection DAILY 
+6. Fluconazole 400 mg PO Q24H 
+7. Pantoprazole 40 mg PO Q24H 
+8. PredniSONE 5 mg PO ASDIR 
+9. Calcium 500 + D (D3) (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -125 unit oral DAILY 
+
+ 
+Discharge Medications:
+1.  Acyclovir 400 mg PO Q8H  
+2.  Atovaquone Suspension 1500 mg PO DAILY  
+3.  Calcium 500 + D (D3) (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -125 unit oral DAILY  
+4.  Cephalexin 500 mg PO Q6H  
+5.  Enoxaparin Sodium 80 mg SC Q24H  
+6.  Fluconazole 400 mg PO Q24H  
+7.  LORazepam 0.5-1 mg PO Q4H:PRN nausea anxiety insomnia  
+8.  Pantoprazole 40 mg PO Q24H  
+9.  PredniSONE 5 mg PO ASDIR  
+10.  Zarxio (filgrastim-sndz) 300 mcg/0.5 mL injection DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+lymphoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to receive your sixth cycle of chemotherapy 
+for the treatment of your lymphoma. You tolerated this cycle 
+very well and will be discharged today.
+
+You will follow up with Dr. ___ as indicated below.
+
+Please continue to take all of your medications as ordered. You 
+will start your neupogen and restart your Lovenox on ___ 
+___.
+
+It was a pleasure taking care of you.
+
+Sincerely,
+
+Your ___ TEAM
+ 
+Followup Instructions:
+___

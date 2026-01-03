@@ -1,0 +1,653 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ceftriaxone / vancomycin / meropenem / daptomycin / linezolid
+ 
+Attending: ___
+ 
+Chief Complaint:
+acute vs. subacute hypodensity on L frontal lobe. 
+
+ 
+Major Surgical or Invasive Procedure:
+Right hip washout ___
+PICC placed ___
+
+ 
+History of Present Illness:
+___ with IVDU, multiple antibiotic allergies, strep MV 
+endocarditis x2, hx splenic and renal infarcts, and embolic 
+stroke, now transferred from ___ with acute vs. subacute 
+hypodensity on L frontal lobe. 
+
+Her last IVDU was 2 days ago, when she injected heroin ___ R 
+hand. She presented to ___ with 2 days of LUE arm pain 
+and weakness and bilateral leg weakness, and ___ headache. She 
+also endorsed CP, SOB, nausea, vomiting, decreased appetite. 
+
+Labs at ___ were notable for:
+Na 129, K 3.1, Cl 101, CO2 20, BUN 15, Cr 0.97, Glu 103
+3.6 > 9.0 / 27.6 < 101
+
+OSH CT Head: 
+___ left frontal lobe, there are new areas of hypodensity which 
+extend to the cortex and suggestive of an acute to subacute 
+infarct. These findings are associated with tiny foci of 
+hyperdensity which are suggestive of hemorrhage. There is an old 
+infarct with encephalomalacia ___ the R frontoparietal region. 
+There is no signficiant mass effect or shift of normally midline 
+structures. The ventricles and sulci are whitin normal limits 
+for size. There are no depressed skull fractures. The visualized 
+paransal sinuses have no air fluid levels.
+
+She received PO potassium 40meq, aspirin 81mg, and IV clinda 
+600mg and was transferred to ___.
+
+___ the ED, initial vitals were: 99.4 ___ 14 98% RA 
+She was hypotensive to ___ and received 3L NS.
+
+Labs notable for:
+WBC 2.6, Hgb 8.1, Plt 60 INR 1.4 Lactate 1.6
+Serum and urine tox were unremarkable.
+No large vegetations were seen on bedside echo.
+
+She received 4mg IV morphine.
+
+She was seen by hand surgery who recommended:
+- Admission to MICU, hand films, supportive care with elevation 
+and warm compresses RUE and avoiding IVs ___ RUE. 
+
+Neurology was consulted and found pain limited weakness ___ her 
+LUE>RUE and RLE>LLE ___ an apparent UMN pattern. Differential 
+includes septic emboli vs ischemic stroke vs abscess/infection. 
+Recommended MRI brain and MRI whole spine w/wo contrast to r/o 
+septic emboli to the brain and the spine, CTA head/neck for 
+?mycotic aneurysm, TTE, and avoiding ASA due to bleed risk.
+
+On arrival to the MICU, she complains of chest pain, headache, 
+right entire leg pain, right hand pain, left proximal arm pain.
+ 
+Review of systems:  
+(+) Per HPI. Has had occasional leaking of urine for weeks to 
+months. No accidents of stool. 
+(-) Denies shortness of breath, or wheezing. 
+ 
+
+ 
+Past Medical History:
+IVDU 
+MV endocarditis with Strep viridans
+Septic emboli to brain, spleen, and kidney 
+R arm abscess
+Hepatitis C
+ 
+Social History:
+___
+Family History:
+Mother with T2DM, grandmother and great grandmother with 
+endocarditis, grandfather with CAD  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+===========================
+Vitals: T: 97.8 BP: 89/67 P: 110 R: 18 O2: 96 RA 
+GENERAL: Alert, oriented, no acute distress 
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: ___ SEM over apex, soft S3
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. No knee effusions noted. 
+SKIN:  ___ nodes, ___ lesions, splinter hemorrhages. 
+Edema and tenderness over right ___ finger.
+NEURO:  A/O x3. Markedly decreased R hip flexion due to pain. CN 
+II-XII intact.
+
+DISCHARGE PHYSICAL EXAM: 
+===========================
+Vitals: 98.0PO 128 / 77 70 18 95 Ra       
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM
+Neck: No JVD
+Lungs: CTAB, no respiratory distress 
+CV: RRR, ___ blowing, pansystolic murmur over apex without 
+thrill
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin:  R PICC site c/d/I w/o overlying skin changes, no rashes
+Neuro: AAOx3. CN2-12 intact. Motor ___ RLE and throughout.
+ 
+Pertinent Results:
+LABS ON ADMISSION: 
+====================
+___ 11:11PM   LACTATE-1.6
+___ 07:48PM   GLUCOSE-94 UREA N-20 CREAT-1.1 SODIUM-131* 
+POTASSIUM-3.5 CHLORIDE-99 TOTAL CO2-17* ANION GAP-19
+___ 07:48PM   ALT(SGPT)-18 AST(SGOT)-24 ALK PHOS-63 TOT 
+BILI-0.7
+___ 07:48PM   LIPASE-14
+___ 07:48PM   ALBUMIN-3.0*
+___ 07:48PM   CRP-215.2*
+___ 07:48PM   ASA-NEG ETHANOL-NEG ACETMNPHN-9* bnzodzpn-NEG 
+barbitrt-NEG tricyclic-NEG
+___ 07:48PM   WBC-2.6*# RBC-3.23* HGB-8.1* HCT-25.1*# 
+MCV-78* MCH-25.1* MCHC-32.3 RDW-16.9* RDWSD-48.1*
+___ 07:48PM   NEUTS-68 BANDS-3 ___ MONOS-10 EOS-0 
+BASOS-0 ___ MYELOS-0 AbsNeut-1.85 AbsLymp-0.49* 
+AbsMono-0.26 AbsEos-0.00* AbsBaso-0.00*
+___ 07:48PM   HYPOCHROM-2+ ANISOCYT-1+ POIKILOCY-1+ 
+MACROCYT-NORMAL MICROCYT-2+ POLYCHROM-NORMAL OVALOCYT-OCCASIONAL 
+BURR-1+ PENCIL-OCCASIONAL
+___ 07:48PM   PLT SMR-VERY LOW PLT COUNT-60*#
+___ 07:48PM   ___ PTT-26.2 ___
+___ 07:15PM URINE  UCG-NEGATIVE
+___ 07:15PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 07:15PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 07:15PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 07:15PM URINE  RBC-1 WBC-1 BACTERIA-FEW YEAST-NONE 
+EPI-<1
+___ 07:15PM URINE  MUCOUS-RARE
+
+PERTIENT LABS: 
+===============
+___ 12:37PM JOINT FLUID ___ RBC-1556* Polys-79* 
+___ ___ 07:48PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-9* 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 07:48PM BLOOD CRP-215.2*
+
+MICRO: 
+===========
+___ 12:37 pm JOINT FLUID      Source: RT Hip. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   FLUID CULTURE (Preliminary): 
+      Reported to and read back by ___ @ 12:25 ___ ON 
+___. 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+
+___ 7:20 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      STAPH AUREUS COAG +. 
+         Consultations with ID are recommended for all blood 
+cultures
+         positive for Staphylococcus aureus, yeast or other 
+fungi. 
+         FINAL SENSITIVITIES. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   0.5 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      Reported to and read back by ___ @ 0114 ON 
+___ - ___. 
+      GRAM POSITIVE COCCI ___ CLUSTERS. 
+
+___ 8:50 am JOINT FLUID      RIGHT HIP JOINT FLUID. 
+      MYCOLOGY CULTURE ADDED PER ADD ON REQ AT 1708 ON ___. 
+
+
+   GRAM STAIN (Final ___: 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+      Reported to and read back by ___ (___) AT 
+___ ON
+      ___. 
+
+   FLUID CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ ___ 
+. 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+___ 8:50 am SWAB      RIGHT HIP JOINT FLUID. 
+      Fluid should not be sent ___ swab transport media.  Submit 
+fluids ___ a
+      capped syringe (no needle), red top tube, or sterile cup. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ ___.
+
+IMAGING STUDIES: 
+================
+___ SPLENIC ULTRASOUND
+1. Massive splenomegaly.
+2. 3.4 cm area located inferiorly of scarring and atrophy likely 
+related to
+prior splenic infarct.  Stable fluid collection within the 
+superior aspect of the spleen is stable when compared to CT from 
+___.
+3. New 2.0 cm complex fluid collection within the inferior 
+spleen.  Abscess
+cannot be excluded on the basis of exam.
+
+CTA ___
+1. No evidence of pulmonary embolism.
+2. There is basilar atelectasis.  Areas of ground-glass opacity 
+at both lung bases may be related to atelectasis and dependent 
+edema.  However,
+superimposed pneumonia should be excluded clinically.  There are 
+no pulmonary septic emboli.
+3. Prominent mediastinal and right hilar lymph nodes may be 
+reactive.
+4. Hypodensity ___ the superior aspect of the spleen which was 
+not clearly seen on prior exams.  This may represent a new area 
+of splenic infarct or
+development of cystic lesion including an abscess.
+5. Left PICC line tip is coiled within right brachiocephalic 
+vein. 
+
+___: EEG
+IMPRESSION: This is an abnormal continuous ICU monitoring study 
+because of
+intermittent independent focal slowing ___ the temporal regions 
+(R>L) and
+central region during wakefulness, indicative of multiple areas 
+of subcortical dysfunction. There are no electrographic seizures 
+or epileptiform discharges. There are no pushbutton activations.
+ 
+
+___: CT HEAD W/O CONTRAST: 1. There has been no interval 
+change.  There are stable subacute left frontal lobe, and 
+chronic right inferior parietal lobe infarcts.  There is no 
+hemorrhage.
+
+___ TRANS-ESOPHAGEAL ECHO: No spontaneous echo contrast 
+or thrombus is seen ___ the body of the left atrium/left atrial 
+appendage or the body of the right atrium/right atrial 
+appendage. No atrial septal defect is seen by 2D or color 
+Doppler. Overall left ventricular systolic function is normal 
+(LVEF>55%). [Intrinsic function may be depressed given the 
+severity of mitral regurgitation.] Rthere is mild global right 
+ventricular free wall hypokinesis. The aortic valve leaflets (3) 
+appear structurally normal with good leaflet excursion. No 
+masses or vegetations are seen on the aortic valve. No aortic 
+regurgitation is seen. There is small (0.6cm) mobile echodensity 
+on the posterior annulus involving the P1 scallop (clip 16) 
+measuring and most consistent with a vegetation/endocarditis. No 
+mitral valve abscess is seen. The posterior leaflet appears to 
+be perforated at the location of the vegetation with an 
+eccentric jet of moderate to severe (3+) mitral regurgitation. 
+There is no pericardial effusion. 
+
+IMPRESSION: Small, mobile likely vegetation on the posterior 
+leaflet of the mitral valve involving the P1 scallop with 
+moderate to severe mitral regurgitation. Right ventricular free 
+wall hypokinesis.  
+
+___ CHEST X-RAY: Comparison to ___.  The 
+patient has received a left-sided PICC line.  The tip of the 
+line projects over the cavoatrial junction.  No complications, 
+notably no pneumothorax.  The pre-existing bilateral parenchymal 
+opacities and the size of the cardiac silhouette are stable.
+
+___ MRI HEAD W/ AND W/O CONTRAST: 1. No change compared 
+to the prior examination of ___.  No new infarction 
+or recent hemorrhage.
+2. Evolving multifocal subacute infarcts ___ the left ACA and MCA 
+distribution, consistent with an embolic etiology.  Septic 
+emboli versus bland emboli cannot be distinguished as bland 
+subacute infarcts can show enhancement.  There is no evidence of 
+an abscess.
+3. Chronic right parietal temporal infarct.
+4. Numerous is scattered supra and infratentorial punctate micro 
+hemorrhages, corresponding to prior septic emboli.
+
+___ MRI CERVICAL THORACIC AND LUMBAR SPINE: 1. The study 
+is limited by motion artifact and lack of axial and postcontrast 
+sequences.  Within these confines, there is no gross evidence of 
+discitis-osteomyelitis or cord compression.
+2. Known hepatosplenomegaly and small bilateral pleural 
+effusions and
+pulmonary parenchymal abnormalities are not adequately evaluated 
+on this
+study.
+3. The scout images are notable for free fluid ___ the pelvis 
+surrounding the uterus and the ovaries which may be physiologic, 
+but is incompletely
+evaluated. 
+
+___ MRI HEAD W/O CONTRAST: 1. Multifocal late acute/early 
+subacute infarcts ___ the left ACA and MCA distributions are 
+likely embolic ___ etiology.  There is no evidence of an abscess. 
+ Bland versus septic emboli cannot be distinguished.
+2. Chronic right parietotemporal infarct.
+3. Numerous scattered supra and infratentorial punctate micro 
+hemorrhages
+likely corresponding to prior septic emboli.
+
+___ CT UE 
+1. No discrete fluid collection detected ___ the region of the 
+first web space of the right hand.  Subtle hypoattenuation of 
+the thenar eminence could be artifactual, less likely edema or 
+fluid collection.  If clinical suspicion for muscle edema or 
+fluid collection remains high, then ultrasound may be more 
+sensitive for detection of a small fluid collection. 
+2. Tortuous distended vessels ___ the left upper quadrant could 
+reflect early varices. 
+3. Persistent mildly enlarged para-aortic and aortocaval lymph 
+nodes ___ the upper abdomen are nonspecific but may be reactive. 
+HIV could be considered however, HIV serology of ___ 
+was negative. 
+
+___ HIP (UNILAT 2 VIEW) W/PELVIS (1 VIEW) RIGHT 
+No previous images.  The bony structures and joint spaces are 
+essentially 
+within normal limits and symmetric bilaterally.  Rounded 
+opacifications 
+projected over the right ilium and changing between various 
+images are 
+consistent with opaque tablets ___ the gastrointestinal tract. 
+  
+___ Joint Aspiration 
+1.  Imaging Findings - as above. 
+2.  Procedure - Uneventful fluoroscopic-guided aspiration of 5 
+cc of yellowish  cloudy right hip joint fluid.  Samples were 
+sent for microbiology, cell count, and differential. 
+
+___ CTA HEAD W&W/O C & RECONS
+1. Chronic occlusion of  a posterior M3 branch of the right 
+middle cerebral artery is redemonstrated with chronic infarct ___ 
+the right frontoparietal lobe. 
+2. Hypodensity ___ the left frontal lobe is new when compared to 
+prior MRI from ___ and is suggestive of an subacute 
+infarct.  MRI of the brain is recommended to exclude 
+superimposed infection. 
+3. Partially visualized lung apices shows interlobular septal 
+thickening that is likely related to fluid overload. 
+4. 3 mm thyroid gland nodule does not require further follow-up 
+according to ACR guidelines. 
+
+___ HAND (PA,LAT & OBLIQUE) RIGHT
+No fracture or dislocation are seen.  There are no significant 
+degenerative changes.  No bone erosion or periostitis 
+identified. No suspicious lytic or sclerotic lesion is 
+identified. No soft tissue calcification or radio-opaque foreign 
+bodies are detected. 
+
+ 
+Brief Hospital Course:
+___ with IVDU, multiple antibiotic allergies, strep MV 
+endocarditis x2, hx splenic and renal infarcts, and embolic 
+stroke transferred from ___ with acute vs. subacute 
+hypodensity on L frontal lobe. Initially transferred to the ICU 
+given sepsis and fluid responsive hypotension. Patient received 
+broad spectrum antibiotics (zosyn then ceftaroline) until MSSA 
+was identified on cultures and antibiotics were narrowed to 
+nafcillin. Additionally she was found to have septic arthritis 
+of her hip, MSSA by culture s/p washout by orthopedics ___. 
+TEE ___ showed mitral valve endocarditis. Cardiac surgery 
+consulted who recommended no intervention until completion of ___bx (projected end date ___ and then follow 
+up TEE ___ ___ months to follow MR as an outpatient. She 
+completed a 6 week course of daptomycin. She was discharged on 
+methadone maintenance regimen of 70 mg daily.
+
+# Endocarditis with concern for septic emboli 
+# Viridans streptococci, blood culture: ___ BCx. GPC ___ ___, 
+___ BCx: TEE ___ w/ Small, mobile likely vegetation on the 
+posterior leaflet of the mitral valve involving the P1 scallop 
+with moderate to severe mitral regurgitation. Right ventricular 
+free wall hypokinesis. Cardiac surgery consulted who recommended 
+no intervention until completion of ___bx (projected 
+end date ___ and then follow up TEE ___ ___ months to 
+follow MR as an outpatient. She completed a 6 week course of 
+daptomycin. 
+
+# Opiate Use Disorder: She was discharged on methadone 
+maintenance regimen of 70 mg daily. 
+Habit Opco ___: ___
+___: ___
+Clinic hours: 6 a.m. - 10:30 a.m. ___ thru ___
+                        6 a.m. - 9 a.m. ___ and ___
+
+# Septic Joint
+History of streptococcus viridans mitral valve infective 
+endocarditis. Had been evaluated for surgical repair after 
+initial dx prior to relapse ___ ___. No known history of MRSA 
+though at high risk for MRSA. She received Zosyn and clindamycin 
+600mg at OSH. Hip effusion s/p ___ tap on ___, now growing 
+Staph coag+ ___ hip fluid Cx, appears to be MSSA. ID consulted. 
+c/f renewed septic emboli ___ UE, spine, hip, brain, lungs. S/p 
+Zosyn ___ then ceftaroline (___) followed by 
+nafcillin s/p graded challenge (___) and now 
+daptomycin ___
+
+# L frontal lobe hypodensity: Likely acute/subacute stroke from 
+septic emboli. MRI showed infarcts ___ the left ACA and MCA 
+terriortory consistent with right sided motor weakness. Followed 
+by neurology during hospitalization. Aspirin and systemic 
+anticoagulation was avoided during hospital course due to risk 
+of hemorrhagic conversion. Will follow-up with stroke neurology 
+as outpatient. 
+
+# Seizure
+Patient had episode of right gaze deviation and end beat 
+nystagmus concerning for focal, partial seizure. NCHCT stable. 
+24H vEEG with no epileptiform discharges, but given nature of 
+episode and known infarcts, patient started on keppra.  
+Neurology recommend follow-up with stroke neurologist ___ ___ mo 
+w/ possible dc keppra at that time.
+
+# Septic right hip: required washout by orthopedic team on 
+___. Cultures grew MSSA. Treated with Nafcillin then 
+daptomycin (coinciding course for endocarditis). Continued on 
+acetaminophen and gabapentin for pain. 
+
+#Depression NOS: had previously been on wellbutrin however given 
+possible seizure initiated sertraline which was titrated up to 
+150 mg daily. 
+
+# Insomnia: Discharged with PRN trazadone 50 mg. Qtc ok.
+
+# Pancytopenia: Secondary to systemic infection and 
+splenomegaly. HIV, hepatitis and CMV, EBV were checked as well. 
+HIV VL neg, HCV VL neg, CMV neg, EBV VL High. ID did not 
+recommend management changes. Patient's WBC and plt normalized 
+during hospitalization, however she had intermittent near 
+neutropenia which should be followed as an outpatient due to 
+multiple medications with BM suppressive side effects.
+
+# Iron Deficiency Anemia: Anemia initially with high ferritin ___ 
+setting of acute infection. Ferritin repeat 24 near end of 
+course of abx. She was started on daily iron supplementation. 
+Iron studies and CBC should be repeated ___ months as an 
+outpatient. 
+
+# Lice: noticed ___ hair by mother on ___, confirmed by nursing 
+staff. permethrin cream 5% x1 on ___, applied to hair and left 
+for 10 min, then washed out, then combed hair thoroughly. This 
+was repeated one week later with cure achieved.
+
+# Splenic mass
+New splenic mass seen on abd u/s and could not r/o abscess. No 
+septic signs. no abd pain. consulted surgery who rec 
+conservative management for now given patient's clinical 
+improvement with IV nafcillin. If she develops new abdominal 
+symptoms than ultrasound should be repeated. CT scan later ___ 
+hospitalization showed resolution.
+
+TRANSITIONAL ISSUES: 
+===================
+[] Patient ferritin low at 24, started on PO iron. Will recheck 
+Iron studies and CBC ___ ___ Months. 
+[] cardiac sx -no need for valve replacement at this time - if 
+septic emboli become an issue or if she becomes symptomatic from 
+MR surgery may be warranted. TEE ___ ___ months to follow MR.
+[] Patient started on Keppra for new seizure, consider taking 
+off after 6 months
+[] She should not drive for six months since last seizure (i.e., 
+until at least ___.
+[] Patient had a splenic fluid collection on imaging which 
+resolved. If abdominal pain would get ultrasound of spleen to 
+rule out abscess
+[] Patient had leukopenia/ mild neutropenia that was uptrending 
+at discharge. Likely medication related, would follow CBC w/ 
+diff ___ ___ weeks as an outpatient.
+[] Patient started on methadone maintenance at 70 mg liquid a 
+day. Last dose 824 AM ___. Qtc's have been non-elevated. 
+Continue to follow EKG Qtc's intermittently as an outpatient. Be 
+cautious with adding additional Qtc Prolonging medications.
+
+OTHER TRANSITIONAL ISSUES:
+==============================
+- H/O MDR ___ meningoseptica bacteremia 
+- hand pain that resolved: their was initial concern for abscess 
+at injection sight, but pain resolved with antibiotics
+-Given the likelihood that patient has cheeked, crushed and 
+injected pain medications while inpatient, patient should only 
+be given liquid oxycodone for PO pain control and she should be 
+observed during each administration.
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+2.  Bisacodyl 10 mg PO/PR DAILY:PRN Constipation 
+RX *bisacodyl 5 mg 2 tablet(s) by mouth Daily:PRN Disp #*30 
+Tablet Refills:*3 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*3 
+4.  Ferrous Sulfate 325 mg PO DAILY 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*3 
+5.  Gabapentin 600 mg PO QID 
+RX *gabapentin 600 mg 1 tablet(s) by mouth four times a day Disp 
+#*120 Tablet Refills:*3 
+6.  LevETIRAcetam 500 mg PO Q12H 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*3 
+7.  Methadone (Concentrated Oral Solution) 10 mg/1 mL 70 mg PO 
+DAILY  
+8.  Narcan (naloxone) 4 mg/actuation nasal ONCE:PRN overdose 
+RX *naloxone [Narcan] 4 mg/actuation 1 spay Daily;PRN Disp #*3 
+Spray Refills:*0 
+9.  Senna 8.6 mg PO BID:PRN Constipation 
+RX *sennosides [senna] 8.6 mg 1 by mouth BID:PRN Disp #*60 
+Tablet Refills:*3 
+10.  Sertraline 150 mg PO DAILY 
+RX *sertraline 50 mg 3 tablet(s) by mouth Daily Disp #*90 Tablet 
+Refills:*3 
+11.  TraZODone 50 mg PO QHS:PRN Insomnia 
+RX *trazodone 50 mg 1 tablet(s) by mouth QHS:PRN Disp #*30 
+Tablet Refills:*3 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+Infective Endocarditis
+Septic Joint, Right Hip
+Splenic abscess
+Seizure
+
+SECONDARY DIAGNOSES
+CVA
+Opioid Use Disorder
+Pancytopenia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+You were transferred to ___ for management of weakness ___ the 
+setting of opioid withdrawal. You were found to have brain 
+lesions likely due to your endocarditis, an infection on one of 
+your heart valves. We were concerned that there was a fluid 
+around your right hip -- we tapped the joint and found an 
+infection. You went for a joint washout surgery with the 
+surgeons. We started you on IV antibiotics for your infection. 
+Our neurologists saw you and recommended starting a seizure 
+prevention medication--Keppra to take for ___ months until your 
+Neurology follow up appointment. Our infectious disease doctors 
+saw ___ and recommended continuing the antibiotics for at least 
+6 weeks.
+
+Our Cardiac surgeons evaluated you and determined that you have 
+no acute need for valve replacement surgery. You should have 
+repeat imaging ___ ___ months from discharge. 
+
+___ DC Info:
+-On ___, please arrive at our ___ clinic 
+between
+6 a.m. - 10:30 a.m. for dosing. 
+-On ___ and ___, please arrive at
+___ clinic between  6 a.m. - 9 a.m. for dosing.
+-On ___, ___, you will meet with a medical doctor on 
+___
+at 12:30 p.m. and you can receive your dose after appointment. 
+
+Contact Info: 
+Habit Opco (___)
+Address: ___
+___ Fax: ___
+Clinic hours: 6 a.m. - 10:30 a.m. ___ thru ___
+                        6 a.m. - 9 a.m. ___ and ___
+
+It was a pleasure taking care of you!
+-Your ___ team
+ 
+Followup Instructions:
+___

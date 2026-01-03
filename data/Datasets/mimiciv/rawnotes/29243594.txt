@@ -1,0 +1,467 @@
+Notes
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Respiratory distress
+ 
+Major Surgical or Invasive Procedure:
+___ intubation
+___ tracheostomy
+ 
+History of Present Illness:
+___ is a ___ male with history of alcohol abuse c/b 
+recent delirium tremens requiring traumatic intubation 2 months 
+ago, who sustained a right cricoid cartilage fracture with 
+likely right arytenoid dislocation and resultant subglottic 
+stenosis, recently admitted to ___ from ___ to ___ 
+with stridor, representing with stridor.
+
+ He was originally admitted from ___ to ___ ___ for alcohol withdrawal c/b DTs and need for intubation, 
+s/p self-extubation and reintubation. Since that time, he had 
+persistent hoarseness and intermittent stridor, for which he 
+tried outpatient steroids and ultimately was admitted here at 
+___ within the last week.
+
+The patient was recently admitted to ___ from ___
+to ___ with stridor and worsening SOB. He significantly
+improved with conservative management, including IV steroids,
+racemic epinephrine and PPI. After being stable on the floor, 
+the
+patient was transitioned to a 15-day PO prednisone taper and
+discharged two days ago. He felt fine on ___ and took the
+previously prescribed 60mg Prednisone. 
+
+The patient awoke this morning with worsened difficulty 
+breathing and stridor and presented to ___ to pick up his 
+prescription of Prednisone. The pharmacist was concerned by his 
+breathing and immediately called EMS. He was brought to ___. 
+___, where he received racemic epi x 2 and 6 mg IV 
+decadron and was transferred to ___.
+
+Of note, he has a history of alcohol abuse with reported last 
+drink last night.
+
+___ the ED, initial vitals: 99.1 130 136/80 24 96% RA 
+Labs significant for a WBC 25. BMP WNL.
+He received racemic epi inhaled and 10 mg IV diazepam.
+On transfer, vitals were:  ___ 11 98% Nasal Cannula 
+
+On arrival to the MICU, he was ___ severe respiratory distress. 
+He was gulping for air with audible inspiratory stridor. He was 
+using all of his accessory muscles and able to speak only ___ 
+short sentences. He was urgently intubated. 
+
+ 
+Past Medical History:
+Cricoid fracture with airway edema requiring tracheostomy
+Alcohol abuse c/b delirium tremens
+Psoriasis
+Panic attacks
+Acne
+ 
+Social History:
+___
+Family History:
+Reviewed.  No significant family history
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+#ERROR!
+Vitals: 98.3 ___ 94% RR 20  
+GENERAL: Alert, fatigue, frequently closes his eyes but reopens 
+to voice, severe respiratory distress with audible inspiratory 
+stridor, tachypnea ___ the ___
+HEENT: Sclera anicteric
+NECK: supple, supraclavicular retractions, 
+LUNGS: clear to auscultation bilaterally, subcostal retractions  
+
+CV: tachycardiac, regular rhythmn 
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN:  no rash
+NEURO:  alert, oriented, moves all extremities
+
+DISCHAGRE PHYSICAL EXAM 
+#ERROR!
+Vitals: T:97.7 105/62 HR 58 R:20 O2:97% Trach mask 40%   
+
+General: Alert, oriented, no acute distress, thin appearing, 
+mouthing words, non verbal with trach ___ place  
+HEENT: Sclera anicteric, MMM, oropharynx clear, trach ___ place, 
+site appears c/d/I without erythema. dobhoff ___ left nare
+Lungs: coarse breath sounds bilaterally without focal rhonchi 
+CV: RRR, normal S1 + S2, no murmurs, rubs, gallops  
+Abdomen: thin, soft, non-tender, non-distended, bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: Without rashes or lesions  
+Neuro: AOx3, no tremor, strength ___ ___ tact, sensation grossly 
+___ tact, gait deferred.   
+
+ 
+ 
+Pertinent Results:
+ADMISSION LABS
+#ERROR!
+
+___ 11:00AM   ___ PTT-25.3 ___
+___ 11:00AM   PLT COUNT-353
+___ 11:00AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 11:00AM   NEUTS-80* BANDS-0 LYMPHS-6* MONOS-14* EOS-0 
+BASOS-0 ___ MYELOS-0 AbsNeut-20.00* AbsLymp-1.50 
+AbsMono-3.50* AbsEos-0.00* AbsBaso-0.00*
+___ 11:00AM   WBC-25.0*# RBC-4.51* HGB-15.2 HCT-43.0 MCV-95 
+MCH-33.7* MCHC-35.3 RDW-11.9 RDWSD-41.8
+___ 11:00AM   GLUCOSE-119* UREA N-11 CREAT-0.4* SODIUM-133 
+POTASSIUM-3.8 CHLORIDE-91* TOTAL CO2-31 ANION GAP-15
+
+DISCHARGE LABS
+#ERROR!
+___ 06:41AM BLOOD WBC-19.8* RBC-4.03* Hgb-13.6* Hct-39.0* 
+MCV-97 MCH-33.7* MCHC-34.9 RDW-11.8 RDWSD-41.4 Plt ___
+___ 06:41AM BLOOD Plt ___
+___ 06:41AM BLOOD Glucose-149* UreaN-13 Creat-0.3* Na-135 
+K-4.3 Cl-95* HCO3-29 AnGap-15
+___ 06:41AM BLOOD Calcium-9.1 Phos-3.7 Mg-2.1
+
+MICRO
+#ERROR!
+___ 3:42 pm SPUTUM      Source: Endotracheal. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      3+  ___ per 1000X FIELD):   GRAM NEGATIVE DIPLOCOCCI. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CHAINS. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+      2+   ___ per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+
+   RESPIRATORY CULTURE (Final ___: 
+      MODERATE GROWTH Commensal Respiratory Flora. 
+      NEISSERIA MENINGITIDIS.    MODERATE GROWTH. 
+
+STUDIES
+#ERROR!
+
+CT Neck w/o Contrast ___
+1. Ossification of the right cricoid cartilage, likely 
+posttraumatic.  
+Fracture with medial and superior displacement of the right 
+cricoid cartilage and right arytenoid cartilage.  Possible 
+widening of the cricoid arytenoid articulation. 
+  
+2. Soft tissue prominence ___ the glottic and subglottic space on 
+the right 
+with associated narrowing of the airway. 
+
+CXR ___
+Tracheostomy tube is present with tip ___ a midline position 
+terminating 2.1 cm above the carina.  Cardiomediastinal contours 
+are normal.  Left retrocardiac opacity is associated with volume 
+loss favoring atelectasis although coexisting aspiration and or 
+contusion are possible ___ the setting of recent trauma.  
+Multiple left rib fractures appear to be subacute or chronic, 
+but additional dedicated rib films may be helpful if the patient 
+has localizing symptoms and recent trauma history. 
+
+ 
+Brief Hospital Course:
+___ is a ___ male with history of alcohol abuse c/b 
+recent delirium tremens requiring traumatic intubation 2 months 
+ago, who sustained a right cricoid cartilage fracture with 
+likely right arytenoid dislocation and resultant subglottic 
+stenosis, recently admitted to ___ from ___ to ___ 
+with stridor, who represented with stridor, s/p emergent 
+intubation and bedside tracheotomy ___, transferred from MICU 
+to general medicine floor for continued management.    
+
+ACTIVE ISSUES
+#ERROR!
+# Right cricoid cartilage fracture, likely right arytenoid 
+dislocation and resultant subglottic stenosis: Patient with 
+known subglottic stenosis, vocal cord edema, and inversion of 
+the cricothyroid cartilage causing airway narrowing and stridor, 
+likely due to traumatic intubation/extubation ___ ___. 
+He has presented to care multiple times and has failed 
+outpatient treatment with a prolonged oral steroid course. Upon 
+arrival to the ICU, he was acutely stridorous and underwent 
+emergent intubation and bedside tracheotomy on ___. Patient 
+initially intubated successfully by anesthesia using 6.0 tube. 
+Bronchoscopy showed significant mucus plugging on left side, 
+however unable to suction ___ small tube size. He was started on 
+IV Dexamethasone 12mg q6hrs and gradually tapered by no more 
+than 20% daily. He was discharged to rehab on a dexamethasone 
+taper, liquid formulation given through his Dobhoff. He was 
+evaluated by both ENT and ACS. He is to have the tracheotomy 
+tube downsized 10 days after placement (around ___ once the 
+original tract matures. ACS did not want to change out the trach 
+while he was inpatient and deferred this to respiratory therapy 
+at the rehabilitation facility. He was set up with ENT as an 
+outpatient to discuss the different surgical possibilities for 
+his airway and to discuss timing of and tracheotomy reversal. 
+
+# Bradycardia. While ___ the ICU after his tracheotomy procedure, 
+he was noted to have asymptomatic bradycardia to 40-50s on 
+telemetry. EKG was sinus bradycardia. It was thought there may 
+have been a component on vagal stimulation during his 
+tracetomoty to cause his new bradycardia.  
+
+# Nutrition. He was evaluated by speech and swallow during 
+admission. Given the size of the tracheotomy and persistent 
+airway edema he was unable to be fit for a speaking valve. Per 
+the policy of the inpatient speech and swallow team he was 
+unable to be tested trialing POs given that he did not have a 
+speaking value ___ place and was a new tracheotomy patient. He 
+was started on tube feeds with plan to repeat speech and swallow 
+evaluation at rehab following downsizing of the tracheostomy and 
+placement of a speaking value, with eventual transition back to 
+POs.   
+
+# N. meningitidis ___ sputum culture. ID and infection control 
+consulted on ___ given moderate growth of neiserria 
+meningitides. ID and Infection control were both consulted. This 
+likely represented colonization given no indication of active 
+infection (no e/o PNA, no systemic signs of infection). ID did 
+not recommend eradicating nasopharyngeal carriage ___ this 
+patient at this time. Per infection control at ___, the 
+patient did not need to be on droplet precautions or isolation 
+even with his trach ___ place.
+
+# Leukocytosis: This was thought likely reactive ___ the setting 
+of steroids. He was influenza negative, and respiratory culture 
+showed commensal flora and Neisseria colonization, without w/o 
+evidence of infection on CXR. He was afebrile without other 
+identifiable sources of infection. 
+
+CHRONIC ISSUES
+#ERROR!
+
+# Alcohol abuse: He presented with ongoing alcohol use.  He did 
+not show evidence of withdrawal. He met with the social worker 
+and expressed a desire to continue drinking ___ moderation. 
+
+# Tobacco use: He was continued on a nicotine patch.
+
+TRANSITIONAL ISSUES 
+#ERROR!
+
+# Alcohol abuse
+- Patient met with social worker during admission and expressed 
+desire to continue drinking ___ moderation as an outpatient. 
+Recommend readdressing dangers of drinking, ___ the setting of 
+his history of delirium tremens, and counseling regarding 
+alcohol abstinence again ___ the outpatient setting.
+
+# Tracheotomy 
+- Tracheotomy placed by General Surgery, Dr. ___ on 
+___
+- Will need to be downsized with respiratory therapy and 
+rehabilitation MD after tract has matured (~10 days after 
+placement, Day ___.
+- Sutures to be removed at time of trach downsizing  
+- After downsizing, patient will need to be fitted for a 
+speaking valve and will need repeat speech and swallow 
+evaluation to determine appropriate time to trial oral intake. 
+- Please direct any questions regarding tracheotomy care to Dr. 
+___ ___ the Acute Care Surgery office at ___ # 
+___ 
+
+# Steroid Taper 
+Steroid Taper with Liquid Dexamethasone
+___: 6mg @ 8am, 4mg @ 4pm and @ midnight
+___: 4mg three times daily 
+___: 4mg twice daily 
+___: 6mg daily 
+___: 5mg daily 
+___: 4mg daily 
+___: 3mg daily 
+___: 2mg daily 
+___: 1mg daily 
+___: 0.5mg daily 
+___: Stop 
+
+***Alternatively***
+- If patient is able to swallow pills after tracheostomy 
+downsizing on ___ recommend switching from liquid dexamethasone 
+to oral prednisone according to the following taper outlined 
+below
+
+--------------------
+Liquid Dexamethasone
+-------------------- 
+___: 6mg @ 8am, 4mg @ 4pm and @ midnight
+___: 4mg three times daily 
+___: 4mg twice daily 
+___: 6mg daily 
+Switch to Oral Prednisone
+___: 30mg PO Prednisone daily 
+___: 20mg PO Prednisone daily 
+___: 10mg PO Prednisone daily 
+___: 5mg PO prednisone daily 
+___: Stop    
+
+# Pain Control:
+-Patient with significant pain at ___ site currently on prn 
+oxycodone. Please wean as tolerated. 
+
+# Neisseria meningitides Colonization
+- Determined to be colonization ___ his respiratory tract. 
+Infectious Disease and Infection Control consulted. He does not 
+require treatment to decolonize. He does not require droplet 
+precautions or isolation per ___ Infection Control. 
+
+# Leukocytosis: Noted to have elevated WBC count ___ ___ 
+setting of high dose steroids. Please ensure WBC count has 
+downtrended following steroid completion. 
+
+# Communication: HCP: ___ ___ (mother)  
+# Code: Full, (confirmed) with patient
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FoLIC Acid 1 mg PO DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+3. Pantoprazole 40 mg PO Q12H 
+4. Thiamine 100 mg PO DAILY 
+5. PredniSONE 50 mg PO DAILY 
+Start: After 60 mg DAILY tapered dose 
+This is dose # 2 of 6 tapered doses
+6. PredniSONE 40 mg PO DAILY 
+Start: After 50 mg DAILY tapered dose 
+This is dose # 3 of 6 tapered doses
+7. PredniSONE 30 mg PO DAILY 
+Start: After 40 mg DAILY tapered dose 
+This is dose # 4 of 6 tapered doses
+8. PredniSONE 20 mg PO DAILY 
+Start: After 30 mg DAILY tapered dose 
+This is dose # 5 of 6 tapered doses
+9. PredniSONE 10 mg PO DAILY 
+Start: After 20 mg DAILY tapered dose 
+This is dose # 6 of 6 tapered doses
+10. sodium chloride 3 % inhalation Four times daily as needed 
+
+ 
+Discharge Medications:
+1. FoLIC Acid 1 mg PO DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+3. Acetaminophen (Liquid) 1000 mg PO Q8H 
+4. Dexamethasone 4 mg PO Q8H Duration: 5 Doses 
+5. Docusate Sodium (Liquid) 100 mg PO BID 
+6. Guaifenesin ___ mL PO Q6H:PRN cough 
+7. Lansoprazole Oral Disintegrating Tab 30 mg PO BID 
+8. Nicotine Patch 14 mg TD DAILY 
+9. OxycoDONE Liquid 5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg/5 mL 5 mL by mouth every four hours as needed 
+for pain Refills:*0
+10. Polyethylene Glycol 17 g PO BID constipation  
+11. Senna 8.6 mg PO BID constipation  
+12. TraZODone 25 mg PO QHS:PRN insomnia 
+13. Thiamine 100 mg PO DAILY 
+14. Dexamethasone As directed mg PO AS DIRECTED 
+Patient should continue steroid taper with dexamethasone as 
+directed ___ ___ paperwork  
+Tapered dose - DOWN 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis 
+Right cricoid cartilage fracture, right arytenoid dislocation 
+and resultant subglottic stenosis
+
+Secondary Diagnosis 
+Bradycardia 
+Tracheostomy 
+Alcohol abuse
+Tobacco Abuse 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you during your 
+hospitalization. Briefly, you were hospitalized with shortness 
+of breath. Given the narrowing of your airways, you had an 
+emergent procedure ___ the ICU for placement of a tracheostomy. 
+You were placed on high dose steroids and will continue taking 
+these according to the taper outlined below. You will need to 
+have the tracheostomy tube downsized no sooner than 10 days 
+after placement (It was placed on ___. Once this has been 
+downsized, you can be fitted for a speaking valve and begin to 
+swallowing food and medications. Until that point, you will get 
+nutrition with the tube feeds. 
+
+You will have follow up with the ENT Surgeons on ___. We 
+have called Dr. ___ and are waiting to hear back if 
+you can have an earlier appointment. 
+
+We wish you the best, 
+
+Your ___ Treatment Team 
+
+Steroid Taper with Liquid Dexamethasone
+___: 6mg @ 8am, 4mg @ 4pm and @ midnight
+___: 4mg three times daily 
+___: 4mg twice daily 
+___: 6mg daily 
+___: 5mg daily 
+___: 4mg daily 
+___: 3mg daily 
+___: 2mg daily 
+___: 1mg daily 
+___: 0.5mg daily 
+___: Stop 
+
+***Alternatively***
+- If patient is able to swallow pills after tracheostomy 
+downsizing on ___ could switch from liquid dexamethasone to 
+oral prednisone according to the following taper outlined below
+
+--------------------
+Liquid Dexamethasone
+-------------------- 
+___: 6mg @ 8am, 4mg @ 4pm and @ midnight
+___: 4mg three times daily 
+___: 4mg twice daily 
+___: 6mg daily 
+Switch to Oral Prednisone
+___: 30mg PO Prednisone daily 
+___: 20mg PO Prednisone daily 
+___: 10mg PO Prednisone daily 
+___: 5mg PO prednisone daily 
+___: Stop    
+   
+ 
+Followup Instructions:
+___

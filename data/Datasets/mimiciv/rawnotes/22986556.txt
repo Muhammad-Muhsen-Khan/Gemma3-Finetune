@@ -1,0 +1,397 @@
+Name:  ___.                    Unit ___:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Robitussin A-C / Clindamycin / Lipitor / latex / 
+phenylpropanolamine hcl
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall, altered mental status
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ w/ hx AF not on coumadin, cervical ca s/p TAH/BSO, 
+rheumatic heart disease w/ moderate MR, HTN, and hx L ICA clot 
+and resultant persistent R hemiparesis, c/b edema s/p L 
+frontotemporal craniotomy in ___ and subsequent swelling 
+resulting in repeat cranioplasty ___ (AVM rupture vs occlusion 
+with conversion), aphasic since cranioplasty, currently living 
+at rehab, presents after apparent fall. She was unattended in 
+her room when staff heard chair alarm, and found her on the 
+floor in front of her chair, awake and mentating at baseline. 
+She has difficulty relating complaints at baseline, as well as 
+unable to relate circumstances of fall.
+
+In the ED, initial vitals were: T97.7 HR80 BP117/85 RR18 
+O2Sat97% RA  
+-Labs were notable for:  WBC 12.4, hgb/hct 14.6/44.3, plt 255, 
+Ca 9.9, Mg 1.9, P 4.2, Trop < 0.01, BUN/Cr ___, INR 1.0
+-Imaging: CT Cspine: ___ acute fracture, moderate degenerative 
+changes at c4-c5; CT head showed ___ acute intracranial 
+abnormality, showed right frontal scalp and periorbital 
+hematoma, possible sinusitis
+-Patient was very agitated in the ED, off baseline per family. 
+Exam: On exam conscious and alert, non-verbal but tracks others 
+in room, large R periorbital ecchymosis/swelling without 
+evidence of ocular trauma or EOM entrapment, ___ other facial 
+injuries appreciated; has hypertonia/contractures on R side at 
+baseline
+-Patient was given: 10 mg IM olanzapine   
+
+On the floor, she was asleep but arousable. History was 
+predominantly given by daughter and son at bedside. She had an 
+unwitnessed fall, and a history of recent falls. In discussing 
+with her outpatient care facilities and nurses, it appears that 
+she has had several falls recently. Two falls occurred when she 
+was in her wheelchair and became unsteady, falling to the right. 
+There was an attempt to provide her with a heavier wheelchair 
+for stability control, which was somewhat helpful per her 
+daughter. However, her most recent fall occurred in the heavier 
+wheelchair, when she became unbalanced and fell to the right 
+again. Per the nursing staff at her living facility, she does 
+intermittently become agitated. Additionally, on further history 
+taking it appears that patient at baseline is AAOx0-1, and is 
+only somewhat interactive with caregivers. 
+
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies sinus tenderness, rhinorrhea or congestion. Denies 
+cough, shortness of breath. Denies chest pain or tightness, 
+palpitations. Denies nausea, vomiting, diarrhea, constipation or 
+abdominal pain. ___ recent change in bowel or bladder habits. ___ 
+dysuria. Denies arthralgias or myalgias.
+ 
+Past Medical History:
+- HTN
+- Afib, not on anticoagulation
+- Rheumatic Heart Disease with moderate MR. ___ mitral stenosis 
+seen on echo in ___. 
+- TIA
+- HLD
+- Cervical cancer s/p TAH/BSO ___
+- S/p cholecystectomy with RUQ pain after
+- H/o adjustment disorder/depression
+- Lung nodule 
+- Mild Pulmonary Hypertension 
+- GERD
+-  Left Subclavian Stenosis: Noted to have asymmetric blood 
+pressures (R>L) in ___ when seeing cardiology, also noted to 
+have a carotid bruit. Carotid U/s followed by MRA ___ identified 
+subclavian steal physiology with retrograde left vertebral 
+artery flow.  
+
+ 
+Social History:
+___
+Family History:
+___ early cardiac death. 
+ 
+Physical Exam:
+Physical Exam on Admission:
+Vitals: T97.6, BP 119/66 HR 72 RR 16 100% RA 
+General: Asleep, but arousable by rub, ___ acute distress  
+HEENT: Patient not participatory with exam. 5cmx5cm ecchymoses 
+over R frontal forehead, and periorbitally. 
+Neck: Supple, JVP not elevated, ___ LAD  
+CV: irregularly irregular, faint holosystolic murmur at apex, 
+rubs, gallops  
+Lungs: Not participatory. Grossly CTAB from anterior chest.
+Abdomen: Soft, obese, non-tender, non-distended bowel sounds 
+present, ___ organomegaly, ___ rebound or guarding  
+PEG tube in place, c/d/I. 
+GU: ___ foley  
+Ext: Warm, well perfused, 2+ pulses, ___ clubbing, cyanosis or 
+edema  
+Neuro: AAOx0, does not follow commands. Unable to assess pupils, 
+___ strength L upper/lower extremity, persistent hemiplesia on R 
+w/ claw hand. Withdrawals to pain on L, 1+ reflexes on L, 
+hyperreflexic on R, +fasiculations, gait deferred.  
+
+=
+=
+=
+================================================================
+Physical Exam on Discharge:
+Vitals: T98.2, BP ___ HR ___ RR ___ 100% RA 
+General: Awake, not oriented, ___ acute distress  
+HEENT: Patient unable to participate with exam. 5cmx5cm 
+ecchymotic nodule over R frontal forehead, and periorbitally, 
+with slight interval improvement. 
+Neck: Supple, JVP not elevated, ___ LAD  
+CV: irregularly irregular, ___ murmurs, rubs, gallops  
+Lungs: Not participatory. Grossly CTAB from anterior chest.
+Abdomen: Soft, obese, non-tender, non-distended bowel sounds 
+present, ___ organomegaly, ___ rebound or guarding  
+PEG tube in place, c/d/I. 
+GU: ___ foley  
+Ext: Warm, well perfused, 2+ pulses, ___ clubbing, cyanosis or 
+edema  
+Neuro: AAOx0, does not follow commands. Unable to assess pupils, 
+moves L upper and lower extremity, persistent hemiplesia on R w/ 
+claw hand. Withdrawals to pain on L, 1+ reflexes on L, 
+hyperreflexic on R, +fasiculuations, gait deferred.  
+
+ 
+Pertinent Results:
+Labs on Admission:
+___ 01:22PM BLOOD WBC-12.4* RBC-5.17 Hgb-14.6 Hct-44.3 
+MCV-86 MCH-28.2 MCHC-33.0 RDW-14.3 RDWSD-43.9 Plt ___
+___ 01:22PM BLOOD Neuts-80.6* Lymphs-11.8* Monos-5.7 
+Eos-0.6* Baso-0.6 Im ___ AbsNeut-10.00* AbsLymp-1.46 
+AbsMono-0.71 AbsEos-0.07 AbsBaso-0.07
+___ 01:22PM BLOOD ___ PTT-38.3* ___
+___ 01:22PM BLOOD Glucose-104* UreaN-20 Creat-0.7 Na-137 
+K-4.9 Cl-98 HCO3-28 AnGap-16
+___ 01:22PM BLOOD cTropnT-<0.01
+___ 01:22PM BLOOD Calcium-9.9 Phos-4.2 Mg-1.9
+
+============================================================
+Labs on Discharge
+
+___ 06:10AM BLOOD WBC-7.2 RBC-4.91 Hgb-14.1 Hct-42.9 MCV-87 
+MCH-28.7 MCHC-32.9 RDW-14.6 RDWSD-46.5* Plt ___
+___ 06:10AM BLOOD Plt ___
+___ 06:10AM BLOOD Glucose-97 UreaN-32* Creat-1.0 Na-142 
+K-4.3 Cl-102 HCO3-30 AnGap-14
+___ 06:10AM BLOOD Calcium-9.5 Phos-4.7* Mg-2.2
+============================================================
+
+Micro:
+___ 10:00PM URINE RBC-1 WBC-4 Bacteri-FEW Yeast-NONE Epi-0
+___ 10:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-MOD
+___ 10:00PM URINE Color-Straw Appear-Clear Sp ___
+
+============================================================
+Clinical Studies/Imaging:
+___: Non-con CT Head
+IMPRESSION:
+1. ___ acute intracranial abnormality. Extensive left cerebral 
+hemispheric
+encephalomalacia as secondary to prior middle cerebral artery 
+infarct.
+2. Overall stable appearance of right frontal scalp and 
+periorbital hematoma.
+3. Sinus disease with aerosolized secretions within the left 
+sphenoid sinus,unchanged.
+
+___: R Hand Xray
+IMPRESSION: 
+Limited study due to patient positioning.  Given this, diffuse
+demineralization without definite acute fracture.
+
+___: CXR
+IMPRESSION: 
+___ evidence of acute traumatic injury within the limitations of 
+routine chest radiography.
+
+___: Non-con CT Head
+IMPRESSION:
+1. ___ acute intracranial abnormality.Extensive left sided 
+encephalomalacia
+from prior MCA infarct.
+2. Right frontal scalp and periorbital hematoma with hematocrtic 
+levels.
+3. Worsening aerosolized secretions in the left sphenoid sinus 
+and increasing mucosal thickening in the right maxillary sinus.  
+Please correlate clinically for possible sinusitis.
+
+___: Non-Con CT CSpine
+IMPRESSION:
+1. ___ acute fracture or dislocation of the cervical spine.
+2. Moderate multilevel degenerative changes are most severe at 
+C4-C5, with
+moderate spinal canal stenosis and moderate to severe left-sided 
+neural
+foraminal stenosis.
+ 
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ w/ hx AF not on coumadin, cervical cancer 
+s/p TAH/BSO, rheumatic heart disease w/ moderate MR, HTN, and hx 
+L ICA clot and resultant persistent R hemiparesis, c/b edema s/p 
+craniotomy and cranioplasty with persistent aphasia who 
+presented after fall from her rehab facility.
+
+# s/p fall: Residual R front and periorbital hematoma, ___ sign 
+of fracture. Patient with known hypertonia/contractures on R 
+side at baseline, likely contributed to fall.  Per report from 
+living facility, patient has had ~3 falls over past month 
+usually in setting of attempting to get up from chair (i.e. two 
+falls occurred with wheelchair tipping over).  Most recent fall 
+occurred after being placed in chair.  Fall was likely 
+mechanical in nature.  ECHO ___ with normal EF, moderate MR, 
+ruling out valvular pathology as etiology.  Patient had head CTs 
+x2 per neurosurgery recs to eval for bleed and delayed bleed due 
+to higher risk (on lovenox).  Both non-con head CT scans were 
+negative for intracranial bleed.  Trauma eval including CT neck, 
+cxr and hand xray were negative for any acute fracture.  Patient 
+was discharged back to prior living facility, and the facility 
+was advised to provide more close monitoring of patient to help 
+prevent future falls. Patient was set up with outpatient 
+follow-up with Dr. ___ and Dr. ___ 
+(___).  
+
+# AMS: There was also a question of agitation and altered mental 
+status on arrival to the ER.  Regarding the question of altered 
+mental status, patient was AAOx0-1. She was at her baseline 
+during her hospitalization per discussion with family and her 
+rehab facility. An infectious workup including CBC, UA, and CXR 
+were negative. Her urine culture was pending at the time of 
+discharge, but had been ___ growth to date. Per the nursing staff 
+at her living facility, she does intermittently become agitated 
+which was noted in the ER, but is not different that her 
+baseline. THe patient is on Nuedexta and sertraline at her 
+facility.  Nuedexta is non-formulary, thus this was not given 
+while inpatient. However patient did receive olanzapine 5mg x1 
+for agitation. At the time of discharge, she was calm and did 
+not have any agitation episodes. 
+
+# Afib: Chronic history of Afib with CHADVASC score of 4. 
+Patient is not on anticoagulation as she had as declined it in 
+the past. EKG showed atrial fibrillation in ___.  Patient was 
+continued on home metoprolol and amiodarone. Please consider 
+discussing anticoagulation with patient during follow-up 
+appointment as she is at high risk for thromboembolic events. 
+
+# Hx L ICA Stroke: persistent R hemiplegia. Stable.  CT Head x2 
+negative for acute intracranial bleed as noted above.  Patient 
+has f/u scheduled with neurosurgery and neurology.
+
+# Nutrition: PEG In place, c/d/I. Patient was continued on bolus 
+feeds per nutrition recs.
+
+# HTN: continued home metoprolol.
+
+=============================================================
+Transitional Issues:
+[] Recommend close monitoring of patient given falls: likely 
+mechanical in nature. Patient will benefit from more careful 
+monitoring in the rehab facility. She will follow-up with Dr. 
+___ and Dr. ___ in the 
+outpatient setting.  
+[] Continue to monitor mental status. She was at baseline per 
+discussion with family and living facility staff (somewhat 
+interactive with family, aphasic, AAOx0-1, intermittent 
+agitation) during her admission to ___.  She was continued on 
+home sertraline.  Nuedexta which is an outpatient medication was 
+not continued as this is non-formulary.  She did receive 
+olanzapine 5mg x1 for agitation.  Could consider starting 
+olanzapine prn if clinically indicated.
+
+# CODE: Full Code 
+# CONTACT: ___ ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Senna 8.6 mg PO BID:PRN constipation 
+2. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+3. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+4. Aspirin 81 mg PO DAILY 
+5. Amiodarone 200 mg PO DAILY 
+6. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL TID 
+7. Docusate Sodium (Liquid) 50 mg PO BID:PRN constipation 
+8. Enoxaparin Sodium 40 mg SC DAILY 
+Start: ___, First Dose: Next Routine Administration Time 
+9. Famotidine 20 mg PO BID 
+10. Nuedexta (dextromethorphan-quinidine) ___ mg oral Every 12 
+hours 
+11. Lactinex (Lactobacillus acidoph-L.bulgar) 1 MM  Tab oral 
+Twice daily 
+12. Multi-Delyn (multivitamin) Dose unlisted  oral Every day 
+13. acetaminophen 160 mg/5 mL oral Every 6 hours for pain 
+14. Metoprolol Tartrate 25 mg PO TID 
+15. sertraline 20 mg/mL oral Daily 
+
+ 
+Discharge Medications:
+1. acetaminophen 160 mg/5 mL oral Every 6 hours for pain 
+2. Amiodarone 200 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+5. Docusate Sodium (Liquid) 50 mg PO BID:PRN constipation 
+6. Metoprolol Tartrate 25 mg PO TID 
+7. Sertraline 20 mg/mL ORAL DAILY 
+8. Senna 8.6 mg PO BID:PRN constipation 
+9. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+10. Famotidine 20 mg PO BID 
+11. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL TID 
+12. Enoxaparin Sodium 40 mg SC DAILY  
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+13. Lactinex (Lactobacillus acidoph-L.bulgar) 1 MM  Tab oral 
+Twice daily 
+14. Multi-Delyn (multivitamin) 1 pill tablet ORAL EVERY DAY 
+15. Nuedexta (dextromethorphan-quinidine) ___ mg oral Every 12 
+hours 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+1. Altered mental status 
+2. Mechanical fall
+3. R frontal and periorbital hematoma
+
+Secondary Diagnoses
+1. Atrial Fibrillation
+2. Hypertension
+3. History of CVA s/p craniotomy 
+4. Acid reflux
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to care for you at ___ 
+___. You were admitted to the hospital after you 
+experienced a fall and confusion. Due to your fall,  there were 
+multiple imaging studies of your body done to rule out any 
+fractures or head bleeds. You had a right forehead and eye 
+bruise, but otherwise the studies did not show any intracranial 
+bleeding, fractures, or evidence of infection. The cause of your 
+fall is likely related to some chronic imbalance from your prior 
+stroke.  Our team has spoken with your living facility regarding 
+keeping you near providers to help reduce the risk of future 
+falls. Please be sure to be cautious when you are moving in the 
+future to avoid any more falls. 
+
+You were seen by the neurosurgery team while you were here, who 
+discussed your case with your neurosurgeon Dr. ___. At 
+their recommendation, a second CT scan of your head was obtained 
+which was again negative for any bleeding. You will follow-up 
+with Dr. ___ in the outpatient setting. 
+
+Please continue to take all your medications as prescribed, and 
+follow-up with your doctors at the ___ below.
+
+It was a pleasure to care for you during this hospitalization.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

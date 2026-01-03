@@ -1,0 +1,244 @@
+Notes
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+Intubation ___
+EGD ___
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+#ERROR!
+___ 09:15AM   WBC-9.4 RBC-3.42* HGB-9.7* HCT-29.6* MCV-87 
+MCH-28.4 MCHC-32.8 RDW-17.2* RDWSD-54.3*
+___ 09:15AM   NEUTS-82.5* LYMPHS-9.9* MONOS-6.9 EOS-0.0* 
+BASOS-0.2 IM ___ AbsNeut-7.72* AbsLymp-0.93* AbsMono-0.65 
+AbsEos-0.00* AbsBaso-0.02
+___ 09:15AM   ___ PTT-32.4 ___
+___ 09:15AM   ALBUMIN-4.1 CALCIUM-10.2 PHOSPHATE-3.5 
+MAGNESIUM-2.1
+___ 09:15AM   ALT(SGPT)-33 AST(SGOT)-51* ALK PHOS-136* TOT 
+BILI-1.7*
+___ 09:15AM   GLUCOSE-269* UREA N-27* CREAT-0.9 SODIUM-135 
+POTASSIUM-4.4 CHLORIDE-95* TOTAL CO2-21* ANION GAP-19*
+
+DISCHARGE LABS
+#ERROR!
+___ 07:40AM BLOOD WBC-6.4 RBC-3.22* Hgb-9.2* Hct-28.5* 
+MCV-89 MCH-28.6 MCHC-32.3 RDW-17.4* RDWSD-56.9* Plt ___
+___ 07:40AM BLOOD Glucose-111* UreaN-16 Creat-0.6 Na-139 
+K-4.1 Cl-99 HCO3-26 AnGap-14
+___ 07:40AM BLOOD ALT-28 AST-46* AlkPhos-110* TotBili-1.2
+___ 07:40AM BLOOD Calcium-8.7 Phos-3.1 Mg-1.6
+
+MICRO
+#ERROR!
+Blood cultures x2 - NGTD
+
+IMAGING
+#ERROR!
+CXR ___
+Streaky opacities in the lung bases likely reflective of 
+atelectasis, though aspiration is difficult to exclude in the 
+correct clinical context.
+
+EGD ___
+- GAVE and portal hypertensive gastropathy
+- no varices
+
+ 
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL SUMMARY
+#ERROR!
+___ woman with a history of iron deficiency anemia, diabetes on 
+metformin, and NASH cirrhosis child class B decompensated by 
+ascites and previously with variceal bleed who presented with 
+hematemesis and melena. She was intubated semi-electively for 
+urgent EGD and admitted to the ICU. She was never 
+hemodynamically unstable and did not require blood products. EGD 
+revealed a non-bleeding poylp-like structure which is most 
+likely source of bleeding. No varices were visualized. She was 
+extubated on ___. She remained hemodynamically stable and 
+had no further episodes of hematemesis or melena. She was 
+monitored on the medical floor for 24 hours and then discharged 
+home. 
+
+TRANSITIONAL ISSUES
+#ERROR!
+[ ] Imaging that needs to be addressed by PCP or hepatology
+- Imaging from ___:
+1. Cirrhotic liver containing two new segment IV lesions, which 
+measure 1.8 cm and 1.4 cm and demonstrate arterial enhancement 
+and washout but no pseudocapsule. Though findings do not meet 
+strict OPTN-5 criteria, they are highly suspicious for 
+hepatocellular carcinoma. 
+2. New 1.1 cm and 0.5 cm nonenhancing cystic lesions within the 
+body of the pancreas are statistically side-branch IPMNs. These 
+can be followed on subsequent surveillance studies. 
+[ ] Patient needs to have EUS done as an outpatient with Dr. 
+___ to further evaluate the gastric polyp that was 
+seen on EGD. 
+[ ] Patient requesting assistance from her PCP with setting up 
+transportation for medical appointment in ___. 
+[ ] Prior auth for her rifaximin has been approved but her copay 
+is $900. ___ pharmacy will call the patient during the week to 
+try and see if they can apply coupons to lower her copay. She 
+has not been taking rifaxmin as an outpatient and has been 
+managing her encephalopathy with lactulose only. Continue to try 
+and assist patient to see if we can get her rifaximin at a 
+reduced ___. 
+[ ] Please repeat CBC at PCP ___ to ensure it is stable. 
+[ ] Patient discharged with home ___ for strength training and 
+___ for nursing assessment and medication teaching. 
+
+DISCHARGE Hgb: 9.2
+
+#CODE: full confirmed
+#CONTACT: ___ (son) ___ 
+
+ACTIVE ISSUES
+#ERROR!
+# Upper GI Bleed
+# Melena, hemetemesis
+EGD revealed nodular ulcerative GAVE versus gastric polyp as 
+most likely source of bleeding. It was not bleeding. She 
+received octreotide and PPI, never required pRBC transfusion. 
+She was started on ceftriaxone which was transitioned to 
+ciprofloxacin before d/c for 7 days for GIB in the setting of 
+cirrhosis. 
+
+# NASH Cirrhosis
+Recent admission to ___ (about 2 months ago) with varices 
+s/p banding, most recent EGD ___ did not reveal varices. 
+Continued Ceftriaxone for SBP ppx and transitioned to ___ at 
+the time of discharge to complete 7 day course for prophylaxis. 
+Continued lactulose and rifaximin, however she has been unable 
+to get rifaximin as an outpatient due to high copays. No 
+encephalopathy while admitted. 
+
+# Mild hypoxia, resolved 
+New 2L oxygen requirement after extubation. Lung exam 
+significant for diminished lung sounds at the bases, Most likely 
+atelectasis given no leukocytosis, fever, or focal findings. 
+Monitored closely until resolved. 
+
+CHRONIC ISSUES
+#ERROR!
+# Iron deficiency anemia. Iron resumed at discharge. 
+
+# Diabetes. Continued HISS while in house, held home metformin. 
+Metformin resumed at discharged. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. rifAXIMin 550 mg PO BID 
+2. Lactulose 40 mL PO DAILY 
+3. Magnesium Oxide 400 mg PO BID 
+4. Pravastatin 20 mg PO QPM 
+5. Spironolactone 200 mg PO DAILY 
+6. Pantoprazole 20 mg PO Q12H 
+7. Furosemide 40 mg PO QAM 
+8. Furosemide 20 mg PO QPM 
+9. Vitron-C (iron,carbonyl-vitamin C) 65 mg iron- 125 mg oral 
+EVERY OTHER DAY 
+10. Multivitamins 1 TAB PO DAILY 
+11. MetFORMIN XR (Glucophage XR) 1000 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO BID Duration: 4 Days 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*7 Tablet Refills:*0 
+2.  Furosemide 40 mg PO QAM  
+3.  Furosemide 20 mg PO QPM  
+4.  Lactulose 40 mL PO DAILY  
+5.  Magnesium Oxide 400 mg PO BID  
+6.  MetFORMIN XR (Glucophage XR) 1000 mg PO DAILY  
+7.  Multivitamins 1 TAB PO DAILY  
+8.  Pantoprazole 20 mg PO Q12H  
+9.  Pravastatin 20 mg PO QPM  
+10.  Spironolactone 200 mg PO DAILY  
+11.  Vitron-C (iron,carbonyl-vitamin C) 65 mg iron- 125 mg oral 
+EVERY OTHER DAY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Primary diagnoses
+#ERROR!
+Upper GI bleed
+Gastric polyp
+Acute on chronic blood loss anemia
+
+Secondary diagnoses
+#ERROR!
+Cirrhosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital because you were vomiting 
+blood. 
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?
+- You were admitted to the intensive care unit for close 
+monitoring. You had a procedure called an endoscopy to look for 
+bleeding. We saw a polyp in your stomach that was not bleeding. 
+You will need to have a repeat endoscopy as an outpatient to 
+further evaluate this
+- Your blood counts were monitored and they were stable
+- You were started on antibiotics to prevent infection in your 
+abdomen which can happen after bleeding 
+- You worked with physical therapy and did well but they 
+recommended physical therapy at home which we were able to 
+arrange for you at home. 
+- You improved and were ready to leave the hospital.
+
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?
+- Please complete all of the antibiotics you were prescribed. 
+This is to prevent infection in your abdomen
+- Please call your PCP to schedule ___ within one week 
+of discharge 
+- Take all of your medications as prescribed (listed below)
+- Keep your follow up appointments with your doctors
+- Weigh yourself every morning, before you eat or take your 
+medications. Call your doctor if your weight changes by more 
+than 3 pounds
+- Please stick to a low salt diet and monitor your fluid intake
+- If you experience any of the danger signs listed below please 
+call your primary care doctor or come to the emergency 
+department immediately.
+
+It was a pleasure participating in your care. We wish you the 
+best!
+- Your ___ Care Team
+
+ 
+Followup Instructions:
+___

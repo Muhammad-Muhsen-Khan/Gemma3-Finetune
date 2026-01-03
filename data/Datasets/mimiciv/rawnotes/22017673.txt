@@ -1,0 +1,271 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS:  
+___ male patient presenting to the ED for evaluation of 
+altered mental status. 
+
+He was found by EMS altered and unresponsive. He had pillboxes 
+and needles on his person per EMS. History otherwise limited by 
+altered mental status. 
+
+In ED initial VS:  101.1 122 101/60 with RR 4
+Exam:  Pt continued to be unresponsive despite narcan nebs, 
+given 1mg IV narcan with resultant awakening. Pt started 
+vomiting shortly thereafter, given Ativan 0.5mg x 2 for this. 
+Now calm, answering questions, however states he doesn't know 
+what he took. Denies using heroin or fentanyl.
+Patient was given:  
+___ 11:03 IV Naloxone .4 mg ___  
+___ 11:05 IVF  NS  ___ Started  
+___ 11:23 IV Acetaminophen IV 1000 mg ___  
+___ 11:25 IV Ondansetron 4 mg ___  
+___ 11:25 IV Naloxone 1 mg ___  
+___ 11:35 IV LORazepam .5 mg ___  
+___ 11:40 IVF  NS  ___ Started  
+___ 11:55 IV LORazepam .5 mg ___  
+___ 12:00 IM Haloperidol 5 mg ___  
+___ 12:47 IV Naloxone .4 mg ___  
+___ 13:00 IVF  NS 1 mL ___ Stopped (1h ___  
+___ 13:00 IVF  NS 1 mL ___ Stopped (1h ___  
+___ 13:00 IVF  NS  ___ Started  
+___ 13:05 IV CefePIME  ___ Started  
+___ 13:25 IV CefePIME 2 g ___ Stopped (___)  
+___ 14:46 IV Gentamicin 70 mg ___  
+___ 14:46 IVF  NS 1 mL ___ Stopped (1h ___  
+___ 15:55 IVF  NS  ___ Started 250 mL/hr 
+
+Labs notable for: chem panel wnl, cbc unremarkable aside from 
+mild anemia (hgb 11.5), LFTs wnl, INR 1.2, UA neg.
+Urine Opiates Pos 
+Urine Cocaine Pos 
+Urine Benzos, Barbs, Amphet, Mthdne, Oxycodone Negative 
+
+Imaging notable for: 
+-CT head: no acute process
+-CXR: low lung volumes, perihilar GGOs, no lobar consolidation. 
+-EKG:
+-initial: NSR rate 110, sub mm q waves II, III. qtc 407/434. 
+-repeat: NSR rate 65, q wave II, III. qtc 444/454. ivcd.
+Consults:  toxicology
+VS prior to transfer: 
+97.8 75 95/65 10 100% Nasal Cannula 
+
+On arrival to the MICU, he is sleeping but easily awakens. He 
+doesn't remember what he used prior to coming in or how long he 
+had been down. HE is unable to provide further history. He 
+denies any pain or any other complaints. He is hungry. 
+
+Unable to obtain collateral overnight - attempted to reach 
+girlfriend ___ but had to leave a VM.
+
+ 
+Past Medical History:
+Hep C 
+polysubstance abuse
+ 
+Social History:
+___
+Family History:
+unable to provide
+ 
+Physical Exam:
+ADMISSION PHYSICAL:
+Afebrile HR 74 BP 111/56 O2 sat 93-95% on RA
+GEN: Sleeping but wakes easily to voice, a/o to person place and 
+DOB, able to provide girlfriend's phone number, slightly slurred 
+speech. 
+HEENT: NCAT scab on forehead, Moist mucous membranes. PERRL, 
+4mm. No scleral icterus.  
+LUNGS: CTAB, Non-labored
+CV: RRR, No m/r/g. Distal pulses intact. Skin well perfused.  
+ABDOMEN: Soft, NT, ND  
+EXT: No edema, cyanosis or clubbing.  
+SKIN: Normal color. Track marks in bilateral antecubs. multiple 
+grouped erythematous papules on back suggestive of bug bites
+NEURO: a/o x2. Moving all extremities. Normal tone.  
+
+DISCHARGE PHYSICAL:
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 10:45AM   ___ PTT-33.9 ___
+___ 10:45AM   PLT COUNT-191
+___ 10:45AM   NEUTS-62.6 ___ MONOS-7.5 EOS-0.7* 
+BASOS-0.3 IM ___ AbsNeut-3.58 AbsLymp-1.64 AbsMono-0.43 
+AbsEos-0.04 AbsBaso-0.02
+___ 10:45AM   WBC-5.7 RBC-3.67* HGB-11.5* HCT-33.2* MCV-91 
+MCH-31.3 MCHC-34.6 RDW-13.3 RDWSD-44.0
+___ 10:45AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 10:45AM   ALBUMIN-4.1 CALCIUM-9.0 PHOSPHATE-3.7 
+MAGNESIUM-1.8
+___ 10:45AM   ALT(SGPT)-20 AST(SGOT)-32 CK(CPK)-158 ALK 
+PHOS-50 TOT BILI-0.4
+___ 10:45AM   estGFR-Using this
+___ 10:45AM   GLUCOSE-85 UREA N-13 CREAT-0.8 SODIUM-141 
+POTASSIUM-4.5 CHLORIDE-101 TOTAL CO2-29 ANION GAP-11
+___ 11:00AM   LACTATE-0.8
+___ 11:03AM URINE  MUCOUS-OCC*
+___ 11:03AM URINE  AMORPH-FEW
+___ 11:03AM URINE  RBC-1 WBC-1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 11:03AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 11:03AM URINE  COLOR-Yellow APPEAR-Hazy* SP ___
+___ 11:03AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS* 
+cocaine-POS* amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 11:03AM URINE  HOURS-RANDOM
+___ 09:14PM   ___ PTT-36.8* ___
+___ 09:14PM   PLT COUNT-153
+___ 09:14PM   NEUTS-58.8 ___ MONOS-7.1 EOS-1.3 
+BASOS-0.7 IM ___ AbsNeut-3.15 AbsLymp-1.71 AbsMono-0.38 
+AbsEos-0.07 AbsBaso-0.04
+___ 09:14PM   WBC-5.4 RBC-3.66* HGB-11.4* HCT-33.4* MCV-91 
+MCH-31.1 MCHC-34.1 RDW-13.4 RDWSD-45.1
+___ 09:14PM   calTIBC-229* TRF-176*
+___ 09:14PM   ALBUMIN-3.5 CALCIUM-8.2* PHOSPHATE-3.2 
+MAGNESIUM-1.9 IRON-60
+___ 09:14PM   ALT(SGPT)-18 AST(SGOT)-27 LD(LDH)-180 
+CK(CPK)-109 ALK PHOS-42 TOT BILI-0.4
+
+IMAGING:
+___ CT HEAD - no acute process
+
+___ cxr -  
+AP portable semi upright view of the chest.  Lung volumes are 
+low.  Vague 
+ground-glass opacities within the perihilar region could reflect 
+central 
+airways inflammation.  No lobar consolidation, large effusion or 
+pneumothorax. 
+Heart size is normal.  Mediastinal contours unremarkable.  Bony 
+structures are 
+intact. 
+
+MICRO:
+___ Blood Cx 2x: PND
+___ Urine cx: PND
+
+Discharge labs:
+
+___ 07:53AM BLOOD WBC-4.3 RBC-4.40* Hgb-13.4* Hct-38.7* 
+MCV-88 MCH-30.5 MCHC-34.6 RDW-13.1 RDWSD-42.6 Plt ___
+___ 07:53AM BLOOD Glucose-114* UreaN-14 Creat-0.7 Na-145 
+K-4.4 Cl-106 HCO3-27 AnGap-12
+___ 07:53AM BLOOD CK(CPK)-67
+___ 07:53AM BLOOD Calcium-9.1 Phos-2.4* Mg-2.___ yo M with unclear pmh presenting with altered mental status, 
+tachycardia, hyperthermia, and hypopnea likely ___ polysubstance 
+ingestion.
+
+ACTIVE ISSUES:
+
+#Acute confusion and depressed consciousness with overdose of 
+heroin and cocaine
+Suspected due to polysubstance ingestion (cocaine and heroin). 
+He was given narcan in the ED with improvement in his 
+respiratory status and did not require additional doses in the 
+FICU. By HD1 he was significantly improved, without any further 
+metabolic derangements to explain AMS. No further fevers and no 
+leukocytosis to suggest sepsis, and VS have now stabilized with 
+management of toxic ingestion.
+
+#Respiratory depression, tachycardia, hyperthermia: 
+#Suspected polysubstance ingestion: 
+#Fever
+Presented with multiple vital sign derangements: tachycardia, 
+hyperthermia, and hypotension. As above, this was likely due to 
+polysubstance overdose. Urine was positive for cocaine and 
+opiates. Cocaine explains tachycardia and hyperthermia as well 
+as borderline prolonged QRS, while heroin ingestion explains 
+respiratory depression. Resolved in ED with IVF and narcan. CK 
+trended and was not elevated. Blood and urine cultures were sent 
+and are still pending as of ___.
+Regarding fever:  CXR without frank pneumonia, blood and urine 
+cultures pending as of ___ but no growth. He received cefepime 
+and gentamycin in the ED and subsequently did not receive 
+additional antibiotics. 
+
+CHRONIC ISSUES: 
+
+#Hepatitis C - treated
+
+#Polysubstance abuse
+He was counseled re his relapse and planned to resume meetings 
+and discuss his relapse with his PCP.  He was restarted on home 
+Suboxone.
+
+TRANSITIONAL ISSUES:
+PCP follow up for sobriety and social work counseling.
+ 
+Medications on Admission:
+Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Buprenorphine-Naloxone (8mg-2mg) 2 TAB SL DAILY 
+2. Doxepin HCl 25 mg PO HS 
+3. Gabapentin 600 mg PO TID 
+4. Loratadine 10 mg PO DAILY 
+5. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+
+ 
+Discharge Medications:
+1.  Buprenorphine-Naloxone (8mg-2mg) 2 TAB SL DAILY  
+2.  Doxepin HCl 25 mg PO HS  
+3.  Fluticasone Propionate NASAL 2 SPRY NU DAILY  
+4.  Gabapentin 600 mg PO TID  
+5.  Loratadine 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Polysubstance abuse
+Acute encephalopathy
+
+ 
+Discharge Condition:
+tolerating diet, ambulating, stable vital signs.
+ 
+Discharge Instructions:
+It was a pleasure caring for you at the ___.
+
+Why did you come to the hospital?
+You were found outside unresponsive.
+What did we do for you while you were hospitalized?
+You were supported with iv fluids, and received medications to 
+reverse the medications that you took.
+Your mind got clearer.
+
+What should you do once you leave the hospital?
+Continue your suboxone and remain sober.
+Go to an NA meeting today - and ___ your PCP
+___ the doctor if you get a fever or feel worse.
+
+Pay attention to the warning signs below, and ___ your doctor 
+if any of them develop.
+
+Attend all the follow up appointments scheduled below.
+
+ 
+Followup Instructions:
+___

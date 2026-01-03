@@ -1,0 +1,391 @@
+Notes
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+gabapentin / Lyrica / amitriptyline / honey
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Epistaxis, hypotension
+ 
+Major Surgical or Invasive Procedure:
+Tunneled line replacement ___
+
+ 
+History of Present Illness:
+___ is a ___ year old woman with past medical history of 
+HIV on HAART, ESRD secondary to HIVAN, complex medical history 
+with many hospitalizations (most recently for uremic 
+pericarditis complicated by osteodystrophic left leg 
+fracture)who presents from clinic with nose bleeding and 
+hypotension from a clinic appointment. 
+
+Patient reports that she began feeling lightheaded/dizzy on 
+___ evening. She had her blood pressure measured at that 
+time and it was normal. She reports that she subsequently became 
+nauseous and reports that she has had poor oral intake since 
+evening of ___, night prior to admission. She reports that she 
+underwent dialysis today without complication. While at her 
+clinic she reports she had recurrence of the dizziness. She 
+states that she received fluids in the emergency department and 
+that she feels better. 
+
+She separately reports abdominal pain. This is in the right 
+upper quadrant. She denies sharp pain. She states she feels she 
+has to have a bowel movement but that she had difficulty passing 
+a hard, nonbloody stool in the emergency department. 
+ 
+Past Medical History:
+HIV since ___, PCP PNAx3
+ESRD secondary to HIV/AIDS nephropathy on HD (MWF) since ___ 
+Currently dialyzed via L common femoral HD catheter
+C.diff
+Paroxysmal afib
+Eight V1 herpes zoster ___ complicated by post-herpetic 
+neuralgia and decreased vision in the right eye
+Cervical dysplasia
+Fibroids
+Secondary hyperparathyroidism
+Chronic headaches
+Warfarin associated calciphylaxis c/b bilateral transmetatarsal 
+amps requiring revisions, ___ left third finger dry gangrene, 
+___ 
+MRSA bacteremia and R HD tunneled line infection, ___ 
+___: Right above-knee amputation
+___: Right AT angioplasty 
+___ Angioplasty of the left interosseous artery occlusion
+___ UE angio: Occluded left radial and ulnar arteries
+___ TMA revision left 
+___ TMA revision right 
+___ Bilateral open transmetatarsal amputation for b/l 
+gangrene
+multiple AV fistulas and grafts 
+R femoral graft, 
+IVC balloon plasty for 90% stenosis (___)
+right lower extremity angiogram and balloon angioplasty of the 
+right anterior tibial artery (___)
+ 
+Social History:
+___
+Family History:
+Sister-DM, CVD.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: BP ___ then 100/60s, HR 80 SPO2 100 on RA
+GENERAL: Alert, oriented, no acute distress
+HEENT: Cloudy right eye, left pupil reactive to light, Sclera 
+anicteric, MMM, oropharynx clear, clotted blood of nares 
+bilaterally
+NECK: supple, no LAD, left jaw soft tissue larger than right
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops
+ABD: soft, mild tenderness to RUQ, non-distended, bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly
+EXT: has left leg, very tender to palpation around knee, s/p toe 
+amputations, foot is cool, sensation intact, no edema, posterior 
+tibial pulse palpable; black wound of right index finger
+SKIN:  crust overlying chest
+Lines: right subclavian line non erythematous, nontender, no 
+clear purulent discharge
+NEURO:  alert and oriented to person, place, month and year
+
+DISCHARGE PHYSICAL EXAM:
+Afebrile BP 85/21 HR 74 O2 Sat 100 on RA
+Gen: no acute distress
+HEENT: moist mucous membranes no bleeding or oozing from mouth
+Chest: tunneled line without tenderness
+CV: RRR, no murmurs rubs or gallops
+Pulm: Clear to air bilaterally
+Abd: soft, nontender
+Ext: tenderness to palpation of left foot; s/p AKA on right, 
+black wound of right index finger stable
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 12:58PM BLOOD WBC-3.3* RBC-2.84* Hgb-8.5* Hct-28.2* 
+MCV-99* MCH-29.9 MCHC-30.1* RDW-21.6* RDWSD-74.4* Plt ___
+___ 12:58PM BLOOD Neuts-74.0* Lymphs-13.5* Monos-11.0 
+Eos-0.9* Baso-0.3 NRBC-6.4* Im ___ AbsNeut-2.41 
+AbsLymp-0.44* AbsMono-0.36 AbsEos-0.03* AbsBaso-0.01
+___ 12:58PM BLOOD Plt Smr-NORMAL Plt ___
+___ 01:34PM BLOOD ___ PTT-57.9* ___
+___ 12:58PM BLOOD Glucose-50* UreaN-11 Creat-1.3*# Na-137 
+K-3.7 Cl-96 HCO3-24 AnGap-17
+___ 12:58PM BLOOD ALT-30 AST-41* LD(LDH)-218 AlkPhos-350* 
+TotBili-0.2
+___ 10:10PM BLOOD Calcium-8.8 Phos-3.3 Mg-2.0
+___ 12:58PM BLOOD Albumin-3.5
+___ 01:06PM BLOOD Lactate-2.0
+
+IMAGING:
+
+CXR ___: Impression - No areas of focal consolidation to 
+suggest pulmonary edema.
+
+TTE ___: Impression - No pericardial effusion. Normal 
+biventricular cavity sizes, regional/global systolic function. 
+
+Hand Xray ___:
+Left hand: There has been previous amputation of the long finger 
+at the base of the proximal phalanx.  This is unchanged.  
+Fracture involving the distal phalanx of the index finger 
+appears mostly healed.  There is acro-osteolysis of the index 
+and small fingers.  There are vascular calcifications.  Surgical 
+clips are seen adjacent to the distal radius.  Peripheral IV 
+catheter is seen. There are mild-to-moderate degenerative 
+changes of the first CMC joint.  No bony erosions are present. 
+  
+Right hand : No acute fractures or dislocations are seen.  
+Vascular 
+calcifications are seen.  There is acro-osteolysis particularly 
+of the index finger. There are no erosions. 
+
+Foot xray ___
+  
+There is extensive demineralization which limits evaluation.  
+Patient 
+undergone transmetatarsal amputation.  No definite cortical 
+destruction is 
+seen to indicate acute osteomyelitis however again the 
+osteopenia markedly 
+limits evaluation.  Extensive vascular calcifications throughout 
+the soft 
+tissues.  These findings have markedly progressed since 
+essentially normal 
+radiographs from ___ 
+
+DISCHARGE LABS:
+___ 04:14AM BLOOD WBC-6.4 RBC-2.84* Hgb-8.4* Hct-26.5* 
+MCV-93 MCH-29.6 MCHC-31.7* RDW-21.4* RDWSD-70.2* Plt ___
+___ 04:14AM BLOOD ___ PTT-37.7* ___
+___ 04:14AM BLOOD Glucose-76 UreaN-8 Creat-1.7*# Na-144 
+K-4.4 Cl-97 HCO3-24 AnGap-23*
+___ 04:14AM BLOOD ALT-9 AST-37 LD(LDH)-256* AlkPhos-323* 
+TotBili-0.2
+___ 04:14AM BLOOD Albumin-3.1* Calcium-9.3 Phos-2.3* Mg-1.9
+___ 04:51AM BLOOD Lactate-1.___ year old woman with past medical history of HIV complicated 
+by renal failure on HD MWF, klebsiella bacteremia and tunneled 
+line infection, multiple recent hospitalizations for 
+pericarditis and left leg fracture who presented from clinic 
+with hypotension and nose bleed. Her course was complicated by 
+an episode of GI bleeding and ultimately underwent a HD line 
+exchange with ___.
+
+#Hypotension
+BPs ___ on admission with lactates WNL. For reference, 
+her blood pressure was typically in the ___ on her previous 
+admission this ___. Due to concern for infection, she was 
+started on Zosyn and transitioned to Meropenem, however on 
+discharge abx were stopped after discussion with the patient's 
+PCP and all cultures were negative. She was briefly called out 
+to the floor, however she had an episode of BRBPR and returned 
+to the ICU where she remained stable. 
+
+#Coagulopathy 
+During her admission she had several episodes of bleeding, 
+including BRBPR, epistaxis and vaginal bleeding. At the time of 
+her last discharge on ___ she was on aspirin 325 tid for 
+uremic pericarditis. This likely contributed to her bleeding 
+episodes. She was discharged this admission on aspirin 81mg 
+daily. She was seen by Hematology on this admission, who 
+recommended continuing her apixaban given her thrombotic 
+history. She is due to be followed up in ___ clinic.
+
+#Epistaxis
+Seen and packed by ENT in ED on ___ will dissolve in 
+___ days). She has a septal perforation, with plans for follow 
+up in ENT outpatient clinic.
+
+#BRBPR
+GI was consulted because patient had melanotic stool during this 
+admission. The episode occurred x1 and did not recur. GI did not 
+recommend endoscopy at the time, because the bleeding did not 
+appear to be localized to the GI tract.
+
+#tunneled line infection
+Blood cultures returned negative during admission. Her catheter 
+was exchanged by ___ on ___.
+
+#Recent C. diff infection
+History of recurring C. diff infections. Status post empiric C. 
+diff treatment for positive PCR during recent hospitalizations 
+(___). She was restarted on vancomycin 125 PO q6h as 
+prophylaxis in setting of starting broad spectrum antibiotics as 
+above to be continued for 14d course.
+
+#Renal osteodystrophy
+X-rays of the foot showed progressive calcification. X-rays of 
+the hand showed healing fracture. 
+
+#Double vision
+Patient complained of double vision while on the floor. 
+Ophthalmology was consulted, however she refused to be examined 
+by their team. 
+
+#HIV Infection
+Continued home dolutegravir, emtricitabine and tenofovir, as 
+well as fluconazole, Bactrim, and acyclovir.
+
+#ESRD on HD MWF: 
+Continue home medications: sevelamer, nephrocaps, cinacalcet
+
+#History of hepatic vein thrombosis
+Continued apixaban 
+
+#ERROR!
+ TRANSITIONAL ISSUES: 
+#ERROR!
+[ ] Will need follow up scheduled with hematology
+[ ] ENT follow up scheduled
+[ ] Recommend CBC monitoring at PCP visit on ___
+[ ] Please continue PO vanc for 14 day to end ___
+[ ] Please consider outpatient visit with ophthalmology for 
+double vision 
+
+# Communication: HCP: ___, daughter, ___
+# Code: Full 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO TID 
+2. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+3. Acyclovir 400 mg PO DAILY 
+4. Atorvastatin 20 mg PO QPM 
+5. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation - First Line 
+6. Cinacalcet 90 mg PO DAILY 
+7. Docusate Sodium 100 mg PO BID:PRN Constipation - First Line 
+8. Dolutegravir 50 mg PO DAILY 
+9. DULoxetine 30 mg PO DAILY 
+10. Emtricitabine 200 mg PO 2X/WEEK (MO,FR) 
+11. Fluconazole 200 mg PO Q24H 
+12. Fludrocortisone Acetate 0.1 mg PO BID 
+13. GuaiFENesin ER 600 mg PO Q12H:PRN cough 
+14. Midodrine 15 mg PO TID 
+15. Nephrocaps 1 CAP PO DAILY 
+16. Omeprazole 20 mg PO BID 
+17. Ondansetron 4 mg PO Q8H:PRN nausea 
+18. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+19. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line 
+20. Senna 17.2 mg PO BID:PRN Constipation - First Line 
+21. Sertraline 50 mg PO DAILY 
+22. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+23. Sulfameth/Trimethoprim DS 1 TAB PO 3X/WEEK (___) 
+24. Tenofovir Disoproxil (Viread) 300 mg PO 1X/WEEK (SA) 
+25. Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID:PRN rash 
+26. HydrOXYzine 12.5 mg PO BID:PRN itching 
+27. Apixaban 2.5 mg PO BID 
+28. Vancomycin Oral Liquid ___ mg PO Q6H 
+29. FoLIC Acid 0.8 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Vancomycin Oral Liquid ___ mg PO/NG Q12H  
+3.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+4.  Acyclovir 400 mg PO DAILY  
+5.  Apixaban 2.5 mg PO BID  
+6.  Atorvastatin 20 mg PO QPM  
+7.  Bisacodyl 10 mg PO/PR DAILY:PRN Constipation - First Line  
+8.  Cinacalcet 90 mg PO DAILY  
+9.  Docusate Sodium 100 mg PO BID:PRN Constipation - First Line  
+
+10.  Dolutegravir 50 mg PO DAILY  
+11.  DULoxetine 30 mg PO DAILY  
+12.  Emtricitabine 200 mg PO 2X/WEEK (MO,FR)  
+13.  Fluconazole 200 mg PO Q24H  
+14.  Fludrocortisone Acetate 0.1 mg PO BID  
+15.  FoLIC Acid 0.8 mg PO DAILY  
+16.  GuaiFENesin ER 600 mg PO Q12H:PRN cough  
+17.  HydrOXYzine 12.5 mg PO BID:PRN itching  
+18.  Midodrine 15 mg PO TID  
+19.  Nephrocaps 1 CAP PO DAILY  
+20.  Omeprazole 20 mg PO BID  
+21.  Ondansetron 4 mg PO Q8H:PRN nausea  
+22.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate  
+23.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+24.  Senna 17.2 mg PO BID:PRN Constipation - First Line  
+25.  Sertraline 50 mg PO DAILY  
+26.  sevelamer CARBONATE 1600 mg PO TID W/MEALS  
+27.  Sulfameth/Trimethoprim DS 1 TAB PO 3X/WEEK (___)  
+28.  Tenofovir Disoproxil (Viread) 300 mg PO 1X/WEEK (SA)  
+29.  Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID:PRN rash  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnoses: 
+Tunneled line infection 
+Epistaxis
+
+Secondary diagnoses:
+HIV infection
+Double vision 
+Tibial fracture
+ESRD on HD
+Recent C diff infection
+History of hepatic vein thrombosis 
+Calciphylaxis
+Atrial fibrillation 
+Peripheral vascular disease
+Chronic cough
+GERD
+Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure caring for you during your admission to ___. 
+Below you will find information regarding your stay.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?  
+- You were admitted because you were having a nose bleed and 
+there was concern that your blood pressure was low.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?  
+- You were seen by the ear, nose and throat doctors who placed 
+some packing in your nose.
+- You had your hemodialysis line replaced.
+- You had some bleeding from your GI tract and you were seen by 
+the blood disorder doctors who recommended we continue your 
+apixaban.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+- Your nose packing should dissolve in around one week.
+- Please follow up with the ear, nose and throat doctors as ___ 
+as the blood disorder doctors. 
+
+Thank you for letting us be a part of your care!  
+
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,356 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+SI
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo M with PMH of anxiety, depression, HTN and ETOH use
+disorder presents with suicidal ideation.
+
+The patient was recently admitted to the ___ last
+week for suicidal ideation. He was discharged on ___ and was
+unable to pick up any of his medications. He expresses regret 
+for
+not signing papers that would have gotten him an inpatient psych
+admission. 
+
+Patient reports that this morning he couldn't take "it" anymore
+and was having worsening suicidal ideation. He says he has no
+support in his life and everything is going wrong.  He reports
+that several days ago he cut both of his wrists because he did
+not want to live anymore. 
+
+He has a long history of ETOH abuse. He drank a pint of vodka
+this morning as well as a beer. He reports drinking as much as
+possible on the average day to get rid of voices. He has a
+history of withdrawing from ETOH, but no seizures. His last
+period of sobriety was ___ ago when he was in treatment and was
+sober for ___ weeks. 
+
+In regards to his other substance abuse he reports smoking crack
+cocaine, marijuana and using intranasal cocaine. His most recent
+drug use was yesterday when he smoked marijuana. He has injected
+drugs once in the past but this was ___ years ago.
+
+He reports last week he fell down stairs and was taken to the
+hospital where he had a negative head CT and had a suture placed
+in his lower lip. He has had a headache since then. He was 
+unable
+to pick up his medications after his discharge. 
+
+He reports no history of endocarditis and no long term 
+antibiotic
+use, stating his only antibiotic use was for pneumonia. He 
+denies
+fevers, chills, abdominal pain or urinary symptoms
+ 
+Past Medical History:
+Depression
+Anxiety
+HTN
+Chronic knee pain
+Chronic back pain 
+ 
+Social History:
+___
+Family History:
+Brother with schizophrenia 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: 24 HR Data (last updated ___ @ 003)
+    Temp: 98.3 (Tm 98.3), BP: 130/86, HR: 92, RR: 18, O2 sat:
+98%, O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: healing lip laceration, PERRL, EOMI. Sclera anicteric and
+without injection. dry mucus membranes. poor dentition 
+NECK: No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+PSYCH: +SI with plan to hang himself, +auditory hallucinations
+telling him to commit suicide  
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait is normal. AOx3.
+
+DISCHARGE PHYSICAL EXAM: 
+VS:24 HR Data (last updated ___ @ 754)
+    Temp: 98.6 (Tm 98.6), BP: 115/75 (105-140/69-90), HR: 64
+(57-75), RR: 16 (___), O2 sat: 96% (96-100), O2 delivery: Ra  
+GENERAL: Seen lying in bed, sleeping but easily arousable.
+Depressed affect. Responding to questions appropriately. In no
+acute distress.
+HEENT: healing lip laceration, PERRL, EOMI. No ___ spots. 
+Sclera
+anicteric and without injection. MMM. poor dentition. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally. No ___ lesions ___ nodes
+SKIN: Warm. Cap refill <2s. No rash.
+PSYCH: +SI with plan to hang himself, +auditory hallucinations
+telling him to commit suicide  
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait is normal. AOx3.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:45PM BLOOD WBC-14.0* RBC-4.10* Hgb-11.7* Hct-37.0* 
+MCV-90 MCH-28.5 MCHC-31.6* RDW-13.0 RDWSD-42.2 Plt ___
+___ 01:45PM BLOOD Neuts-70.4 Lymphs-15.7* Monos-11.4 
+Eos-1.5 Baso-0.4 Im ___ AbsNeut-9.87* AbsLymp-2.21 
+AbsMono-1.60* AbsEos-0.21 AbsBaso-0.06
+___ 01:45PM BLOOD Plt ___
+___ 01:45PM BLOOD Glucose-84 UreaN-21* Creat-0.9 Na-143 
+K-3.9 Cl-105 HCO3-20* AnGap-18
+___ 01:45PM BLOOD Calcium-9.7 Phos-3.5 Mg-2.0
+___ 01:45PM BLOOD ASA-NEG ___ Acetmnp-NEG 
+Tricycl-NEG
+___ 01:45PM BLOOD GreenHd-HOLD
+___ 06:36PM BLOOD Lactate-3.5*
+
+DISCHARGE LABS:
+___ 05:30AM BLOOD WBC-6.0 RBC-3.77* Hgb-10.7* Hct-33.4* 
+MCV-89 MCH-28.4 MCHC-32.0 RDW-12.8 RDWSD-41.4 Plt ___
+___ 05:30AM BLOOD Plt ___
+___ 05:30AM BLOOD ___ PTT-27.5 ___
+___ 05:30AM BLOOD Glucose-98 UreaN-14 Creat-0.9 Na-142 
+K-3.8 Cl-106 HCO3-23 AnGap-13
+___ 05:30AM BLOOD Phos-3.1 Mg-1.8
+___ 05:30AM BLOOD
+___ 09:13AM BLOOD calTIBC-296 Ferritn-299 TRF-228
+___ 12:44PM BLOOD Lactate-1.3
+
+MICROBIOLOGY:
+___ 1:47 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+IMAGING:
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+normal cavity size and regional/ global biventricular systolic 
+function. No valvular pathology or pathologic flow identified. 
+No 2D
+echocardiographic evidence for endocarditis.
+
+FINDINGS:  
+  
+Heart is normal in size.  Mediastinal and hilar contours appear 
+within normal 
+limits.  There is no pleural effusion or pneumothorax.  
+Projecting over the 
+courses of the right clavicle, anteiror right first rib and 
+right upper lobe 
+is a small nodular focus of uncertain etiology, visible only on 
+the AP view.  
+This may be due to a confluence of shadows, benign sclerosis in 
+one of the 
+overlapping bony structures, but possibility of a pulmonary 
+nodule should be 
+excluded.  Otherwise, lung fields appear clear. 
+  
+IMPRESSION:  
+  
+1.  No evidence of acute cardiopulmonary disease. 
+  
+2. Possibility of pulmonary nodule at the right lung apex. 
+  
+RECOMMENDATION(S):  Evaluation with low-dose noncontrast chest 
+CT is 
+recommended when clinically appropriate. 
+
+ 
+Brief Hospital Course:
+PATIENT SUMMARY: 
+==================== 
+Mr. ___ is a ___ yo M with PMH of anxiety, depression, HTN and 
+ETOH use disorder presented with suicidal ideation admitted to 
+medicine for elevated temperature and tachycardia. 
+==================== 
+
+ACUTE ISSUES: 
+==================== 
+#Suicidal ideation
+#Major Depressive Disorder
+From history has had history of suicide attempts who presented 
+with current active suicidal ideation. Placed on ___ in 
+the ED with the intention for inpatient psych admission 
+following medical clearance. During his admission, he continued 
+to endorse SI ideation he though this was contingent on if he 
+was to be discharged. He expressed a plan that he would hang 
+himself if he were to leave and had a rope somewhere. He also 
+expressed to the primary medical team desire to hurt others "who 
+have wronged me in the past" but did not specify to whom he was 
+referring. He expressed a desire to seek help with inpatient 
+psych. He was evaluated by psych, 1:1 sitter was decided to no 
+longer be needed as he was not a threat so long as he stayed 
+inpatiet. Points of struggle include EtOH use and lack of 
+housing. If note, he also shared with the primary medicine team 
+that he has been hearing voices for years which told him to hurt 
+himself and make negative statements about him.
+
+#EtOH use disorder
+#EtOH withdrawal
+Reports significant history of ETOH use with no history of 
+withdrawal seizures. Stated that he drinks ___ of vodka per 
+day. Last drink was approximately 24 hours ago prior to 
+admission. He was placed on CIWA which he scored on for 48 
+hours. He was given multivitamins, folate and thiamine. Social 
+work was consulted.
+
+#polysubstance abuse
+Patient with history of cocaine and marijuana use. Denied recent 
+history of cocaine use, however UDS positive in the ED. Denied 
+history of opioid use.
+
+#Tachycardia (resolved)
+#Lactic Acidosis (resolved)
+Patient presented with temperature (100.0) and tachycardia with 
+concern in the ED for endocarditis. He has no history of 
+endocarditis and no risk factors for endocarditis. He did have 
+an elevated lactate that returned to normal with fluid, it was 
+thought to be related to poor PO intake and EtOH intake. No 
+findings on physical exam suggestive of endocarditis (no murmur, 
+___ nodes, ___ lesions, ___ spots) and no risk factors 
+noted in history (IVDU ___ years ago is too remote). Tachycardia 
+may be component of EtOH withdrawal (see problem listed). He 
+never had any findings suggestive infection. Blood cultures 
+remained negative. Hepatitis panel was unremarkable.
+
+#Anemia 
+Suspect chronic in setting of marrow suppression from ETOH use
+and poor PO intake. No indications of active bleed. Patient 
+never required any transfusions. 
+
+==================== 
+CHRONIC ISSUES:
+
+#HTN
+Held home propranolol given he was normotensive. 
+
+==================== 
+TRANSITIONAL ISSUES: 
+==================== 
+[ ] Patient was found to have a questionable pulmonary nodule, 
+will need a follow-up CT scan to further evaluate
+
+EtOH Withdrawal:
+[ ] Patient required multiple doses of diazepam for withdrawal. 
+Last dose on 0500 ___, possibly still withdrawing at time of 
+transfer. He did not have any complications such as seizures or 
+delirium tremors.
+[ ] Patient is currently under ___
+[ ] Endorses active SI only if discharged home
+
+Home Medications:
+[ ] All home behavioral medications were held at time of 
+admission per psych recommendation. Please carefully titrate 
+patient back to home medications or new medications prior to 
+discharge from ___ rehab. 
+
+- New Meds: None
+- Stopped/Held Meds: Propranolol 80mg QD, gabapentin 800mg TID, 
+mirtazapine 15mg QHS, naproxen 500mg BID, prazosin 5mg QD, 
+topiramate 50mg QD, venlafaxine 75mg QD
+- Changed Meds: None
+
+# CODE: Full Code
+# CONTACT: None
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Venlafaxine 75 mg PO DAILY 
+2. Topiramate (Topamax) 50 mg PO DAILY 
+3. Propranolol LA 80 mg PO DAILY 
+4. Prazosin 5 mg PO DAILY 
+5. Naproxen 500 mg PO Q12H 
+6. Mirtazapine 15 mg PO QHS 
+7. Gabapentin 800 mg PO TID 
+
+ 
+Discharge Medications:
+1.  FoLIC Acid 1 mg PO DAILY  
+2.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+===================
+Major Depression Disorder
+Suicidal Ideation
+
+Secondary Diagnosis:
+=====================
+Alcohol Withdrawal
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+================================================  
+MEDICINE Discharge Worksheet  
+================================================  
+Dear Mr. ___,  
+ 
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+- You were admitted for alcohol withdrawal
+ 
+What was done for me while I was in the hospital?  
+- You received medications to treat your symptoms of withdrawal
+- You talked to psychiatry who recommended for you to be 
+admitted for further management of your depression
+
+What should I do when I leave the hospital?  
+- Follow-up with your PCP ___ 2 weeks
+- Continue to work with psychiatry to help work on your 
+depression
+- Come back to the ER or call ___ if you are having more 
+feelings of wanting to harm yourself.
+ 
+Sincerely,  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

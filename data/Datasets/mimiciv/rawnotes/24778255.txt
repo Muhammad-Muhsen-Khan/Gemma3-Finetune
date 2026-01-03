@@ -1,0 +1,293 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ciprofloxacin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+diarrhea
+ 
+Major Surgical or Invasive Procedure:
+PICC line insertion
+PICC line removal
+
+ 
+History of Present Illness:
+ID: ___ man with AML, with extensive extramedullary
+disease(testicular mass, skin, gum sarcomas) s/p allo transplant
+(___) with hospital stay complicated by ___ disease of the
+gut (Stage II, grade I), atrial flutter, 2:1, with rapid
+ventricular response up 160/min.
+
+Pt presented to clinic on ___ c/o loose stools. Per pt, he
+started having loose stools about 5 days ago (on ___ and 
+there
+after had ___ watery stools per day. Last BM was on ___ and it
+was watery diarrhea. Pt had EGD and flexible sigmoidoscopy on
+___ biopsies consistent with mild GVHD. He denies 
+hematochezia,
+hematemesis, and melena. Of note, his cyclosporine was recently
+decreased on ___ from 100 mg BID to 75 mg BID.
+
+He has been having abdominal pain which he describes as
+intermittent and sharp two days prior to admission. He continues
+to have an appetite, but has had some intermittent nausea and
+vomited on ___. He denies vomiting since. He has had no fevers
+or chills. He denies chest pain, heart palpitations, SOB, HA,
+cough, and swelling. He reports a rash on the back of his thighs
+which ahs been evaluated by dermatology and Dr. ___ 
+he
+reports they are unimpressed.
+ 
+Past Medical History:
+hypothyroidism
+anxiety
+chronic pain
+dental extraction
+L inguinal orchiectomy- ___
+ 
+Social History:
+___
+Family History:
+Maternal grandmother had lung cancer
+Father had MI
+___, ALS in the family
+ 
+Physical Exam:
+ADMISSION
+PHYSICAL EXAM: 
+Vitals: 97.7 132 / 72 87 20 96 
+Gen: Pleasant, calm  
+HEENT: No conjunctival pallor. No icterus. MMM. OP clear.  
+NECK: supple without LAD. Normal carotid upstroke without 
+bruits.
+CV: Normocardic, regular. Normal S1,S2. No MRG.   
+LUNGS: No incr WOB. CTAB. No wheezes, rales, or rhonchi.  
+ABD: NABS. Soft, ND. Tender over R and L lower quadrants without
+rebound or guarding. 
+EXT: WWP. No ___ edema. 
+SKIN: pale, 1 mm, raised, redness at follicles over back of ___
+thighs
+NEURO: A&Ox3.
+LINES: no lines yet
+
+DISCHARGE
+Vitals: 98.0 170 / 109 65 18 98 RA 
+Gen: Pleasant, calm  
+HEENT: No conjunctival pallor. No icterus. MMM. OP clear.  
+NECK: supple without LAD. Normal carotid upstroke without 
+bruits.
+CV: Normocardic, regular. Normal S1,S2. No MRG.   
+LUNGS: No incr WOB. CTAB. No wheezes, rales, or rhonchi.  
+ABD: NABS. Soft, ND. Non-tender
+EXT: WWP. No ___ edema. 
+SKIN: pale, 1 mm, raised, redness at follicles over back of ___
+thighs
+NEURO: A&Ox3.
+LINES: PICC
+ 
+Pertinent Results:
+ADMISSION
+
+___ 04:45PM BLOOD WBC-9.5 RBC-3.59* Hgb-11.1* Hct-34.4* 
+MCV-96 MCH-30.9 MCHC-32.3 RDW-17.2* RDWSD-60.4* Plt ___
+___ 04:45PM BLOOD Neuts-73.8* Lymphs-16.8* Monos-8.1 
+Eos-0.3* Baso-0.3 NRBC-0.7* Im ___ AbsNeut-6.97* 
+AbsLymp-1.59 AbsMono-0.77 AbsEos-0.03* AbsBaso-0.03
+___ 06:35AM BLOOD ___ PTT-25.2 ___
+___ 04:45PM BLOOD  WBC-9.5 Lymph-17* Abs ___ CD3%-76 
+Abs CD3-1225 CD4%-34 Abs CD4-548 CD8%-41 Abs CD8-656 
+CD4/CD8-0.84
+___ 04:45PM BLOOD UreaN-38* Creat-1.5* Na-136 K-6.1* Cl-106 
+HCO3-21* AnGap-9*
+___ 04:45PM BLOOD ALT-59* AST-33 LD(LDH)-324* AlkPhos-84 
+TotBili-0.4
+___ 04:45PM BLOOD TotProt-6.2* Albumin-4.1 Globuln-2.1 
+Calcium-9.2 Phos-3.2 Mg-2.2
+___ 04:45PM BLOOD 25VitD-22*
+___ 04:45PM BLOOD Cyclspr-221
+___ 12:00AM BLOOD CMV VL-NOT DETECT
+
+IMAGING
+CT A/P ___
+IMPRESSION:
+
+1. Diffuse heterogeneous appearance of the visualized osseous 
+structures new
+since ___, and compatible with known leukemia.
+2. Please note that evaluation of colitis is limited on a 
+noncontrast study,
+however, no obvious colitis is identified on this exam.
+
+DISCHARGE
+
+___ 12:00AM BLOOD WBC-9.0 RBC-3.30* Hgb-9.9* Hct-31.7* 
+MCV-96 MCH-30.0 MCHC-31.2* RDW-17.1* RDWSD-60.1* Plt ___
+___ 12:00AM BLOOD Neuts-84* Bands-1 Lymphs-9* Monos-5 Eos-0 
+Baso-0 ___ Metas-1* Myelos-0 AbsNeut-7.65* AbsLymp-0.81* 
+AbsMono-0.45 AbsEos-0.00* AbsBaso-0.00*
+___ 12:00AM BLOOD ___ PTT-26.5 ___
+___ 12:00AM BLOOD ___ 12:00AM BLOOD Glucose-160* UreaN-27* Creat-1.0 Na-139 
+K-4.8 Cl-103 HCO3-21* AnGap-15
+___ 12:00AM BLOOD ALT-37 AST-17 LD(LDH)-297* AlkPhos-56 
+TotBili-0.3
+___ 12:00AM BLOOD Calcium-8.7 Phos-3.8 Mg-1.8 UricAcd-7.8*
+___ 09:00AM BLOOD Cyclspr-___ M with AML, MLL(+)s/p post MUD TB/Cy Allo without evidence of 
+disease relapse and chimerism 100% by FISH on most recent bone 
+marrow bx (___) admitted with diarrhea initially concerning 
+for possible GVHD, but with complete resolution of his symptoms 
+by discharge. 
+
+# Diarrhea, concerning for acute GVHD
+Patient presented with several days of watery diarrhea 
+accompanied by abdominal pain, but was afebrile. He had a 
+endoscopy and flexible sigmoidoscopy with biopsies taken on 
+___ prior to admission which revealed pathology consistent 
+with mild GVHD. C. difficile was negative, CT abdomen and pelvis 
+was without colitis or ileus. Patient was initiated on 60 mg of 
+Solu-Medrol twice daily, and his cyclosporine was increased from 
+75 200 mg twice daily. Fortunately his diarrhea had resolved on 
+the day of admission, and his abdominal pain resolved over the 
+course of his hospitalization. He had 2 normal bowel movements 
+while hospitalized. His steroids were tapered as below, and his 
+diet was advanced as tolerated. 
+
+# Acute Kidney Injury, resolved
+Mr. ___ presented with a creatinine of 1.5 from baseline of 
+1.0. Suspect pre-renal in the setting of poor PO intake from 
+abdominal pain as well as volume loss or diarrhea. He was fluid 
+resuscitated as appropriate and his creatinine was back to his 
+baseline by discharge.
+
+# Hyperkalemia. Suspect secondary to acute kidney injury from 
+volume loss. Patient was volume resuscitated and potassium was 
+normal on discharge.
+
+# AML, MLL(+)s/p MUD TB/Cy Allo without evidence of disease
+relapse and chimerism 100% by FISH on most recent bone marrow bx
+-He was continued on his home acyclovir TID, he was briefly 
+switched to atovaquone in setting of acute kidney injury for 
+transition back to his home Bactrim, CMV was monitored. His 
+cyclosporine was increased to 100 mg twice daily and levels are 
+monitored every other day.
+
+# Hypertension: Patient's lisinopril was held in setting of 
+acute kidney injury and hyperkalemia. His home lisinopril was 
+restarted when his kidney injury resolved. 
+
+# Neuropathy: Continued home gabapentin and oxycodone
+
+# Atrial tachyarrhythmia: s/p cardioversion on ___ with return 
+to NSR. No longer requiring rate or rhythm control agents. 
+Patient was monitored.
+
+TRANSITIONAL ISSUES
+[] Prednisone taper: Patient should take 10 mg of prednisone on 
+___, and 5 mg of prednisone on ___. He should continue on 5 
+mg of prednisone until he is seen in clinic.
+[] Patient's cyclosporine was increased to 100 mg twice daily. 
+His cyclosporine level on discharge was 150.
+[] Nodulation CT Chest ___ shows extensive medullary blastic 
+nodulation has developed throughout the chest cage since ___. Patient will need PET in ___.
+
+# CODE: Presumed Full
+# EMERGENCY CONTACT: ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acyclovir 400 mg PO Q8H 
+2. Vitamin D ___ UNIT PO 1X/WEEK (WE) 
+3. Gabapentin 600 mg PO TID 
+4. Lisinopril 20 mg PO DAILY 
+5. LORazepam 1 mg PO QHS:PRN sleep 
+6. OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - Moderate 
+
+7. Pantoprazole 40 mg PO Q24H 
+8. PredniSONE 4 mg PO DAILY 
+9. Sodium Fluoride 1.1% (Dental Gel) 1 Appl TP QHS 
+10. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+11. Triamcinolone Acetonide 0.025% Cream 1 Appl TP BID 
+12. FoLIC Acid 1 mg PO DAILY 
+13. CycloSPORINE (Neoral) MODIFIED 75 mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  CycloSPORINE (Neoral) MODIFIED 100 mg PO Q12H 
+RX *cyclosporine modified 100 mg 1 capsule(s) by mouth ___ 
+#*60 Capsule Refills:*0
+RX *cyclosporine modified 25 mg 4 capsule(s) by mouth twice a 
+day ___ #*240 Capsule Refills:*0 
+2.  PredniSONE 10 mg PO ONCE Duration: 1 Dose 
+This is dose # 3 of 4 tapered doses 
+3.  PredniSONE 5 mg PO DAILY 
+RX *prednisone 5 mg 1 tablet(s) by mouth daily ___ #*30 Tablet 
+Refills:*0 
+4.  Acyclovir 400 mg PO Q8H  
+5.  FoLIC Acid 1 mg PO DAILY  
+6.  Gabapentin 600 mg PO TID  
+7.  Lisinopril 20 mg PO DAILY  
+8.  LORazepam 1 mg PO QHS:PRN sleep  
+9.  OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - 
+Moderate  
+10.  Pantoprazole 40 mg PO Q24H  
+11.  Sodium Fluoride 1.1% (Dental Gel) 1 Appl TP QHS  
+12.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY  
+13.  Triamcinolone Acetonide 0.025% Cream 1 Appl TP BID  
+14.  Vitamin D ___ UNIT PO 1X/WEEK (WE)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+Diarrhea
+GVHD
+AML
+Acute kidney injury
+Hyperkalemia
+
+SECONDARY DIAGNOSES
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+You admitted to the hospital because you are having diarrhea at 
+home.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+We gave you fluids through an IV.  We found initially that her 
+kidneys are working as well as it should be, probably because 
+you are having so much diarrhea at home.  We continued to 
+monitor your kidney function and it was back to normal by the 
+time you went home.  Additionally your diarrhea had resolved by 
+the time you went home.
+
+WHAT SHOULD I DO WHEN I GO HOME?
+You should continue to take her medications as prescribed.  You 
+should taper your prednisone dose as described below.  You 
+should report to Dr. ___ you have any more diarrhea.  
+You should keep the appointments listed below.
+
+It was a pleasure taking care of you,
+
+Your ___ care team.
+ 
+Followup Instructions:
+___

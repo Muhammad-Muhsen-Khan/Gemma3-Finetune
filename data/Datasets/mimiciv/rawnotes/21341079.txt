@@ -1,0 +1,334 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / "cold"
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p fall
+ 
+Major Surgical or Invasive Procedure:
+Repair of forehead/occiput lacerations 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with a hx of Diffuse Large B Cell 
+Lymphoma(diagnosed ___ after biopsy of right tonsillar 
+mass) currently on R-CHOP (s/p two cycles most recently on 
+___ who presented to ___ ED by EMS s/p fall. 
+
+Patient reports that after getting up from her bed slowly, she 
+was walking towards the bathroom when she began to feel 
+lightheaded. She started to back up, but fell to the ground 
+after she struck her head on her armoire. She is able to recall 
+the entire incident and family members who came to her side 
+immediately report there was no loss of consciousness. Deny any 
+chest palpitations, shortness of breath, tongue biting or loss 
+of urinary/fecal continence associated with the episode. At the 
+time of EMS arrival she was complaining of a generalized 
+headache but denied any neck pain. 
+
+Of note, patient and her family report that she has had poor PO 
+intake and has felt generally weak over the past few days. She 
+was seen in ___ clinic yesterday and prescribed 
+levofloxacin iso of neutropenia. She was also given fluids in 
+clinic yesterday, however had an episode of emesis at 10pm last 
+night. She denies any fevers, chills, diarrhea, dysuria, or sick 
+contacts in the past few days but does endorse a poor appetite, 
+nausea, and vomiting. 
+
+On initial presentation to the ED patient was noted to be in 
+Afib w/ RVR (no known hx) with HR 140s for which she received 
+15mg IV diltiazem and was loaded with PO dose. Vitals were 
+otherwise stable. Labs notable for leukopenia (0.9), 
+thrombocytopenia (87) and lactate 2.5. UA and CXR were negative 
+for acute process. 
+
+Imaging included CT head negative for acute bleed, CT C-spine 
+without cervical injury, and CT chest-- notable for a T8 
+compression fracture without evidence of retropulsion or cord 
+edema. She was evaluated by ACS and neurosurgery who recommended 
+MRI Tspine w/wo contrast to evaluate for possible underlying 
+malignant etiology of fracture. Prior to transfer to the floor 
+head lacerations were sutured/stapled. 
+
+REVIEW OF SYSTEMS:  
+A complete 10-point review of systems was performed and was 
+negative unless otherwise noted in the HPI.  
+ 
+Past Medical History:
+Possible TIA, ?atrial mass, IBS, rectal prolapse, GERD, 
+osteoporosis, Cataracts
+
+Her surgical history includes open gallbladder ___, and hernia 
+repair in ___. She also had bunion surgery sometime in the 
+early ___.
+ 
+Social History:
+___
+Family History:
+Son with recent intracerebral hemorrhage, attributed to 
+hypertension. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL 
+Vitals:  T98.3 BP 110/52 HR75 RR16 98RA 
+GENERAL: thin, appears malnourished, NAD
+HEENT: pupils reactive to light, dry mucus membranes, little
+thrush on tongue, forehead with large laceration to R frontal
+scalp s/p sutures and superficial laceration to occipital scalp,
+no other ecchymoses 
+NECK: supple
+LUNGS: CTAB, good airmovement
+HEART: regular rate and rhythm, no murmurs
+ABD: soft, nontender 
+BACK: prominent spinal processes, no TTP 
+EXT: b/l lower extremities warm to touch, no edema  
+NEURO:  oriented x 3, motor strength ___ in all extremities,
+sensation grossly intact 
+ACCESS: PIV on L hand 
+
+DISCHARGE PHYSICAL 
+VITALS: 97.7 130/69BP 66HR 18RR 98%Ra
+GENERAL: tearful at times, thin, NAD 
+HEENT: 4-5 cm laceration on R forehead with sutures, R occiput 
+with small 1cm laceration with staples, pink mmm 
+NECK: supple
+PULM: CTAB 
+CV: rrr, no murmurs, no tenderness to palpation of chest wall
+BACK: spinal processes without tenderness
+EXT: vericose veins, warm to touch 
+NEURO: oriented x 3, grossly moving all extremities, sensation 
+grossly intact
+
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 03:55PM   HYPOCHROM-OCCASIONAL ANISOCYT-OCCASIONAL 
+POIKILOCY-OCCASIONAL MACROCYT-1+* MICROCYT-1+* POLYCHROM-NORMAL 
+OVALOCYT-OCCASIONAL
+___ 03:55PM   WBC-0.9* RBC-3.67* HGB-11.6 HCT-35.1 MCV-96 
+MCH-31.6 MCHC-33.0 RDW-14.6 RDWSD-50.6*
+___ 03:55PM   CALCIUM-9.6 PHOSPHATE-4.3 MAGNESIUM-2.0 URIC 
+ACID-3.3
+___ 03:55PM   ALT(SGPT)-20 AST(SGOT)-13 ALK PHOS-113* TOT 
+BILI-1.0
+___ 03:55PM   UREA N-17 CREAT-0.6 SODIUM-137 POTASSIUM-4.2 
+CHLORIDE-96 TOTAL CO2-30 ANION GAP-11
+___ 03:55PM   GLUCOSE-133*
+
+DISCHARGE LABS
+___ 06:02AM BLOOD WBC-8.1 RBC-3.23* Hgb-10.3* Hct-31.2* 
+MCV-97 MCH-31.9 MCHC-33.0 RDW-15.0 RDWSD-51.7* Plt ___
+___ 06:02AM BLOOD Glucose-93 UreaN-7 Creat-0.6 Na-142 K-4.1 
+Cl-103 HCO3-30 AnGap-9*
+___ 06:02AM BLOOD Cortsol-9.9
+___ 08:00AM BLOOD Cortsol-14.4
+___ 09:00AM BLOOD Cortsol-19.8
+___ 09:30AM BLOOD Cortsol-25.0*
+
+PERTINENT IMAGING 
+CT CHEST ___ 
+Acute compression fracture through the entire T8 vertebral body 
+without
+significant retropulsion, new since ___.
+
+CT C-SPINE ___
+1. No cervical spine fracture.  No prevertebral edema.
+
+CT HEAD ___ 
+No acute intracranial process
+
+CHEST PA AND LATERAL ___
+No acute cardiopulmonary process.
+Compression deformity of a mid-thoracic vertebra is new since 
+___.
+
+MR THORACIC SPINE (INCOMPLETE) ___ 
+1. Moderate, probable late acute versus early subacute 
+compression deformity of the T8 vertebral body without 
+appreciable bony retropulsion into the canal. No evidence of 
+cortical expansion or rounded edema signal within the vertebral
+body to suggest underlying mass.
+2. No additional sites of acute or subacute compression 
+deformity.
+3. Multiple chronic vertebral body compression deformities, as 
+above.
+4. Multilevel spondylosis of the thoracic spine without 
+moderate/severe canal stenosis.
+5. Additional findings, as above.
+6. Please note, examination is suboptimal secondary to moderate 
+motion
+artifact as well as lack of axial sequences.
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ with a hx of Diffuse Large B Cell 
+Lymphoma(diagnosed ___ after biopsy of right tonsillar 
+mass) currently on R-CHOP (s/p two cycles most recently on 
+___ who presented to ___ ED by EMS s/p what appears to be 
+a syncopal fall in the setting of poor PO intake and 
+dehydration, found to have new onset Atrial Fibrillation. 
+
+#T8 Compression Fracture s/p traumatic fall: CT chest on 
+admission notable for notable for a T8 compression fracture 
+without evidence of retropulsion or cord edema. Compression 
+fracture most likely secondary to trauma. Per neurosurgery 
+recommendations, the patient was fitted for a TLSO brace that 
+she will need to continue using when out of bed until follow-up 
+with neurosurgery. Pain was controlled with lidocaine patch, 
+Tylenol, and PRN oxycodone. 
+
+#s/p Fall: Patient reports lightheadedness preceding her fall on 
+the way to the bathroom. Fall appears to be likely secondary to 
+orthostatic hypotension in the setting of emesis, poor PO intake 
+and atrial fibrillation with RVR. Notably, patient had poor 
+intake the days preceding her hospital admission with an episode 
+of emesis the evening prior. Imaging on admission included CT 
+head negative for acute bleed, CT C-spine without cervical 
+injury, and CT chest notable for T8 compression fracture. Head 
+lacerations were sutured/stapled in the ED. Patient was given 
+IVF and monitored on telemetry. Fall work up included 
+orthostatic vitals that were normal on the day of discharge and 
+TTE which reported an EF 55% with mild posterior leaflet mitral 
+valve prolapse. Given hx of steroid use, adrenal insufficiency 
+as a cause of hypotension was also ruled out with cosyntropin 
+stim test. The patient was seen and cleared by ___ prior to 
+discharge home. 
+
+#New onset Afib w/RVR: On initial presentation to the ED patient 
+was noted to be in Afib w/ RVR (no known hx) with HR 140s for 
+which she received 15mg IV diltiazem and was loaded with PO 
+diltiazem. Vitals were otherwise stable and toxometabolic work 
+up was negative. New onset Afib w/RVR likely precipitated by 
+volume status. The patient was monitored on telemetry and 
+remained in NSR throughout hospitalization. Given patient's high 
+fall-risk in setting of ongoing chemotherapy for lymphoma, 
+alongside history of cerebral amyloid angiopathy, the risk of 
+anticoagulation at this time was thought to be higher than 
+benefit. TTE reported EF=55% without any visible clot. Patient's 
+outpatient Neurologist made aware of decision, at this point, 
+not to anticoagulate via email correspondence. Patient and 
+family counseled about the risk benefit considerations and 
+expressed a good understanding of the above. On ___ the patient 
+was transitioned to an increased dose of long acting diltiazem 
+(previously maintained on short acting), which was complicated 
+by an episode of bradycardia and hypotension. The medication was 
+discontinued due to intolerance and she was subsequently 
+switched to PO metoprolol tartrate with good effect. She was 
+discharged on metoprolol succinate 37.5mg. 
+
+#Large B Cell Lymphoma: On R-CHOP (last dose ___. 
+Thrombocytopenic (PLT 87) and neutropenic on admission (WBC 0.9, 
+ANC 0.29). Patient was continued on acyclovir for prophylaxis. 
+She remained afebrile throughout hospitalization with negative 
+cultures and infectious work up. 
+
+TRANSITIONAL ISSUES 
+===================
+[]T8 Compression Fx: Patient discharged with TLSO brace. She 
+will need follow with Dr. ___ in ___ weeks with 
+thoracic XR AP and lateral to assess for fracture progression 
+[]New onset Afib w/RVR: Noted on admission with conversion to 
+NSR with diltiazem. Patient later switched to metoprolol 
+succinate. Trace mitral valve prolapse also noted on TTE. 
+Consider cardiology follow-up. 
+[]Continue to consider risks and benefits of anticoagulation for 
+this patient.  
+[]Head lacerations (R forehead with six sutures and occipital 
+with 2 staples) repaired in the ED. Patient will need 
+sutures/staples removed in about two weeks -- if possible please 
+remove at heme/onc follow-up on ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron 4 mg PO Q8H:PRN nausea 
+2. PredniSONE 100 mg PO DAILY 
+3. Allopurinol ___ mg PO DAILY 
+4. Prochlorperazine 10 mg PO Q8H:PRN nausea 
+5. Docusate Sodium 100 mg PO BID 
+6. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+7. Senna 8.6 mg PO BID 
+8. Pegfilgrastim Onpro (On Body Injector)  6 mg SC ONCE 
+9. Acyclovir 400 mg PO Q8H 
+10. OxyCODONE (Immediate Release) 5 mg PO Q6H 
+11. ___ ___ UNIT PO Q8H 
+12. Omeprazole 20 mg PO DAILY 
+13. Levofloxacin 750 mg PO Q24H 
+14. Calcium Carbonate 500 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Moderate 
+RX *acetaminophen 325 mg ___ capsule(s) by mouth q6h PRN Disp 
+#*150 Capsule Refills:*0 
+2.  Lidocaine 5% Patch 1 PTCH TD QAM back pain  
+apply to site of back pain  
+RX *lidocaine 5 % apply 1 patch to back daily Disp #*30 Patch 
+Refills:*0 
+3.  Metoprolol Succinate XL 37.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1.5 tablet(s) by mouth daily Disp 
+#*45 Tablet Refills:*0 
+4.  Acyclovir 400 mg PO Q8H  
+5.  Allopurinol ___ mg PO DAILY  
+6.  Calcium Carbonate 500 mg PO BID  
+7.  Docusate Sodium 100 mg PO BID  
+8.  ___ ___ UNIT PO Q8H  
+9.  Omeprazole 20 mg PO DAILY  
+10.  Ondansetron 4 mg PO Q8H:PRN nausea  
+11.  OxyCODONE (Immediate Release) 5 mg PO Q6H  
+12.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+13.  Prochlorperazine 10 mg PO Q8H:PRN nausea  
+14.  Senna 8.6 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+s/p fall 
+T8 Compression Fracture 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to ___ after 
+you suffered a fall at home. We think this fall was related to 
+dehydration and your poor appetite. You were given IV fluids and 
+your symptoms improved. Imaging showed a fracture of your 
+T8(thoracic) vertebra. To treat this injury you were fitted with 
+a brace that you should continue to wear whenever you are out of 
+bed until you follow up with neurosurgery. The two small 
+lacerations on your head were repaired in the emergency 
+department. You will need to have the staples/sutures removed by 
+your primary care physician in two weeks. 
+
+You were also found to have an irregular heart rhythm called 
+atrial fibrillation. You are being prescribed a new medication 
+for this called metoprolol succinate that you should continue to 
+take daily. Imaging of your heart showed a normal function. Your 
+heart rhythm was monitored closely and appeared stable for the 
+rest of your hospitalization. 
+
+You were seen by physical therapy and are now ready to be 
+discharged home. 
+
+It was a pleasure taking care of you, 
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,383 @@
+Notes
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___ Aspirin / ibuprofen
+ 
+Attending: ___
+ 
+Chief Complaint:
+Severe abdominal pain 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with pancreatic cancer, currently C26D8 on FOLFIROX, who 
+presents with severe abdominal pain. The patient has had chronic 
+abdominal pain and chronic pancreatitis related to EtOH 
+consumption for ___ years. He was diagnosed with pancreatic 
+cancer in ___ and has had multiple episodes of acute 
+on chronic pancreatitis since then. He was most recently 
+admitted at the end of ___ of ___ for acute 
+pancreatitis, requiring a Dilaudid PCA for pain control. The 
+episode was attributed to dietary indiscretion (eating very 
+high-fat foods). This most recent episode started the day prior 
+to admission and is associated with nausea and vomiting. He 
+reports that he ate ___ chicken for lunch yesterday, and 
+his symptoms escalated shortly thereafter. He has been trying to 
+adhere to a low-fat diet, given repeated acute pancreatitis 
+flares. Last EtOH was 2 weeks ago.
+
+In the ED, initial VS were:  96.0, 60, 168/74, 18, 100% RA 
+Labs were notable for:  lipase 989, Mg 1.3, Phos 1.5
+Imaging included:  RUQ US with areas of hyperechogenicity in the 
+right hepatic lobe (nonspecific).
+Treatments received:  
+HYDROmorphone (Dilaudid) 1 mg 
+___ 09:42 IVF  NS (1000 mL)  
+___ 09:44 IV Ondansetron 4 mg  
+___ 09:49 IV HYDROmorphone (Dilaudid) 1 mg 
+___ 12:02 IV HYDROmorphone (Dilaudid) 2 mg  
+___ 13:34 IV Magnesium Sulfate (2 gm ordered) 
+___ 13:34 PO/NG Neutra-Phos 1 PKT 
+
+On arrival to the floor, patient reports his pain is ___. He 
+reports that he is nauseated, but that he is always nauseated 
+and this is consistent with his baseline. No vomiting. No 
+diarrhea, baseline constipation. Endorses sweats and chills. No 
+chest pain, shortness of breath.
+ 
+Past Medical History:
+Mr. ___ is a ___ yo gentleman with a ___ year history of 
+chronic abdominal pain, pancreatitis and ETOH abuse. He was 
+recently evaluated by Dr. ___ abdominal pain. He reports 
+
+having had this pain for the past ___ years, and that his pain 
+
+is stable. No recent changes in location, severity or quality. 
+He has had numerous imaging studies in the past, the last being 
+___ at ___. He reports that he has epigastric as well as 
+back pain. Pain from an injury while snowboarding and MVA. He 
+has chronic bloating and poor appetite. His weight is recently 
+down 15 pounds. His energy has been "OK", but fluctuates with 
+pain and mood. He was recently out rising his bike and injured 
+himself. 
+- He underwent EUS with Dr. ___ ___. Biopsy of a 
+portahepatis node was + for acinar cell carcinoma. Biopsies of 
+the pancreas and hepatic lesions where highly suspicious for CA. 
+
+- ___: CTA abd/pelv - Hypoenhancing pancreatic lesion 
+worrisome for primary malignancy with adjacent adenopathy and 
+metastases in the liver as detailed above. No prior available to 
+
+evaluate for interval change. No other acute intra-abdominal 
+process to explain patient's symptoms.
+- ___: MRCP 1. Pancreatic head/uncinate process mass 
+concerning for malignancy, possible neuroendocrine tumor, as 
+described above. 2. Multiple RIGHT lobe hepatic lesions 
+concerning for metastatic disease. 3. Few subcentimeter nodes 
+adjacent to the pancreatic mass, better visualized on recent CT
+- ___: FOLFIRINOX #1
+- ___: CTs show stable disease. 
+- ___: Scans show stable diease. 
+- ___: FOLIFIRINOX #12 (oxaliplatin ommited due to 
+neuropathy)
+- ___: Treatment break due to fatigue.
+- ___: Restarted FOLFIRINOX (oxaliplatin ommited)
+- ___: Admission to ___ for worsened abdominal pain and 
+nausea 
+consistent with pancreatitis.
+- ___: Admission to ___ for worsened abdominal pain  
+Discussed appropriate diet/avoidance of fatty foods given 
+pancreatitis. 
+- ___: Cycle: 26 Day: ___ FOLFIRINOX
+ 
+PAST MEDICAL HISTORY:  
+- Metastatic pancreatic cancer (liver mets)
+- Chronic pancreatitis
+- h/o EtOH use disorder
+- Type II Diabetes
+- Peptic Ulcer
+- Hemorrhoids
+- Sleep Apnea
+- Hypertension
+- Hypercholesterolemia
+- Tobacco Dependence
+- Colonic Adenoma
+- Obesity
+- Lumbar Degenerative Disc Disease
+- L3-L4 Herniated Disc s/p L3-L4 microdiskectomy in ___
+- Ganglion of Wrist
+- s/p left femur fracture s/p repair in ___ 
+ 
+Social History:
+___
+Family History:
+DM and HTN. GM with pancreatic cancer in her ___. Aunt with 
+breast cancer in her ___.
+ 
+Physical Exam:
+ADMISSION EXAM
+#ERROR!
+VS: T 98.5, BP 196/82, HR 61, RR 18, SpO2 100/RA  
+GENERAL: sleepy, arousable to voice but dozes off after 5 sec. 
+Appears comfortable.
+HEENT:  Pupils 2mm, minimally reactive to light. Sclera 
+anicteric. MMM. No oral lesions or thrush.
+CARDIAC: RRR, S1+S2, I/VI systolic murmur at RUSB
+LUNG: CTAB, no W/R/C
+ABD: mildly distended, soft, exquisitely TTP in epigastrium and 
+RUQ + guarding in these areas. No rebound. +BS. 
+EXT: WWP, no edema  
+NEURO: sleepy, as above, oriented to self, ___,   
+SKIN: No significant rashes  
+
+DISCHARGE EXAM
+#ERROR!
+VS: T 97.8, BP 125/70, HR 84, RR 18, SpO2 98/RA
+GENERAL: alert and interactive, sitting on edge of bed, NAD
+HEENT: sclera anicteric, MMM
+CARDIAC: RRR, S1+S2, I/VI systolic murmur at RUSB
+LUNG: CTAB, no adventitious breath sounds
+ABD: soft, non-distended, tender to palpation in the
+epigastrium/upper quadrants, normoactive bowel sounds
+EXT: WWP, no edema
+NEURO: A/Ox3, ambulating steadily 
+SKIN: No significant rashes  
+ 
+Pertinent Results:
+ADMISSION LABS
+#ERROR!
+___ 11:55AM BLOOD WBC-5.4 RBC-3.47* Hgb-11.1* Hct-33.2* 
+MCV-96 MCH-32.0 MCHC-33.4 RDW-14.6 RDWSD-50.4* Plt ___
+___ 11:55AM BLOOD Neuts-73.5* Lymphs-16.0* Monos-8.7 
+Eos-0.6* Baso-0.6 Im ___ AbsNeut-4.00# AbsLymp-0.87* 
+AbsMono-0.47 AbsEos-0.03* AbsBaso-0.03
+___ 11:55AM BLOOD ___ PTT-30.6 ___
+___ 09:20AM BLOOD Glucose-261* UreaN-15 Creat-1.1 Na-139 
+K-4.5 Cl-94* HCO3-22 AnGap-23*
+___ 09:20AM BLOOD ALT-131* AST-80* AlkPhos-284* 
+TotBili-1.6*
+___ 09:20AM BLOOD Lipase-989*
+___ 09:20AM BLOOD Albumin-4.7 Calcium-10.4* Phos-1.5* 
+Mg-1.3*
+___ 09:35AM BLOOD Lactate-2.6*
+
+DISCHARGE LABS
+#ERROR!
+___ 05:21AM BLOOD WBC-5.7 RBC-3.12* Hgb-9.9* Hct-29.6* 
+MCV-95 MCH-31.7 MCHC-33.4 RDW-14.9 RDWSD-51.5* Plt ___
+___ 05:21AM BLOOD Glucose-112* UreaN-7 Creat-0.8 Na-140 
+K-3.5 Cl-100 HCO3-27 AnGap-13
+___ 05:21AM BLOOD ALT-159* AST-101* AlkPhos-175* 
+TotBili-3.2*
+___ 05:21AM BLOOD Calcium-8.0* Phos-3.4 Mg-1.7
+
+RELEVANT STUDIES
+#ERROR!
+___ Imaging LIVER OR GALLBLADDER US 
+1. No evidence of gallstones, gallbladder distention, or wall
+thickening. 
+2. No intrahepatic or extrahepatic biliary dilatation. 
+3. Previously described hepatic masses are not visualized on the
+current study. Areas of hyperechogenicity in the right hepatic
+lobe are nonspecific, but could reflect the sequelae from
+previously treated hepatic metastases. If clinically indicated,
+these could be better assessed with MRI. 
+
+MICROBIOLOGY
+#ERROR!
+__________________________________________________________
+___ 12:54 pm Swab R/O Yeast Screen     Site: SKIN
+      Source: axilla  swab ( pt refused groin). 
+
+                            **FINAL REPORT ___
+
+   SWAB- R/O YEAST (Final ___:    NO YEAST ISOLATED. 
+__________________________________________________________
+___ 10:30 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 9:30 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 5:45 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ gentleman with chronic abdominal 
+pain, chronic pancreatitis, pancreatic cancer, currently on 
+FOLFIROX, who presents with severe abdominal pain. Presentation
+consistent with acute on chronic pancreatitis.
+
+#ACUTE ON CHRONIC PANCREATITIS: acute worsening of abdominal 
+pain in the setting of eating a spicy/likely high-fat meal prior 
+to admission. Lipase 989 on admission - most recently 653 on
+___. Also with nausea. He is high risk for acute 
+pancreatitis, given prior EtOH abuse with chronic pancreatitis 
+in the setting of active pancreatic cancer. He denies any 
+current EtOH abuse.
+With significant pain medication requirements at baseline due to 
+chronic pain - he was initially managed with a dilaudid PCA 
+(first at 0.12mg q6min and then at 0.2mg q6min), and eventually 
+transitioned to dilaudid IV 1mg q2h PRN -> dilaudid PO ___ q4h 
+PRN as he began to tolerate PO. Fentanyl patch was continued. He 
+was started at ___ and gradually increased to a regular, low-fat 
+diet. Received teaching with nutrition regarding a low-fat diet 
+going forward. Of note, pt reported that he was taking dilaudid 
+___ q4h PRN at home (only prescribed ___ q4h). Encouraged 
+him to discuss pain control with outpatient provider if his pain 
+wasn't adequately controlled. He was stable on his discharge 
+regimen of fentanyl 75mcg patch.
+
+#ELEVATED TRANSAMINASES: newly elevated transaminases on 
+admission (compared to ___ AST/ALT 43/39, T bil 1.2, Alk phos 
+217), as well as elevated bilirubin and alk phos, consistent 
+with
+mixed hepatocellular and cholestatic pictures. RUQ US on 
+admission without evidence of biliary obstruction/ductal 
+dilation, no new liver lesions noted. No new medications. 
+Transaminases not elevated enough to suggest viral infection. 
+___ be related to acute pancreatic inflammation, effecting 
+biliary/hepatic drainage. Fluctuated and ultimately uptrended 
+slightly during admission. No evidence of biliary obstruction on 
+RUQ US. Consider MRI liver to better assess liver mets as an 
+outpatient.
+
+#TYPE 2 DIABETES: on metformin, glipizide, and ___ glargine at 
+home. Relatively well-controlled (A1c 8 in ___. Continued 
+25U glargine at bedtime, held metformin, glipizide while 
+inpatient. Will resume upon discharge.
+
+#METASTATIC PANCREATIC CANCER: followed by ___, MD at 
+___. Currently on FOLFIROX in 14 day cycles, last treatment on 
+___. Most recent CA ___ on ___ 149.1 (rising). Continued 
+LORazepam 0.5 mg PO Q6H:PRN nausea/vomiting/anxiety/insomnia, 
+Omeprazole 40 mg PO BID, Fluconazole 200 mg PO Q24H for thrush 
+PPX, Ondansetron 8 mg IV Q8H:PRN nausea.
+
+#HYPERTENSION: Continued lisinopril 10, HCTZ 12.5mg
+
+#COPD: Respiratory status stable. Continued 
+Fluticasone-Salmeterol Diskus (250/50) 1 INH IH BID.
+
+#TOBACCO DEPENDENCE: Continued BuPROPion (Sustained Release) 150 
+mg PO QAM 
+
+TRANSITIONAL ISSUES
+#ERROR!
+[] On discharge: AST/ALT 101/159, Alk phos 174, T bili 3.2 
+(increase from prior labs). Continue to follow as outpatient - 
+no evidence of impending biliary obstruction on RUQ US.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+2. Nystatin Oral Suspension 5 mL PO QID thrush 
+3. Omeprazole 40 mg PO BID 
+4. Zolpidem Tartrate 10 mg PO QHS 
+5. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+6. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+shortness of breath/wheezing 
+7. glipiZIDE-metformin 5mg/1000mg  oral BID 
+8. Linzess (linaclotide) 290 mcg oral DAILY 
+9. lisinopril-hydrochlorothiazide ___ mg oral DAILY 
+10. LORazepam 0.5 mg PO Q6H:PRN nausea/vomiting/anxiety/insomnia 
+
+11. Multivitamins 1 TAB PO DAILY 
+12. Ondansetron 8 mg PO Q8H:PRN nausea/vomiting 
+13. Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting 
+14. HYDROmorphone (Dilaudid) ___ mg PO Q6H:PRN Pain - Moderate 
+15. Potassium Chloride (Powder) 20 mEq PO BID 
+16. Glargine 25 Units Bedtime
+17. BuPROPion (Sustained Release) 150 mg PO BID 
+18. Fentanyl Patch 75 mcg/h TD Q72H 
+19. Clotrimazole 1 TROC PO QID 
+20. Fluconazole 200 mg PO Q24H 
+21. Docusate Sodium 200-300 mg PO BID 
+22. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+23. Senna 17.2-25.8 mg PO BID 
+
+ 
+Discharge Medications:
+1.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate  
+2.  Glargine 25 Units Bedtime 
+3.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+4.  BuPROPion (Sustained Release) 150 mg PO BID  
+5.  Clotrimazole 1 TROC PO QID  
+6.  Docusate Sodium 200-300 mg PO BID  
+7.  Fentanyl Patch 75 mcg/h TD Q72H  
+8.  Fluconazole 200 mg PO Q24H  
+9.  Fluticasone Propionate NASAL 2 SPRY NU DAILY  
+10.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+shortness of breath/wheezing  
+11.  glipiZIDE-metformin 5mg/1000mg  oral BID  
+12.  Linzess (linaclotide) 290 mcg oral DAILY  
+13.  lisinopril-hydrochlorothiazide ___ mg oral DAILY  
+14.  LORazepam 0.5 mg PO Q6H:PRN 
+nausea/vomiting/anxiety/insomnia  
+15.  Multivitamins 1 TAB PO DAILY  
+16.  Nystatin Oral Suspension 5 mL PO QID thrush  
+17.  Omeprazole 40 mg PO BID  
+18.  Ondansetron 8 mg PO Q8H:PRN nausea/vomiting  
+19.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+20.  Potassium Chloride (Powder) 20 mEq PO BID 
+Hold for K >  
+21.  Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting  
+22.  Senna 17.2-25.8 mg PO BID  
+23.  Zolpidem Tartrate 10 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute on chronic pancreatitis
+Pancreatic adenocarcinoma
+Type 2 diabetes mellitus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+WHY WERE YOU ADMITTED TO THE HOSPITAL?
+- You were having severe abdominal pain and your labs showed you 
+were having pancreatitis.
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?
+- You had an ultrasound of your abdomen, which appeared similar 
+to prior ultrasound she had done.
+- You were treated with IV pain medications for your abdominal 
+pain.  As you started to feel better, we transitioned you back 
+to oral medications.
+- We slowly advanced your diet as you tolerated it.
+
+WHAT WILL HAPPEN WHEN YOU LEAVE THE HOSPITAL? 
+- Continue to take all of your medicines as prescribed.
+- It is very important that you communicate with your doctors if 
+___ are taking your pain medications more than what is 
+prescribed.  They can work with you to make sure that your pain 
+is well controlled.
+- You will follow-up with your cancer doctor in the office.
+ 
+Followup Instructions:
+___

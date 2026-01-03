@@ -1,0 +1,354 @@
+Notes
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Desaturation with ambulation at outpatient clinic
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old man with history of AF on ___, HFpEF (EF55%), 
+pHTN, mod-sev TR, s/p AAA repair ___, PVD s/p multiple stent 
+placements, PFO, HTN, CKD (Cr 1.2-1.4), severe COPD not on home 
+O2, lung CA s/p lobectomy ___ years ago, who presented from clinic 
+with ambulatory desaturation. 
+
+Patient reports he was feeling well at baseline when he 
+presented to clinic appointment with Dr. ___. Reports 
+baseline SOB with walking, but reports that he is able to walk 
+even a mile without stopping. Recently completed pulmonary rehab 
+last ___ and did a 6-minute walk test, without any reported 
+desaturation per patient. 
+
+At clinic, he was found to desat on ambulation to 69% on RA, 
+with associated nausea. Chart reports concurrent SOB though 
+patient denies this. He was put on 2L NC, and after rest with 
+supplemental O2, HR 70 with O2 sat 96% so he was taken off NC.  
+
+He reports having some LLE ankle pain for the past several days 
+thought due to gout. No pain in calf or thigh.
+
+Review of Partners records show: goal weight is 174-176 lbs. 
+Patient reports dry weight to be 175 lbs, which he is at 
+currently.  
+ 
+On the floor,  patient reports history as above. Denies any 
+symptoms and feels well. Notes that he had one other episode of 
+feeling nauseous while walking sometime last week. No CP, SOB, 
+orthopnea, palpitations, cough, abd pain, current N/V, urinary 
+symptoms, diarrhea/constipation, ___. 
+
+Please note his ___ records are scanned into OMR. Pt reports his 
+___ cardiologist is a Dr. ___. His ___ pulmonologist is a Dr. 
+___.
+ 
+Past Medical History:
+- Severe COPD 
+- Chronic atrial fibrillation, on ___
+- HFpEF 
+- Chronic back pain on norco
+- COPD (no intubation)
+- Ruptured AAA s/p repair ___ 
+- Non small cell lung cancer s/p  lobectomy ___ years ago
+- PVD s/p multiple stent placements, R SFA stent ___, 
+angioplasty L SFA ___ for L claudication, PTA of B EIA and 
+stents ___
+- HTN 
+- HLD 
+- CKD 
+- Acute appendicitis S/P appendectomy 
+- Gout  
+- hemoptysis a few months ago, with CT at ___ showing bilateral
+new 8mm pulmonary nodules (recommended f/u 6 months) 
+ 
+Social History:
+___
+Family History:
+Sister: Lung cancer ___ sisters died of lung cancer)
+Sister: ___
+Mother: stroke
+ 
+Physical Exam:
+#ERROR!
+ADMISSION PHYSCIAL EXAMINATION:
+#ERROR!
+
+VITALS:  97.6PO 127 / 76 69 18 93 Ra 
+GENERAL: AOx3, NAD  
+HEENT: Normocephalic, atraumatic. Pupils equal, round, and 
+reactive bilaterally, extraocular muscles intact. Sclera 
+anicteric and without injection. Dry MM, wearing dentures.   
+NECK: supple, JVP at clavicle at 45 deg
+CARDIAC: irregularly irregular, Audible S1 and S2. No murmurs 
+appreciated.   
+LUNGS: CTAB, no wheezing or rhonchi, no increased work of 
+breathing.
+ABDOMEN: Normal bowels sounds, non distended, soft, non-tender 
+to deep palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No ___ bl. ___ DP pulses bl. L ankle without 
+obvious deformities, no erythema, no tenderness. 
+SKIN: No rashes noted.  
+NEUROLOGIC: A&Ox3, fluent speech, moving all extremities with 
+purpose, no facial droop
+
+#ERROR!
+DISCHARGE PHYSCIAL EXAMINATION:
+#ERROR!
+
+VS: Temp 97.6 (Tm 97.6), BP 150/92 (127-150/76-92), HR 73
+(69-73), RR 18, O2 sat 90% (90-93), RA, 
+
+Weight: 175.71lb/79.7kg  
+
+GENERAL: lying comfortably in bed, no acute distress 
+HEENT: anicteric sclera, no conjunctival pallor, MMM
+NECK: supple, non-tender, no LAD, JVP flat
+CV: S1 and S2 normal, no murmurs/rubs/gallops
+RESP: CTAB, no wheezes/crackles
+___: soft, non-tender, no distention, BS normoactive
+EXTREMITIES: moving all four extremities with purpose, no lower
+extremity edema or cyanosis
+NEURO: A/O x3, grossly intact
+ 
+Pertinent Results:
+#ERROR!
+ADMISSION LABS:
+#ERROR!
+
+___ 06:10PM BLOOD WBC-8.8 RBC-4.77 Hgb-15.2 Hct-45.6 MCV-96 
+MCH-31.9 MCHC-33.3 RDW-14.3 RDWSD-49.9* Plt ___
+___ 06:10PM BLOOD ___ PTT-37.1* ___
+___ 06:10PM BLOOD Glucose-94 UreaN-27* Creat-1.3* Na-143 
+K-4.2 Cl-98 HCO3-30 AnGap-15
+___ 06:10PM BLOOD proBNP-1549*
+___ 06:10PM BLOOD cTropnT-<0.01
+
+#ERROR!
+MICRO:
+#ERROR!
+
+___ URINE
+         URINE CULTURE:    < 10,000 CFU/mL. 
+
+#ERROR!
+IMAGING/REPORTS:
+#ERROR!
+
+___ CXR
+Cardiac silhouette size is mildly enlarged. The aorta is 
+unfolded. The 
+mediastinal and hilar contours are unremarkable. Lungs are 
+hyperinflated with severe emphysematous changes noted in the 
+upper lobes. Pulmonary vasculature is not engorged. Elevation of 
+the right hemidiaphragm is of unknown chronicity. Patchy 
+atelectasis is seen in the lung bases without focal 
+consolidation. No pleural effusion or pneumothorax is present.  
+Multiple chronic left posterolateral rib fractures with 
+associated pleural thickening are demonstrated. An aortic stent 
+graft is incompletely imaged in the upper abdomen.
+
+#ERROR!
+DISCHARGE LABS:
+#ERROR!
+
+___ 08:20AM BLOOD WBC-9.2 RBC-4.52* Hgb-14.5 Hct-43.2 
+MCV-96 MCH-32.1* MCHC-33.6 RDW-14.3 RDWSD-49.4* Plt ___
+___ 08:20AM BLOOD ___ PTT-33.7 ___
+___ 08:20AM BLOOD Glucose-89 UreaN-25* Creat-1.2 Na-145 
+K-3.9 Cl-101 HCO3-30 AnGap-14
+___ 08:20AM BLOOD Calcium-8.6 Phos-3.7 Mg-1.0*
+ 
+Brief Hospital Course:
+___ with a background history of AF (on ___, HFpEF (LVEF 
+54% on ___, pulmonary hypertension, moderate-severe TR, PVD 
+with multiple stents, PFO, HTN, CKD, severe COPD (not on home 
+O2), and lung cancer, status post lobectomy ___ years ago, who 
+presented from outpatient clinic with ambulatory desaturation.
+
+#ERROR!
+ACUTE/ACTIVE ISSUES:
+#ERROR!
+
+# Hypoxia on Exertion
+# Dyspnea 
+Patient with significant and pulmonary history, followed as an 
+outpatient at ___, but at tending Dr. ___ second opinion. 
+Noted to desaturate to 69% on ambulation, with associated 
+dyspnea and nausea. Came back up to 96% with rest and 
+supplemental oxygen. Examination within normal limits, CXR 
+without acute cardiopulmonary abnormality, and patient was 
+saturating well on room air, with no symptoms. Unclear exact 
+etiology given multiple comorbidities, although must outrule 
+inaccuracy of SaO2 result given known history of poor peripheral 
+oxygen monitoring. Per patient, his has chronically bad pleths 
+on his fingers and in the past has required O2 monitoring on his 
+earlobe. He underwent ambulatory O2 testing wit a forehead 
+monitor, with saturations mostly in the 88-92% range, but with 
+one desat to 84% that was brief and asymptomatic. However, the 
+patient did not want home O2 set up at this time and requested 
+that he be reevaluated with his pulmonologist as an outpatient. 
+
+# Hemoptysis 
+# Pulmonary nodules 
+# History of lung cancer 
+Patient with hemoptysis reported a few months ago, now resolved. 
+Ordered for chest CT in clinic with Dr. ___ history of 
+smoking and prior lung cancer, status post lobectomy about ___ 
+years ago, but patient declined and said he would do the study 
+at
+___. Per Dr. ___ consider switching from ___ to 
+apixaban if hemoptysis continues 
+
+# Pulmonary HTN: Followed by ___ pulmonology. Mostly 
+precapillary pHTN. Recent
+pulmonary note documents consideration of trialling tadalafil 
+20mg, but patient denies this and he has never taken tadafil. 
+Will need outpatient pulmonary follow up on discharge
+
+# Hypomagnesemia: Unclear etiology/baseline. On torsemide at 
+home. Was repleted inpatient and patient was discharged on a 
+short PO course pending follow-up and repeat lytes with PCP. 
+
+#ERROR!
+CHRONIC ISSUES:
+#ERROR!
+
+# COPD: home Spiriva. Home symbicort was non-formulary, patient 
+declined advair while in house given concerns for thrush. He 
+received flu shot outpatient per chart 
+
+# HFpEF: continued torsemide 5 daily. Patient takes torsemide on 
+a sliding scale, depending on his
+weight
+
+# AF: home ___, diltiazem ER 120 daily, metop XL 200mg daily
+
+# PAD status post multiple stents: Cont ___, statin 
+
+# Gout: continued home allopurinol, colchicine 
+
+#ERROR!
+TRANSITIONAL ISSUES:
+#ERROR!
+
+[] On ambulation, patient maintained sats of 88-92%RA with a 
+transient desat to 84%, not sustained. Please re-evaluate in 
+clinic and consider set-up of home O2 if patient qualifies
+[] Please ensure outpatient follow-up with pulmonology at ___
+[] Consider CT chest in the outpatient setting; patient 
+requested this be performed at ___
+[] Per Dr. ___ consider switching from ___ to 
+apixaban if hemoptysis continues 
+[] Please repeat electrolytes within 1 week and consider 
+discontinuing standing magnesium repletion if magnesium is 
+normal/high
+
+Weight on discharge: 79.7 kg (175.71 lb) 
+Creatinine on discharge: 1.2
+
+#CONTACT: ___, ___
+ 
+Medications on Admission:
+1. Allopurinol ___ mg PO DAILY 
+2. Ascorbic Acid ___ mg PO BID 
+3. Atorvastatin 40 mg PO QPM 
+4. azelastine 137 mcg (0.1 %) nasal BID:PRN 
+5. Clotrimazole 1 TROC PO BID 
+6. coenzyme Q10 30 mg oral DAILY 
+7. Colchicine 1.2 mg PO DAILY 
+8. Cyanocobalamin 100 mcg PO DAILY 
+9. Diltiazem Extended-Release 120 mg PO DAILY 
+10. Fexofenadine 60 mg PO DAILY 
+11. Norco (HYDROcodone-acetaminophen) ___ mg oral Q6H:PRN 
+12. Metoprolol Succinate XL 200 mg PO DAILY 
+13. Multivitamins 1 TAB PO DAILY 
+14. Fish Oil (Omega 3) 1000 mg PO BID 
+15. Omeprazole 20 mg PO DAILY 
+16. Rivaroxaban 15 mg PO DAILY 
+17. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+18. Tiotropium Bromide 1 CAP IH DAILY 
+19. Torsemide 5 mg PO DAILY 
+20. TraZODone 25 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Medications:
+1.  Magnesium Oxide 400 mg PO DAILY 
+RX *magnesium oxide 400 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+2.  Allopurinol ___ mg PO DAILY  
+3.  Ascorbic Acid ___ mg PO BID  
+4.  Atorvastatin 40 mg PO QPM  
+5.  azelastine 137 mcg (0.1 %) nasal BID:PRN  
+6.  Clotrimazole 1 TROC PO BID  
+7.  coenzyme Q10 30 mg oral DAILY  
+8.  Colchicine 1.2 mg PO DAILY  
+9.  Cyanocobalamin 100 mcg PO DAILY  
+10.  Diltiazem Extended-Release 120 mg PO DAILY  
+11.  Fexofenadine 60 mg PO DAILY  
+12.  Fish Oil (Omega 3) 1000 mg PO BID  
+13.  Metoprolol Succinate XL 200 mg PO DAILY  
+14.  Multivitamins 1 TAB PO DAILY  
+15.  Norco (HYDROcodone-acetaminophen) ___ mg oral Q6H:PRN  
+16.  Omeprazole 20 mg PO DAILY  
+17.  Rivaroxaban 15 mg PO DAILY  
+18.  Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID  
+19.  Tiotropium Bromide 1 CAP IH DAILY  
+20.  Torsemide 5 mg PO DAILY  
+21.  TraZODone 25 mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypoxia 
+COPD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear  Mr ___,  
+It was a pleasure to take care of you at ___.  
+
+WHY WAS I HERE?  
+You were admitted to the hospital because of your low oxygen.
+
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL  
+- While you were in the hospital you had a chest xray that 
+showed severe emphysema. 
+- You also had your oxygen saturation checked while you were 
+walking around. It was decreased, but you preferred to have 
+yourself evaluated by your pulmonologist for home oxygen. 
+
+ 
+WHAT SHOULD I DO WHEN I GET HOME?  
+1) Please follow up at your outpatient appointments.  
+2) Please take your medications as prescribed. 
+
+We wish you the best!  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

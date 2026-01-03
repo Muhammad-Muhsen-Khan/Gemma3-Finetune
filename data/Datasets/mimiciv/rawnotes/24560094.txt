@@ -1,0 +1,284 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+headache, UTI
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ ___ woman with HTN, HL, hypothyroidism and a 
+history of ___ prior UTIs in the past several years who presents 
+with 3 days of general malaise, poor PO intake, and headaches 
+with associated neck pain. She was recently admitted in ___ 
+for UTI and campylobacter colitis, treated with 10 day course of 
+ciprofloxacin. 
+
+She describes her headache as waxing and waning and relieved a 
+little with Tylenol. She denies any radiation of pain down her 
+arms. There are no visual changes or photophobia associated with 
+headaches. She denies waking up in the middle of the night with 
+headaches. She also has chronic lower back and left knee pain. 
+She denies fever, chills, or trauma. 
+
+She denies any dysuria, change in urinary frequency, abdominal 
+pain. She endorses some nausea, but has not vomited. She also 
+feels dizzy at times. 
+
+-In the ED, initial vitals: 97.0 88 120/80 18 99% RA
+-Exam was notable for no temporal artery tenderness or 
+enlargement, non meningismus, no focal neurological deficits   
+-Labs were significant for: WBC 14.8, U/A large ___, 46 WBC, few 
+bacteria, 8 epis.  
+-CXR, CT-C spine with no acute process. CT head showed findings 
+suggesting chronic right maxillary sinus inflammation. No 
+evidence of hemorrhage, edema, mass or infarction. 
+-In the ED, she received:
+___ 00:35 PO Acetaminophen 1000 mg 
+___ 06:11 IV CeftriaXONE 1 gm 
+___ 12:31 IVF 1000 mL NS 1000 mL  
+
+Vitals prior to transfer: 97.8 61 120/69 16 100% RA  
+
+On arrival to the floor, she endorsed the story as narrated 
+above.   
+ 
+ROS: As per HPI
+ 
+Past Medical History:
+Hypothyroidism  
+Hyperlipidemia  
+Hypertension  
+History of positive PPD ___, no follow up CXR  
+Persistently elevated alk phos  
+Prior sphincterotomy  
+Pterygium removal OD ___  
+Cholelithiasis s/p cholecystectomy in ___  
+
+ 
+Social History:
+___
+Family History:
+She denied any family history of urinary or kidney infections. 
+ 
+Physical Exam:
+ADMISSION EXAM
+--------------
+VS: 97.7 117/61 56 18 99%RA   
+GEN: Alert, lying in bed, no acute distress  
+HEENT: Moist MM, anicteric sclerae, no conjunctival pallor. No 
+maxillary or frontal sinus tenderness.   
+PULM: Generally CTA b/l without wheeze or rhonchi  
+COR: RRR (+)S1/S2 no m/r/g  
+ABD: Soft, non-tender, non-distended, no CVA tenderness
+GU: No foley, no suprapubic tenderness  
+EXTREM: Warm, well-perfused, no edema  
+NEURO: CN II-XII grossly intact, motor function grossly normal  
+MSK: No pain or radiation of pain on flexion and extension of 
+the neck or Spurling's manuever
+
+DISCHARGE EXAM
+--------------
+Vitals: 98.1, 98.1, 117/61, 58, 100 RA   
+GEN: Alert, lying in bed, no acute distress  
+HEENT: Moist MM, anicteric sclerae, no conjunctival pallor. No 
+maxillary or frontal sinus tenderness.   
+PULM: Generally CTA b/l without wheeze or rhonchi  
+COR: RRR (+)S1/S2 no m/r/g  
+ABD: Soft, non-tender, non-distended
+GU: No foley, no suprapubic tenderness  
+EXTREM: Warm, well-perfused, no edema  
+NEURO: CN II-XII grossly intact, motor function grossly normal  
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------
+___ 11:50PM BLOOD WBC-14.8* RBC-4.13# Hgb-12.6# Hct-38.6# 
+MCV-94 MCH-30.5 MCHC-32.6 RDW-14.1 RDWSD-47.9* Plt ___
+___ 11:50PM BLOOD Neuts-84.5* Lymphs-8.7* Monos-5.9 
+Eos-0.4* Baso-0.1 Im ___ AbsNeut-12.53* AbsLymp-1.29 
+AbsMono-0.88* AbsEos-0.06 AbsBaso-0.01
+___ 11:50PM BLOOD Plt ___
+___ 11:50PM BLOOD ___ PTT-23.7* ___
+___ 11:50PM BLOOD Glucose-116* UreaN-19 Creat-0.9 Na-138 
+K-4.0 Cl-96 HCO3-29 AnGap-17
+___ 11:50PM BLOOD cTropnT-<0.01
+___ 05:55AM BLOOD cTropnT-<0.01
+___ 11:50PM BLOOD Calcium-9.1 Phos-3.4 Mg-1.9
+
+PERTINENT LABS
+--------------
+___ 11:50PM BLOOD CRP-4.3
+___ 09:55PM BLOOD Lactate-1.4
+
+DISCHARGE LABS
+--------------
+___ 05:39AM BLOOD WBC-7.0# RBC-3.73* Hgb-11.5 Hct-35.7 
+MCV-96 MCH-30.8 MCHC-32.2 RDW-14.2 RDWSD-49.7* Plt ___
+___ 05:39AM BLOOD Plt ___
+___ 05:39AM BLOOD Glucose-74 UreaN-13 Creat-0.8 Na-136 
+K-3.9 Cl-98 HCO3-28 AnGap-14
+___ 05:39AM BLOOD Calcium-8.6 Phos-3.4 Mg-1.9
+
+MICRO
+-----
+___ 8:34 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+___ 3:15 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+IMAGING
+------------
++ CXR (___): No acute cardiopulmonary process. 
++ CT Head (___): Findings suggesting chronic right maxillary 
+sinus inflammation. No evidence of hemorrhage, edema, mass or 
+infarction. 
++ CT C Spine (___):  Degenerative disc disease with no 
+evidence of fracture or subluxation related to trauma. 
+ 
+Brief Hospital Course:
+___ yo woman with HTN, HL, hypothyroidism admitted with 3 days of 
+general malaise and headache with neck pain and UA positive for 
+UTI (+pyuria, +microscopic hematuria) and CT head with no 
+evidence of hemorrhage, edema, mass or infarction, but findings 
+suggestive of chronic right maxillary sinusitis. We started her 
+on IV Ceftriaxone for concurrent treatment of UTI and sinusitis, 
+which we transitioned to Bactrim on discharge with urine 
+cultures pending on discharge. She received two doses of 
+Ceftriaxone at the hospital (Day 1 = ___ and she was given 2 
+DS Bactrim tablets to complete a 3-day course of ABX for 
+uncomplicated UTI. She reported her headache was also improved 
+on the day of discharge and ___ felt she was mobile without any 
+___ needs on the day of discharge. Etiology of headache presumed 
+to be from an atypical presentation of UTI in an elderly woman 
+vs. sinusitis, but she did not have any typical sinusitis 
+symptoms (no frontal headache, maxillary tenderness, URI sx); 
+therefore, we deferred ABX treatment for chronic sinusitis and 
+encouraged OTC nasal saline spray rinses.
+
+TRANSITIONAL ISSUES
+-last day of antibiotics = ___
+-Please consider paring down on medications in this elderly 
+woman who is at risk for falls; we would recommend d/c-ing 
+Simvistatin and also re-considering ASA dose (she was on high 
+dose 325 mg for indication for unclear reason) and if she needs 
+to be on it at all
+-Please consider treating chronic sinusitis if she develops 
+worsening headache and URI sx
+-will need to follow-up blood culture
+
+# CODE STATUS: Full, confirmed 
+# CONTACT: Daughter ___ ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 75 mcg PO DAILY 
+2. Omeprazole 40 mg PO DAILY 
+3. Simvastatin 10 mg PO QPM 
+4. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild 
+5. Aspirin 325 mg PO DAILY 
+6. Calcium Carbonate 600 mg PO BID 
+7. Artificial Tears ___ DROP BOTH EYES QID 
+8. Multivitamins 1 TAB PO DAILY 
+9. Senna 8.6 mg PO BID:PRN Constipation 
+10. Docusate Sodium 100 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 1 Day 
+RX *sulfamethoxazole-trimethoprim [Bactrim DS] 800 mg-160 mg 1 
+tablet(s) by mouth twice a day Disp #*2 Tablet Refills:*0 
+2.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+3.  Artificial Tears ___ DROP BOTH EYES QID  
+4.  Aspirin 325 mg PO DAILY  
+5.  Calcium Carbonate 600 mg PO BID  
+6.  Docusate Sodium 100 mg PO BID  
+7.  Levothyroxine Sodium 75 mcg PO DAILY  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Omeprazole 40 mg PO DAILY  
+10.  Senna 8.6 mg PO BID:PRN Constipation  
+11.  Simvastatin 10 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+Urinary tract infection, uncomplicated
+Chronic sinusitis 
+Headache 
+
+Secondary Diagnoses:
+Hypothyroidism  
+Hyperlipidemia  
+Hypertension  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.  
+
+You were admitted to the hospital for ___ days of general 
+malaise and new onset headache. Images of your head were not 
+concerning for any trauma, but showed some chronic inflammation 
+in your sinuses. It was also found you had an infection in your 
+urine. Your blood pressure was also low when you came to the 
+hospital and improved when we gave you fluids.  
+
+You received 2 doses of antibiotics in the hospital and were 
+given an oral antibiotic to take by mouth at home for the 
+urinary infection. Your headache and feeling of general weakness 
+seemed to improve after the first dose of antibiotics. 
+
+You did not have any sinusitis symptoms or signs (frontal 
+headache, sinus tenderness, nasal congestion, runny nose), but 
+if you develop these symptoms, please see your primary care 
+doctor who can evaluate you further and also suggest treatment. 
+Regular nasal saline spray rinses at home may also help improve 
+inflammation in the sinuses. 
+
+Please take your medications as prescribed and follow-up with 
+your primary care doctor after you leave the hospital. 
+
+Warmly,
+Your ___ medical team 
+ 
+Followup Instructions:
+___

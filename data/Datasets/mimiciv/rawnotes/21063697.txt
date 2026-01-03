@@ -1,0 +1,347 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: PLASTIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+2 days of worsening redness over left mastectomy/tissue expander 
+site and fever
+ 
+Major Surgical or Invasive Procedure:
+Removal of Left Breast Tissue Expander, Irrigation and 
+Debridement
+ 
+History of Present Illness:
+___ is a ___ year old female with PMH notable for 
+BRCA gene mutation, breast CA, DM, HTN, and multiple episodes of 
+breast erythema previously managed with antibiotics.  She is 
+currently undergoing chemotherapy.  Per the patient the left 
+breast became firm 2 days ago and today the patient measured a 
+temp of 101.9.  She denies pain ___ the left breast and otherwise 
+is comfortable without systemic constitutional symptoms of 
+infection.  She denies drainage from the breast.  She is s/p 
+mastectomy with B/L tissue expander placement on ___.
+
+ 
+Past Medical History:
+Breast CA
+DM
+HTN
+BRCA gene mutation
+.
+PSH:
+Bilateral Mastectomy
+Bilateral Tissue expander placement    
+Left tissue expander explant ___
+ 
+Social History:
+___
+Family History:
+The Family History was reviewed and is,non-contributory for a 
+past history of infection or immunocompromised state. 
+
+ 
+Physical Exam:
+Physical exam per plastic surgery post op  check on ___:
+VS - ___ 2151 Temp: 99.0 PO HR: 94 BP: 123/84 R Lying RR: 
+18
+O2 sat: 96% O2 delivery: RA 
+___ PO Amt: 240ml IV Amt Infused: 1608ml 
+___ Urine Amt: 600ml left breast JP: 50ml 
+GEN: Resting comfortably ___ bed
+CV: RRR
+PULM: No respiratory distress
+CHEST: L breast incision site covered with Xeroform gauze;
+surrounding area indurated with dull erthyema. JP thin
+serosanguinous.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 02:00PM   GLUCOSE-124* UREA N-4* CREAT-0.4 SODIUM-137 
+POTASSIUM-3.8 CHLORIDE-102 TOTAL CO2-25 ANION GAP-10
+___ 02:00PM   estGFR-Using this
+___ 02:00PM   WBC-6.9 RBC-3.47* HGB-9.5* HCT-28.9* MCV-83 
+MCH-27.4 MCHC-32.9 RDW-15.2 RDWSD-45.8
+___ 02:00PM   PLT COUNT-184
+___ 10:35PM   LACTATE-1.4
+.
+DISCHARGE LABS:
+___ 11:50AM BLOOD WBC-5.5 RBC-3.38* Hgb-9.4* Hct-28.8* 
+MCV-85 MCH-27.8 MCHC-32.6 RDW-15.7* RDWSD-47.0* Plt ___
+___ 06:25AM BLOOD Glucose-157* UreaN-4* Creat-0.4 Na-141 
+K-4.3 Cl-105 HCO3-26 AnGap-10
+___ 06:25AM BLOOD CK(CPK)-38
+___ 06:25AM BLOOD Calcium-8.5 Phos-3.6 Mg-1.8
+___ 11:50AM BLOOD CRP-60.3*
+.
+MICROBIOLOGY:
+___ 10:36 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Preliminary): 
+      STAPH AUREUS COAG +. 
+         Consultations with ID are recommended for all blood 
+cultures
+         positive for Staphylococcus aureus, yeast or other 
+fungi. 
+         FINAL SENSITIVITIES. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         RIFAMPIN should not be used alone for therapy. 
+         Daptomycin Susceptibility testing requested per ___ 
+___
+         (___) (___). 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------     4 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------ <=0.5 S
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI ___ CLUSTERS. 
+      Reported to and read back by ___ (___) ON 
+___ @
+      ___. 
+.
+___ 6:50 pm SWAB      LEFT BREAST POCKET. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      3+  ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND SINGLY. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         RIFAMPIN should not be used alone for therapy. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------     4 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------ <=0.5 S
+
+   ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED. 
+
+   FUNGAL CULTURE (Preliminary): 
+
+   ACID FAST SMEAR (Preliminary): 
+
+   ACID FAST CULTURE (Preliminary): 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+.
+
+ 
+Brief Hospital Course:
+The patient was admitted to the plastic surgery service on 
+___ with + fevers and a warm, tender and reddened tissue 
+expander breast pocket.  She was then taken to the OR for a 
+Removal of left breast tissue expander.  The patient tolerated 
+the procedure well. 
+ .
+ Neuro: Post-operatively, the patient received IV pain 
+medication post operatively with good effect and adequate pain 
+control. When tolerating oral intake, the patient was 
+transitioned to oral pain medications. 
+ .
+ CV: The patient was stable from a cardiovascular standpoint; 
+vital signs were routinely monitored.
+ .
+ Pulmonary: The patient was stable from a pulmonary standpoint; 
+vital signs were routinely monitored.
+ .
+ GI/GU: Post-operatively, the patient was given IV fluids until 
+tolerating oral intake.  Her diet was advanced when appropriate, 
+which was tolerated well. She was also started on a bowel 
+regimen to encourage bowel movement. Intake and output were 
+closely monitored. 
+ .
+ ID: Post-operatively, the patient was started on IV vancomycin 
+and ceftriaxone. A swab from the tissue expander pocket and 
+blood cultures were also obtained and sent. Both cultures grew 
+MRSA and an infectious disease consult was requested.  Patient 
+was started on vancomycin lock therapy to port until decision 
+was made to remove the port on ___ (hospital day # 4, 
+POD#3). A TTE produced suboptimal image quality so the patient 
+was then sent for a TEE which showed: Mild mitral regurgitation 
+with mild leaflet thickening but no discrete vegetation or 
+abscess. Trace aortic regurgitation with normal valve 
+morphology.  An ultrasound study of the right IJ was obtained to 
+rule out thrombus of the vessel which was negative.  Ceftriaxone 
+and vancomycin were discontinued on POD#4 ___ favor of daptomycin 
+IV, per ID recommendation.  The patient tolerated the test dose 
+well.  A PICC line was placed for long term antibiotic therapy, 
+surveillance blood draws and possibly more chemotherapy 
+treatments.  The patient's temperature was closely watched for 
+signs of infection. 
+ .
+ Prophylaxis: The patient received subcutaneous heparin during 
+this stay, and was encouraged to get up and ambulate as early as 
+possible. 
+ .
+ At the time of discharge on POD#6, the patient was doing well, 
+afebrile with stable vital signs, tolerating a regular diet, 
+ambulating, voiding without assistance, and pain was well 
+controlled.  Left breast incision was intact with much improved 
+redness and swelling.  JP x 1 with minimal serous drainage.
+
+ 
+Medications on Admission:
+Atenolol 50 mg PO DAILY  
+Escitalopram Oxalate 20 mg PO DAILY  
+Glargine 20 Units Bedtime Insulin SC Sliding Scale using REG 
+Insulin  
+Lisinopril 10 mg PO DAILY  
+LORazepam 0.5 mg PO Q6H:PRN anxiety  
+Ranitidine 150 mg PO BID  
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Daptomycin 480 mg IV Q24H 
+RX *daptomycin 500 mg 480 mg IV Every 24 hours Disp #*25 Vial 
+Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth Every ___ hours Disp 
+#*15 Tablet Refills:*0 
+4.  Atenolol 50 mg PO DAILY  
+5.  Escitalopram Oxalate 20 mg PO DAILY  
+6.  Glargine 20 Units Bedtime
+Insulin SC Sliding Scale using REG Insulin 
+7.  Lisinopril 10 mg PO DAILY  
+8.  LORazepam 0.5 mg PO Q6H:PRN anxiety  
+9.  Ranitidine 150 mg PO BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1) L breast cellulitis
+2) L breast tissue expander infection (MRSA)
+3) MRSA bacteremia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Personal Care:  
+  1. You may leave your incision open to air or you may cover 
+with a clean, dry dressing daily.  
+  2. Clean around the drain site(s), where the tubing exits the 
+skin, with soap and water.  
+  3. Strip drain tubing, empty bulb(s), and record output(s) ___ 
+times per day.  
+  4. A written record of the daily output from each drain should 
+be brought to every follow-up appointment. Your drains will be 
+removed as soon as possible when the daily output tapers off to 
+an acceptable amount.  
+  5. You may shower daily. No baths until instructed to do so by 
+Dr. ___.  
+  6. You should perform ___ care and follow ___ precautions as 
+you were shown ___ the hospital and by infusion nurse.
+  .  
+  Activity:  
+  1. You may resume your regular diet.  
+  2. DO NOT lift anything heavier than 5 pounds or engage ___ 
+strenuous activity until instructed by Dr. ___.  
+  .  
+  Medications:  
+  1. Resume your regular medications unless instructed otherwise 
+and take any new meds as ordered.  
+  2. You may take your prescribed pain medication for moderate 
+to severe pain. You may switch to Tylenol or Extra Strength 
+Tylenol for mild pain as directed on the packaging.    
+ 3. Take Colace, 100 mg by mouth 2 times per day, while taking 
+the prescription pain medication. You may use a different 
+over-the-counter stool softener if you wish.  
+  4.  Do not drive or operate heavy machinery while taking any 
+narcotic pain medication. You may have constipation when taking 
+narcotic pain medications (oxycodone, percocet, vicodin, 
+hydrocodone, dilaudid, etc.); you should continue drinking 
+fluids, you may take stool softeners, and should eat foods that 
+are high ___ fiber.  
+ .  
+  Call the office IMMEDIATELY if you have any of the following:  
+
+  1. Signs of infection: fever with chills, increased redness, 
+swelling, warmth or tenderness at the surgical site, or unusual 
+drainage from the incision(s).  
+  2. A large amount of bleeding from the incision(s) or 
+drain(s).  
+  3. Fever greater than 101.5 oF  
+  4. Severe pain NOT relieved by your medication.  
+  .  
+  Return to the ER if:  
+  * If you are vomiting and cannot keep ___ fluids or your 
+medications.  
+  * If you have shaking chills, fever greater than 101.5 (F) 
+degrees or 38 (C) degrees, increased redness, swelling or 
+discharge from incision, chest pain, shortness of breath, or 
+anything else that is troubling you.  
+  * Any serious change ___ your symptoms, or any new symptoms 
+that concern you.  
+  .  
+ DRAIN DISCHARGE INSTRUCTIONS  
+You are being discharged with drains ___ place. Drain care is a 
+clean procedure. Wash your hands thoroughly with soap and warm 
+water before performing drain care. Perform drainage care twice 
+a day. Try to empty the drain at the same time each day. Pull 
+the stopper out of the drainage bottle and empty the drainage 
+fluid into the measuring cup. Record the amount of drainage 
+fluid on the record sheet. Reestablish drain suction. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,244 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Droperidol / Ceftin / Tegretol / Nitrate Analogues / Penicillins 
+/ Prednisone / Compazine / Celebrex / Dilantin Kapseal / Tigan / 
+Solu-Medrol / Ativan / Lidocaine / Iodine Containing Agents 
+Classifier / Azithromycin / Bactrim DS / Biaxin / Levofloxacin / 
+NOVOCAINE / polocaine / Mepivacaine / Rifaximin / aspirin / 
+Iodinated Contrast Media - IV Dye / lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weakness, hypokalemia
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with the past
+medical history noted below who presents with roughly three 
+weeks
+of malaise.  She was treated at that time for bronchitis, at an
+urgent care, with levaquin, and recovered from that, at least in
+terms of cough.  Her whole body has been weak, and tried taking 
+a
+walk over the weekend, and barely could make it through.  She
+denies any shortness of breath,chest pain, palpitations.  
+Her legs have been slightly crampy recently, but cannot discern
+whether this is related to her normally active lifestyle, 
+chasing
+her grandchildren around, or an actual disease process.  Brief
+nausea, that terminated on its own.  
+Since the weakness was so persistent, she visited her primary
+care doctor yesterday, who checked some basic labs, and
+hypokalemia of 2.8 noted, and sent to the ED for repletion and
+management.  
+
+Since potassium repletion in the ED, and arrival on the floor,
+she is mostly feeling better, and is hungry.  She hasn't been as
+diligent with fluid intake as she should be.  
+
+ 
+Past Medical History:
+___ esophagus  
+Gastroesophageal reflux  
+History of seizures  
+Hypertension  
+Hypothyroidism (s/p thyroidectomy)  
+History of left upper extremity DVT  
+History of pseudotumor cerebri  
+Renal stones  
+History of mixed connective tissue disorder  
+Sleep apnea  
+Tracheomalacia  
+Pancreatic insufficiency  
+Multiple antibiotic allergies  
+Irritable bowel  
+ 
+Social History:
+___
+Family History:
+Mother, sister, three aunts BRCA2 positive and all had breast 
+cancer. The patient's mother, aunts, and some siblings have 
+asthma. The patient's father died of lung cancer at age ___ and 
+was a former smoker. Patient's sister has questionable lupus  
+ 
+Physical Exam:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+___ 02:17PM   UREA N-20 CREAT-0.8 SODIUM-142 POTASSIUM-2.8* 
+CHLORIDE-104 TOTAL CO2-18* ANION GAP-20*
+___ 01:25PM   GLUCOSE-85 UREA N-18 CREAT-0.8 SODIUM-144 
+POTASSIUM-3.9 CHLORIDE-112* TOTAL CO2-21* ANION GAP-11
+ 
+Brief Hospital Course:
+SUMMARY/ASSESSMENT: Ms. ___ is a ___ female with 
+the
+past medical history and findings noted above who presents with
+lethargy, leg cramps and malaise.  Hypokalemic to 2.8 on labs,
+and admitted for repletion. 
+
+#Hypokalemia/Anion gap metabolic acidosis
+-resolved with repletion (both PO and IV)
+-she has been hypokalemic in the past, but never below 3.  
+-She has IBS, and is on linzess, which causes loose stools, but
+her bowel movements haven't sped up over the past few days.
+-I suspect she isn't eating enough potassium rich foods, and
+haven't discovered anything concerning on other labs.  
+-monitor on telemetry
+-check labs BID, could discharge tomorrow with potassium
+supplementation and close outpatient follow up
+-TSH WNL
+
+CHRONIC/STABLE PROBLEMS:
+# Mild connective tissue disease: Followed 
+by rheumatology. She was continued on her home 
+hydroxychloroquine during this admission.
+
+# Hypertension:  Home losartan dose held, blood pressures 
+consistently in the ___.  She was never symptomatic, and 
+ambulating without dizziness or unsteadiness.  She may not 
+require any BP meds as an outpatient, but would encourage BP to 
+be followed going forward.  
+
+# Gastroesophageal Reflux Disease:  continued on home dose of
+omeprazole
+
+# Gastroparesis: doesn't have her domperidone with her, but is
+okay to be off of it.  
+
+# Hypothyroidism: The patient was continued on her home 
+Levothyroxine  during this admission.
+
+# Pancreatic insufficiency: The patient has a history of 
+pancreatic insufficiency, requiring pancreatic enzyme 
+replacement therapy. As her home medication was not on 
+formulary, she was continued on Creon with meals while inpatient 
+
+and resumed on her home medications at time of discharge.
+
+# Hyperlipidemia:  The patient was continued on her home 
+atorvastatin during this admission.
+
+# History of Pseudotumor Cerebrii: The patient was continued on 
+her home acetazolamide during this admission.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. AcetaZOLamide 500 mg PO Q12H 
+2. ALPRAZolam 0.5 mg PO DAILY:PRN anxiety 
+3. Atorvastatin 20 mg PO QPM 
+4. EpiPen 2-Pak (EPINEPHrine) 0.3 mg/0.3 mL injection ONCE 
+MR1:PRN 
+5. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+6. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+7. Hydrocortisone (Rectal) 2.5% Cream ___ID 
+8. Hydroxychloroquine Sulfate 200 mg PO BID 
+9. Ipratropium-Albuterol Inhalation Spray 1 INH IH Q6H:PRN 
+wheezing 
+10. Levothyroxine Sodium 125 mcg PO DAILY 
+11. Linzess (linaCLOtide) 290 mcg oral DAILY 
+12. Pancreaze (lipase-protease-amylase) 21,000-54,700- 83,900 
+unit oral TID W/MEALS 
+13. Losartan Potassium 12.5 mg PO DAILY 
+14. Omeprazole 40 mg PO BID 
+15. Ranitidine 150 mg PO BID 
+16. Acetaminophen 500 mg PO Q6H:PRN Pain - Mild 
+17. Cetirizine 10 mg PO QHS 
+18. Ibuprofen 400 mg PO Q6H:PRN Pain - Mild 
+19. Lactobac 41-B.bifid,lactis-FOS 111 mg (25 billion cell) oral 
+DAILY 
+20. Neilmed Sinus Rinse Complete (sod chlor-bicarb-squeez 
+bottle)    nasal BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild  
+2.  AcetaZOLamide 500 mg PO Q12H  
+3.  ALPRAZolam 0.5 mg PO DAILY:PRN anxiety  
+4.  Atorvastatin 20 mg PO QPM  
+5.  Cetirizine 10 mg PO QHS  
+6.  EpiPen 2-Pak (EPINEPHrine) 0.3 mg/0.3 mL injection ONCE 
+MR1:PRN  
+7.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+8.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+9.  Hydrocortisone (Rectal) 2.5% Cream ___ID  
+10.  Hydroxychloroquine Sulfate 200 mg PO BID  
+11.  Ibuprofen 400 mg PO Q6H:PRN Pain - Mild  
+12.  Ipratropium-Albuterol Inhalation Spray 1 INH IH Q6H:PRN 
+wheezing  
+13.  Lactobac 41-B.bifid,lactis-FOS 111 mg (25 billion cell) 
+oral DAILY  
+14.  Levothyroxine Sodium 125 mcg PO DAILY  
+15.  Linzess (linaCLOtide) 290 mcg oral DAILY  
+16.  Losartan Potassium 12.5 mg PO DAILY  
+17.  Neilmed Sinus Rinse Complete (sod chlor-bicarb-squeez 
+bottle)    nasal BID  
+18.  Omeprazole 40 mg PO BID  
+19.  Pancreaze (lipase-protease-amylase) 21,000-54,700- 83,900 
+unit oral TID W/MEALS  
+20.  Ranitidine 150 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypokalemia
+
+ 
+Discharge Condition:
+ambulatory, clear mentation, tolerating diet. 
+
+ 
+Discharge Instructions:
+You were admitted with low potassium levels in your blood.  
+After intravenous and oral repletion, the levels returned to 
+within the normal range.  Suspicion is that you may not be 
+eating enough potassium on a daily basis, you can do so by 
+eating more potassium rich foods, like bananas, potatoes and 
+tomatoes.  Please see your primary care doctor early next week 
+for follow up labs.  
+Your blood pressures remained in the high ___, and we held 
+losartan.  We did not find any abnormalities, either on labs or 
+physical exam, that could explain this.  Please discuss with 
+your PCP about whether or not you still need this medication, 
+and if anything must be done further, as an outpatient.  
+
+We are happy that you are feeling better, and hope you continue 
+to do well. 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,334 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / Eliquis
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+TAVR ___ ___ 23mm valve 
+PPM ___ ___ ACCOLADE MRI ___
+
+ 
+History of Present Illness:
+___ is a ___ year old woman with a known history of aortic 
+stenosis who has been experiencing dyspnea on exertion 
+(specifically with stairs).  She presented for planned TAVR on 
+___. 
+
+ 
+Past Medical History:
+Cardiac History:  
+ - severe AS
+ - HTN
+ - HLD
+ - PAD s/p ___ bypass ___
+
+Other PMH:  
+ - Pemphigus vulgaris
+
+ 
+Social History:
+___
+Family History:
+No significant cardiac disease, early MI, sudden
+cardiac death in family. 
+
+ 
+Physical Exam:
+Admission Physical Exam:
+======================
+VS:  HR 70 BP 94/45 99% on RA
+GENERAL: Well developed, well nourished in NAD. Oriented x3.
+Mood, affect appropriate.  
+HEENT: Normocephalic, atraumatic. Sclera anicteric. PERRL. EOMI. 
+
+
+NECK: Supple. No JVD
+CARDIAC: Normal rate, regular rhythm. mild crescendo decrescendo
+murmur, rubs, or gallops.  
+ LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No adventitious breath
+sounds.  
+ ABDOMEN: Soft, non-tender, non-distended. No palpable
+hepatomegaly or splenomegaly.  
+ EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+ SKIN: No significant lesions or rashes.  
+ PULSES: Distal pulses palpable and symmetric.  
+ NEURO:  moves all extremities bilaterally
+Discharge Physical Exam:
+============================
+VS: 135/50, 75, 18, 98% ra, 97.4
+Tele: ___, SR, LBBB 
+EKG: rate 90, SR, LBBB 0.17/0.15/0.41
+GENERAL: Well developed, well nourished in NAD. 
+Mood, affect appropriate. 
+HEENT: Normocephalic, atraumatic. Sclera anicteric. 
+NECK: Supple. No JVD
+CARDIAC: Normal rate, regular rhythm. no murmur, rubs, or 
+gallops. 
+LUNGS: Respiration is unlabored with no accessory muscle use. No
+adventitious breath sounds. 
+ABDOMEN: Soft, non-tender, non-distended. No palpable
+hepatomegaly or splenomegaly. 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema. Left arm severe ecchymosis tracking from pacer 
+site
+SKIN: No significant lesions or rashes. left CW pacer site CD+I 
+w/o crepitus or erythema
+PULSES: Distal pulses palpable and symmetric. 
+NEURO: moves all extremities bilaterally, alert and oriented 
+without focal deficits 
+
+Weight: 234 lbs
+
+ 
+Pertinent Results:
+Labs on Admission:
+======================
+___ 11:45AM BLOOD WBC-8.3 RBC-3.85* Hgb-12.7 Hct-39.3 
+MCV-102* MCH-33.0* MCHC-32.3 RDW-13.6 RDWSD-51.2* Plt ___
+___ 11:45AM BLOOD ___ PTT-29.0 ___
+___ 11:45AM BLOOD UreaN-17 Creat-0.7 Na-136 K-4.2 Cl-92* 
+HCO3-27 AnGap-17
+___ 11:45AM BLOOD ALT-20 AST-25 AlkPhos-71 TotBili-0.5
+___ 10:47AM BLOOD CK-MB-10 cTropnT-0.22*
+___ 10:47AM BLOOD Calcium-9.3 Phos-4.0 Mg-1.5*
+___ 11:45AM BLOOD ___ pO2-39* pCO2-49* pH-7.38 
+calTCO2-30 Base XS-2
+___ 11:45AM BLOOD Lactate-1.4
+Labs on Discharge:
+=======================
+
+___ 06:05AM BLOOD WBC-7.7 RBC-2.67* Hgb-9.0* Hct-28.0* 
+MCV-105* MCH-33.7* MCHC-32.1 RDW-13.6 RDWSD-52.5* Plt ___
+___ 06:05AM BLOOD Plt ___
+___ 06:05AM BLOOD UreaN-10 Creat-0.6 Na-139 K-4.2 Cl-101 
+HCO3-28 AnGap-10
+___ 06:05AM BLOOD Calcium-9.0 Phos-3.0 Mg-1.7
+
+OTHER TESTS:
+=============
+___ Imaging CHEST (PA & LAT) 
+IMPRESSION:  
+In comparison with the study of ___, the single lead 
+pacer is been 
+removed and replaced with a dual channel pacer via a left 
+subclavian approach with leads extending to the right atrium and 
+right ventricle.  No evidence of postinsertion pneumothorax. 
+Cardiac silhouette remains within normal limits and there is no 
+vascular congestion, pleural effusion, or acute focal pneumonia. 
+
+___ Cardiovascular EP Brief Procedure Report 
+Findings
+___ with CHB post TAVR referred for PPM.
+RA/RV placed via L cephalic vein.
+RVOT location chosen to avoid probing apex in s/o DAPT and 
+recent UFH exposure.
+RIJ wire removed under flouro.
+No complications
+___ Imaging CHEST PORT. LINE PLACEM 
+IMPRESSION:  
+No comparison. The patient has received an external pacemaker. 
+The tip 
+projects over the right ventricle. No pneumothorax or other 
+complication.  No pulmonary edema, no pneumonia, no pleural 
+effusions. 
+___ TTE
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect by 2D/color Doppler.
+The estimated right atrial pressure is ___ mmHg. There is mild 
+symmetric left ventricular hypertrophy with a normal cavity 
+size. There is normal regional and global left ventricular 
+systolic function. Quantitative 3D
+volumetric left ventricular ejection fraction is 65 % (normal 
+54-73%). Visually ejection fraction >=70%. Left ventricular 
+cardiac index is high (>4.0 L/min/m2). There is no resting left 
+ventricular outflow
+tract gradient. No ventricular septal defect is seen. Normal 
+right ventricular cavity size with normal free wall
+motion. Tricuspid annular plane systolic excursion (TAPSE) is 
+normal. The aortic sinus diameter is normal for gender with a 
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal with a normal
+descending aorta diameter. There is no evidence for an aortic 
+arch coarctation. A ___ 3 aortic valve bioprosthesis is 
+present. The prosthesis is well seated with leaflets not well 
+seen but normal gradient. The effective orifice area index is 
+normal (>=0.85 cm2/m2). There is no aortic regurgitation. The 
+mitral valve leaflets are mildly thickened with no mitral valve 
+prolapse. There is moderate mitral annular calcification.
+There is mild functional mitral stenosis from the prominent 
+mitral annular calcification. There is trivial mitral 
+regurgitation. Due to acoustic shadowing, the severity of mitral 
+regurgitation could be UNDERestimated. The pulmonic valve 
+leaflets are not well seen. The tricuspid valve leaflets appear 
+structurally normal. There is mild [1+] tricuspid regurgitation. 
+Due to acoustic shadowing, the severity of tricuspid 
+regurgitation may be UNDERestimated. There is mild-moderate 
+pulmonary artery systolic hypertension. There is a trivial 
+pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+normal cavity size and regional/ global biventricular systolic 
+function. Well seated, normal functioning ___ 3 TAVR with 
+normal gradient and no aortic regurgitation. Mild to moderate 
+pulmonary artery systolic hypertension.
+Compared with the prior TTE (images reviewed) of ___ , 
+TAVR gradients are higher but on the prior they were only 
+measured from the apical 5 chamber and on the current highest 
+gradient measured from
+the right parasternal window. They are still within normal 
+limits for a #23 ___ 3.
+MEASUREMENTS:
+Peak Gradient: 23mmHg
+Mean Gradient: 12mmHg
+
+ 
+Brief Hospital Course:
+___ yo with severe AS, PAD s/p ___ bypass ___, HTN, HLD who was 
+admitted for TAVR on ___. Procedure was complicated by 
+complete heart block. Patient initially paced with a balloon tip 
+pacer through a RIJ line, now s/p permanent pacemaker placement. 
+
+
+ #CORONARIES: no CAD
+ #PUMP: LVEF 70%
+ #RHYTHM: NSR
+
+ACUTE ISSUES: 
+============= 
+# Severe AS s/p TAVR
+Patient with a history of AS, admitted for TAVR on ___. 
+After procedure was noted to be in complete heart block. 
+Initially had temporary balloon tip pacer through a RIJ line, 
+now s/p permanent pacemaker placement. Prior to discharge, pacer 
+function was confirmed. TTE ___ confirmed TAVR placement and 
+function. She was continued on her home ASA, Plavix. 
+
+# Complete Heart Block:
+s/p ___ ACCOLADE MRI ___ DDD 
+-F/U at device clinic in one week.
+
+# Tachycardia: Atrial tachycardia up to 140's with activity 
+noted on telemetry. pt asymptomatic. No sign of infection or 
+bleeding. Discussed increasing metoprolol with Dr. ___ 
+discussed with Dr. ___ felt we should allow native 
+conduction and not suppress.
+
+# Hypertension: 
+-Continue hydrochlorothiazide, Metoprolol and Lisinopril
+
+# PAD s/p ___ bypass ___ and DES
+Status post left femoropopliteal stent, which appears occluded 
+on ___ CT. Correlation with symptoms is recommended. No 
+symptoms while inpt.
+She was continued on her home ASA, plavix, atorvastatin. 
+
+# Pemphigus vulgaris
+She was continued on her home prednisone, niacin, doxycycline.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 5 mg PO EVERY OTHER DAY 
+2. Lisinopril 10 mg PO DAILY 
+3. Niacin 500 mg PO TID 
+4. Metoprolol Tartrate 50 mg PO BID 
+5. Atorvastatin 80 mg PO QPM 
+6. Multivitamins 1 TAB PO DAILY 
+7. Clopidogrel 75 mg PO DAILY 
+8. Omeprazole 20 mg PO DAILY 
+9. Aspirin 81 mg PO DAILY 
+10. Doxycycline Hyclate 100 mg PO Q12H 
+11. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q24H  
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 80 mg PO QPM  
+4.  Clopidogrel 75 mg PO DAILY  
+5.  Doxycycline Hyclate 100 mg PO Q12H  
+6.  Hydrochlorothiazide 25 mg PO DAILY  
+7.  Lisinopril 10 mg PO DAILY  
+8.  Metoprolol Tartrate 50 mg PO BID  
+9.  Multivitamins 1 TAB PO DAILY  
+10.  Niacin 500 mg PO TID  
+11.  PredniSONE 5 mg PO EVERY OTHER DAY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=======================
+Severe aortic stenosis
+complete heart block
+
+SECONDARY DIAGNOSIS
+=====================
+Hypertension
+Peripheral artery disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for a trans catheter aortic valve repair 
+(TAVR)to treat your aortic valve stenosis which was done on 
+___. By repairing the valve your heart can pump blood more 
+easily and your shortness of breath should improve.
+It is very important to take all of your heart healthy 
+medications. In particular, you are taking Plavix and aspirin. 
+These medication keep blood clots from forming on the new valve. 
+If you stop this medication or miss ___ dose, you risk causing a 
+blood clot forming on your new valve. This could cause it to 
+malfunction and it may be life threatening. Please do not stop 
+taking aspirin without taking to your heart doctor, even if 
+another doctor tells you to stop the medications.
+
+After your TAVR You underwent a pacemaker placement due to a 
+slow heart rhythm called complete heart block.
+ 
+You will need prophylactic antibiotics prior to any dental 
+procedure. Please inform your dentist about your recent cardiac 
+procedure. One hour prior to your dental procedure take 
+amoxicillin 2 gram once.
+
+Please weigh yourself every day in the morning after you go to 
+the bathroom and before you get dressed. If your weight goes up 
+by more than 3 lbs in 1 day or more than 5 lbs in 3 days, please 
+call your heart doctor or your primary care doctor and alert 
+them to this change. Your weight on discharge is 152 lbs.
+
+We have made changes to your medication list, so please make 
+sure to take your medications as directed. You will also need to 
+have close follow up with your heart doctor and your primary 
+care doctor.
+
+If you have any urgent questions that are related to your 
+recovery from your procedure or are experiencing any symptoms 
+that are concerning to you and you think you may need to return 
+to the hospital, please call the ___ HeartLine at ___ 
+to speak to a cardiologist or cardiac nurse practitioner.
+
+It was a pleasure taking care of you. We wish you the best with 
+your health!
+ 
+Followup Instructions:
+___

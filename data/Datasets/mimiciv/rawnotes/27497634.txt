@@ -1,0 +1,274 @@
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left-sided chest pain
+ 
+Major Surgical or Invasive Procedure:
+___: s/p left ___ pigtail drain placement (removed ___
+
+ 
+History of Present Illness:
+___ y/o male with a history of HTN s/p fall with subsequent rib 
+fractures on ___ presenting to the hospital with worsening of 
+left sided rib fractures for 1 day. Patient refers feeling ok 
+for the last week, not needing any narcotics medication for this 
+period of time. The patient refers the chest pain came back last 
+night, without any pre inciting events to his knowledge, even 
+though he refers sneezing last night.   He refers progressive 
+pain since then ___ on the left side that is worse with deep 
+inspiration.  He denies any other complaints.
+
+ 
+Past Medical History:
+PMH:
+hypertension, BPH, hearing loss  
+
+PSH:
+Rhinoplasty
+ 
+Social History:
+___
+Family History:
+reviewed and negative
+ 
+Physical Exam:
+Admission Physical Exam:
+
+Vitals: 98.7  96  165/89  16  93% RA 
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, nondistended, nontender, no rebound or guarding,
+normoactive bowel sounds, no palpable masses
+Ext: No ___ edema, ___ warm and well perfused
+
+Discharge Physical Exam:
+
+Vitals:  98.6  87  147/92  18  92% RA
+Gen: A&Ox3, well-appearing male, in NAD
+HEENT: No scleral icterus, mucus membranes moist
+Pulm: CTAB, no w/r/r; increased TTP along L lateral chest wall, 
+no crepitus; prior pigtail insertion site clean/dry/intact
+CV: NRRR, no m/r/g
+Abd: soft, NT/ND, no rebound/guarding, no palpable masses
+Ext: WWP bilaterally, no c/c/e, no ulcerations
+Neuro: moves all limbs spontaneously, no focal deficits
+
+ 
+Pertinent Results:
+==============
+ADMISSION LABS
+==============
+
+___ 12:30PM BLOOD WBC-13.4* RBC-3.74* Hgb-11.6* Hct-34.4* 
+MCV-92 MCH-31.0 MCHC-33.7 RDW-13.1 RDWSD-43.8 Plt ___
+
+___ 12:30PM BLOOD ___ PTT-28.8 ___
+
+___ 12:30PM BLOOD Glucose-91 UreaN-27* Creat-1.2 Na-143 
+K-4.3 Cl-105 HCO3-25 AnGap-17
+
+___ 05:21PM BLOOD pH-7.40 Comment-PLEURAL FL
+ 
+
+=============
+MICROBIOLOGY
+=============
+
+___ 4:45 pm PLEURAL FLUID
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Preliminary):    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+ 
+
+========
+IMAGING
+========
+
+___hest:
+IMPRESSION: 
+    
+1. Interval displacement of left lateral fourth, fifth, and 
+sixth rib 
+fractures with re-demonstration of displaced seventh and eighth 
+lateral rib fractures. 
+2. Moderate to large minimal complex pleural effusion with 
+adjacent 
+atelectasis and minimal right pleural effusion. 
+
+___ CXR (post-pigtail placement):
+IMPRESSION:  
+  
+Decreased size of left pleural effusion, now small, status post 
+left basilar chest tube placement.  No pneumothorax.  Bibasilar 
+atelectasis with unchanged  trace right pleural effusion.  
+Multiple left-sided rib fractures re-demonstrated. 
+
+ 
+___ AM CXR:
+IMPRESSION:  
+  
+Left pigtail catheter is in place.  Heart size and mediastinum 
+are stable.  Lungs are essentially clear.  No appreciable 
+pleural effusion.  No pneumothorax. 
+
+___ ___ CXR (post-pull film)
+IMPRESSION:  
+  
+Stable small left pneumothorax and small bilateral pleural 
+effusions 
+ 
+
+==============
+DISCHARGE LABS
+==============
+
+___ 07:04AM BLOOD WBC-14.0* RBC-3.91* Hgb-11.8* Hct-35.7* 
+MCV-91 MCH-30.2 MCHC-33.1 RDW-12.8 RDWSD-42.0 Plt ___
+
+___ 07:04AM BLOOD Glucose-101* UreaN-21* Creat-1.0 Na-142 
+K-4.7 Cl-105 HCO3-24 AnGap-18
+
+___ 07:04AM BLOOD Calcium-8.8 Phos-3.9 Mg-2.2
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the Acute Care Surgery Service under 
+the care of Dr. ___ for management of left pleural 
+effusion following traumatic fall and rib fractures, felt to be 
+most likely traumatic hemothorax. Upon admission, Interventional 
+Pulmonology was consulted and placed a ___ pigtail catheter 
+into the left chest with removal of dark sanguinous fluid. 
+Following adequate initial drainage, the patient endorsed 
+improved breathing and chest pain. His chest tube remained to 
+wall suction for an additional day and output was closely 
+monitored. On the morning of HD2, a CXR demonstrated adequate 
+resolution of pleural effusion, thus the decision was made to 
+remove his chest tube with agreement from Interventional 
+Pulmonology. A repeat CXR obtained 4 hours after chest tube 
+removal showed stable residual fluid and the patient remained 
+stable from a respiratory standpoint.
+
+On the evening of HD2, the patient was tolerating a regular 
+diet, voiding and ambulating without difficulty, he was 
+breathing comfortably on room air with oxygen saturations in the 
+low ___, his pain was well controlled with PO pain medications, 
+his prior chest tube site was clean, dry and intact and he 
+remaind afebrile and hemodynamically stable. He was thus deemed 
+ready for discharge home with ___ services and is scheduled for 
+follow up appointment and repeat CXR with Interventional 
+Pulmonology in 2 weeks.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ALPRAZolam 1 mg PO DAILY 
+2. Lisinopril 10 mg PO DAILY 
+3. Verapamil SR 360 mg PO Q24H 
+4. Nasonex (mometasone) 50 mcg/actuation nasal DAILY 
+5. Atorvastatin 10 mg PO QPM 
+6. Aspirin 81 mg PO DAILY 
+7. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+Do not exceed 4000mg in 24 hours.  
+2.  Ibuprofen 400-800 mg PO Q6H:PRN Pain - Mild  
+3.  TraMADol 50 mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Do not drink or drive while taking narcotics. 
+RX *tramadol 50 mg ___ tablet(s) by mouth every 6 hours Disp 
+#*20 Tablet Refills:*0 
+4.  ALPRAZolam 1 mg PO DAILY  
+5.  Aspirin 81 mg PO DAILY  
+6.  Atorvastatin 10 mg PO QPM  
+7.  Lisinopril 10 mg PO DAILY  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Nasonex (mometasone) 50 mcg/actuation nasal DAILY  
+10.  Verapamil SR 360 mg PO Q24H  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+traumatic hemothorax
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the ___ 
+for management of your increased left sided chest pain in 
+association with your left sided rib fractures. Your imaging 
+demonstrated fluid collecting around your lung (pleural 
+effusion) that was causing your increasing pain. This fluid was 
+likely a result of your recent rib fractures and has now been 
+effectively drained by Interventional Pulmonology. Your chest 
+tube has been removed, your chest xray shows no fluid 
+reaccumulation, and you are now ready to be discharged home. 
+Please see below for post-discharge instructions:
+
+* You should take your pain medication as directed to stay ahead 
+of the pain otherwise you won't be able to take deep breaths. If 
+the pain medication is too sedating take half the dose and 
+notify your physician.
+ 
+* Pneumonia is a complication of rib fractures.  In order to 
+decrease your risk you must use your incentive spirometer 4 
+times every hour while awake.  This will help expand the small 
+airways in your lungs and assist in coughing up secretions that 
+pool in the lungs.
+ 
+* You will be more comfortable if you use a cough pillow to hold 
+against your chest and guard your rib cage while coughing and 
+deep breathing.
+ 
+* Symptomatic relief with ice packs or heating pads for short 
+periods may ease the pain.
+ 
+* Narcotic pain medication can cause constipation therefore you 
+should take a stool softener twice daily and increase your fluid 
+and fiber intake if possible.
+ 
+* Do NOT smoke
+ 
+* If your doctor allows, non-steroidal ___ drugs 
+are very effective in controlling pain (ie, Ibuprofen, Motrin, 
+Advil, Aleve, Naprosyn) but they have their own set of side 
+effects so make sure your doctor approves.
+ 
+* Return to the Emergency Room right away for any acute 
+shortness of breath, increased pain or crackling sensation 
+around your ribs (crepitus).
+
+ 
+Followup Instructions:
+___

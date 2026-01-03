@@ -3,8 +3,8 @@
 MODEL_NAME="google/gemma-3-4b-it"
 
 export PYTHONPATH=src:$PYTHONPATH
-export WANDB_API_KEY="7eadd40652b0651b0f12dc86ea4d5fde56db2e2a"
-export WANDB_PROJECT="gemma3-poc-6"
+export WANDB_API_KEY="804f99947d014002648b0e99ae3c09633161e7a0"
+export WANDB_PROJECT="gemma3-1b-finetune-MD"
 
 # It is strongly recommended to train Gemma3 models with the `eager` attention implementation instead of `flash_attention_2`
 
@@ -12,7 +12,7 @@ deepspeed src/train/train_sft.py \
     --use_liger True \
     --deepspeed scripts/zero3.json \
     --model_id $MODEL_NAME \
-    --data_path data/train_medical_notes_gpt5_9k_sft.json \
+    --data_path data/train_md_symptoms_sft.json \
     --image_folder /path/to/your/image/folder \
     --disable_flash_attn2 True \
     --lora_enable False \
@@ -20,7 +20,7 @@ deepspeed src/train/train_sft.py \
     --freeze_vision_tower False \
     --freeze_llm False \
     --bf16 True \
-    --output_dir output/test \
+    --output_dir output/md_symptoms \
     --num_train_epochs 5 \
     --per_device_train_batch_size 4 \
     --gradient_accumulation_steps 1 \

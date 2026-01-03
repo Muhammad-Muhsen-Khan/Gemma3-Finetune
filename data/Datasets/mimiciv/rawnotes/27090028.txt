@@ -1,0 +1,431 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea, vomiting, abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo male with a history of multiple myeloma who is admitted
+with nausea and vomiting and epigastic pain. The patient states
+his symptoms started three days ago and have persisted. He 
+states
+he has not been able to eat or drink or take his medications. He
+states the pain is localized to the epigastrium and denies any
+RUQ pain or pain elsewhere. He denies any diarrhea and last 
+moved
+his bowels on ___. He denies any pain or drainage at the
+site of his recent bone marrow biopsy. He had been taking an
+increased dose of Lasix but has not taken any medications in the
+last two days.
+
+REVIEW OF SYSTEMS:
+- All reviewed and negative except as stated in the HPI.
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per OMR):
+Multiple myeloma
+-ISS stage I (normal albumin, B2 microglobulin 2.5),
+Durie-Salmin stage IIIA (advanced lytic lesions and normal renal
+function)
+___ year old male with no PMH, presented in ___ presented 
+6 weeks of progressive back pain and few episodes of urinary
+incontinence. Work up, including MRI of the spine; revealed
+multifocal thoracic spine hypointense lesions as well as
+a T7 compression deformity. Admission labs also found mild 
+anemia
+and hypercalcemia. + Bence ___ proteins. SPEP with monoclonal
+kappa. 
+Bone marrow biopsy on ___: Plasma cells comprise 22% of
+aspirate material and 60-70% of core biopsy cellularity as
+confirmed by ___ immunostaining. By Kappa and lambda staining,
+they are Kappa restricted.
+- ___: Dexamethasone pulse (total dose 120 mg over 4 days)
+___ - ___: XRT to T6-L1, 400 cGy x 4 fractions
+- Velcade 1.3 mg/m2 IV and dexamethasone 10 mg IV on D1,4,8,11:
+C1D1 on ___
+- Admission for confusion in the setting of hyponatremia and
+bilateral lower extremity swelling.
+- ___ C2 Velcade/Dex days 1, 4, 8, 11.
+- ___ C1 CyBorD (weekly) 
+Cytoxan 300mg/m2, Velcade(SQ) 1.5mg/m2, Dex ___ PO
+- ___ C2 CyBorD (weekly)
+Cytoxan 300mg/m2, Velcade(SQ) 1.5mg/m2, Dex ___ PO
+- ___ C3 CyBorD (weekly)
+Cytoxan 300mg/m2, Velcade(SQ) 1.5mg/m2, Dex ___ PO
+- ___ C4 CyBorD (weekly)
+Cytoxan 300mg/m2, Velcade(SQ) 1.5mg/m2, Dex ___ PO
+- ___ C5 CyBor D (weekly)
+Cytoxan 300mg/m2, Velcade(SQ) 1.5mg/m2, Dex ___ PO
+- ___: Dx with LLL PNA; CyBorD held
+- ___: CyBorD held for worsening ___ edema and cont cough,
+concern for pulmonary hypertension.
+- ___: Bone marrow biopsy done.
+
+PAST MEDICAL HISTORY:
+- Erectile dysfunction since ___
+- Genital herpes, since ___
+- Fall from a ladder, ___, c/b pain in lower left back, treated
+w/ ___ and NSAIDs and resolved without complications.
+- Ex-Lap, ___, after blunt stomach trauma, no definitive 
+answers
+were obtained, no complications resulted.
+- Torn Left knee menisus.  S/p steroid shots x2. No surgical
+intervention.
+ 
+Social History:
+___
+Family History:
+Father with ___, deceased
+Mom with cancer, unclear type
+Siblings: no known illnesses
+Children: no known health issues
+
+ 
+Physical Exam:
+=======================
+ADMISSION PHYSICAL EXAM
+=======================
+General:  NAD
+VITAL SIGNS: T 98.1 RR 22 BP 142/82 HR 94 O2 100%RA
+HEENT:  MMM, no OP lesions
+CV:  RR, NL S1S2
+PULM:  CTAB
+ABD:  Soft, epigastric tenderness to palpation, no guarding or
+rigidity, ND, no masses or hepatosplenomegaly
+LIMBS:  No edema, clubbing, tremors, or asterixis
+SKIN:  No rashes or skin breakdown
+NEURO:  Alert and oriented, no focal deficits.
+
+=======================
+DISCHARGE PHYSICAL EXAM
+=======================
+Vitals: Tm 98.6F Tc 97.5F BP 110/60 mmHg P 84 RR 16 O2 99% RA
+General: Well-appearing man, appearing his stated age, in NAD.
+HEENT: PERRL, OP clear, MMM. Anicteric sclerae.
+Neck: Supple, no JVD. No LAD.
+CV: RRR, no MRGs; normal S1/S2.
+Pulm: CTA b/l; no wheezes, rhonchi, or rales.
+Abd: Well-healed midline abdominal scar, with skin retraction. 
+No tenderness to palpation. No rebound tenderness or guarding. 
+NABS. No organomegaly.
+Ext: Warm and well-perfused. No edema. 
+Neuro: A&Ox3. CNs II-XII grossly intact. Distal sensation intact 
+to light touch. Gait deferred.
+
+ 
+Pertinent Results:
+==============
+ADMISSION LABS
+==============
+___ 01:00PM BLOOD WBC-6.4# RBC-2.76*# Hgb-10.3*# Hct-29.1* 
+MCV-105*# MCH-37.3* MCHC-35.4 RDW-14.6 RDWSD-56.1* Plt ___
+___ 01:00PM BLOOD Neuts-83.8* Lymphs-8.1* Monos-7.3 
+Eos-0.0* Baso-0.0 Im ___ AbsNeut-5.36# AbsLymp-0.52* 
+AbsMono-0.47 AbsEos-0.00* AbsBaso-0.00*
+___ 01:00PM BLOOD Plt ___
+___ 01:00PM BLOOD Glucose-129* UreaN-10 Creat-0.8 Na-136 
+K-3.6 Cl-100 HCO3-24 AnGap-16
+___ 01:00PM BLOOD ALT-11 AST-34 AlkPhos-90 TotBili-1.1
+___ 01:00PM BLOOD Albumin-4.0 Calcium-9.6 Phos-2.8 Mg-1.7
+___ 01:08PM BLOOD Lactate-1.2
+
+============
+INTERIM LABS
+============
+___ 12:52AM BLOOD ALT-8 AST-34 AlkPhos-74 Amylase-112* 
+TotBili-1.6* DirBili-0.4* IndBili-1.2
+___ 12:00AM BLOOD Calcium-8.2* Phos-3.0 Mg-2.2 UricAcd-5.7
+___ 09:10AM BLOOD TotProt-5.1*
+___ 12:52AM BLOOD Hapto-28*
+___ 09:10AM BLOOD PEP-PND FreeKap-PND FreeLam-PND 
+b2micro-2.1 IgG-401* IgA-43* IgM-22*
+___ 06:19PM BLOOD Lactate-1.5
+
+==============
+DISCHARGE LABS
+==============
+___ 12:00AM BLOOD WBC-3.3* RBC-2.12* Hgb-7.9* Hct-23.9* 
+MCV-113* MCH-37.3* MCHC-33.1 RDW-14.8 RDWSD-61.7* Plt ___
+___ 12:00AM BLOOD Neuts-50.6 ___ Monos-19.5* 
+Eos-4.2 Baso-0.3 Im ___ AbsNeut-1.69 AbsLymp-0.84* 
+AbsMono-0.65 AbsEos-0.14 AbsBaso-0.01
+___ 12:00AM BLOOD Plt ___
+___ 12:00AM BLOOD Glucose-116* UreaN-13 Creat-0.8 Na-140 
+K-4.6 Cl-111* HCO3-23 AnGap-11
+___ 12:00AM BLOOD ALT-11 AST-23 LD(LDH)-202 AlkPhos-68 
+TotBili-0.3
+___ 12:00AM BLOOD Albumin-3.3* Calcium-8.5 Phos-3.8 Mg-2.1 
+UricAcd-5.2
+
+============
+MICROBIOLOGY
+============
+__________________________________________________________
+___ 7:50 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 6:35 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 5:45 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+===============
+IMAGING/STUDIES
+===============
+LIVER OR GALLBLADDER US (___):
+FINDINGS:    
+LIVER: The hepatic parenchyma appears within normal limits. The 
+contour of the liver is smooth. There is no focal liver mass. 
+The main portal vein is patent with hepatopetal flow. There is 
+minimal ascites.   
+BILE DUCTS: There is no intrahepatic biliary dilation. The CBD 
+measures 8 mm.   
+GALLBLADDER: There is no evidence of stones or gallbladder wall 
+thickening.   
+PANCREAS: Imaged portion of the pancreas appears within normal 
+limits, without masses or pancreatic ductal dilation, with 
+portions of the pancreatic tail obscured by overlying bowel gas. 
+
+SPLEEN: Normal echogenicity, measuring 8.9 cm.   
+KIDNEYS:  Limited views of the right kidney show no evidence of 
+hydronephrosis   
+RETROPERITONEUM: Visualized portions of aorta and IVC are within 
+normal limits. 
+  
+IMPRESSION:  
+Small amount of free fluid in the abdomen.  No evidence of acute 
+
+cholecystitis. The common bile duct is mildly prominent, 
+measuring up to 8 mm.  Correlate with LFTs to assess need for 
+additional evaluation. 
+
+CT CHEST W/O CONTRAST (___):
+IMPRESSION: 
+ 
+1. Moderate nonhemorrhagic pericardial effusion is substantially 
+increased since ___.  Without IV contrast chamber size 
+is not well assessed limiting evaluation for tamponade.  
+Clinical correlation and possible echocardiogram if clinically 
+indicated is recommended. 
+2. Small bilateral pleural effusions, left greater than right, 
+are increased. 
+3. New anasarca and evidence of substantial weight loss since 
+the prior study. 
+4. Mild interstitial abnormality with ground-glass opacities in 
+the lung bases possibly reflecting pulmonary edema is slightly 
+worse. 
+5. Relative hypodensity of the cardiac myocardium to the blood 
+pool suggests anemia. 
+6. Please note CT of the abdomen and pelvis will be reported 
+separately 
+  
+RECOMMENDATION(S):  Clinical correlation and possible 
+echocardiogram to assess for cardiac tamponade. 
+
+CT ABD & PELVIS W/O CON (___):
+IMPRESSION:   
+1. No evidence of lymphadenopathy or compression of the 
+intra-abdominal vasculature. 
+2. Diffuse lytic lesions throughout the axial skeleton, 
+progressed from ___ with new compression fractures of L1 
+and L3. 
+3. For details regarding the chest including a new pericardial 
+effusion please see dedicated chest CT report from same day 
+4. Interval weight loss and anasarca. 
+
+V/Q Scan (___):
+FINDINGS:  Ventilation images demonstrate decreased ventilatory 
+tracer uptake in the lung apices that is matched with the 
+perfusion tracer. 
+  
+Perfusion images demonstrate decreased perfusion tracer uptake 
+in the lung 
+apices that is matched with the perfusion tracer.  
+  
+Chest x-ray shows no acute cardiopulmonary process.  
+  
+IMPRESSION:  Matched defects in the pulmonary apices. No 
+evidence of chronic thromboembolic pulmonary hypertension. 
+
+ 
+Brief Hospital Course:
+___ is a ___ y/o man w/ a PMH of multiple myeloma 
+(___ stage IIIa) s/p weekly 5 cycles of CyBorD (last 
+___, possible pulmonary hypertension, ___ edema, and 
+chronic back pain, who presented with three days of nausea, 
+epigastric pain and one episode of emesis, Tbili of 1.7, normal 
+LFTs, RUQ ultrasound w/ enlarged CBD of 8 mm.
+
+# Nausea/vomiting.  He was treated symptomatically, with a 
+rapidly advanced diet, and he improved. This was thought to have 
+partially resulted from opiate withdrawal, as he had not taken 
+his sustained-release morphine in several days, and his symptoms 
+resolved overnight. Nausea was treated with home Compazine. 
+Omeprazole was continued. Bowel regimen was continued with 
+senna, docusate, Miralax, bisacodyl, and lactulose. 
+
+# Pulmonary hypertension. Evidence of elevated PA pressure on 
+prior TTE; no evidence of left sided heart failure or 
+intraparenchymal lung disease to explain this. This was thought 
+to potentially be adverse effect from bortezomib. He underwent a 
+CT chest/abdomen/pelvis as planned prior to admission to work-up 
+lower extremity edema. The preliminary reading on this 
+demonstrated an interval increase in pericardial effusion. 
+Repeat echocardiogram was performed, which did not demonstrate 
+worsened pericardial effusion. Pulsus was 6 mmHg. Cardiology was 
+consulted. V/Q scan was performed to rule-out pulmonary 
+embolism; this was negative.
+
+# Multiple myeloma. As above, (___ stage IIIa) s/p 
+weekly 5 cycles of CyBorD (last ___. Last CyBorD was held  
+because of lower lobe
+pneumonia and then worsening lower erxtremity edema and 
+pulmonary hypertension. Home prophylaxis was continued with 
+Bactrim, acyclovir, mupirocin, and topical ketoconazole
+
+# ___ syndrome. Mild unconjugated hyperbilirubinemia, with 
+no evidence of hemolysis (low-normal haptoglobin), with anemia 
+at baseline. Obstruction was unlikely given absence of elevated 
+alkaline phosphatase. Trigger may have been missing doses of 
+MSContin as outpatient, leading to withdrawal symptoms. There 
+was no evidence of pancreatitis, intestional perforation or 
+obstruction.
+
+# Lower extremity edema. Chronic, for which he has been on Lasix 
+in the past. Did not have significant edema on this admission. 
+Restarted home Lasix at reduced dose of 20 mg BID
+
+# Pain. Chronic and long-standing. Home pain medications were 
+continued (MSContin 60 mg BID, oxycodone ___ q4h:PRN, 
+gabapentin 600 mg TID, lidocaine patch qAM). 
+
+===================
+TRANSITIONAL ISSUES
+===================
+# Pulmonary hypertension. Cardiology was consulted; V/Q scan was 
+negative. Please continue work-up for this, as you have been 
+doing.
+# Medication changes. Lasix was decreased to 20 mg BID as edema 
+was improving. Please consider adjusting at your discretion. 
+# ___ syndrome. As above, mild unconjugated 
+hyperbilirubinemia, with no evidence of hemolysis. Please 
+consider following LFTs for this as an outpatient. 
+# Code status: FULL
+# Contact: ___, sister, ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Docusate Sodium 100 mg PO BID 
+2. Omeprazole 20 mg PO DAILY 
+3. Polyethylene Glycol 17 g PO DAILY 
+4. Senna 8.6 mg PO BID 
+5. Acyclovir 400 mg PO TID 
+6. Furosemide 40 mg PO BID 
+7. Gabapentin 600 mg PO TID 
+8. Lactulose 15 mL PO TID:PRN Constipation 
+9. Lidocaine 5% Patch 1 PTCH TD QAM 
+10. Prochlorperazine 10 mg PO Q4H:PRN Nasuea 
+11. Ondansetron 4 mg PO Q8H:PRN Nausea 
+12. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN Pain 
+13. Acetaminophen 650 mg PO Q6H:PRN pain 
+14. Mupirocin Ointment 2% 1 Appl TP BID 
+15. Ketoconazole 2%  1 Appl TP BID 
+16. Morphine SR (MS ___ 60 mg PO Q12H 
+17. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Acyclovir 400 mg PO TID 
+2. Docusate Sodium 100 mg PO BID 
+3. Gabapentin 600 mg PO TID 
+4. Ketoconazole 2%  1 Appl TP BID 
+5. Lactulose 15 mL PO TID:PRN Constipation 
+6. Lidocaine 5% Patch 1 PTCH TD QAM 
+7. Mupirocin Ointment 2% 1 Appl TP BID 
+8. Omeprazole 20 mg PO DAILY 
+9. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN Pain 
+10. Polyethylene Glycol 17 g PO DAILY 
+11. Senna 8.6 mg PO BID 
+12. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+13. Ondansetron 4 mg PO Q8H:PRN Nausea 
+14. Prochlorperazine 10 mg PO Q4H:PRN Nasuea 
+15. Acetaminophen 650 mg PO Q6H:PRN pain 
+16. Morphine SR (MS ___ 60 mg PO Q12H 
+17. Furosemide 20 mg PO BID 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+=================
+PRIMARY DIAGNOSES
+=================
+- multiple myeloma
+- ___ syndrome
+- pulmonary hypertension
+
+===================
+SECONDARY DIAGNOSES
+===================
+- chronic pain
+- lower extremity edema
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure caring for you at ___ 
+___. You were admitted because you were experiencing 
+nausea, vomiting, and abdominal pain. We performed an ultrasound 
+of your abdomen to look for gallstones, and you did not have 
+any. Part of your symptoms may have been caused by missing a few 
+doses of morphine. You did have a slightly elevated laboratory 
+test called a "bilirubin," but this improved. You may have a 
+condition called ___ syndrome," which can sometimes cause 
+this when people become dehydrated or are under stress. It is 
+not worrisome, but it is important that you make sure to stay 
+hydrated. We also scanned your lungs to make sure that you did 
+not have any blood clots--you did not have any.
+
+Your discharge follow-up appointments are outlined below. Please 
+continue to take all medications as prescribed.
+
+We wish you the very best!
+
+Warmly,
+Your ___ Team
+ 
+Followup Instructions:
+___

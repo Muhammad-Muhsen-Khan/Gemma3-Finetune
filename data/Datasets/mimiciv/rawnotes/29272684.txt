@@ -1,0 +1,512 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Phenothiazines / Prochlorperazine / Trazodone
+ 
+Attending: ___
+ 
+Chief Complaint:
+hemetemesis 
+
+ 
+Major Surgical or Invasive Procedure:
+EGD with banding (___)
+ETT (___) with extubation (___)
+Reintubation on ___ with extubation on ___
+RIJ CVL on ___
+ 
+History of Present Illness:
+___ with hx of HCV cirrhosis (genotype 3) c/b grade II 
+esophageal varices, hepatopulmonary syndrome, HE, and congestive 
+gastropathy, chronic pancreatitis, hypogonadism, chronic 
+methadone use, symptomatic bradycardia s/p PPM, and recurrent 
+nephrolithiasis who presents with hematemesis. 
+
+Patient was in his usual state of health until the evening of 
+___ when he began to have epigastric pain and nausea. He then 
+progressed to have several episodes of dark bloody hematemesis. 
+Per his wife, he has not been taking his nadolol since his last 
+EGD in ___. Given this, he presented to the ED.
+   
+In the ED, initial vitals 99.7 88 127/79 20 96% RA. In triage, 
+had another episode of hematemesis, for which he was triggered. 
+Exam notable for no epigastric tenderness and guiac negative 
+stool with no melena. Labs notable for WBC 3.4, H/H 8.6/26.9 
+(baseline Hct ___, platelets 55, INR 2.0, K 5.3, Cr 1.2 
+(baseline 1.0-1.2), Tbili 1.4, albumin 3.1, AST/ALT 67/20, 
+lactate 2.8. CXR with no acute abnormality. Patient was started 
+on PPI gtt with bolus, octreotide, and CTX. Hepatology was 
+consulted in the ED who suggested that he be intubated prior to 
+EGD in the MICU. During intubation, patient was noted to have 
+large aspiration of bloody emesis. 
+
+On arrival to the MICU, patient was intubated and sedated.   
+
+Review of systems:  
+(+) Per HPI. Denies melena, hematuria, dysuria. Otherwise 
+10-point review of systems negative.
+
+ 
+Past Medical History:
+-End-stage HCV cirrhosis complicated by grade II esophageal 
+varices (last EGD = ___, portal hypertensive gastropathy, 
+?hepatopulmonary syndrome, ascites, and hepatic encephalopathy 
+followed by hepatology (Dr. ___ awaiting transplant. 
+Intolerant to sofosbuvir and ribavirin
+-History of IVDU on chronic methadone
+-hypogonadism
+-chronic low back pain
+-symptomatic bradycardia s/p PPM
+-nephrolithiasis s/p lithotripsy 
+-osteoporosis
+ 
+ 
+Social History:
+___
+Family History:
+He is adopted; family history unknown.
+ 
+Physical Exam:
+ADMISSION EXAM:
+===================
+Vitals: 98.9 117 122/93 30 99% CMV FiO2 100%  
+GENERAL: intubated, sedated.
+HEENT: Sclera anicteric, MMM, oropharynx with dried blood
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no ascites/fluid wave
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: no rashes, no spider angiomas, dry scaling in ___ 
+bilaterally 
+NEURO: sedated  
+
+DISCHARGE EXAM:
+===================
+Weight: NR
+Vitals: 97.8, 117/58, 62, 20, 96%RA
+I/O: 300/500 last shift; ___+ 6BM's last 24 hours
+GENERAL: chronically ill appearing man, NAD
+HEENT: Sclera anicteric, PERRL, EOMI, pupils normal size b/l, 
+MMM; notable fasciculations of tongue on protrusion
+NECK: supple, JVP difficult to discern as patient tremulous on 
+exam, appears at 8cm  
+LUNGS: CTAB with left-sided crackles up to mid-lung; no 
+increased WOB
+CV: Regular rate and rhythm, loud S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-distended, firmer but non-rigid, NTTP, 
+hyperactive BS
+EXT: Warm, well perfused, bounding 3+ pulses; 2+ sacral edema 
+present
+SKIN: dry scaling in ___ bilaterally; petechial/ecchymotic 
+lesions over b/l forearms
+NEURO: awake, improving; still tremulous, difficult to 
+appreciate asterixis, but tongue fasciculations still present, 
+AAOx3
+PSYCH: able to recite months of year backwards
+ 
+Pertinent Results:
+ADMISSION LABS:
+====================
+___ 11:00PM BLOOD WBC-3.4* RBC-2.88* Hgb-8.6* Hct-26.9* 
+MCV-93 MCH-29.9 MCHC-32.0 RDW-16.5* RDWSD-55.2* Plt Ct-55*
+___ 11:00PM BLOOD Neuts-68.4 Lymphs-18.6* Monos-11.2 
+Eos-1.2 Baso-0.3 Im ___ AbsNeut-2.31 AbsLymp-0.63* 
+AbsMono-0.38 AbsEos-0.04 AbsBaso-0.01
+___ 11:26PM BLOOD ___ PTT-31.0 ___
+___ 11:00PM BLOOD Glucose-116* UreaN-21* Creat-1.2 Na-137 
+K-5.3* Cl-103 HCO3-29 AnGap-10
+___ 11:00PM BLOOD ALT-20 AST-67* AlkPhos-52 TotBili-1.4
+___ 11:00PM BLOOD Lipase-30
+___ 11:15PM BLOOD Lactate-2.8* K-4.3
+___ 11:17AM URINE Color-DkAmb Appear-Hazy Sp ___
+___ 11:17AM URINE Blood-LG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-6.0 Leuks-LG
+___ 11:17AM URINE RBC->182* WBC->182* Bacteri-NONE 
+Yeast-NONE Epi-0
+
+PERTINENT LABS:
+====================
+___ 02:45AM BLOOD WBC-5.5 RBC-2.06* Hgb-6.2* Hct-19.6* 
+MCV-95 MCH-30.1 MCHC-31.6* RDW-17.5* RDWSD-58.6* Plt Ct-32*
+___ 07:46AM BLOOD ___ PTT-61.2* ___
+___ 09:44AM BLOOD ___
+___ 05:50PM BLOOD ___ 02:45AM BLOOD Hapto-<5*
+___ 09:14PM URINE Color-Yellow Appear-Hazy Sp ___
+___ 09:14PM URINE Blood-LG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG
+___ 03:50PM ASCITES WBC-21* RBC-1240* Polys-5* Lymphs-47* 
+___ Macroph-48*
+___ 03:34PM ASCITES WBC-23* RBC-197* Polys-4* Lymphs-24* 
+___ Macroph-70* Other-2*
+___ 03:34PM ASCITES TotPro-0.4
+
+IMAGING:
+====================
+CXR (___): Increased bilateral patchy opacities may be 
+consistent with worsening edema or aspiration. 
+
+ABD U/S (___):
+1. Patent hepatic vasculature.  A small amount of retracted clot 
+is seen at the junction of the left portal vein in the main 
+portal vein, however the vessels are patent with appropriate 
+direction of flow. 
+2. Coarsened nodular liver echotexture, consistent with 
+cirrhosis.  No focal liver lesions identified. 
+3. Cholelithiasis and gallbladder sludge without evidence of 
+cholecystitis. 
+4. Massive splenomegaly. 
+5. Moderate ascites.
+
+CXR (___): ET tube is in standard position.  Diffuse 
+bilateral opacities worse in the medial lower lobes have 
+increased from prior consistent with worsening 
+aspiration/pneumonia.  There is increase in loss of volume of 
+the left lower lobe.  Left pleural effusion is small.  There is 
+no pneumothorax. Cardiomediastinal contours are unchanged.  
+Pacer leads are in standard position 
+
+CXR (___): ET tube tip is 5 cm above the carinal.  Pacemaker 
+leads terminate in the expected location of right atrium and 
+right ventricle.  Bibasal consolidations and bilateral pleural 
+effusions are unchanged.  Left lower lung is most likely 
+entirely atelectatic.  The opacities within the lungs most 
+likely represent a combination of pulmonary edema and infectious 
+multinodular process. 
+
+CXR (___): In comparison with the study of ___, there 
+is little change in the diffuse bilateral pulmonary 
+opacifications an the appearance of the monitoring and support 
+devices.  No evidence of appreciable enlargement of the cardiac 
+silhouette.  Again, this appearance could well represent some 
+combination of substantial pulmonary vascular congestion and 
+superimposed multifocal pneumonia. 
+
+S&S Video Swallow (___): Silent aspiration of thin liquids 
+and single episode of aspiration of nectar thick liquids. Please 
+refer to the speech and swallow division note in OMR for full 
+details, assessment, and recommendations.
+
+CT Abdomen/Pelvis with Contrast (___): Shrunken and nodular 
+liver with splenomegaly and numerous portosystemic collaterals 
+predominantly perisplenic, periesophageal, and perigastric in 
+location consistent with portal hypertension.  Moderate volume 
+ascites has marginally progressed relative to prior examination 
+dated ___. Interval decreased bilateral 
+nonhemorrhagic and layering pleural effusions with new ground 
+glass opacities involving the right lower and middle lobes 
+worrisome for infectious process or aspiration for which 
+clinical correlation is advised. Atrophic left kidney with a 
+ureteral stent which appears appropriately positioned.  Mild 
+right renal pelviectasis. Foci of air within a decompressed 
+bladder lumen is presumably iatrogenic for which clinical 
+correlation is warranted.
+
+CT Head Non-contrast (___): Probable sequelae of chronic 
+small vessel ischemic disease. No acute intracranial process.
+
+MICROBIOLOGY:
+==================
+URINE CULTURE (___): YEAST. 10,000-100,000 ORGANISMS/ML.
+BLOOD CUTLURE X2 (___): NEGATIVE
+PERITONEAL CULTURE (___): NEGATIVE
+SPUTUM CULTURE (___): NEGATIVE
+URINE CULTURE (___): NEGATIVE
+BLOOD CULTURE X2 (___): NGTD
+PERITONEAL CULTURE (___): NGTD
+
+DISCHARGE LABS:
+=================
+___ 07:15AM BLOOD WBC-3.3* RBC-2.58* Hgb-7.9* Hct-25.7* 
+MCV-100* MCH-30.6 MCHC-30.7* RDW-22.1* RDWSD-78.0* Plt Ct-64*
+___ 07:15AM BLOOD ___ PTT-38.9* ___
+___ 07:15AM BLOOD Glucose-115* UreaN-17 Creat-1.0 Na-136 
+K-4.5 Cl-100 HCO3-31 AnGap-10
+___ 07:15AM BLOOD Calcium-8.7 Phos-3.2 Mg-1.4*
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ with hx of HCV cirrhosis (genotype III) c/b 
+Stage II esophageal varices, hepatic encephalopathy, ascites, 
+hepatopulmonary syndrome, admitted for acute UGIB ___ esophageal 
+varices I/s/o non-adherence to home nadolol and lactulose.
+
+ACTIVE PROBLEMS:
+=================
+# Upper GI Bleed ___ Esophageal Varices: The patient presented 
+with hematemesis and was admitted to the ICU for intubation 
+(airway protection) and EGD. During EGD, the patient was found 
+to have active bleeding from esophageal varices, visualized and 
+treated during with banding x4. He was given octreotide gtt, PPI 
+gtt, and prophylactic dose Ceftriaxone, followed by cefepime (as 
+below). He also received hemodynamic support with IVF and blood 
+products - 4u pRBC, 1u FFP, and 3u plts during his MICU course. 
+His H&H was stable thereafter during this admission. Etiology of 
+his decompensation was felt most likely ___ non-adherence to 
+home nadalol therapy, which was restarted shortly after transfer 
+to the floor from the ICU. He was also continued on PPI and home 
+sucralfate through discharge.
+
+# Hepatic encephalopathy: The patient is slow to respond at 
+baseline, but developed hepatic encephalopathy with +asterixis, 
+most notably in his tongue, ___ missed lactulose and GIB. He was 
+aggressively treated with lactulose and rifaximin with good 
+effect and rapid clearing of his mental status. The patient was 
+also briefly on a course of flagyl 250mg PO TID for added 
+antimicrobial tx of his HE. He did undergo CT abd/pevl with 
+contrast showing microvascular shunting with possibly 
+substantial systemic-porto shunting. As patient was improving 
+clinically, no further interventions such as attempts at 
+reversing these shunts were taken. On discharge, the patient was 
+alert and oriented x3 and in his normal state of mentation per 
+his wife.
+
+# Hypoxia/respiratory failure: The patient was initially 
+intubated for airway protection on ___ and extubation was 
+attempted on ___. Shortly following extubation, however, the 
+patient developed hypoxic respiratory failure, likely 
+multifactorial ___ aspiration/pna I/s/o active GIB and fluid 
+overload with diuretics being held. He was re-intubated, 
+diuresed, and re-extubated on ___. He was treated for his 
+aspiration PNA as below, diuresed further with IV Lasix, and 
+transitioned to his home regimen of spironolactone 200mg PO 
+daily and Lasix 40mg PO daily. He was quickly weaned to RA with 
+duonebs given PRN. On discharge, he was breathing comfortably, 
+euvolemic, and saturating well on RA.
+
+# Aspiration pneumonia: The patient was febrile while in the 
+MICU, likely ___ aspiration pneumonia given diffuse bilateral 
+pulmonary opacifications on CXR and high risk for aspiration 
+prior to intubation I/s/o altered mental status and hematemesis. 
+He was initiated on treatment with Vancomycin and Cefepime, 
+de-escalated to cefepime (first dose ___ for planned 8 day 
+course. Unfortunately, patient had no positive culture data 
+(urine, sputum, blood, and peritoneal) to guide therapy. While 
+in the MICU, the patient also covered for 5 day course with 
+Azithromycin for atypical organisms (___). He completed 
+his last dose of antibiotics on ___ and was without fevers 
+or hypoxia throughout the rest of the admission. He was managed 
+on aspiration precautions, which should be continued at rehab.
+
+# HCV Cirrhosis: The patient has hx of cirrhosis ___ hepatitis C 
+c/b known varices, gastropathy, encephalopathy, HPS, and 
+ascites. He was Childs class B with MELD 17 on presentation and 
+on the transplant list. His decompensation was likely ___ GIB in 
+the setting of not taking his prescribed nadolol at home. While 
+in the ICU, he was managed for his UGIB and HE as above. He was 
+provided nutrition via dobhoff as he was not taking adequate PO 
+and worked daily with ___ during this hospital stay. He was 
+discharged with MELD of 14 and instructions to follow up with 
+Trnasplant hepatology shortly following discharge.
+
+CHRONIC/STABLE/RESOLVED PROBLEMS:
+===================================
+# Acute Kidney Injury: The patient's creatinine peaked to 1.4, 
+felt to be pre-renal in setting of hypovolemia from acute blood 
+loss. His Cr improved to baseline of 1.0 quickly with fluid and 
+blood product resuscitation.
+
+# Hypernatremia: The patient developed hypernatremia to 150's 
+during this floor course, most likely ___ decreased PO and free 
+water intake. This was treated with free water flushes with 
+tubefeeds and quickly resolved.
+
+# Chronic pain: Patient has a history of difficult to treat 
+chronic pain I/s/o prior opiod abuse and use of methadone. 
+Management of methadone detailed as below. As below, the patient 
+was managed on half his home dose of methadone in addition to 
+lidocaine patches, Tylenol, Simethicone, and dilaudid PRN 
+breakthrough pain.
+
+# Hx of IVDU: The patient has a history of IVDU and was admitted 
+on outpatient methadone therapy for management of opiod 
+addiction. While in the hospital, his methadone was stopped 
+I/s/o sedation for intubation and management of his other active 
+problems. Prior to transfer to floor, he was started back on 
+methadone at half of his home dose (35mg PO daily vs. home dose 
+of 70 mg PO daily). As he was doing well clinically on this 
+regimen, his methadone dose was not uptitrated. He was sent to 
+rehab on Methadone 35mg PO daily and should follow up with his 
+outpatient ___ clinic following discharge.
+
+# Chest pain/EKG changes: Patient, while encephalopathic, had 
+difficult to interpret chest pain, concerning for ischemia given 
+report of "dull" nature and substernal location. He also c/o SOB 
+and was diaphoretic on exam. He had an EKG showing possible 
+inverting Twaves in V2-V3, but more likely u-waves. Trops and 
+CKMB were both negative. This resolved without any further 
+intervention and was most likely ___ MSK etiology.
+
+# Hypogonadism: Patient with history of hypogonadism, likely ___ 
+cirrhosis. He was on a testosterone patch at home, which was 
+held for risk of thrombosis as the patient was noted to have a 
+small clot in his portal vasculature. This medication was held 
+at discharge and he should follow up with outpatient hepatology 
+about possibly restarting this medication.
+
+# Anxiety: The patient has longstanding anxiety, on home 
+clonazepam 1mg PO BID. This was initially held while in ICU as 
+the patient was sedated and it was restarted and downtitrated 
+given patient's AMS ___ hepatic encephalopathy. He was 
+discharged on lower dose of clonazepam (0.5mg PO BID).
+
+# Pancytopenia: The patient had anemia due to acute blood loss, 
+but schistos on smear, possibly due to sub-clinical hemolysis. 
+His thrombocytopenia is likely related to cirrhosis, perhaps 
+with an element of hemolysis as well. The patient's leukopenia, 
+has been present in the past intermittently, and was stable 
+throughout this admission. He should follow up with his 
+outpatient doctors regarding ___ of this pancytopenia.
+
+TRANSITIONAL ISSUES:
+-MELD on discharge: 14
+-Patient should follow up with Hepatology and his doctor at 
+rehab
+-Patient should be continued on rifaximin (new medication 
+started this admission) and lactulose TID (titrated to ___ 
+BM's/day) for hepatic encephalopathy
+-Patient required blood products this admission: 4u pRBC, 2u 
+plasma, 3u platelets
+-Patient should continue taking his home nadolol for portal 
+hypertension to reduce risk of recurrent variceal bleeding
+-Patient's methadone dosage was held on admission as he received 
+significant sedation for intubation. It was restarted at half 
+dose and as he was clinically well appearing on this dosage and 
+with slowly improving mental status. He was discharged on half 
+his home dose of methadone (35mg PO daily vs. 70mg PO daily).
+-Given the patient's hepatic encephalopathy during this 
+admission, his clonazepam dosage was decreased. He was 
+discharged on half his admission dosage of clonazepam (0.5mg PO 
+BID from 1mg PO BID)
+-Patient's home testosterone patch was held on discharge given 
+risk of clotting and known thrombus in portal vasculature; 
+please follow-up with outpatient hepatology about possibly 
+restarting this medication
+-Patient should continue to work with physical therapy everyday 
+at rehab
+-Due to initial failure of speech and swallow and failure to 
+take in sufficient PO nutrition, the patient was started on 
+tubefeeds via dobhoff tube. He was discharged on tubefeeds with 
+detailed instructions per discharge paperwork.
+-Patient required frequent potassium and magnesium repletion 
+while in the hospital. Please check frequent chem-10 and replete 
+electrolytes as needed.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron 4 mg PO Q8H:PRN nausea  
+2. Lactulose 60 mL PO Q8H:PRN titrate to ___ BMs/day 
+3. Testosterone 4 mg Patch 1 PTCH TD QPM 
+4. Simethicone 80 mg PO BID 
+5. Nicotine Patch 14 mg TD DAILY 
+6. ClonazePAM 1 mg PO BID 
+7. Nadolol 20 mg PO DAILY 
+8. Docusate Sodium 100 mg PO BID:PRN constipation  
+9. Polyethylene Glycol 17 g PO DAILY 
+10. Furosemide 40 mg PO DAILY 
+11. Spironolactone 200 mg PO DAILY 
+12. Multivitamins 1 TAB PO DAILY 
+13. Methadone 70 mg PO DAILY 
+14. Metoclopramide 5 mg PO BID 
+15. Sucralfate 1 gm PO QID 
+16. Omeprazole 20 mg PO BID 
+17. Calcium 500 + D (calcium carbonate-vitamin D3) 600 mg 
+calcium (1500 mg)-400 unit tablet  oral BID 
+
+ 
+Discharge Medications:
+1. ClonazePAM 0.5 mg PO BID 
+2. Furosemide 40 mg PO DAILY 
+3. Lactulose 30 mL PO TID 
+4. Methadone 35 mg PO DAILY 
+5. Metoclopramide 5 mg PO BID 
+6. Multivitamins 1 TAB PO DAILY 
+7. Nadolol 20 mg PO DAILY 
+8. Nicotine Patch 14 mg TD DAILY 
+9. Simethicone 80 mg PO TID 
+10. Spironolactone 200 mg PO DAILY 
+11. Sucralfate 1 gm PO QID 
+12. Lidocaine 5% Patch 1 PTCH TD QPM 
+13. Omeprazole 20 mg PO BID 
+14. Rifaximin 550 mg PO BID 
+15. Calcium 500 + D (calcium carbonate-vitamin D3) 600 mg 
+calcium (1500 mg)-400 unit tablet  oral BID 
+16. Docusate Sodium 100 mg PO BID:PRN constipation  
+17. Ondansetron 4 mg PO Q8H:PRN nausea  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS/ES:
+-Acute Upper Gastrointestinal Bleed from Esophageal Varices
+-Hepatic Encephalopathy
+
+SECONDARY DIAGNOSIS/ES:
+-Acute Kidney Injury due to Pre-renal Azotemia
+-Aspiration Pneumonia
+-Cirrhosis secondary to Hepatitis C
+-Acute Hypoxic Respiratory Failure
+-Chronic Pain
+-Chronic Malnutrition
+-History of Intravenous Drug Abuse
+-Hypogonadism
+-Anxiety
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted because you were confused and vomiting up 
+blood. In the hospital, you were found to have bleeding from the 
+veins in your esophagus (varices) and sent to the intensive care 
+unit (ICU). In the ICU, you had a breathing tube placed and you 
+underwent a successful procedure to stop the bleeding from your 
+esophagus (esophagoduodenoscopy with variceal banding). After 
+the procedure, your bleeding stopped and your blood counts 
+stabilized. While in the ICU, you were also diagnosed with a 
+pneumonia caused by inhalation of some of the contents of your 
+vomit. You were treated with antibiotics and quickly improved. 
+Lastly, you were given lactulose during this hospital stay for 
+your confusion, which was most likely due to your liver failure. 
+With this medication and restarting your home nadolol, your 
+mental status quickly improved and you were feeling more like 
+your normal self.
+
+Because you were improving significantly, you were transferred 
+to the general medicine floor. There, you had a tube placed 
+through your nose down into your small intestines to receive 
+additional nutrition. You also worked closely with physical 
+therapy.
+
+Prior to discharge, you were feeling much stronger and feeling 
+more like yourself. You were sent to rehab to continue working 
+with physical therapy. Please note the changes to your home 
+medications, especially your home methadone dose, which was 
+decreased to 35mg (from 70mg) every day. Please also follow up 
+with your outpatient doctors, as instructed below.
+
+Thank you for allowing us to be a part of your care,
+Your ___ Team
+ 
+Followup Instructions:
+___

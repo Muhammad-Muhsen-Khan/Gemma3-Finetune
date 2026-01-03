@@ -1,0 +1,360 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+hyponatremia
+ 
+Major Surgical or Invasive Procedure:
+Diagnostic Paracentesis ___
+Therapeutic Paracentesis ___
+
+ 
+History of Present Illness:
+___ year old female with alcoholic cirrhosis and insulin 
+dependent DM who presents to the ED after being found to be 
+hyponatremic with Na=120 in liver clinic. Patient denies 
+confusion, fevers, chills, abdominal pain, nausea or vomiting. 
+She receives therapeutic paracentesis weekly with removal of 
+___ of fluid at a time. She was instructed by Dr. ___ to 
+stop her diuretics and come to the ED for a therapeutic 
+paracentesis and albumin.
+
+In the Emergency Department:
+- Initial Vitals: 97 93 113/75 16 100% RA
+- Labs: Na 120 -> 123; Tbili 3.0, ALP 274, peritoneal fluid w/o 
+SBP, TSH 12, 
+- Studies: RUQ u/s 
+1. Cirrhotic liver morphology, without definite evidence of 
+focal liver lesions.
+2. Large volume ascites.
+3. Mild splenomegaly.
+4. Minimally distended gallbladder, with a large amount of 
+intraluminal sludge.
+- Consults: hepatology recommended 50g albumin, diagnostic para, 
+admission to liver service
+- Pt was given: 50g albumin, 25mg hydroxyzine, 0.5mg IV ativan
+Vitals on transfer: 98.7 91 100/53 16 94% RA
+
+On arrival to the floor patient reports that she has been 
+requiring more frequent large volume paracentesis. First 
+procedure was in ___ the time of her Cirrhosis diagnosis. 
+Readmitted ___ with ascites requiring another LVP. On 
+discharge she connected with a new Gastroenterologist who 
+started LVP every other week. Over the last month she has 
+required 3 LVP with the last two occurring two days apart. She 
+denies a history of confusion, upper or lower GI bleeding or 
+intra-abdominal infections. She complains of diffuse mild 
+abdominal pressure that she gets when her ascites accumulates 
+and denies shortness of breath, changes in bowel or urinary 
+habits, nausea, vomiting, black or bloody stools. Also endorses 
+progressive weight loss and muscle weakness over 2 months 
+without fevers, night sweats, localized pain and relates the 
+changes to losing muscle in her extremities. She has a history 
+of thyroid cancer with a total thyroidectomy, now on 
+levothyroxine. Endorses progressive all over itching that began 
+months ago but has worsened over the last three weeks. She has 
+not been keeping to any dietary or fluid restrictions. Denies 
+recent illness, fevers, cough, chest pain, orthopnea, diarrhea, 
+dysuria.
+  
+ 
+Past Medical History:
+-Cirrhosis, likely due to ETOH c/b ascites
+-DM Type I, adult onset HgbA1c
+-Thyroid cancer, diagnosed ___, s/p total thyroidectomy
+-Alcohol abuse
+ 
+ 
+Social History:
+___
+Family History:
+No family history of liver disease, alcoholism, diabetes, 
+respiratory diseases
+M: alive ___
+F: alive ___, obesity
+S: deceased, brain cancer
+ 
+ 
+Physical Exam:
+ADMISSION
+=========
+VS: 98.5 113/67 95 18 96%/RA
+GENERAL: ___ female in NAD
+HEENT: trace icterus in sclera, PERRL, EOMI, MOM, OP clear, 
+buccal icterus
+NECK: Supple, non-tender, no LAD, no thyromegaly, JVP flat.
+CARDIAC: RRR, normal S1/S2, III/VI HSM LUSB
+PULMONARY: NLB on RA, decreased BS bases with trace rales
+ABDOMEN: soft, non-tender, distended, +flank dullness, unable to 
+assess organomegaly due to distention, NABS
+EXTREMITIES: WWP, no cyanosis, clubbing. 1+ edema ___ shins 
+bilaterally, peripheral wasting
+SKIN: Without rash.  
+NEUROLOGIC: A&Ox3, CN II-XII grossly normal, normal sensation, 
+with strength ___ throughout. No asterixis
+ 
+DISCHARGE
+=========
+VS: 98.6 100/56 94 17 100%/RA
+Wt: 74.5 kg (bed)
+GENERAL: WNWD female in NAD
+HEENT: trace icterus in sclera, PERRL, EOMI, MOM, OP clear, 
+buccal icterus
+NECK: Supple, non-tender, no LAD, no thyromegaly, JVP flat.
+CARDIAC: RRR, normal S1/S2, III/VI HSM LUSB
+PULMONARY: NLB on RA, decreased BS bases with trace rales
+ABDOMEN: soft, non-tender, distended, +flank dullness, unable to 
+assess organomegaly due to distention, NABS
+EXTREMITIES: WWP, no cyanosis, clubbing, edema, peripheral 
+wasting
+SKIN: Without rash.  
+NEUROLOGIC: A&Ox3, CN II-XII grossly normal, normal sensation, 
+with strength ___ throughout. No asterixis
+   
+ 
+Pertinent Results:
+ADMISSION
+=========
+___ 01:54PM BLOOD WBC-4.3 RBC-2.68* Hgb-10.0* Hct-28.6* 
+MCV-107* MCH-37.3* MCHC-35.0 RDW-14.7 RDWSD-56.5* Plt ___
+___ 01:54PM BLOOD ___
+___ 01:54PM BLOOD Glucose-273* UreaN-11 Creat-0.8 Na-120* 
+K-4.1 Cl-84* HCO3-24 AnGap-16
+___ 01:54PM BLOOD Albumin-2.4*
+___ 01:54PM BLOOD ALT-24 AST-120* AlkPhos-274* TotBili-3.0*
+ 
+PERTINENT STUDIES
+=================
+ 
+LABS
+====
+___ 10:39AM BLOOD WBC-3.2* RBC-2.32* Hgb-8.3* Hct-24.3* 
+MCV-105* MCH-35.8* MCHC-34.2 RDW-15.1 RDWSD-57.8* Plt Ct-90*
+___ 10:39AM BLOOD Neuts-65.7 Lymphs-15.2* Monos-12.7 
+Eos-5.2 Baso-0.9 NRBC-0.6* Im ___ AbsNeut-2.17 
+AbsLymp-0.50* AbsMono-0.42 AbsEos-0.17 AbsBaso-0.03
+___ 01:54PM BLOOD %HbA1c-6.5* eAG-140*
+___ 01:54PM BLOOD TSH-12*
+___ 07:35AM BLOOD T4-5.2 T3-32*
+___ 01:54PM BLOOD HBsAg-Negative HBcAb-Negative HAV 
+Ab-Negative
+___ 01:54PM BLOOD HCV Ab-Negative
+___ 04:55AM URINE Color-Yellow Appear-Hazy Sp ___
+___ 04:55AM URINE RBC-0 WBC-175* Bacteri-MANY Yeast-NONE 
+Epi-9
+___ 04:55AM URINE Mucous-RARE
+___ 12:33AM ASCITES WBC-35* RBC-435* Polys-1* Lymphs-18* 
+Monos-68* Mesothe-2* Macroph-11*
+___ 12:33AM ASCITES TotPro-1.3 Glucose-294
+___ 05:10PM ASCITES WBC-113* RBC-394* Polys-0 Lymphs-33* 
+Monos-4* Mesothe-2* Macroph-61*
+___ 05:10PM ASCITES TotPro-1.6 Glucose-213 LD(LDH)-61 
+Albumin-LESS THAN 1
+ 
+MICRO
+=====
+___ 12:33 am PERITONEAL FLUID      PERITONEAL FLUID. 
+ 
+                            **FINAL REPORT ___
+ 
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+ 
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+ 
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH.
+ 
+___ BLOOD CULTURE: pending
+ 
+___ 5:10 pm PERITONEAL FLUID      PERITONEAL FLUID. 
+ 
+                            **FINAL REPORT ___
+ 
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+ 
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+ 
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+ 
+IMAGING/REPORTS
+===============
+___ RUS US
+IMPRESSION:   
+1. Cirrhotic liver morphology, without definite evidence of 
+focal liver lesions. 
+2. Large volume ascites. 
+3. Mild splenomegaly. 
+4. Minimally distended gallbladder, with a large amount of 
+intraluminal sludge. 
+ 
+___ CXR (PA&LAT)
+IMPRESSION:  There no prior chest radiographs available for 
+review. 
+Bilateral pleural effusions are small.  Bibasilar atelectasis is 
+mild.  Upper lungs are clear.  Heart size is normal.  There is 
+no pneumothorax. 
+ 
+DISCHARGE
+=========
+___ 08:09AM BLOOD WBC-3.4* RBC-2.42* Hgb-8.7* Hct-25.7* 
+MCV-106* MCH-36.0* MCHC-33.9 RDW-15.1 RDWSD-59.3* Plt ___
+___ 08:09AM BLOOD ___ PTT-31.6 ___
+___ 08:09AM BLOOD Glucose-186* UreaN-10 Creat-0.8 Na-130* 
+K-4.4 Cl-94* HCO3-26 AnGap-14
+___ 07:35PM BLOOD Glucose-239* Na-124* K-5.0 Cl-93*
+___ 10:39AM BLOOD Calcium-7.9* Phos-3.8 Mg-2.0
+___ 08:09AM BLOOD Calcium-7.7* Phos-3.4 Mg-1.9
+___ 10:39AM BLOOD ALT-21 AST-84* AlkPhos-200* TotBili-3.3*
+___ 08:09AM BLOOD ALT-20 AST-76* AlkPhos-188* TotBili-3.1* 
+ 
+ 
+Brief Hospital Course:
+___ with PMHx ETOH Cirrhosis complicated by ascites with recent 
+ETOH use, adult onset DM1 and thyroid cancer s/p total 
+thyroidectomy admitted with decompensated Cirrhosis and 
+hyponatremia. Asymptomatic hyponatremia to 120 on admission with 
+concurrent hyperglycemia to 300s. Corrected sodium below 
+previous baseline of 126-128 with Glu in 280s-330s, likely due 
+to decompensated cirrhosis combined with increased diuresis as 
+patient was instructed to increase home spironolactone from 50 
+to 100mg daily for progressively worsening ascites. Diagnostic 
+paracentesis ___ without evidence of SBP. Sodium improved 
+to 130 (glucose 179) on ___ with holding diuresis and 50 grams 
+albumin ___. Hyperglycemia controlled with glargine and 
+Humalog. Patient received a therapeutic large volume 
+paracentesis ___, removal of 8L accomplished with ascetic fluid 
+sent for cell count, cytology, chemistry and culture. Given 50 
+grams albumin ___ after LVP. Patient advised to stay overnight 
+for monitoring of sodium after albumin and restart of diuretics 
+but chose to go home against medical advice and follow with her 
+outpatient gastroenterologist. 
+ 
+TRANSITIONAL ISSUES
+===================
+- requires close follow up of Na, glucose and LFTs
+- needs to contact either outpatient GI or Hepatologist for 
+dosing instructions after ___ lab draw
+- advised of warning signs and risks of leaving against medical 
+advice
+- CODE: Full (confirmed)
+- CONTACT: Boyfriend ___ ___ (h) ___ 
+(c)
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Glargine 25 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+2. Levothyroxine Sodium 200 mcg PO DAILY 
+3. Ranitidine 300 mg PO QHS 
+4. Furosemide 20 mg PO DAILY 
+5. Spironolactone 100 mg PO DAILY 
+6. Loratadine 10 mg PO DAILY:PRN allergies 
+
+ 
+Discharge Medications:
+1. Glargine 25 Units Breakfast
+Insulin SC Sliding Scale using REG Insulin
+2. Levothyroxine Sodium 200 mcg PO QAM 
+3. Ranitidine 300 mg PO QHS 
+4. FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+5. Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*0
+6. Thiamine 100 mg PO DAILY 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth once a 
+day Disp #*30 Tablet Refills:*0
+7. Furosemide 20 mg PO DAILY 
+8. Loratadine 10 mg PO DAILY:PRN allergies 
+9. Spironolactone 50 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+# Decompensated Cirrhosis
+# Hyponatremia
+# Hyperglycemia
+
+Secondary
+# Diabetes
+# Hypothyroidism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ for a very low sodium in your lab 
+results. This is most likely due to a worsening of your liver 
+disease and due to high blood sugars. 
+
+Your blood sugars were controlled with insulin and you should 
+continue to use both your long acting insulin and your Novolog. 
+You should test your blood sugar before each meal at and before 
+bedtime. 
+
+You received a paracentesis followed by albumin. 
+We planned to check your sodium after your procedure and then 
+start your diuretics (furosemide and spironolactone) if your 
+sodium was at a safe level.
+
+You were advised to stay overnight and follow your body's 
+response to the albumin and restarting diuretics but you chose 
+to go home against medical advice and follow up with your 
+outpatient gastroenterologist on ___. 
+
+Sodium rising too quickly is extremely dangerous and could 
+result in permanent disability or death. You understood these 
+risks. 
+
+You should restart your home furosemide and a lower dose of your 
+home spironolactone on ___ so the fluid does not accumulate in 
+your abdomen too fast. 
+
+It is important that you have labs drawn to follow your sodium, 
+blood sugar, and liver function tests and communicate with 
+either your current gastroenterologist or your liver doctor 
+(___). 
+
+Please make sure you get advice on your medication dosage 
+shortly after your lab draw on ___.
+
+If you feel sudden nausea, weakness, tingling, confusion or any 
+other symptom that concerns you, please call your doctor or 
+return to the hospital.
+
+We wish you the best in health,
+
+Your ___ team
+
+ 
+Followup Instructions:
+___

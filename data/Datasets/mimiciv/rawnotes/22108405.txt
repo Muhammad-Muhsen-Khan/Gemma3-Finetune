@@ -1,0 +1,395 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Hemobilia
+ 
+Major Surgical or Invasive Procedure:
+___ main portal vein stenting, variceal embolization, PTBD 
+exchange
+___ Celiac arteriogram, right hepatic artery covered stent 
+placement
+
+ 
+History of Present Illness:
+___ man with metastatic pancreatic cancer s/p Whipple in 
+___, recurrence in ___ around the pancreas and to the adrenals 
+c/b recurrent biliary obstruction requiring stent and PTBD drain 
+(capped during the day and uncaps at night) presenting with 
+abdominal pain and bloody drain output, transferred to MICU for 
+worsening coagulopathy in the setting of hemobilia and GI 
+bleeding.
+
+Please see medicine nightfloat admission note for full HPI, but 
+in brief: 
+
+Initially presented to the ED on the evening of ___ after 
+complaining of RUQ pain and bloody drainage from the external 
+biliary drain -> ED.  
+ 
+Initial labs showed LFTS up, Tbili 2, INR 3.2 (not 
+anticoagulated). Gave 5 mg PO vitamin K. Fibrinogen was 230s. CT 
+A/P showed drain in proper position and known recurrent disease. 
+Decision was made to admit her to medicine with a plan to go to 
+___ suite for exploration and drain exchange on ___.
+
+Overnight on the night/early morning of admission, she spiked 
+fever to 102.3F. She was started on vancomycin and zosyn.  
+ 
+Notably, morning labs on ___ showed INR 1.1 but this was 
+spurious as the tube was mislabeled and was another patient's 
+specimen.  
+ 
+Patient went to ___ on morning of ___. Active hemobilia through 
+external PTBD was confirmed. A drain exchange was performed. 
+Angiography showed no pseudoaneurysms or active extravasation. 
+Demonstrated extensive varices, especially around the 
+hepatojejunal junction. Note, patient also has an entirely 
+obstructed portal vein (appears to be subacute, unclear if 
+thrombus or tumor obstruction. Overall, there was nothing to 
+intervene upon at the time; however, it may be possible to do a 
+larger embolization procedure in the future under GA pending 
+normalization of the INR.
+
+The ___ procedure was complicated by continued bleeding from the 
+area around the drain but the patient remained hemodynamically 
+stable. Given continued bleeding and worsening coagulopathy, 
+decision was made to admit to the MICU for further management.
+
+On arrival to the MICU, patient is in no distress and complained 
+of mild-moderate abdominal pain of the same character as he has 
+had.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:  
+ -Pancreatic CA s/p Whipple in ___ at ___  
+ -6 months of gemcitabine, adjuvant XRT w/fluoropyrimidine  
+ sensitization  
+ -Had local recurrence in ___ and underwent 5 fractions of  
+ Cyberknife in ___ to perihepatic adenopathy/recurrent soft  
+ tissue mass  
+ -He is most recently s/p 9 cycles of salvage gemcitabine and  
+ abraxane (in ___ on q2 wk cycles due to cytopenias  
+ 
+PAST MEDICAL/SURGICAL HISTORY  
+ - GERD  
+ - sleep apnea (CPAP without oxygen)  
+ - detached retina repair  
+ - appendectomy  
+ - ___ on bx ___  
+ - Chronic pancreatitis  
+ 
+Social History:
+___
+Family History:
+Father: gastric cancer
+Mother: CAD
+ 
+Physical ___:
+========================
+ADMISSION PHYSICAL EXAM:
+========================
+Vital Signs: 99.4 PO 170 / 71 Sitting 72 18 100 RA.
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding; PTBD drain was in place 
+on right flank; dark blood was filling the bag; dressing removed 
+showed extensive oozing and blood soaking through the bandage; 
+no brisk bleeding was noted; oozing around the drain site was 
+noted
+GU: No foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.
+
+=========================
+DISCHARGE PHYSICAL EXAM:
+=========================
+VS - 98.0 125 / 48 69 18 100 % RA  
+General: well appearing, NAD  
+HEENT: MMM, EOMI  
+Neck: no JVD, no LAD  
+CV: rrr, no m/r/g  
+Lungs: CTAB, breathing comfortably
+Chest: Port-a-cath in place right chest, no erythema or 
+tenderness.  
+Abd: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly, biliary drain 
+in RUQ draining bilious fluid, reducible umbilical hernia     
+GU: deferred  
+Ext: warm and well perfused, pulses, no edema  
+Neuro: grossly normal  
+
+ 
+Pertinent Results:
+================
+ADMISSION LABS:
+================
+___ 05:21PM BLOOD WBC-5.0# RBC-3.27* Hgb-9.4* Hct-28.7* 
+MCV-88 MCH-28.7 MCHC-32.8 RDW-15.8* RDWSD-49.4* Plt ___
+___ 05:21PM BLOOD Neuts-79* Bands-1 Lymphs-15* Monos-5 
+Eos-0 Baso-0 ___ Myelos-0 AbsNeut-4.00 AbsLymp-0.75* 
+AbsMono-0.25 AbsEos-0.00* AbsBaso-0.00*
+___ 05:21PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ 
+Macrocy-1+ Microcy-NORMAL Polychr-OCCASIONAL Ovalocy-1+ 
+Burr-OCCASIONAL Tear ___
+___ 05:21PM BLOOD ___ PTT-37.9* ___
+___ 05:21PM BLOOD Glucose-111* UreaN-10 Creat-0.6 Na-130* 
+K-4.3 Cl-93* HCO3-25 AnGap-16
+___ 05:21PM BLOOD ALT-65* AST-65* AlkPhos-551* TotBili-2.0*
+___ 05:21PM BLOOD Albumin-3.2* Calcium-8.3* Phos-2.7 Mg-1.7
+
+===============
+DISCHARGE LABS
+===============
+___ 06:02AM BLOOD WBC-4.2 RBC-2.83* Hgb-8.6* Hct-26.0* 
+MCV-92 MCH-30.4 MCHC-33.1 RDW-17.1* RDWSD-52.6* Plt ___
+___ 06:02AM BLOOD Glucose-93 UreaN-13 Creat-0.6 Na-134 
+K-3.6 Cl-97 HCO3-27 AnGap-14
+___ 06:02AM BLOOD ALT-30 AST-24 AlkPhos-258* TotBili-0.9
+___ 06:02AM BLOOD Calcium-9.0 Phos-2.9 Mg-2.0
+
+=============
+MICROBIOLOGY:
+=============
+___ 6:00 am BLOOD CULTURE      Source: Line-port o cath. 
+
+   Blood Culture, Routine (Preliminary): 
+      THIS IS A CORRECTED REPORT (08:05 ___. 
+      Reported to and read back by ___ ON 
+___ AT
+      08:00. 
+      STREPTOCOCCUS ANGINOSUS.    FINAL SENSITIVITIES. 
+         CLINDAMYCIN MIC OF >=1 MCG/ML = RESISTANT. 
+         PREVIOUSLY REPORTED AS IN PAIRS, CHAINS, AND CLUSTERS 
+(22:00
+         ___.  Isolated from only one set in the previous 
+five days. 
+         CEFTRIAXONE Susceptibility testing requested by ___ 
+___ ON
+         ___. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STREPTOCOCCUS ANGINOSUS
+                             |   
+CEFTRIAXONE-----------  0.25 S
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------   =>8 R
+PENICILLIN G----------<=0.06 S
+VANCOMYCIN------------   0.5 S
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with a history of recurrent 
+pancreatic cancer s/p Whipple and chemo/XRT c/b biliary 
+obstruction requiring placement of a PTBD. Patient presented to 
+the ED with abdominal pain and frank bleeding from his PTBD 
+site. On hospital day #1 he underwent ___ exploration of his 
+drain which demonstrated bleeding varices and collaterals at the 
+HJ junction. The procedure was complicated by bleeding in the 
+setting of worsening coagulopathy of unclear etiology. Given his 
+risk factors, he was transferred to the MICU for further 
+management. 
+
+Blood cultures obtained on ___ grew Streptococcus anginosus. 
+Patient was transitioned from vancomycin to ceftriaxone to 
+continue a 2 week course. 
+
+==============
+MICU COURSE:
+==============
+
+#Hematobilia: In the MICU, patient's coagulopathy was reversed 
+with FFP and IV vitamin K and he was transfused RBCs. ___ was 
+consulted with finding of severe portal vein stenosis, variceal 
+filling.  On ___, he went back to the ___ suite for embolization 
+of bleeding vessels, along with stenting of main portal vein. 
+After procedure on ___, he had a sudden 500 cc bloody output 
+from the drain, but remained hemodynamically stable. His drain 
+was flushed and aspirated per ___ (interventional radiology) 
+instructions. Post-procedure his bilirubin elevated, likely from 
+intervention itself, no evidence of other hemodynamic changes. 
+CTA showed no active extravasation, small splenic, no evidence 
+of biliary bleeding and stent patency. On ___, he underwent a 
+celiac arteriogram shows irregular right hepatic artery at point 
+of contact with biliary drainage catheter. He had a sccessful 
+RHA covered stent placement. He returned to the MICU and had 
+bloody-bile drainage, although less bloody.
+
+# Coagulopathy: Elevated ___ and PTT with normal fibrinogen with 
+no evidence of hemolysis. His INR was up to 7.8 from 3 on 
+admission. The patient's coagulopathy was new on admission. 
+Patient reported he has not eaten anything in many days. Patient 
+was given PO vitamin K 5mg on arrival and again on HD #1. 
+Initial concern for DIC but this was  not supported by labs. 
+Although unclear unifying source, coagulopathy appears to be 
+multifactorial in response to stress from bleeding, obstructive 
+biliary disease, sepsis and nutritional deficiency. His 
+coagulopathy corrected with FFP and PRBC transfusion. 
+
+# Strep anginosis bacteremia: Spiked to T>102 on morning of ___, 
+started on broad spectrum Abx and no fevers since. Likely 
+GI/hepatobiliary source from translocation from the PTBD. 
+However, the patient also had recent UTI causing similar 
+symptoms. He was empirically started on vancomycin and zosyn for 
+broad abdominal coverage. Blood cultures grew Streptococcus 
+anginosis, drawn from his port-a-cath. He was transitioned to 
+ceftriaxone. He otherwise remained afebrile aside from above. 
+
+Patient was transferred to the floor on ___. His Hct and 
+platelet counts remained stable, and patient was discharge home 
+with plans to follow up at his infusion clinic at ___ 
+___ to finish a 2 week course of IV ceftriaxone 
+(___) and have vancomycin dwells in his port-a-cath until 
+then. For stent patency, patient was discharged on full dose 
+aspirin (as well as lovenox for DVT): Hgb was stable on these 
+medications prior to discharge. 
+
+=============== 
+CHRONIC ISSUES 
+===============
+
+# Pancreatic Cancer s/p pylorus preserving Whipple with local 
+recurrence treated with chemo and XRT: Patient is usually on 
+OMED, however needed to be admitted to ___ for 
+specialized ___ service. Continue current regimen of pancreatic 
+enzymes, decadron, ursodiol and it is unclear whether patient is 
+on cholestyramine (would need to check records). Continued 
+Zofran and lorazepam for nausea and sleep. Oxycodone for pain.  
+Palliative care was consulted for further recommendations given 
+complex disease.
+ 
+# Depression: Discontinued citalopram given concern for platelet 
+dysfunction 
+
+TRANSITIONAL ISSUES
+- Plan to continue ceftriaxone 2 gm IV Q24H for a total course 
+of 2 weeks after the last positive blood culture ___ - ___: 
+this will take place at the ___, 
+confirmed with Dr. ___ dose due at noon on ___ 
+- While on IV ceftriaxone (through ___, port-a-acth should 
+have vancomycin locks placed between antibiotic doses ( 
+Vancomycin-Heparin Lock ___AILY)  
+- Biliary drain plan: drain should be flushed twice a day. It 
+should also be uncapped for approximately half of the day and 
+capped the rest of the day as well as overnight. Pt has 
+follow-up with ___ ___, and ___ PA will follow up with the goal 
+of capping for longer.
+- Pt should have outpatient labs for CBC w/ diff, BUN, Cr, AST, 
+ALT, Total Bili, alk phos on ___
+- Citalopram was discontinued during admission out of concern 
+for platelet dysfunction: consider restarting as outpatient if 
+platelets are stable 
+- For stent patency, pt discharged on full dose aspirin (as well 
+as lovenox for DVT): Hgb was stable on these medications prior 
+to discharge 
+- Pt found to have infrarenal IVC thrombus on CT abdomen: 
+consider repeat imaging in the cuture 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cholestyramine 4 gm PO BID 
+2. Citalopram 40 mg PO DAILY 
+3. Dexamethasone 2 mg PO DAILY 
+4. Diphenoxylate-Atropine 2 TAB PO Q6H:PRN diarrhea 
+5. Lorazepam 0.5 mg PO Q6H:PRN anxiety 
+6. Metoclopramide 10 mg PO QIDACHS 
+7. Ondansetron 8 mg PO Q8H:PRN nausea 
+8. opium tincture 0.6 mg oral Q6H:PRN rectal spasm 
+9. OxycoDONE (Immediate Release)  20 mg PO Q4H:PRN pain 
+10. OxyCODONE SR (OxyconTIN) 20 mg PO QHS 
+11. Potassium Chloride 40 mEq PO DAILY 
+12. Sucralfate 1 gm PO QID 
+13. Ursodiol 300 mg PO BID 
+14. Zenpep (lipase-protease-amylase) 25,000-85,000- 136,000 unit 
+oral TID W/MEALS 
+15. NexIUM 24HR (esomeprazole magnesium) 20 mg oral DAILY 
+
+ 
+Discharge Medications:
+1. Diphenoxylate-Atropine 2 TAB PO Q6H:PRN diarrhea 
+2. Sucralfate 1 gm PO QID 
+3. Zenpep (lipase-protease-amylase) 25,000-85,000- 136,000 unit 
+oral TID W/MEALS 
+4. OxyCODONE SR (OxyconTIN) 20 mg PO QHS 
+5. OxycoDONE (Immediate Release)  20 mg PO Q4H:PRN pain 
+6. opium tincture 0.6 mg oral Q6H:PRN rectal spasm 
+7. Lorazepam 0.5 mg PO Q6H:PRN anxiety 
+8. Metoclopramide 10 mg PO QIDACHS 
+9. Ondansetron 8 mg PO Q8H:PRN nausea 
+10. Aspirin 325 mg PO DAILY 
+11. CefTRIAXone 2 gm IV Q24H 
+12. Cholestyramine 4 gm PO BID 
+13. Dexamethasone 2 mg PO DAILY 
+14. Vancomycin-Heparin Lock ___AILY 
+15. Enoxaparin Sodium 40 mg SC DAILY 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+RX *enoxaparin 40 mg/0.4 mL 40 mg subcutaneous daily Disp #*30 
+Syringe Refills:*1
+16. Ursodiol 300 mg PO BID 
+17. NexIUM 24HR (esomeprazole magnesium) 20 mg oral DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+hemobilia
+Coagulopathy
+Strep Aeginosus bacteremia
+Secondary:
+Metastatic pancreatic cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___
+
+___ was a pleasure caring for you at ___. You were admitted 
+because you had bleeding from your drain site. The 
+interventional radiologists embolized some blood vessels, and 
+placed some stents in your biliary system to control the 
+bleeding. We also found bacteria in your blood, for which you 
+were put on antibiotics. Please continue follow up at your 
+___ to finish a 2 week course of antibiotics 
+(___). You will also need antibiotics placed in your 
+port-a-cath until then. Continue to flush the drain twice a day. 
+Uncap the stent for half the day, and cap it in the afternoon 
+and overnight.
+
+Your ___ care team. 
+ 
+Followup Instructions:
+___

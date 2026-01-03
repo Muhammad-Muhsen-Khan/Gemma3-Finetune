@@ -1,0 +1,322 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea
+ 
+Major Surgical or Invasive Procedure:
+NONE
+
+ 
+History of Present Illness:
+___ female with no significant past medical history
+presenting with several months of dyspnea on exertion. 
+
+Prior to the onset of her symptoms in ___, patient was living
+a fully functional life, citing yoga and exercise classes, and
+having no cardiopulmonary symptoms.  
+
+She first noticed her shortness of breath in ___ during the
+more humid days out on the ___.  She said as long as she went
+inside, her symptoms resolved and she didn't think much of it. 
+Since that time, there has been a steady progression of dyspnea
+on exertion.  At this point, she is essentially home bound and
+has considerable breathlessness with doing usual household tasks
+and walking only a few feet on flat ground.  She no longer 
+drives
+as a result of all this. 
+
+She has a home pulse ox that she uses now, and when she is
+particularly breathless will note desaturations in the low ___. 
+Her recovery time has also progressed, sometimes taking over 30
+minutes before she catches her breath if she really pushes
+herself before stopping.  
+
+She never has symptoms that start at rest. There is never a 
+cough
+or hemoptysis, sputum, fevers, chills, night sweats, chest 
+pains,
+swelling in the legs, orthopnea, PND. She has a distant history
+of tobacco use, probably around a 15 pack year history, but quit
+over ___ years ago. She did not have any occupational exposures
+and her house was renovated in ___, a couple months before
+her symptoms began. Her only pet is a dog. 
+
+She has a history of well controlled GERD and notes that she has
+to chew her food really well or else it will feel like it gets
+stuck, this is a long standing issue and there is never a 
+problem
+with liquids.  She has arthritis in her hands, also a long
+standing issue. There is also a history of Raynaud's.  She 
+denies
+any spider-like rashes. Her only other positive review of system
+is a hoarseness to her voice. 
+
+She has been worked up by cardiology (normal ECHO and left heart
+cath report in her chart, and apparently a nuclear stress test
+was normal as well). She has been seen by a pulmonary physician
+___) and has been imaged with CTA which was notable
+only for some atelectasis. She does not think she has ever been
+imaged with a non-contrasted chest CT. Bilateral ___ showed no
+blood clots. 
+
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as
+per HPI  
+
+In the ED, initial VS were: 98 71 116/49 22 98% 2LNC 
+Exam was unremarkable 
+EKG: sinus, 71, NA/NI, no STEMI or ischemia 
+Labs showed:  
+CBC, chem panel wnl.
+Trop <0.01, proBNP 76
+Imaging showed:  
+Patient received: no medications 
+Transfer VS were: 98 73 110/47 21 96% RA 
+ 
+Past Medical History:
+-GERD
+-Arthritis 
+-Distant tobacco use 
+-Bilateral TKR 
+-Lumbar surgery 
+ 
+Social History:
+___
+Family History:
+-No history of IPF 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+======================
+VS:  97.5 114/69 75 18 97% RA  
+GENERAL: NAD    
+NECK: JVP flat   
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: dense crackles at the bilateral bases 
+ABDOMEN: soft, NTND 
+MSK: bilateral ___ and ___ MCP joints of hands are enlarged, 
+some
+of her DIPs are swollen as well. 
+EXTREMITIES: warm, no edema  
+NEURO: A&Ox3
+SKIN: no obvious telangectasias 
+
+DISCHARGE PHYSICAL EXAM:  
+======================
+VITALS: Temp: 98.0 PO BP: 112/71 Lying HR: 68 RR: 16 O2 sat: 94%
+O2 delivery: Ra
+GENERAL: NAD, sitting up in bed
+EYES: PERRL, sclera anicteric
+ENT: MMM, OP clear
+CV: RRR, no m/r/g
+RESP: CTAB. No wheezing noted.
+GI: non-tender, non-distended
+GU: deferred
+MSK: no pitting edema
+SKIN: no rashes, telangiectasias, or calcinosis noted.
+NEURO: A&Ox3
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 09:10PM BLOOD WBC-9.9 RBC-4.50 Hgb-13.0 Hct-38.7 MCV-86 
+MCH-28.9 MCHC-33.6 RDW-13.6 RDWSD-42.7 Plt ___
+___ 08:15AM BLOOD ___ PTT-26.1 ___
+___ 09:10PM BLOOD Glucose-102* UreaN-17 Creat-0.7 Na-139 
+K-4.5 Cl-102 HCO3-25 AnGap-12
+___ 06:35AM BLOOD ALT-9 AST-16 LD(LDH)-148 CK(CPK)-22* 
+AlkPhos-66 TotBili-0.6
+___ 09:10PM BLOOD proBNP-76
+___ 09:10PM BLOOD cTropnT-<0.01
+___ 06:35AM BLOOD Albumin-3.8 Calcium-9.0 Phos-3.9 Mg-1.9
+
+PERTINENT/DISCHARGE LABS:
+======================
+___ 06:35AM BLOOD TSH-3.7
+___ 08:15AM BLOOD CRP-3.3
+___ 06:35AM BLOOD RheuFac-<10 ___
+___ 07:45AM BLOOD WBC-7.0 RBC-4.75 Hgb-13.4 Hct-42.2 MCV-89 
+MCH-28.2 MCHC-31.8* RDW-13.7 RDWSD-44.6 Plt ___
+___ 07:45AM BLOOD Glucose-93 UreaN-15 Creat-0.8 Na-143 
+K-4.7 Cl-101 HCO3-26 AnGap-16
+___ 07:45AM BLOOD Calcium-9.6 Phos-3.8 Mg-1.9
+
+IMAGING REPORTS
+==============
+CXR PA AND LAT ___:
+FINDINGS: 
+Lungs are moderately well expanded and essentially clear.  
+Cardiomediastinal
+silhouette hila are unremarkable.  No pneumothorax or pleural 
+effusion.
+ 
+IMPRESSION:
+No evidence of pneumonia.
+
+CT HIGH RES LUNG ___:
+IMPRESSION: 
+1.  No findings of interstitial lung disease.
+2.  No acute pulmonary parenchymal process.
+3.  3 mm nodule in the left upper lobe.  See below for 
+recommendations.
+ 
+RECOMMENDATION(S):  For incidentally detected single solid 
+pulmonary nodule
+smaller than 6 mm, no CT follow-up is recommended in a low-risk 
+patient, and
+an optional CT in 12 months is recommended in a high-risk 
+patient.
+
+CXR AP ___:
+IMPRESSION: 
+Compared to ___.
+ 
+Lungs are lower in volume but clear.  Heart size top-normal.  No 
+pulmonary
+vascular engorgement, edema, or pleural effusion.
+
+ 
+Brief Hospital Course:
+Key Information for Outside Providers: 
+___ is a ___ year old female with past medical history of GERD 
+admitted ___ w several months of progressive dyspnea on 
+exertion of unclear etiology despite broad workup, ambulating 
+without episodes of hypoxia, able to be discharged 
+
+# Dyspnea on Exertion 
+The patient presented with progressive dyspnea on exertion for 
+several months. Work-up prior to her hospitalization included 
+EKG, CBC, left heart catheterization without coronary disease, 
+TTE without valvulopathy or wall motion abnormality, PFTs, and 
+CTA without identified etiology.  Given the severity of her 
+symptoms, she was referred to ___ for an expedited work-up. 
+Here, rheumatologic testing including ___, RF, ANCA, Sjogren's 
+antibodies, anti-CCP, ESR, and TSH, all of which were within 
+normal limits. Pulmonology consult service saw the patient and 
+recommended a CT chest high resolution, which was negative for 
+any interstitial process. Repeat PFTs without evidence of 
+obstructive disease, but did demonstrate a mild restrictive 
+deficit that could suggest a possible neuromuscular process.  
+However, patient was subsequently seen by the neuromuscular 
+consult service with a reassuring exam and an EMG that did not 
+show evidence for any evolving neuromuscular process.  Repeat 
+TTE w/ bubble was unremarkable with no evidence of pulm HTN or 
+shunting.  Throughout this time, ___ hospital course was 
+notable for an absence of daytime hypoxia, or any correlation 
+between reported symptoms and vital sign abnormality. She was 
+frequently seen ambulating comfortably and/or talking on the 
+phone without issue. 
+ Patient was seen by psychiatry who felt that patient did not 
+meet criteria for primary anxiety disorder or illness anxiety 
+disorder. Given extensive negative work-up, clinical stability, 
+and absence of hypoxia, the patient was felt to be safe for 
+discharge home with outpatient pulmonary follow-up and planned 
+CPET testing.  Given several episodes of mild desaturation 
+during sleep, would consider referral for outpatient sleep 
+study.  Discharged home with ___ services. 
+
+# Sinus Headache
+During hospital course, patient reported a single episode 
+consistent with sinus headache that resolved with 
+guaifenesin/DM and Tylenol and did not recur. 
+
+TRANSITIONAL ISSUES:
+=================
+[] Incidental finding of 3mm pulm nodule noted on CT; per 
+radiology "For incidentally detected single solid pulmonary 
+nodule smaller than 6 mm, no CT follow-up is recommended in a 
+low-risk patient, and an optional CT in 12 months is 
+recommended in a high-risk patient."
+
+EMERGENCY CONTACT: ___ ___
+CODE STATUS: FULL CODE PRESUMED
+
+> 30 minutes spent on this discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. Systane (PF) (peg 400-propylene glycol (PF)) 0.4-0.3 % 
+ophthalmic (eye) BID 
+3. Ascorbic Acid ___ mg PO DAILY 
+4. Vitamin D 1000 UNIT PO DAILY 
+5. Multivitamins 1 TAB PO 3X/WEEK (___) 
+6. LOPERamide 2 mg PO 3X/WEEK (___) 
+7. Glucosamine Chondroitin MaxStr (glucosamine-chondroit-vit 
+C-Mn) 500-400 mg oral DAILY 
+8. Calcium Carbonate 1000 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ascorbic Acid ___ mg PO DAILY  
+2.  Calcium Carbonate 1000 mg PO DAILY  
+3.  Glucosamine Chondroitin MaxStr (glucosamine-chondroit-vit 
+C-Mn) 500-400 mg oral DAILY  
+4.  LOPERamide 2 mg PO 3X/WEEK (___)  
+5.  Multivitamins 1 TAB PO DAILY  
+6.  Omeprazole 20 mg PO DAILY  
+7.  Systane (PF) (peg 400-propylene glycol (PF)) 0.4-0.3 % 
+ophthalmic (eye) BID  
+8.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+DYSPNEA ON EXERTION
+Sinus headache
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to care for you during your admission here.
+
+Why were you admitted to the hospital?
+- You were having progressively worsening shortness of breath. 
+You were transferred here to have a work up for causes of your 
+breathing difficulty
+
+What happened while I was admitted?
+- You were seen by our lung specialists
+- You had another CT scan of your lungs which showed no acute 
+process
+- You had another echo of your heart that was normal
+- You had repeat pulmonary function tests that showed mild 
+restrictive disease of the lungs
+- You had an EMG test to see if your breathing muscles were 
+weak, but this was normal 
+- Your oxygen levels were monitored and it was found that your 
+oxygen levels dropped occasionally with talking or at nighttime
+
+What should you do when you leave the hospital?
+- Please take your medications as listed below
+- Please follow up with your appointments as listed, including 
+the CPET test
+- Please schedule a sleep study for outpatient 
+
+We wish you all the best,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

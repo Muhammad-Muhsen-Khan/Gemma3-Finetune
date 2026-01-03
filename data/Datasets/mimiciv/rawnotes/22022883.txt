@@ -1,0 +1,452 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zosyn
+ 
+Attending: ___
+ 
+Chief Complaint:
+Lower Extremity Swelling
+ 
+Major Surgical or Invasive Procedure:
+Transjugular Liver Biopsy ___
+
+ 
+History of Present Illness:
+___ w/ hx of HCV cirrhosis and HCC s/p DDLT ___ course c/b
+bilateral PEs, recently admitted on ___ for
+persistent nausea, vomiting, poor PO intake, and ___ and on
+___ for acute onset SOB and on ___ for
+confusion and abnormal labs. 
+
+Patient presents accompanied by his wife complaining of lower
+extremity edema. Reports his legs are more swollen than they 
+have
+ever been. Denies pain in his legs. Denies SOB,CP. Reports
+increasing abdominal distention as well for the past 4 days.
+Denies nausea, vomiting, diarrhea. Last normal bowel movement
+today. 
+
+Reports that after his last discharge he was feeling well at
+home. On last visit with his transplant clinic on ___, LFTs
+were slightly elevated but in the same range as when he was
+discharged on ___. 
+
+He was referred for admission for worsening ___ edema and 
+referral
+from patient's transplant team for possible transjugular liver
+biopsy while inpatient.
+
+In the ED, initial VS were: 97.9 64 105/58 10 100% RA  
+
+Exam notable for:
+General: NAD, accompanied by wife
+Cardiac: Regular rate and rhythm, no M/R/G
+Lungs: CTA ___
+Abdomen: Distended, firm, nontender in all quadrants, no 
+rebound,
+no appreciable fluid wave.
+Extremities: 2+ pitting edema in bilateral lower extremities.
+Legs xerotic with flaking. 
+ 
+Labs showed:  
+
+___  35  104   AGap=13 
+------------- 
+4.8  25  1.4 
+
+ALT: 96 AP: 73 Tbili: 0.3 Alb: 4.2 
+AST: 57 
+
+___: 25.4  PTT: 44.3  INR: 2.3  
+
+proBNP: 445
+
+Lactate:1.2
+
+Imaging: 
+Bedside ultrasound of abdomen showed very little fluid in the
+right lower quadrant. No appreciable ascites.
+ 
+Hepatology was consulted who recommended admission to ET 
+
+Transfer VS were: 97.9 64 105/58 10 100% RA 
+
+On arrival to the floor, patient reports that he has been having
+worsening ___ edema for the past 3 days. He has been taking PO
+Lasix that was prescribed from his PCP, but has not had much
+effect in his ___ edema. He is unsure what dose of Lasix he was
+taking. Also states that his wife thinks he's been "more off,"
+but he states he does not feel confused. He endorses taking
+marijuana edibles, last took one today. He admits to missing
+doses of his tacrolimus as well at times. Denies any fevers,
+chills, N/V, sore throat, cough, abdominal pain, chest pain,
+dyspnea, orthopnea, PND.
+ 
+REVIEW OF SYSTEMS:  
+10 point ROS reviewed and negative except as per HPI  
+
+ 
+Past Medical History:
+Hepatitis C viral infection genotype 2, complicated by liver 
+cirrhosis and HCC, history of Lyme's disease ___ years ago, and 
+recent history of pneumonia
+.
+Past Surgical History:  
+component separation and ventral hernia repair with mesh with
+Dr. ___ on ___ c/b abscess requiring ___ drainage now
+removed
+-RFA to segment 8 HCC (2.0 x 1.8. x 1.2 cm ) ___
+-several jaw reconstructive surgeries including using left 
+fibula
+graft
+-R Achilles tendon repair
+- Liver transplant ___
+ 
+Social History:
+___
+Family History:
+Father alive in his ___
+Mother died from complications of blood clot in her ___
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+VS: 97.9 133/84 69 18 95% RA
+Weight: 118.4kg
+GENERAL: in no acute distress
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM  
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs   
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: soft, distended, nontender. No rebound, guarding, or
+rigidity
+EXTREMITIES: 2+ pitting edema  
+NEURO: A&Ox3, facial droop. No asterixes. Voving all 4
+extremities with purpose  
+SKIN: warm and well perfused
+
+DISCHARGE PHYSICAL EXAM:
+VS: T:98.4 BP:120/70 P:73 RR:18 POx:96% on RA .    
+Weight: 111.95 kg  (118.29 on admission)
+UOP: 1400 cc on ___
+GENERAL: Middle-aged man, comfortably laying in bed in no acute
+distress
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM  
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs   
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: soft, normal bowel sounds, distended, nontender. No
+rebound, guarding, or rigidity
+EXTREMITIES: No edema, no clubbing, no cyanosis. TEDS on. 
+NEURO: A&Ox3, facial droop. No asterixis. Moving all 4
+extremities with purpose  
+SKIN: warm and well perfused, no jaundice, no rashes. No 
+evidence
+of lower extremity stasis dermatitis
+
+ 
+Pertinent Results:
+Admission Labs: ___ 09:08PM
+================
+WBC-3.2* RBC-2.83* Hgb-9.1* Hct-27.4* MCV-97 MCH-32.2* MCHC-33.2 
+RDW-12.8 RDWSD-45.2 Plt ___ Neuts-58.1 Lymphs-22.5 
+Monos-13.8* Eos-4.1 Baso-0.6 Im ___ AbsNeut-1.86 
+AbsLymp-0.72* AbsMono-0.44 AbsEos-0.13 AbsBaso-0.02
+___ PTT-44.3* ___
+Glucose-104* UreaN-35* Creat-1.4* Na-145 K-4.8 Cl-107 HCO3-25 
+AnGap-13
+ALT-96* AST-57* AlkPhos-73 TotBili-0.3
+Albumin-4.2 Calcium-9.1 Phos-3.8 Mg-1.8
+BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG 
+Tricycl-NEG
+Lactate-1.2
+proBNP-445*
+
+Pertinent Labs:
+===============
+___ 10:36AM BLOOD TSH-1.9
+___ 09:08PM BLOOD tacroFK-6.4
+___ 06:21AM BLOOD tacroFK-9.4
+___ 06:35AM BLOOD tacroFK-11.8
+
+___ 06:21AM BLOOD CMV VL-NOT DETECT
+___ 06:21AM BLOOD HCV VL-7.3*
+
+IMAGING:
+========
+Chest XRay ___:
+COMPARISON:  Chest radiograph ___.   
+FINDINGS:  There is bilateral low lung volumes.No large pleural 
+effusion or pneumothorax. Left retrocardiac atelectasis is 
+noted.  There is minimal pulmonary vascular congestion.  
+Enlarged cardiomediastinal contours are likely due to the AP 
+view. 
+IMPRESSION:  Left retrocardiac atelectasis.  Minimal pulmonary 
+vascular congestion. 
+
+Liver Ultrasound ___:
+IMPRESSION: 
+1. Patent transplant hepatic vasculature. 
+2. Mild splenomegaly. 
+
+Surface Echocardiogram ___:
+Conclusions: The right atrium is moderately dilated. There is 
+mild symmetric left ventricular hypertrophy. The left 
+ventricular cavity size is top normal/borderline dilated. 
+Overall left ventricular systolic function is normal (LVEF>55%). 
+The estimated cardiac index is normal (>=2.5L/min/m2). There is 
+no ventricular septal defect. Right ventricular chamber size and 
+free wall motion are normal. The aortic root is mildly dilated 
+at the sinus level. The ascending aorta is mildly dilated. The 
+aortic arch is mildly dilated. The aortic valve leaflets (3) 
+appear structurally normal with good leaflet excursion and no 
+aortic stenosis or aortic regurgitation. The mitral valve 
+leaflets are mildly thickened. There is no mitral valve 
+prolapse. Mild (1+) mitral regurgitation is seen. [Due to 
+acoustic shadowing, the severity of mitral regurgitation may be 
+significantly UNDERestimated.] There is borderline pulmonary 
+artery systolic hypertension. There is no pericardial effusion. 
+
+Compared with the prior study (images reviewed) of ___, 
+the aorta is more dilated and the left ventricular cavity size 
+is larger. 
+
+DISCHARGE LABS:
+===============
+___ 06:34AM BLOOD WBC-2.9* RBC-2.87* Hgb-9.0* Hct-27.4* 
+MCV-96 MCH-31.4 MCHC-32.8 RDW-12.6 RDWSD-43.6 Plt ___
+___ 06:34AM BLOOD ___ PTT-55.6* ___
+___ 06:34AM BLOOD Glucose-112* UreaN-22* Creat-1.3* Na-143 
+K-4.6 Cl-104 HCO3-26 AnGap-13
+___ 06:34AM BLOOD ALT-78* AST-42* AlkPhos-59 TotBili-0.5
+___ 06:34AM BLOOD Albumin-3.7 Calcium-8.9 Phos-3.6 Mg-1.8
+___ 06:34AM BLOOD tacroFK-8.4
+
+ 
+Brief Hospital Course:
+SUMMARY:
+=========
+Mr. ___ is a ___ year-old man with a history of HCV 
+cirrhosis and HCC s/p DDLT ___ course c/b bilateral PEs who 
+presents for ___ edema and transaminitis
+
+ACTIVE ISSUES:
+==============
+#Abdominal Distention
+___ edema
+Worsening pitting ___ edema for the past week and abdominal 
+distention likely secondary to cardiac etiology in the setting 
+of recent significant weight gain. The patient was also 
+prescribed furosemide 20 mg p.o. daily at home and had not been 
+taking this medication. There was concern for right heart 
+failure in the setting of subacute PE's. RUQ US with patient 
+vasculature ruled out portal vein thrombosis. TSH wnl and UA 
+w/out proteinuria. The patient received furosemide 20 mg IV on 
+___. He has had a 4 kg weight loss since admission with active 
+diuresis, and reported symptomatic improvement. He was started 
+on Lasix 20 mg p.o. daily, as well as compression stockings, to 
+further improve his lower extremity swelling. He was encouraged 
+to continue a low salt diet. Echo on ___ showed interval LV 
+and aortic dilatation with respect to prior study.
+
+#Hx of Hepatitis C Cirrhosis c/b HCC
+#s/p DDLT ___ 
+#Elevated transaminases
+The patient underwent liver biopsy in ___ which showed no 
+evidence of rejection however it did show recurrent hepatitis C. 
+The patient's immunosuppressive regimen was clarified 
+specifically whether he was on prednisone. His levels were 
+generally at goal between ___. He was continued on tacrolimus 
+at his previous dosing. Patient had not been taking prednisone 
+prior to his admission, but we clarified that he should continue 
+taking prednisone 10mg daily at home for dual immunosuppression. 
+He was continued on Bactrim SS for PCP ___. Hepatitis 
+viral load and CMV viral load pending at time of discharge; 
+these should be followed up for consideration of additional 
+treatment.
+
+#Nausea: Differential included withdrawal from daily marijuana 
+use versus secondary to sedation from procedure. QTC 438 on 
+___. The patient was managed with ondansetron 4 mg IV q. 8 as 
+needed, and 1 dose of haloperidol 1 mg.
+
+#Toxic Metabolic Encephalopathy
+The patient's wife raised concern about increased confusion at 
+home. There was no evidence of asterixis. The patient did not 
+appear confused while admitted. Confusion may be secondary to 
+daily marijuana use. Urine tox was positive for marijuana. Blood 
+and urine cultures were negative. 
+
+#Subacute Bilateral Pulmonary Embolism
+On warfarin as outpatient. The patient was intermittently on 
+heparin drip on
+___ for TJ liver biopsy. The patient's warfarin 10 mg p.o. 
+daily was restarted on ___. As his level was subtherapeutic at 
+1.8 prior to discharge, the patient was discharged on a Lovenox 
+bridge. He will continue taking 120 mg every 12 hours of Lovenox 
+until he reaches goal INR of ___.
+
+CHRONIC ISSUES:
+===============
+
+#Chronic Kidney Disease: Baseline Cr 1.5. At baseline during 
+admission. Discharge creatinine 1.3.
+
+#Hypertension: Continued Carvedilol 25mg PO BID.
+
+#Hyperlipidemia: Continue rosuvastatin
+
+#GERD: Continued home famotidine 
+
+TRANSITIONAL ISSUES:
+====================
+[] MEDICATION CHANGES:
+- Added: Enoxaparin (120mg SQ q12h while INR subtherapeutic), 
+furosemide 20mg PO daily, multivitamin, polyethylene glycol, 
+prednisone 10mg daily, senna QHS.
+
+[] FOLLOW-UP LABS:
+- Pt should have INR rechecked on ___ at his ___ 
+clinic. Goal INR ___ for treatment of PE's.
+- Please draw a CBC, chem10, LFT's, coags weekly starting 
+___. Please fax results to the ___ (fax 
+___ and Pt's PCP ___, fax ___.
+
+[] INR RECHECK:
+- Patient discharged on lovenox as bridge to warfarin. Goal INR 
+___.
+
+[] TREATMENT OF METABOLIC SYNDROME:
+- The patient's lower extremity edema was likely influenced by 
+recent 40 pound weight gain. The patient should be followed by 
+nutrition in order to maintain a healthy weight. 
+- Also consider further management of blood pressure control, if 
+warranted as outpatient.
+
+[] ?EARLY DIASTOLIC HEART FAILURE:
+- Pt with LV chamber dilatation on echocardiogram. Consider 
+further volume management for possible early heart failure 
+versus referral to cardiology.
+
+[] Recurrent Hepatitis C: The patient will need outpatient 
+hepatology follow-up to treat his recurrent hepatitis C.
+
+[] Marijuana Use: The patient's marijuana use is likely 
+interfering with his ability to take medications regularly and 
+there is an interaction with tacrolimus.
+
+[]CODE STATUS: Full (presumed) 
+[]CONTACT: ___, wife, ___ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Carvedilol 25 mg PO BID 
+2. Docusate Sodium 100 mg PO BID 
+3. Famotidine 20 mg PO BID 
+4. Fish Oil (Omega 3) 1000 mg PO TID 
+5. Rosuvastatin Calcium 10 mg PO QPM 
+6. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+7. Tacrolimus 4.5 mg PO Q12H 
+8. Warfarin 10 mg PO DAILY16 
+9. buprenorphine 20 mcg/hour transdermal ONCE WEEKLY 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 120 mg SC Q12H 
+RX *enoxaparin 120 mg/0.8 mL 120 mg Subcutaneous every twelve 
+(12) hours Disp #*14 Syringe Refills:*0 
+2.  Furosemide 20 mg PO DAILY 
+RX *furosemide 20 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0 
+3.  Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0 
+4.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram 1 powder(s) by mouth Daily 
+Disp #*30 Packet Refills:*0 
+5.  PredniSONE 10 mg PO DAILY 
+RX *prednisone 10 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0 
+6.  Senna 8.6 mg PO QHS 
+RX *sennosides 8.6 mg 1 tablet by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+7.  buprenorphine 20 mcg/hour transdermal ONCE WEEKLY  
+8.  Carvedilol 25 mg PO BID  
+9.  Docusate Sodium 100 mg PO BID  
+10.  Famotidine 20 mg PO BID  
+11.  Fish Oil (Omega 3) 1000 mg PO TID  
+12.  Rosuvastatin Calcium 10 mg PO QPM  
+13.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY  
+14.  Tacrolimus 4.5 mg PO Q12H  
+15.  Warfarin 10 mg PO DAILY16  
+16.Outpatient Lab Work
+___.60:  Cirrhosis, other
+Please draw a CBC, chem10, LFT's, coags weekly starting 
+___.  Please fax results to the ___ (fax 
+___ and Pt's PCP ___, fax ___.
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Lower Extremity Edema
+Hepatitis C
+Subacute bilateral pulmonary embolism, on warfarin
+Substance Abuse
+Nausea
+
+Secondary Diagnosis:
+Chronic kidney disease 
+Hypertension
+Hyperlipidemia
+Gastroesophageal reflux
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You had swelling in your legs and abdomen
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+-You received diuretic medication to remove the extra fluid
+-You had a biopsy of your liver, which showed recurrent 
+Hepatitis C, and NO rejection
+-You had an echocardiogram of your heart.
+
+WHAT SHOULD I DO WHEN I GO HOME?
+-Please weigh yourself every morning, before you eat or take 
+your medications. ___ your MD if your weight changes by more 
+than 3 pounds
+-Please stick to a low salt diet and monitor your fluid intake
+-Take your medications as prescribed
+-Keep your follow up appointments with your team of doctors
+
+___ for letting us be a part of your care!
+Your ___ Team
+
+ 
+Followup Instructions:
+___

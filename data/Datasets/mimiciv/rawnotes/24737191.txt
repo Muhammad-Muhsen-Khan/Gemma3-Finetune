@@ -1,0 +1,200 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+S/P craniectomy, skull defect
+ 
+Major Surgical or Invasive Procedure:
+___: Right cranioplasty
+___: removal of PEG tube
+
+ 
+History of Present Illness:
+___ 4 months s/p emergent hemicraniectomy for intraparenchymal 
+hemorrhage. Patient has since done well from a neurologic 
+standpoint with good overall function. She now presents 
+electively for a right-sided cranioplasty. 
+ 
+Past Medical History:
+Right craniectomy for IPH (___)
+Tracheostomy - decannulated ___
+PEG tube placement (___)
+
+ 
+Social History:
+___
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+ON DISCHARGE:
+Opens eyes: [x]Spontaneous [ ]To voice [ ]To noxious
+-Improving R ___ edema
+
+Orientation: [x]Person [x]Place [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+Pupils:  PERRL 3-2mm 
+EOM: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [x]Yes [ ]No
+Pronator Drift: [ ]Yes [x]No   
+Speech Fluent: [x]Yes [ ]No     
+Comprehension intact: [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+Wound: 
+[x]Incision closed with staples 
+[x]Clean, dry, intact - no active or expressed drainage
+appreciated
+
+ 
+Pertinent Results:
+Please see OMR for pertinent lab results and imaging.
+ 
+Brief Hospital Course:
+Patient presented for right cranioplasty on ___. She 
+tolerated the procedure well with no issues and was taken to the 
+PACU after extubation. She was then admitted to the floor with 
+neuro checks every 4 hours. She had a subgaleal JP drain to bulb 
+suction that was removed on ___. On ___ (POD#1), she had a 
+post-operative NCHCT that showed some acute intracranial blood. 
+SQH for DVT prophylaxis was started ___. She had a repeat NCHCT 
+on ___ which was stable. Her home ASA 81 mg was resumed POD#2. 
+ACS was consulted during her inpatient stay and PEG tube was 
+removed as she was tolerating a regular diet at home prior to 
+admission.
+
+___ and OT were consulted for recommendations regarding 
+disposition and recommended discharge home. 
+
+At the time of discharge, patient was tolerating a regular diet, 
+voiding, and neurologically stable. The patient was given 
+appropriate prescriptions and instructions to follow-up in 
+clinic. She was discharged to home on ___.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FLUoxetine 20 mg PO DAILY 
+2. LevETIRAcetam 750 mg PO BID 
+3. Metoprolol Tartrate 75 mg PO TID 
+4. QUEtiapine Fumarate 100 mg PO QHS 
+5. QUEtiapine Fumarate 25 mg PO BID 
+6. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID  
+2.  OxyCODONE (Immediate Release) 2.5-5 mg PO Q4H:PRN Pain - 
+Moderate 
+patient may request partial fill 
+RX *oxycodone 5 mg 0.5 - 1 tablet(s) by mouth Q4H prn Disp #*30 
+Tablet Refills:*0 
+3.  Aspirin 81 mg PO DAILY  
+4.  FLUoxetine 20 mg PO DAILY  
+5.  LevETIRAcetam 750 mg PO BID  
+6.  Metoprolol Tartrate 75 mg PO TID  
+7.  QUEtiapine Fumarate 100 mg PO QHS  
+8.  QUEtiapine Fumarate 25 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+cranial defect
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Cranioplasty
+
+Surgery
+_x0095_You underwent surgery to have your skull bone placed back on. 
+_x0095_Please keep your sutures along your incision dry until they are 
+removed.
+_x0095_It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+_x0095_Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+_x0095_We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+_x0095_You make take leisurely walks and slowly increase your activity 
+at your own pace once you are symptom free at rest. ___ try to 
+do too much all at once.
+_x0095_No driving while taking any narcotic or sedating medication. 
+_x0095_If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+_x0095_No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+_x0095_Please do NOT take any blood thinning medication (Ibuprofen, 
+Plavix, Coumadin) until cleared by the neurosurgeon. 
+_x0095_You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+_x0095_You may use Acetaminophen (Tylenol) for minor discomfort if you 
+are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+_x0095_Headache or pain along your incision. 
+_x0095_You may also experience some post-operative swelling around 
+your face and eyes. This is normal after surgery and most 
+noticeable on the second and third day of surgery.  You apply 
+ice or a cool or warm washcloth to your eyes to help with the 
+swelling. The swelling will be its worse in the morning after 
+laying flat from sleeping but decrease when up. 
+_x0095_You may experience soreness with chewing. This is normal from 
+the surgery and will improve with time. Softer foods may be 
+easier during this time. 
+_x0095_Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+_x0095_Severe pain, swelling, redness or drainage from the incision 
+site. 
+_x0095_Fever greater than 101.5 degrees Fahrenheit
+_x0095_Nausea and/or vomiting
+_x0095_Extreme sleepiness and not being able to stay awake
+_x0095_Severe headaches not relieved by pain relievers
+_x0095_Seizures
+_x0095_Any new problems with your vision or ability to speak
+_x0095_Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+_x0095_Sudden numbness or weakness in the face, arm, or leg
+_x0095_Sudden confusion or trouble speaking or understanding
+_x0095_Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+_x0095_Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

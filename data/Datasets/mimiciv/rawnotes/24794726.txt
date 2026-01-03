@@ -1,0 +1,270 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+lisinopril / aspirin / NSAIDS (Non-Steroidal Anti-Inflammatory 
+Drug) / chocolate / cabbage / licorice / ___ sprouts
+ 
+Attending: ___.
+ 
+Chief Complaint:
+coffee-ground emesis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with history of a Roux-en-y bypass in ___ 
+with 150lb weight loss, complicated by worsening chronic 
+dysphagia to solids/liquids, malnutrition, and a gastric ulcer 
+s/p Roux-en-Y bypass reversal (___), now presenting with 
+epigastric pain and coffee ground emesis. Following her bypass 
+reversal, she had been on a soft diet, with continued episodes 
+of vomiting/regurgitation every ___ days. given these persistent 
+symptoms, she underwent a EGD on ___ which showed normal 
+findings down to the J-J anastomosis.  She was in her usual 
+state of health until last night at 5pm when she had multiple 
+episode of coffee ground emesis with assoicated epigastric and 
+substernal chest pain. Her last BM was 4 days ago, but continues 
+to have flatus daily. She initially presented to an OSH where a 
+CT scan showed evidence of a gastric outlet obstruction. NGT 
+decompression was offered but patient refused. She was 
+subsequently transferred to ___ for further management. 
+
+ 
+Past Medical History:
+Gastric ulcer 
+HTN (hypertension) 
+Hypercholesteremia
+Hypothyroid 
+Insomnia 
+Syncope 
+
+H/O gastric bypass - Dr ___ ___
+B/L rotator cuff surgery
+s/p CCY
+Left knee surgery
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY: 
+Father died of MI at age ___.
+Mother died one month after father.
+Son died at 2mos of SIDS
+
+ 
+Physical Exam:
+Exam on discharge:
+
+Vital Signs: 97.6, 119 / 71, 55, 19, 98RA
+GEN: WD, WN in NAD
+HEENT: NCAT, EOM grossly intact, anicteric
+CV: RRR
+PULM:  no respiratory distress
+ABD: soft, NT, ND, no mass, no hernia, well healed surgical 
+incision
+EXT: WWP
+NEURO: A&Ox3, no focal neurologic deficits
+ 
+Pertinent Results:
+see OMR for pertinent results
+
+___: 
+EGD:
+Linear erythematous strip in lower esophagus
+Previous gastro-gastric re-anastomosis after gastric bypass of 
+the stomach
+Ulcers in the proximal gastric body, duodenal ulcer. No blood or 
+evidence of active bleeding. A nasojejunal tube was placed under 
+endoscopic visualization. Otherwise normal EGD to third part of 
+the duodenum.
+
+___:
+Upper GI Swallow:
+IMPRESSION: 
+Barium passes freely through the esophagus into the stomach, the 
+new gastrogastric anastomosis, and into the duodenum without 
+evidence of obstruction.
+ 
+Brief Hospital Course:
+The patient presented to an OSH with vomiting and subsequent 
+development of coffee ground emesis.  Given CT scan concerning 
+for gastric outlet obstruction, the patient was transferred to 
+___ for further management. Upon arrival to ___, she was 
+placed on bowel rest, given intravenous fluids and antacids.  
+Gastroenterology was consulted given concern for ___ 
+tear and need for gastrogastrostomy dilation.  
+
+#NEURO: The patient was alert and oriented throughout 
+hospitalization; pain was initially managed with IV pain 
+medication. When the patient began tolerating a PO diet, she no 
+longer required pain medication. Pain was very well controlled.
+
+#CV: The patient was intermittently hypertensive during her 
+hospital stay. Her hypertension was initially controlled with IV 
+hydralazine. Her home amlodipine was restarted when she began 
+tolerating PO. Vital signs were routinely monitored.  
+
+#PULMONARY: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. Good pulmonary 
+toilet, early ambulation and incentive spirometry were 
+encouraged throughout hospitalization.  
+
+#GI/GU/FEN: Initially, the patient had an NG tube placed. On 
+___, the patient had an EGD procedure, with subsequent NG tube 
+removal and NJ tube placement. The EGD was notable for non 
+bleeding, clear based ulcers in the stomach, with one in the 
+duodenum. The patient was started on PPI BID. A stool sample was 
+sent to evaluate for H. pylori, which was not detected. Serum 
+gastrin level was minimally elevated. On ___, the patient had 
+an upper GI swallow study that showed free passage of material. 
+The NJ tube was removed. The patient was started on a full 
+liquid diet which she tolerated well, and she will continue on 
+this diet upon discharge. 
+
+#ID: The patient's fever curves were closely watched for signs 
+of infection, of which there were none.  
+
+#HEME: Patient received BID SQH for DVT prophylaxis, in addition 
+to encouraging early ambulation and Venodyne compression 
+devices. 
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating diet as 
+above per oral, ambulating, voiding without assistance, and pain 
+was well controlled.  The patient was discharged home without 
+services. The patient received discharge teaching and follow-up 
+instructions with understanding verbalized and agreement with 
+the discharge plan.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. TRIAzolam 0.125 mg PO ONCE 
+2. Polyethylene Glycol 17 g PO DAILY 
+3. amLODIPine 5 mg PO DAILY 
+4. Simvastatin 20 mg PO QPM 
+5. melatonin 3 mg oral QHS 
+6. Pantoprazole 40 mg PO Q12H 
+7. Levothyroxine Sodium 100 mcg PO DAILY 
+8. Vitamin D Dose is Unknown  PO DAILY 
+
+ 
+Discharge Medications:
+1.  Vitamin D 1000 UNIT PO DAILY  
+2.  amLODIPine 5 mg PO DAILY  
+3.  Levothyroxine Sodium 100 mcg PO DAILY  
+4.  melatonin 3 mg oral QHS  
+5.  Pantoprazole 40 mg PO Q12H  
+6.  Polyethylene Glycol 17 g PO DAILY  
+7.  Simvastatin 20 mg PO QPM  
+8.  TRIAzolam 0.125 mg PO ONCE  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-gastric outlet obstruction
+-duodenal ulcer; multiple clean-based non-bleeding ulcers 
+ranging in size from 3 mm to 5 mm  in the proximal gastric body
+-hypergastrinemia- for further evaluation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you here at ___ 
+___. You were admitted to our hospital for 
+gastric outlet obstruction and underwent an endoscopy to 
+evaluate potential points for blockage. An upper GI contrast 
+study did not show any signs of obstruction or stricture . You 
+were started on a full liquid diet, which you tolerated well. 
+You have recovered and are now ready to be discharged to home. 
+Please follow the recommendations below to ensure a speedy and 
+uneventful recovery. 
+ 
+ACTIVITY:
+ 
+- Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.
+ 
+- You may climb stairs. 
+ 
+- You may go outside, but avoid traveling long distances until 
+you see your surgeon at your next visit.
+ 
+- You may start some light exercise when you feel comfortable.
+ 
+- Heavy exercise may be started after 6 weeks, but use common 
+sense and go slowly at first.
+ 
+- You may resume sexual activity unless your doctor has told you 
+otherwise.
+ 
+
+ 
+HOW YOU MAY FEEL: 
+ 
+- You may feel weak or "washed out." You might want to nap 
+often. Simple tasks may exhaust you.
+ 
+- You may have a sore throat because of a tube that was in your 
+throat during the endoscopy.
+ 
+
+ 
+YOUR BOWELS:
+ 
+- Constipation is a common side effect of medicine such as 
+Percocet or codeine. If needed, you may take a stool softener 
+(such as Colace, one capsule) or gentle laxative (such as milk 
+of magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription.
+ 
+- If you go 48 hours without a bowel movement, or have pain 
+moving the bowels, call your surgeon.
+ 
+- If you get diarrhea, don't take anti-diarrhea medicines. Drink 
+plenty of fluids and see if it goes away. If it does not go 
+away, or is severe and you feel ill, please call your surgeon.
+ 
+
+PAIN MANAGEMENT:
+ 
+- Your pain should get better day by day. If you find the pain 
+is getting worse instead of better, please contact your surgeon.
+If you experience any of the following, please contact your 
+surgeon:
+- sharp pain or any severe pain that lasts several hours
+- pain that is getting worse over time
+- pain accompanied by fever of more than 101
+- a drastic change in nature or quality of your pain
+ 
+MEDICATIONS:
+- Take all the medicines you were on before the operation just 
+as you did before, unless you have been told differently.
+- If you have any questions about what medicine to take or not 
+to take, please call your surgeon. 
+
+NUTRITION: 
+- Please follow the full liquid diet strictly upon discharge. 
+You will discuss your diet further during your follow up 
+appointment with Dr. ___.
+
+ 
+Followup Instructions:
+___

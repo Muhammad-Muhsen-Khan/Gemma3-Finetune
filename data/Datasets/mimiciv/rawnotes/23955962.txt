@@ -1,0 +1,548 @@
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+flu shot  / adhesive tape / codeine / Benadryl
+ 
+Attending: ___
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old man with PMH notable for heart failure with 
+preserved
+EF, moderate TR, mild MR, atrial fibrillation not on AC due to
+recurrent GI bleeding, dilated ascending aorta, HTN, HLD, T2DM
+who presents with cough, headache, fatigue and orthopnea.
+  
+ His breathing has been getting worse for the past ___ months,
+but much worse for about a week. Specifically, he notes that he
+is unable to lay flat because he gets too short of breath, and
+has to sleep in his chair. He has also noticed significant 
+weight
+gain and swelling, particularly in the abdomen such that his
+clothes don't fit. He has also noted swelling in his ankles and
+feet. This feels exactly like prior CHF exacerbations to him. He
+has not been taking his diuretics (spironolactone and Lasix) for
+___ months, and does not limit salt in his diet. He along with
+his daughter are the primary caretakers for his wife with
+progressive dementia, and the frequent urination was disrupting
+his day, particularly taking her to appointments.  
+
+ Since ___ he has also felt increasing fatigue, sore
+throat, headache, rhinorrhea with blood in discharge, muscle
+aches and dry cough. Denies fevers/chills, chest pain.  
+
+He was recently hospitalized ___ for an acute exacerbation of
+his heart failure, and he was discharged before his dry weight
+was reached due to familial circumstance. His discharge weight
+was 238 lbs, Discharge diuretics regimen: Lasix 80 mg daily, and
+discharge Cr: 1.0. 
+
+Since that time he has received 2 transfusions in ___ for his
+pancytopenia. 
+
+ 
+In the ED:  
+Vitals: notable for worsening O2 requirement now on 4L (on RA
+initially), TMax 99.6
+
+Exam notable for:
+ Gen: morbidly obese, fatigued-appearing, but alert and
+interactive, NAD
+ CV: Pulsation seen at earlobe that increases with abdominal
+pressure though hard to differentiate between arterial and 
+venous
+pulsation as there is palpable arterial pulsation in the same
+region; irregular irregular rhythm, regular rate, II/VI
+holosystolic murmur at USB
+ PULM: Markedly decreased breath sounds throughout, minimal
+crackles heard at the bases b/l, no wheezes
+ ABD: obese, soft, NT, mildly distended
+ EXT: chronic venous stasis changes b/l, 1+ pedal pitting edema
+b/l, wwp
+
+ ECG: RBBB with left anterior fasicular block
+ 
+Labs/studies notable for: 
+- chem 7--normal 
+- cbc/diff--normal 
+- pro-bnp--333
+- CXR Opacities at each lung base, similar to the prior study,
+however. This  indicates either recurrent pneumonia, atelectasis
+or possibly these are areas of chronic scarring that have
+developed.  Follow-up radiographs may be helpful to reassess in
+approximately 6 weeks. 
+
+ 
+Patient was given: 
+Lasix 40 x 2
+Lasix 80 x1
+Lasix 40 x1
+ASA 81
+Losartan 100
+Digoxin 125
+ 
+Vitals on transfer:  
+
+ T98.2 HR 77 BP 127/61 RR 18 O2sat 94% RA 
+ 
+On the floor patient still with cough and sore throat, but
+resting comfortably in chair on 2L O2.  
+
+REVIEW OF SYSTEMS:  
+Positive per HPI.  
+Cardiac review of systems is notable for absence of chest pain,
+palpitations, syncope, or presyncope.  
+
+On further review of systems, denies fevers or chills. Denies 
+any
+prior history of stroke, TIA, deep venous thrombosis, pulmonary
+embolism, bleeding at the time of surgery, myalgias, joint 
+pains,
+cough, hemoptysis, black stools or red stools. Denies exertional
+buttock or calf pain. All of the other review of systems were
+negative.  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- T2DM
+- Hypertension 
+- HLD 
+
+2. CARDIAC HISTORY  
+- No known CAD (no cath in record, Pt does not recall ever 
+having
+cath)   
+- CHFpEF with mild MR, mod TR 
+- Rhythm: Atrial fibrillation (not on anticoagulation due to GI
+bleeding)  
+
+3. OTHER PAST MEDICAL HISTORY 
+- Dilated ascending aorta 
+- Recurrent GI bleeding (unclear etiology, thought ___
+diverticulosis vs. erosions vs. post-polypectomy) 
+- prior R ankle foot surgery - Charcot joint
+- prior L leg wound infection requiring hyperbaric oxygen
+- appendectomy
+- Tonsilectomy
+- UTI
+- colonic polyps, rectal prolapse
+- Macular edema
+- BPH
+- facial squamous cell cancer
+- Iron deficiency anemia
+- Pancytopenia  
+
+ 
+Social History:
+___
+Family History:
+Mother died of CHF  
+Father died of emphysema (heavy smoker)
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+===========================
+VS: T 98.6 BP 169 / 69 HR 82 RR 20 O2sat 95% on 2L  
+GENERAL: Well developed, well nourished obese male in NAD.
+Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic, well-healed scar on left face. Sclera
+anicteric. PERRL. EOMI. Conjunctiva were pink. Slight pallor of
+mucosa. No xanthelasma.  
+NECK: Supple. JVP of 14 cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. Regular rate irregular rhythm. Normal S1, S2. II/IV
+holosystolic murmur heard best at LUSB.   
+LUNGS: No chest wall deformities or tenderness. Intermittent
+cough. Respiration is unlabored with no accessory muscle use on 
+2
+L NC. Crackles bilaterally to mid lung fields.  
+ABDOMEN: Obese, distended, nontender to palpation. No
+organomegally appreciated.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis. Lower
+extremity 1+ pitting edema to mid shin bilaterally with chronic
+stasis changes.
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE PHYSICAL EXAM
+==========================
+24 HR Data (last updated ___ @ 806)
+    Temp: 97.4 (Tm 98.6), BP: 133/61 (96-151/49-76), HR: 84
+(61-84), RR: 18 (___), O2 sat: 91% (91-95), O2 delivery: RA,
+Wt: 242.72 lb/110.1 kg  
+
+Fluid Balance (last updated ___ @ 2304) 
+  Last 8 hours No data found
+  Last 24 hours  Total cumulative -1210ml
+    IN: Total 440ml, PO Amt 440ml
+    OUT:  Total 1650ml, Urine Amt 1650ml  
+
+GENERAL: Well developed, well nourished obese male in NAD.
+Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic, well-healed scar on left face. Sclera
+anicteric. PERRL. EOMI. Conjunctiva were pink. Slight pallor of
+mucosa. No xanthelasma.  
+NECK: Supple. 
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. Regular rate irregular rhythm. Normal S1, S2. II/IV
+holosystolic murmur heard best at LUSB.   
+LUNGS: No chest wall deformities or tenderness. Intermittent
+cough. Respiration is unlabored with no accessory muscle use on 
+2
+L NC. Bibasilar crackles
+ABDOMEN: Obese, distended, nontender to palpation. No
+organomegally appreciated.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis. Lower
+extremity 1+ pitting edema to ankle bilaterally, L>R with 
+chronic
+stasis changes.
+PULSES: Distal pulses palpable and symmetric.  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==================
+
+___ 07:55PM BLOOD WBC-7.1 RBC-3.55* Hgb-10.5* Hct-33.6* 
+MCV-95 MCH-29.6 MCHC-31.3* RDW-12.7 RDWSD-44.3 Plt Ct-87*
+___ 07:55PM BLOOD Neuts-58.7 Lymphs-16.9* Monos-19.3* 
+Eos-2.0 Baso-0.1 Im ___ AbsNeut-4.16 AbsLymp-1.20 
+AbsMono-1.37* AbsEos-0.14 AbsBaso-0.01
+___ 07:55PM BLOOD Plt Ct-87*
+___ 07:55PM BLOOD Glucose-120* UreaN-30* Creat-1.0 Na-139 
+K-5.6* Cl-98 HCO3-27 AnGap-14
+___ 10:39PM BLOOD Glucose-178* UreaN-30* Creat-1.0 Na-143 
+K-4.4 Cl-100 HCO3-29 AnGap-14
+___ 07:55PM BLOOD cTropnT-0.03* proBNP-333
+___ 10:39PM BLOOD Calcium-10.1 Phos-3.1 Mg-1.8
+___ 07:21AM BLOOD Triglyc-68 HDL-38* CHOL/HD-2.8 LDLcalc-53
+
+INTERVAL LABS
+==================
+___ 07:21AM BLOOD ALT-19 AST-23 AlkPhos-107 TotBili-0.8
+___ 07:55PM BLOOD cTropnT-0.03* proBNP-333
+___ 03:03AM BLOOD cTropnT-0.05*
+___ 06:01AM BLOOD CK-MB-3 cTropnT-0.05*
+___ 07:21AM BLOOD cTropnT-0.06*
+___ 12:52PM BLOOD cTropnT-0.05*
+
+DISCHARGE LABS
+==================
+___ 07:10AM BLOOD WBC-7.3 RBC-3.68* Hgb-10.7* Hct-33.6* 
+MCV-91 MCH-29.1 MCHC-31.8* RDW-12.5 RDWSD-41.6 Plt ___
+___ 07:10AM BLOOD Plt ___
+___ 01:20PM BLOOD Glucose-233* UreaN-87* Creat-1.6* Na-134* 
+K-4.8 Cl-87* HCO___-33* AnGap-14
+___ 01:20PM BLOOD Calcium-9.5 Phos-4.5 Mg-2.6
+
+IMAGING/STUDIES
+===================
+STRESS TEST ___
+INTERPRETATION: This ___ yo man with h/o atrial fibrillation, 
+HFpEF,  HTN, HLD, NIDDM, and BMI of 33 was referred to the lab 
+from the  inpatient floor for evaluation. The patient was 
+administered 0.4 mg  Regadenoson (Lexiscan) IV Bolus over 20 
+seconds. There were no reports  of chest, back, neck, or arm 
+discomforts during the study. In the  setting of RBBB with LAFB, 
+the ST segments in the anterior leads were  uninterpretable for 
+ischemia. There were no significant ST changes noted  in the 
+other leads during infusion or recovery. Rhythm was atrial  
+fibrillation with no ectopy. There was an appropriate heart rate 
+and  blood pressure response to the infusion. Post-MIBI, the 
+Regadenoson was  reversed with 60 mg Caffeine IV.  
+IMPRESSION: No anginal type symptoms or objective evidence of 
+ischemia.  Nuclear report sent separately.  
+
+TTE ___
+CONCLUSION:  The left atrial volume index is moderately 
+increased. The right atrium is mildly enlarged. There is no  
+evidence for an atrial septal defect by 2D/color Doppler. The 
+estimated right atrial pressure is  >15mmHg. There is moderate 
+symmetric left ventricular hypertrophy with a normal cavity 
+size. There is  suboptimal image quality to assess regional left 
+ventricular function. Quantitative biplane left ventricular  
+ejection fraction is 63 %. There is no resting left ventricular 
+outflow tract gradient. No ventricular septal  defect is seen. 
+Diastolic parameters are indeterminate. Moderately dilated right 
+ventricular cavity with  normal free wall motion. The aortic 
+sinus diameter is normal for gender with mildly dilated 
+ascending  aorta. The aortic arch is mildly dilated. The aortic 
+valve leaflets (?#) are mildly thickened. There is no  aortic 
+valve stenosis. There is no aortic regurgitation. The mitral 
+valve leaflets are mildly thickened with  no mitral valve 
+prolapse. There is mild [1+] mitral regurgitation. The tricuspid 
+valve leaflets appear  structurally normal. There is trivial 
+tricuspid regurgitation. There is moderate pulmonary artery 
+systolic  hypertension. There is no pericardial effusion.  
+
+IMPRESSION: Preserved global left ventricular systolic function. 
+Moderately dilated, normally  functioning right ventricle. At 
+least moderate pulmonary hypertension. Mild mitral 
+regurgitation.  Compared with the prior TTE (images reviewed) of 
+___, the findings are similar.  
+
+CLINICAL IMPLICATIONS: The patient has a mildly dilated 
+ascending aorta. Based on ___  ACCF/AHA Thoracic Aortic 
+Guidelines, if not previously known or a change, a follow-up  
+echocardiogram is suggested
+
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+==================
+___ w/ HFpEF, moderate TR, mild MR, atrial fibrillation not on 
+anticoagulation due to recurrent GI bleeding and patient 
+preference, dilated ascending aorta, HTN, HLD, T2DM who 
+presented for worsening dyspnea due to heart failure 
+exacerbation, requiring lasix gtt for diuresis. 
+
+ACUTE ISSUES
+=================
+# Heart failure with preserved ejection fraction (63% on 
+___
+Volume overloaded on exam with new oxygen requirement, 
+orthopnea, and cough. Likely heart failure exacerbation in 
+setting of med noncompliance and dietary indiscretion. EKG with 
+Q waves in inferior leads and in reviewing echocardiogram with 
+Dr. ___ wall motion abnormalities are present. pMIBI 
+with no evidence of focal perfusion defects, and normal wall 
+motion, and TTE with no changes from previous, so coronary 
+angiography was not pursued. Improved with diuresis, weight on 
+day of discharge 110.1 kg (242.72 lb). Patient was discharged on 
+diuretic holiday due to ___, with plan to restart at increased 
+dose of 40 mg furosemide daily starting the day after discharge, 
+and to check chem10 and follow up with PCP ___ ___ days post 
+discharge. 
+
+# Acute on chronic hypoxemic respiratory failure
+Intermittently requiring ___ O2 during this hospitalization. 
+Per patient, he has been wearing O2 at home at night to help him 
+sleep, although it was originally for his wife. Likely due to 
+heart failure exacerbation, although also with symptoms of URI. 
+Improved throughout hospitalization, did not require oxygen on 
+discharge. 
+
+# Upper respiratory infection
+Sore throat and runny nose, nonproductive cough. No fevers or 
+chills. Likely viral given unremarkable CXR and lack of WBC. 
+Viral swabs without enough cells for culture, although PCR 
+negative for Influenza a/b. Improved throughout his 
+hospitalization. 
+
+# Acute kidney injury
+Patient with initial improvement in Creatinine, and then 
+subsequent rise with diuresis. Decreasing on afternoon of 
+discharge to 1.6. Plan for diuretic holiday for one day, with 
+chem10 and follow up with PCP ___ days post discharge to ensure 
+resolution. 
+
+CHRONIC ISSUES
+================
+# Permanent atrial fibrillation (CHADS2VASC 5)
+Not on anticoagulation due to patient preference and history of 
+GI bleeds. Rate control switched from diltiazem to carvedilol 
+this hospitalization. 
+
+# Type 2 Diabetes Mellitus - patient maintained on home lantus 
+and insulin sliding scale. Was intermittently hypoglycemic in 
+the mornings, so glargine was decreased from 66 to 60 units at 
+bedtime. Home metformin was held during this hospitalization 
+with plan to restart as outpatient.
+
+# Hypertension - Patient intermittently hypertensive, improved 
+on carvedilol. Maintained on home losartan and spironolactone. 
+
+# Hyperlipidemia 
+Increased atorvastatin to 40 mg QHS
+
+# BPH 
+Continued Finasteride 5 mg PO DAILY
+
+# Iron deficiency anemia
+# Pancytopenia 
+Followed by Heme Onc as outpatient. Thought to be iron 
+deficiency, but cannot preclude indolent myelodysplastic 
+syndrome (MDS). s/p ferumoxytol (___) and Feraheme (___) 
+infusions as outpatient. Stable this admission. 
+
+TRANSITIONAL ISSUES
+==================
+# Heart failure
+[ ] patient eager to get home, but with resolving ___ on 
+discharge, so discharged on diuretic holiday. Plan to start PO 
+furosemide 40 mg the day after discharge, and to follow up with 
+PCP as soon as possible. Regardless of PCP appointment, he 
+should get repeat Chem10 within ___ days from discharge, faxed 
+to PCP to evaluate electrolytes and creatinine. 
+
+# T2DM
+[ ] Patient was routinely hypoglycemic to ___ in AM, so ___ 
+glargine was reduced from 66 to 60 during this hospitalization. 
+
+# Pancytopenia
+[ ] Noted to have stable chronic thrombocytopenia. Recommend 
+outpatient workup.
+
+# Atrial fibrillation
+[ ] Anti-coagulation recommended - deferring until talk with 
+cards outpatient. 
+[ ] Stopped digoxin and started Carvedilol 
+
+---Discharge weight: 110.1 kg (242.72 lb) 
+---Discharge creatinine: 1.6
+---Discharge sodium: 134
+---Discharge potassium: 4.8
+---Discharge diuretic: 24-hour diuretic holiday, plan to restart 
+furosemide 40 mg PO daily the day after discharge. 
+
+- Contact: Daughter ___ at ___
+- Code: full 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Finasteride 5 mg PO DAILY 
+2. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+3. Losartan Potassium 100 mg PO DAILY 
+4. Calcium Carbonate 500 mg PO QID:PRN Heart burn 
+5. Fish Oil (Omega 3) 1000 mg PO BID 
+6. MetFORMIN (Glucophage) 850 mg PO BID 
+7. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line 
+8. Atorvastatin 10 mg PO QPM 
+9. Furosemide 20 mg PO DAILY 
+10. Spironolactone 25 mg PO DAILY 
+11. Multivitamins 1 TAB PO BID 
+12. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+13. coenzyme Q10 100 mg oral bid 
+14. Aspirin 81 mg PO DAILY 
+15. Tamsulosin 0.4 mg PO DAILY 
+16. albuterol sulfate 90 mcg/actuation inhalation Q6H PRN 
+wheezing 
+17. Vitamin B Complex 1 CAP PO BID 
+18. Ascorbic Acid ___ mg PO BID 
+19. Vitamin D 1000 UNIT PO BID 
+20. Digoxin 0.125 mg PO DAILY 
+21. Glargine 66 Units Bedtime
+
+ 
+Discharge Medications:
+1.  Carvedilol 6.25 mg PO BID 
+RX *carvedilol 6.25 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth QPM Disp #*30 Tablet 
+Refills:*0 
+3.  Furosemide 40 mg PO DAILY 
+RX *furosemide 20 mg 2 tablet(s) by mouth daily Disp #*60 Tablet 
+Refills:*0 
+4.  Glargine 60 Units Bedtime 
+5.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+6.  albuterol sulfate 90 mcg/actuation inhalation Q6H PRN 
+wheezing  
+7.  Ascorbic Acid ___ mg PO BID  
+8.  Aspirin 81 mg PO DAILY  
+9.  Calcium Carbonate 500 mg PO QID:PRN Heart burn  
+10.  coenzyme Q10 100 mg oral bid  
+11.  Finasteride 5 mg PO DAILY  
+12.  Fish Oil (Omega 3) 1000 mg PO BID  
+13.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+14.  Losartan Potassium 100 mg PO DAILY  
+15.  MetFORMIN (Glucophage) 850 mg PO BID  
+16.  Multivitamins 1 TAB PO BID  
+17.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+18.  Spironolactone 25 mg PO DAILY  
+19.  Tamsulosin 0.4 mg PO DAILY  
+20.  Vitamin B Complex 1 CAP PO BID  
+21.  Vitamin D 1000 UNIT PO BID  
+22.Outpatient Lab Work
+Chem10 within 4 days of discharge. ICD-10 code ___.9. Fax 
+results to ___ Dr ___. 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+Heart failure with preserved ejection fraction
+Acute on chronic hypoxemic respiratory failure
+
+SECONDARY DIAGNOSIS
+===================
+Upper respiratory infection
+Acute kidney injury
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+ It was a pleasure caring for you at ___.  
+
+ WHY WAS I IN THE HOSPITAL?  
+ ==========================  
+ - You were admitted because of shortness of breath, swelling, 
+and weight gain due to heart failure. You were found to have 
+fluid on your lungs that was making it harder for you to breath. 
+
+  
+ WHAT HAPPENED IN THE HOSPITAL?  
+ ==============================  
+  - You were admitted to the hospital because you were retaining 
+fluid because your heart was having trouble pumping. In the 
+hospital you were give diuretic medication through your vein to 
+help you urinate out the extra fluid. 
+ - You had tests done of your heart (a stress test "pMIBI" and 
+echocardiogram) to see if blood was getting to your heart muscle 
+heart muscle, and to see if it was having trouble squeezing. 
+They showed that there were no changes from your last test, and 
+that your heart is squeezing well.  
+ 
+ WHAT SHOULD I DO WHEN I GO HOME?  
+ ================================  
+ - Your weight at discharge is  110.1 kg (242.72 lb). Please 
+weigh yourself today at home and use this as your new baseline  
+ - Please weigh yourself every day in the morning after you 
+urinate and before you have breakfast. Call your doctor if your 
+weight goes up by more than 3 lbs. 
+ - You should take all of your medication as directed and go to 
+your follow-up appointments. Your medications and your 
+appointments are listed below. 
+ - You shouldn't take any of your diuretic medication 
+(furosemide) today (___). You should start taking 40 mg 
+furosemide tomorrow (___). 
+ - You should go to the lab to get blood work done within the 
+next few days before you go to see your primary care doctor. You 
+have a prescription for this.
+ - You should call your primary care doctor  ___ 
+___ to make an appointment to see him within the next 
+few days.
+ - You should call your cardiologist Dr. ___ ___ to 
+set up an appointment within the next two weeks. 
+
+ Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+ Your ___ Healthcare Team  
+ 
+Followup Instructions:
+___

@@ -1,0 +1,446 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ is a ___ year old woman with metastatic HCC, 
+sp
+TACE and more recently sorafenib, who is admitted from the ED
+with several days of weakness found to have new ___ in the
+setting of rising bilirubin and progression of liver tumor.
+
+Patient has had relatively rapid progression of her liver tumor
+over the last several weeks despite initiation of sorafenib. She
+had an MRCP on ___ that showed This has led her oncology team 
+to
+plan for initiation of FOLFOX, which was scheduled for tomorrow. 
+
+
+However, over the last three days, patient developed increasing
+difficulty walking, which she attributes to bilateral leg
+heaviness and weakness. She denies frank shortness of breath. 
+She
+continues to have chronic band-like epigastric abdominal pain
+well controlled with her oxycodone. She also has persistent
+nausea and non-bloody emesis. She denies fevers or chills. No
+dysphagia. No URTI. She has atypical chest pain, including at
+present. Mild intermittent cough. No frank SOB. No diarrhea, 
+last
+BM this am was normal. Denies dysuria. She has chronic bilateral
+lower extremity edema. She has some new pain in the back of her
+right thigh. No new rashes. Her weakness progressed to the point
+she was essentially bedbound, and she presented to the ED.
+
+In the ED, initial VS were pain 5, T 97.1, HR 111, BP 122/66, RR
+18, O2 96%RA. Initial labs notable for Na 132, K 4.5, HCO3 21, 
+Cr
+1.5, WBC 15.5, HCT 37.0, PLT 581, INR 1.4, ALT 139, AST 335, ALP
+1441, TBili 5.3, Alb 2.4, lactate 3.7. RUQ US showed no biliary
+ductal dilation and cirrhotic liver with known nectrotic mass 
+and
+right hydronephrosis similar to recent MRCP. CXR showed no acute
+process. Patient was given IV dilaudid, IV Zofran, LR, and IV
+zosyn. VS prior to transfer were pain 4, HR 112, BP 130/75, RR
+18, O2 97%RA.
+
+REVIEW OF SYSTEMS: 
+A complete 10-point review of systems was performed and was
+negative unless otherwise noted in the HPI.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+?___:
+- ___:  s/p cryoablation (___)
+
+___:
+- Presented with abdominal pain, found to have infrarenal aortic
+dissection, hepatic mass
+- ___:  planned resection aborted due to carcinomatosis.
+Performed laparoscopic peritoneal biopsy and hernia repair.  Bx
+showed HCC in peritoneal nodules and liver.
+- ___:  TACE
+- ___:  Start sorafenib
+ 
+PAST MEDICAL HISTORY: 
+- HTN
+- HLD
+- DM2 
+- CAD s/p 2 stents ___ years ago (at ___) 
+- Infrarenal aortic dissection
+- Colon polyps (adenomas and hyperplastic)
+
+ 
+Social History:
+___
+Family History:
+Relative Status   Age Problem              Onset Comments       
+Mother   Living   ___  CORONARY ARTERY                           
+                      DISEASE                                   
+                      CORONARY BYPASS                           
+                      SURGERY                                   
+                      CHOLECYSTECTOMY                           
+                      DIABETES MELLITUS                         
+
+Father   ___ ___  CORONARY ARTERY                           
+                      DISEASE                                   
+                      CORONARY BYPASS                           
+                      SURGERY                                   
+                      CHOLECYSTECTOMY                           
+
+Sister   Living   ___  CHOLECYSTECTOMY                 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+=================================
+VS: T 97.7 HR 96 BP 119/64 RR 14 SAT  96% O2 on RA
+GENERAL: Pleasant, but chronically ill and tired appearing woman
+laying in bed in no apparent distress.
+EYES: Icteric sclerea, PERLL, EOMI; 
+ENT: Oropharynx with very dry MM, no other lesions. JVD not
+elevated 
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or
+gallops; 2+ radial pulses
+RESPIRATORY: Appears mildly tachypeic and speaking in short
+sentences, clear to auscultation bilaterally with only moderate
+air movement 
+GASTROINTESTINAL: Normal bowel sounds; distended; diffusely
+tender but soft without guarding. Marked hepatomegaly noted with
+liver tracking into right pelvis. Tympanic left side of abdomen. 
+
+MUSKULOSKELATAL: Warm, well perfused extremities with 2+ pitting
+edema bilaterally into the thighs. Decreased bulk.
+NEURO: Alert, oriented, CN III-XII intact, motor and sensory
+function grossly intact, no asterixis
+SKIN: No significant rashes
+
+DISCHARGE PHYSICAL EXAM: 
+==========================
+VS: 97.8 ___
+GENERAL: Pleasant, chronically ill, tired appearing woman 
+sitting
+in bedside chair in no apparent distress.
+EYES: Icteric sclerea, PERLL, EOMI; 
+ENT: Oropharynx with very dry MM, no other lesions. JVD not
+elevated 
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or
+gallops; 2+ radial pulses
+RESPIRATORY: Appears mildly tachypeic and speaking in short
+sentences, clear to auscultation bilaterally with only moderate
+air movement 
+GASTROINTESTINAL: Normal bowel sounds; distended; diffusely
+tender but soft without guarding. Marked hepatomegaly noted with
+liver tracking into right pelvis. Tympanic left side of abdomen.
+Tender in upper quadrants. 
+MUSKULOSKELATAL: Warm, well perfused extremities with 2+ pitting
+edema bilaterally into the thighs. Decreased bulk.
+NEURO: Alert, oriented, CN III-XII intact, motor and sensory
+function grossly intact, no asterixis
+SKIN: No significant rashes
+ 
+ 
+Pertinent Results:
+ADMISSION LABS:
+=================
+___ 05:48PM BLOOD WBC-15.5* RBC-5.11 Hgb-11.3 Hct-37.0 
+MCV-72* MCH-22.1* MCHC-30.5* RDW-23.8* RDWSD-58.4* Plt ___
+___ 05:48PM BLOOD Neuts-88.0* Lymphs-7.1* Monos-3.9* 
+Eos-0.1* Baso-0.1 NRBC-0.2* Im ___ AbsNeut-13.60* 
+AbsLymp-1.09* AbsMono-0.60 AbsEos-0.02* AbsBaso-0.02
+___ 06:55PM BLOOD ___ PTT-29.7 ___
+___ 05:48PM BLOOD Glucose-168* UreaN-59* Creat-1.5* Na-132* 
+K-4.5 Cl-90* HCO3-21* AnGap-21*
+___ 06:55PM BLOOD ALT-139* AST-335* CK(CPK)-149 
+AlkPhos-1441* TotBili-5.3*
+___ 06:55PM BLOOD Lipase-75*
+___ 06:55PM BLOOD CK-MB-2
+___ 06:55PM BLOOD cTropnT-<0.01
+___ 06:55PM BLOOD Albumin-2.4*
+___ 07:28PM BLOOD Lactate-3.7*
+
+STUDIES: 
+=========
+
+___ LOWER EXT VEINS  
+IMPRESSION: 
+No evidence of deep venous thrombosis in the right lower 
+extremity veins.
+ 
+___ OR GALLBLADDER US
+IMPRESSION:
+1. Cirrhotic liver with large ill-defined partially necrotic 
+mass better
+visualized on recent MRCP.
+2. Mild right hydronephrosis, similar compared to prior MR.
+3. Trace perihepatic ascites.
+4. No biliary ductal dilatation.
+
+___ (PA & LAT)  
+IMPRESSION:  
+Low lung volumes.  No acute findings in the chest.  Port-A-Cath 
+tip in the cavoatrial junction.
+
+___ ECG
+NSR
+
+ Intervals  Axes
+RatePRQRSQTQTc (___)  P  QRS    T
+___     9
+
+DISCHARGE LABS: 
+=====================
+___ 05:52AM BLOOD WBC-16.8* RBC-3.70* Hgb-8.5* Hct-27.5* 
+MCV-74* MCH-23.0* MCHC-30.9* RDW-23.2* RDWSD-59.2* Plt ___
+___ 05:52AM BLOOD Plt ___
+___ 05:52AM BLOOD Glucose-66* UreaN-73* Creat-1.7* Na-137 
+K-3.7 Cl-95* HCO3-21* AnGap-21*
+___ 05:52AM BLOOD ALT-115* AST-289* LD(LDH)-551* 
+AlkPhos-808* TotBili-5.7*
+___ 05:52AM BLOOD Albumin-3.1* Calcium-8.7 Phos-5.4* Mg-2.3
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with metastatic 
+HCC, s/p TACE most recently sorafenib, who initially presented 
+with fatigue, found to have worsening hyperbilirubinemia and ___ 
+on admission. With T. bili 2.1 on admission that trended up to 
+5.9 during hospitalization, attributed to worsening metastatic 
+disease progression with known extensive progression of hepatic 
+disease on recent MRCP ___. ___ was also likely in the 
+setting of worsening hepatic function with poor PO intake in 
+several days prior to admission. Per ___, was not a candidate for 
+PTBD with no intervenable lesion identified on MRCP. Antibiotics 
+were deferred given lower suspicion for cholangitis. After 
+extensive goals of care conversation with primary oncologist Dr. 
+___, patient was transitioned to home with hospice prior 
+to discharge. 
+
+Acute Issues:
+================
+# Hyperbilirubinemia
+# Metastatic HCC - History of metastatic HCC s/p TACE most 
+recently on sorafenib followed by primary oncologist Dr. ___, 
+presenting with fatigue, found to have worsening 
+hyperbilirubinemia on admission. With T. bili 2.1 on admission 
+that trended up to 5.9 during hospitalization. On recent MRCP 
+___, was found to have extensive progression of disease 
+progression, multiple new large confluent peritoneal implants, 
+innumerable new hepatic masses almost replacing the entirety of 
+the liver. Hyperbilirubinemia was predominantly direct in the 
+setting of worsening disease progression. Per ___ was not a 
+candidate for PTBD with no intervenable lesion identified on 
+MRCP. Antibiotics were deferred given lower suspicion for 
+cholangitis. After extensive goals of care conversation with 
+primary oncologist Dr. ___, patient was transitioned to 
+home with hospice prior to discharge. Plan to not continue with 
+sorafenib.
+
+# ___ - Initially with ___ on admission Cr 1.5. Was thought to 
+be pre-renal give concurrent hyponatremia of 133 with history of 
+poor PO intake and also from hyperuricemia per below with uric 
+acid 14.6 on admission. Was thought to be intravascularly 
+depleted with extravascular volume overload given chronic lower 
+extremity edema. Given hypoalbuminemic, was administered albumin 
+50 x 2 doses. Creatinine trended up to 1.7, prior to discharge. 
+Did not pursue additional diagnostic workup or intervention 
+given goals of care per above and plan for discharge home with 
+hospice.
+
+# Hyponatremia - Presented with Na 133 on admission, likely 
+hypovolemic hyponatremia, corrected to 137 prior to discharge 
+with albumin administration. 
+
+# Hyperuricemia - Presented with uric acid 14.6 on admission. 
+Did not meet criteria for rasburicase administration given Cr 
+<1.8. Received albumin per above, however additional 
+intervention was not pursued per goals of care. 
+
+# Portal vein thrombosis
+# Tumor thrombus - With known portal vein thrombosis and tumor 
+thrombus. Was previously on apixiban, however given goals of 
+care per above, was discontinued and also held on discharge. 
+
+Chronic Issues: 
+===============
+# Diabetes - In the setting of disease and poor PO intake, the 
+patient had recently stopped home lantus due to low blood sugars 
+in am, she continued to receive ISS during hospitalization.
+
+# HTN
+# CAD Prevention - Home ASA, amlodipine, and statin were held 
+during hospitalization and on discharge in order to help reduce 
+pill burden given discharge home with hospice. Metoprolol 
+tartrate 50 BID was continued. 
+
+Transitional Issues:
+======================
+[ ] NEW/CHANGED Medications
+- Started Dexamethasone 1 mg PO QAM for appetite stiulation 
+- Started Morphine SR (MS ___ 15 mg PO Q12H for 
+cancer-related pain
+- Started omeprazole 40mg PO QD
+- Increased home oxycodone 5mg PO Q4-6H:PRN to Q2H:PRN 
+- Held Ascorbic Acid ___ mg PO DAILY
+- Held Aspirin 81 mg PO DAILY 
+- Held Ferrous Sulfate 325 mg PO DAILY 
+- Held Multivitamins 1 TAB PO DAILY 
+- Held Thiamine 100 mg PO DAILY 
+- Held Apixaban 5 mg PO BID 
+- Held Cholestyramine Light (cholestyramine-aspartame) 4 gram 
+oral TID 
+- Held Simvastatin 40 mg PO QPM 
+
+[ ] Discharged home with hospice continue to assess indicated 
+hospice services
+[ ] Titrate pain regimen as indicated given underlying 
+cancer-related pain
+
+#CODE: DNR/DNI 
+#EMERGENCY CONTACT HCP: Husband, ___ ___
+
+Greater than 30 minutes spent in discharge to hospice. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+2. amLODIPine 5 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Metoprolol Tartrate 50 mg PO BID 
+5. OxyCODONE (Immediate Release) 5 mg PO Q4-6H PRN PAIN Pain - 
+Moderate 
+6. Simvastatin 40 mg PO QPM 
+7. Ondansetron 8 mg PO Q8H:PRN nausea 
+8. Furosemide 40 mg PO DAILY:PRN leg swelling 
+9. Apixaban 5 mg PO BID 
+10. Cholestyramine Light (cholestyramine-aspartame) 4 gram oral 
+TID 
+11. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+12. LORazepam 0.5 mg PO Q8H:PRN anxiety/nausea 
+13. Metoclopramide 10 mg PO TID 
+14. Ascorbic Acid ___ mg PO DAILY 
+15. Ferrous Sulfate 325 mg PO DAILY 
+16. Multivitamins 1 TAB PO DAILY 
+17. Senna Laxative-Stool Softener (sennosides-docusate sodium) 
+8.6-50 mg oral BID:PRN 
+18. Thiamine 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Allopurinol ___ mg PO DAILY 
+RX *allopurinol ___ mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+2.  Dexamethasone 1 mg PO QAM 
+RX *dexamethasone 1 mg 1 tablet(s) by mouth Daily Disp #*20 
+Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*30 Capsule Refills:*0 
+4.  Morphine SR (MS ___ 15 mg PO Q12H 
+RX *morphine 15 mg 1 tablet(s) by mouth every twelve (12) hours 
+Disp #*40 Tablet Refills:*0 
+5.  Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth Daily Disp #*30 
+Capsule Refills:*0 
+6.  Senna 8.6 mg PO BID:PRN Constipation - First Line 
+RX *sennosides [senna] 8.6 mg 1 by mouth BID:PRN Disp #*30 
+Tablet Refills:*0 
+7.  OxyCODONE (Immediate Release) 5 mg PO Q2H:PRN Pain - Severe 
+RX *oxycodone 5 mg 1 tablet(s) by mouth Q2H:PRN Disp #*30 Tablet 
+Refills:*0 
+8.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+9.  amLODIPine 5 mg PO DAILY  
+10.  Cholestyramine Light (cholestyramine-aspartame) 4 gram oral 
+TID  
+11.  Furosemide 40 mg PO DAILY:PRN leg swelling  
+12.  LORazepam 0.5 mg PO Q8H:PRN anxiety/nausea 
+RX *lorazepam 0.5 mg 1 by mouth Q8H:PRN Disp #*15 Tablet 
+Refills:*0 
+13.  Metoclopramide 10 mg PO TID  
+14.  Metoprolol Tartrate 50 mg PO BID  
+15.  Ondansetron 8 mg PO Q8H:PRN nausea 
+RX *ondansetron 8 mg 1 tablet(s) by mouth Q8H:PRN Disp #*30 
+Tablet Refills:*0 
+16.  Senna Laxative-Stool Softener (sennosides-docusate sodium) 
+8.6-50 mg oral BID:PRN  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis: 
+Metastatic HCC
+Hyperbilirubinemia
+
+Secondary Diagnosis:
+___
+Hyponatremia
+Chronic cancer associated pain
+Portal vein thrombosis
+Tumor thrombus
+Type 2 Diabetes
+Microcytic anemia
+Hptertension
+CAD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure caring for you at ___ 
+___.
+
+WHY WAS I IN THE HOSPITAL?
+- You initially came to the hospital because you were feeling 
+weak. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+- You underwent imaging to determine why you were feeling weak 
+and were found to have progression of your cancer
+- You were found to have worsening liver function tests because 
+of your cancer
+- You were treated with medications to help reduce your pain and 
+nausea
+- You had a meeting with your husband and medical doctors where 
+___ that given the progression of your disease, you 
+would like to go home with hospice, reduce the number of 
+medications you take, defer further chemo and focus on spending 
+time with the people you love and being comfortable.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medications as prescribed and keep 
+your follow-up appointments as listed below
+
+We wish you the best!
+
+Sincerely,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

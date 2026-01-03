@@ -1,0 +1,908 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+heparin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Back and neck pain
+ 
+Major Surgical or Invasive Procedure:
+___
+1.  Emergency repair of posterior ventricular septal defect
+with a double patch technique.
+2.  Coronary artery bypass graft x 2, left internal mammary
+artery graft to left anterior descending artery and saphenous
+vein graft to obtuse marginal artery
+.
+3.  Endoscopic harvesting of the long saphenous vein
+.
+___ Mediastinal exploration for bleeding
+.
+___ Exploratory laparotomy, resection of
+omental mass, ABThera temporary abdominal closure
+.
+___ Bedside reopening of previous
+exploratory laparotomy, takedown of ABThera, abdominal washout
+and abdominal wall closure
+.
+___ Percutaneous tracheostomy
+
+ 
+History of Present Illness:
+Ms. ___ is a very pleasant ___ year old woman with poor 
+medical follow-up. She was in USOH until week prior to 
+presentation when she awoke from sleep sudden chills/sweats/back 
+pain. She tried conservative therapy without relief. She 
+eventually presented to ___ late ___ and was found to 
+have IMI. Code STEMI was called and she underwent emergent DES 
+to her mid RCA and PDA (ONYX STENT 2.25 x22mm). She received 
+Plavix load 600mg, heparin IV bolus 4000u and IV Morphine per 
+outpatient records. She was not in cardiogenic shock. Cardiac 
+catheterization demonstrated residual disease in the LAD and LCX 
+systems. An echocardiogram revealed a preserved ejection 
+fraction with inferior hypokinesis, tricuspid valve with severe 
+flail leaflet with moderate regurgitation, ventricular septal 
+defect associated with an aneurysm and left-to-right shunt. Peak 
+and mean pressures were 63mmHg and 39mmHg,  respectively. She 
+was transferred to the cardiology service at ___ for surgical 
+evaluation. Her ROS was essentially negative except for poor 
+medical follow-up. She has not seen a dentist "in quite some 
+time. Her coronary risk factors include HTN/tobacco abuse (quit 
+smoking about 10days ago).
+ 
+Past Medical History:
+Coronary Artery Disease
+Hypertension
+ST Elevation Myocardial Infarction
+Tobacco Use
+Tricuspid Regurgitation
+Ventricular Septal Defect 
+ 
+Social History:
+___
+Family History:
+Father - MI mid-late ___, 
+Mother - complications from ___
+Son - cardiac arrest while running a marathon - CPR/ICD
+ 
+Physical Exam:
+HR: 114 reg  BP: 91/64  RR: 18  O2 Sat: 95% 2L
+Height: 63"  Weight: 141.5 lbs
+
+General: Sitting in bed, restless
+Skin: moist, warm. Left forearm heparin IV infiltrating. 
+Stopped. Multiple ecchymotic areas upper extremities. 
+HEENT: PERRLA [] EOMI [x] upper dentures, tongue dry, uvular 
+partially seen and midline
+Neck:  Supple [x] Full ROM [x]
+Chest: bibasilar rales
+Heart: S1S2 reg tachy. HSM heard best LSB, no radiation. 
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds 
++
+Extremities: Warm [x], well-perfused [x] no edema
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+DP           Right: 2+   Left: 2+
+Radial       Right: 1+   Left: 1+
+
+Carotid Bruit: none
+
+ 
+Pertinent Results:
+Transthoracic Echocardiogram ___
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. The estimated right atrial pressure is >15mmHg. 
+There is mild symmetric left ventricular hypertrophy with a 
+normal cavity size. There is a small area of regional left 
+ventricular systolic dysfunction with severe hypokinesis to 
+akinesis of the inferior septum and inferior wall (see 
+schematic) and preserved/normal contractility of the remaining 
+segments. There is an inferobasal aneurysm. The visually 
+estimated left ventricular ejection fraction is 55-60%. There is 
+no resting left ventricular outflow tract gradient. There is a 
+post-infarction ventricular septal defect involving the basal to 
+mid inferior septum. Dilated right ventricular cavity with 
+depressed free wall motion. The aortic sinus diameter is normal 
+for gender with a normal ascending aorta diameter for gender. 
+There is a normal descending aorta diameter. The aortic valve 
+leaflets (3) are mildly thickened. There is no aortic valve 
+stenosis. There is no aortic regurgitation. The mitral valve 
+leaflets are mildly thickened with no mitral valve prolapse. 
+There is no mitral regurgitation. The pulmonic valve leaflets 
+are not well seen. The tricuspid valve leaflets appear 
+structurally normal. There is moderate to severe [3+] tricuspid 
+regurgitation. There is moderate to
+severe pulmonary artery systolic hypertension. In the setting of 
+at least moderate to severe tricuspid regurgitation, the 
+pulmonary artery systolic pressure may be UNDERestimated. There 
+is no pericardial
+effusion.
+
+IMPRESSION: Inferior/inferoseptal wall MI with basal inferior 
+wall aneurysm and ventricular septal rupture involving the basal 
+to mid inferior wall. Dilated right ventricle with hypokinesis 
+consistent with right ventricular infarction. Moderate to severe 
+pulmonary artery systolic hypertension. Moderate to severe 
+tricuspid regurgitation.
+. 
+
+Transthoracic echocardiogram ___
+There are EXTENSIVE areas of regional left ventricular systolic 
+dysfunction with akinesis of the basal to mid inferoseptum, 
+entire inferior wall, and mid inferolateral wall (see schematic) 
+and preserved/normal contractility of the remaining segments. 
+There is an inferobasal aneurysm. Patch material is seen. There 
+is flow seen from the left to right ventricle during systole, 
+suggestive of defect in the interventricular septum. Overall 
+left ventricular systolic function is severely depressed. The 
+visually estimated left ventricular
+ejection fraction is 15%. Left ventricular cardiac index is 
+severely depressed (less than 1.5 L/min/m2). Normal right 
+ventricular cavity size with SEVERE global free wall 
+hypokinesis. There is abnormal septal motion
+c/w conduction abnormality/paced rhythm. There is trace aortic 
+regurgitation. There is mild [1+] mitral regurgitation. There is 
+mild [1+] tricuspid regurgitation. The estimated pulmonary 
+artery systolic pressure is normal.
+  IMPRESSION: Residual flow across interventricular septum 
+suggestive of slight patch leak. Marked wall motion 
+abnormalities c/w CAD/MI with markedly depressed biventricular 
+systolic function. Mild mitral and tricuspid regurgitation. 
+.
+Transthoracic echocardiogram ___
+The right atrial pressure could not be estimated. There is mild 
+symmetric left ventricular hypertrophy with a normal cavity 
+size. There is a small to moderate area of regional left 
+ventricular systolic dysfunction with
+akinesis of the basal inferior wall and hypokinesis of the more 
+distal inferior wall and inferolateral wall (see schematic) and 
+preserved/normal contractility of the remaining segments. 
+Quantitative biplane left
+ventricular ejection fraction is 47 % (normal 54-73%). Left 
+ventricular cardiac index is normal (>2.5 L/ min/m2). There is 
+residual left-to-right ventricular septal defect flow across the 
+patch. Normal right ventricular
+cavity size with mild global free wall hypokinesis. The aortic 
+valve leaflets (3) appear structurally normal. There is no 
+aortic valve stenosis. There is no aortic regurgitation. The 
+mitral valve leaflets appear structurally normal. There is 
+physiologic mitral regurgitation. The tricuspid valve leaflets 
+appear structurally normal. There
+is physiologic tricuspid regurgitation. Due to acoustic 
+shadowing, the severity of tricuspid regurgitation may be 
+UNDERestimated. There is mild pulmonary artery systolic 
+hypertension. There is a trivial pericardial effusion.
+  IMPRESSION: Residual VSD flow across the patch repair. 
+Regional left ventricular systolic dysfunction most c/w CAD (PDA 
+distribution). Mild pulmonary artery systolic hypertension.
+.
+
+RUQ Ultrasound: ___. Nondistended gallbladder with sludge and a mildly thickened 
+wall.  Findings are equivocal for acute cholecystitis. 
+2. Small amount of perihepatic ascites. 
+3. Small right pleural effusion. 
+4. Limited evaluation of the liver due to overlying bandage.  
+Within this 
+limitation, normal hepatic echotexture.  No biliary ductal 
+dilatation.
+.
+
+CT head: ___. No acute intracranial hemorrhage.  No large territorial 
+infarction. 
+2. There is prominent hypodensity in the periventricular white 
+matter 
+distribution.  This is likely due to chronic small vessel 
+ischemic disease in this age group although not entirely 
+specific. 
+
+CTA Torso ___. Small bowel in the right lower quadrant which demonstrates 
+absent or 
+reduced enhancement compared to expectation and relative to the 
+remainder of the bowel.  Findings are highly concerning for 
+bowel ischemia or necrosis of the distal ileum.  No free air.  
+Small volume nonhemorrhagic free fluid. 
+2. Findings suggests mild colitis, possibly ischemic.  Sequela 
+of fluid 
+overload is also possible. 
+3. Emphysema and mild pulmonary edema.  Atelectasis at each lung 
+base with 
+small bilateral pleural effusions. 
+4. Minimally displaced fracture along the lateral portion of the 
+first rib on the left. 
+5. Fat and fluid density lesion in the mid abdomen measuring 4.5 
+x 3.8 cm, 
+suggesting fat necrosis. 
+6. Occlusion of the left internal jugular vein. 
+7. Small perfusion defects in each kidney probably small areas 
+of ischemic 
+involvement. 
+.
+
+RUQ Ultrasound: ___. Nondistended gallbladder with sludge with a mildly thickened 
+wall, not 
+substantially changed from prior study. 
+2. Trace intraabdominal ascites. 
+3. Small right pleural effusion. 
+.
+
+___ echo
+CONCLUSION:
+The left ventricle has a normal cavity size. There is a small to 
+moderate area of regional left ventricular
+systolic dysfunction with akinesis of the inferior wall and 
+hypokinesis of the inferolateral wall (see
+schematic) and preserved/normal contractility of the remaining 
+segments. The visually estimated left
+ventricular ejection fraction is >=40%. The VSD patch is seen 
+with a residual more distal
+muscular ventricular septal defect with left-to-right flow. 
+Normal right ventricular cavity size with
+mild global free wall hypokinesis. The aortic valve leaflets 
+(?#) are mildly thickened. There is no aortic
+regurgitation. There is mild [1+] tricuspid regurgitation. Due 
+to acoustic shadowing, the severity of
+tricuspid regurgitation may be UNDERestimated. There is mild 
+pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+IMPRESSION: Normal left ventricular cavity size with regional 
+systolic dysfunction, inferior
+septal patch with residual muscular ventricular septal defect 
+with left-to-right flow. Normal right
+ventricular cavity size with free wall hypokinesis. Mild 
+pulmonary artery systolic hypertension.
+No pericardial effusion.
+Compared with the prior TTE (images reviewed) of ___ , 
+the VSD flow is now more apparent.
+.
+___
+Liver/GB u/s
+
+Final Report 
+EXAMINATION:  LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT 
+  
+INDICATION:  ___ year old woman s/p cabg/vsd repair-prolonged ICU 
+course 
+w/rising wbc  // assess for cholecystitis/cholestasis 
+  
+TECHNIQUE:  Grey scale and color Doppler ultrasound images of 
+the abdomen were 
+obtained. 
+  
+COMPARISON:  Liver gallbladder ultrasound ___. 
+  
+FINDINGS:  
+  
+LIVER: Evaluation of the liver is limited secondary to overlying 
+bandaging.  
+Visualized hepatic parenchyma appears within normal limits.  
+Contour of the 
+liver is smooth without focal liver lesion.  The main portal 
+vein is patent 
+with appropriate directional flow.  No perihepatic free fluid.  
+Note is made 
+of a right pleural effusion. 
+  
+BILE DUCTS AND GALLBLADDER: There is no intrahepatic biliary 
+dilation.  The 
+gallbladder is distended without wall thickening or gallstones.  
+There is mild 
+intraluminal sludge.  The common hepatic duct measures 5 mm. 
+  
+PANCREAS: The pancreas is not well visualized, largely obscured 
+by overlying 
+bowel gas. 
+  
+KIDNEYS: Limited views of the right kidney shows no 
+hydronephrosis.The right 
+kidney measures 9.7 cm. 
+  
+RETROPERITONEUM: The visualized portions of aorta and IVC are 
+within normal 
+limits. 
+  
+IMPRESSION: 
+  
+  
+1. Mild gallbladder distension with small amount of intraluminal 
+sludge, but 
+no specific sonographic findings for acute cholecystitis. 
+2. Right pleural effusion. 
+  
+RECOMMENDATION(S):  If there is continued clinical concern for 
+acalculous 
+cholecystitis, HIDA scan may be helpful. 
+  
+BY ELECTRONICALLY SIGNING THIS REPORT, I THE ATTENDING PHYSICIAN 
+ATTEST THAT ___ HAVE REVIEWED THE ABOVE IMAGES FOR THE ABOVE 
+EXAMINATION(S) AND AGREE WITH THE FINDINGS AS DOCUMENTED ABOVE. 
+  
+___, MD 
+___ electronically signed on ___ ___ 10:05 
+___ 
+ 
+
+  Imaging Lab 
+ 
+ 
+
+Report History 
+ ___ ___ 10:05 ___
+by INFORMATION,SYSTEMS  
+
+.
+___
+
+Final Report 
+EXAMINATION:  CT ABD AND PELVIS WITH CONTRAST 
+  
+INDICATION:  ___ year old woman s/p VSD repair  // eval for nidus 
+of infection 
+  
+TECHNIQUE:  Single phase split bolus contrast: MDCT axial images 
+were acquired 
+through the abdomen and pelvis following intravenous contrast 
+administration 
+with split bolus technique. 
+Oral contrast was not administered 
+Coronal and sagittal reformations were performed and reviewed on 
+PACS. 
+  
+DOSE:  Acquisition sequence: 
+   1) Spiral Acquisition 5.3 s, 70.7 cm; CTDIvol = 9.8 mGy 
+(Body) DLP = 695.2 
+mGy-cm. 
+   2) Stationary Acquisition 0.6 s, 0.5 cm; CTDIvol = 3.4 mGy 
+(Body) DLP = 1.7 
+mGy-cm. 
+   3) Stationary Acquisition 4.8 s, 0.5 cm; CTDIvol = 26.9 mGy 
+(Body) DLP = 
+13.4 mGy-cm. 
+ Total DLP (Body) = 710 mGy-cm. 
+  
+COMPARISON:  ___ 
+  
+FINDINGS:  
+  
+LOWER CHEST: Please refer to the report from the concurrent CT 
+chest for 
+intrathoracic findings. 
+  
+ABDOMEN: 
+  
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout.  
+There is no evidence of focal lesions.  There is no evidence of 
+intrahepatic 
+or extrahepatic biliary dilatation.  There is mild periportal 
+edema.  The 
+gallbladder is within normal limits noting vicarious excretion 
+of contrast. 
+  
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of 
+focal lesions or pancreatic ductal dilatation.  There is no 
+peripancreatic 
+stranding. 
+  
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without 
+evidence of focal lesions. 
+  
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape. 
+  
+URINARY: The kidneys are of normal and symmetric size.  Faint 
+perfusion all 
+defects are again seen in each kidney suggestive of small 
+ischemic regions..  
+There is no evidence of focal renal lesions or hydronephrosis.  
+There is no 
+perinephric abnormality. 
+  
+GASTROINTESTINAL: An enteric tube extends to the stomach which 
+is otherwise 
+unremarkable.  Small bowel loops demonstrate normal caliber, 
+wall thickness, 
+and enhancement throughout.  The rectal tube has been removed 
+and the degree 
+of colonic wall thickening has resolved.  The colon and rectum 
+are within 
+normal limits.  The appendix is normal. 
+  
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is 
+trace free fluid in the pelvis. 
+  
+REPRODUCTIVE ORGANS: The uterus is unremarkable, noting 
+calcified fibroids.  
+No adnexal abnormality. 
+  
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There 
+is no pelvic or inguinal lymphadenopathy. 
+  
+VASCULAR: There is no abdominal aortic aneurysm.  Severe 
+atherosclerotic 
+disease is noted.  Right femoral arterial and venous central 
+lines are 
+present. 
+  
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture. 
+  
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits. 
+  
+IMPRESSION: 
+  
+  
+1. No infectious source within the abdomen or pelvis. 
+  
+___, MD electronically signed on ___ ___ 
+10:14 ___ 
+ 
+
+  Imaging Lab 
+ 
+ There is no report history available for viewing. 
+.
+___ Chest CT
+
+Final Report 
+EXAMINATION:  CT CHEST W/CONTRAST 
+  
+INDICATION:  ___ year old woman s/p VSD repair  // eval for nidus 
+of infection 
+  
+TECHNIQUE:  Axial multidetector CT images were obtained through 
+the thorax 
+after the uneventful administration of intravenous contrast.  
+Reformatted 
+coronal, sagittal, thin slice axial images, and oblique maximal 
+intensity 
+projection images were submitted to PACS and reviewed. 
+  
+DOSE:  Acquisition sequence: 
+   1) Spiral Acquisition 5.3 s, 70.7 cm; CTDIvol = 9.8 mGy 
+(Body) DLP = 695.2 
+mGy-cm. 
+   2) Stationary Acquisition 0.6 s, 0.5 cm; CTDIvol = 3.4 mGy 
+(Body) DLP = 1.7 
+mGy-cm. 
+   3) Stationary Acquisition 4.8 s, 0.5 cm; CTDIvol = 26.9 mGy 
+(Body) DLP = 
+13.4 mGy-cm. 
+ Total DLP (Body) = 710 mGy-cm. 
+** Note: This radiation dose report was copied from CLIP 
+___ (CT ABD AND 
+PELVIS WITH CONTRAST) 
+  
+COMPARISON:  ___ 
+  
+FINDINGS:  
+  
+FINDINGS: 
+  
+NECK, THORACIC INLET, AXILLAE, CHEST WALL: The patient is post 
+median 
+sternotomy and CABG.  An endotracheal tube is present, 
+terminating above the 
+carina.  A left subclavian central venous catheter tip extends 
+to the mid SVC. 
+An enteric tube extends through the esophagus into the stomach.  
+The 
+visualized thyroid is unremarkable.  There is no supraclavicular 
+or axillary 
+lymphadenopathy. 
+  
+UPPER ABDOMEN: Please refer to the report from the concurrent CT 
+of the 
+abdomen and pelvis for subdiaphragmatic findings. 
+  
+MEDIASTINUM: There is no mediastinal lymphadenopathy. 
+  
+HILA: There is no hilar lymphadenopathy. 
+  
+HEART and PERICARDIUM: Heart is not enlarged.  Calcification of 
+the coronary 
+arteries and cardiac valves are noted.  There is a small 
+pericardial effusion, 
+not significantly changed since prior. 
+PLEURA: There is a moderate right as well as a trace left 
+pleural effusion, 
+increased since prior.  There is no pneumothorax identified.  
+Bilateral upper 
+lobe bullous disease is again seen with fluid collecting inside 
+of the upper 
+lobe bulla. 
+LUNG: 
+  
+-PARENCHYMA:  There is severe facet cm a. increased septal 
+thickening is noted 
+in the right upper lobe when compared to prior.  Bibasilar 
+dependent 
+consolidations are present with a somewhat heterogeneous 
+enhancement pattern 
+on the right. 
+-AIRWAYS:  The right bronchus intermedius is occluded and a 
+small amount of 
+secretions are noted around the distal end of the endotracheal 
+tube..  
+Otherwise the airways are patent. 
+-VESSELS:  This exam is not tailored for evaluation of pulmonary 
+emboli.  The 
+thoracic aorta is within normal limits. 
+  
+CHEST CAGE: No suspicious osseous lesion within the chest.  The 
+sternotomy 
+margins are well opposed and unremarkable.  Re demonstrated is a 
+minimally 
+displaced fracture of the left first rib. 
+  
+IMPRESSION:  
+  
+Debris within the right bronchus intermedius is nearly 
+completely occlusive, 
+and in association with a heterogeneously enhancing 
+consolidation in the right 
+lower lobe, findings are concerning for aspiration/pneumonia.  
+Additionally, 
+new interlobular septal thickening in the right upper lobe may 
+be infectious 
+and/or inflammatory. 
+  
+___, MD electronically signed on ___ ___ 
+10:55 ___ 
+ 
+
+  Imaging Lab 
+ 
+ There is no report history available for viewing. 
+.
+  
+___ Head CT
+
+Final Report 
+EXAMINATION:  CT HEAD W/O CONTRAST Q111 CT HEAD 
+  
+INDICATION:  ___ year old woman s/p VSD repair  // eval for 
+evidence of 
+hemorrhage in patient with poor neuro exam s/p VSD repair 
+  
+TECHNIQUE:  Contiguous axial images of the brain were obtained 
+without 
+contrast. Coronal and sagittal reformations as well as bone 
+algorithm 
+reconstructions were provided and reviewed. 
+  
+DOSE:  Acquisition sequence: 
+   1) Sequenced Acquisition 4.0 s, 16.0 cm; CTDIvol = 46.7 mGy 
+(Head) DLP = 
+747.7 mGy-cm. 
+ Total DLP (Head) = 748 mGy-cm. 
+  
+COMPARISON:  Noncontrast head CT ___ 
+  
+FINDINGS:  
+  
+Streak artifact from the external frontal device limits study.  
+There is no 
+evidence of fracture, infarction,hemorrhage,edema, or mass.  
+There is 
+prominence of the ventricles and sulci suggestive of 
+involutional changes.  
+Extensive periventricular deep white matter hypodensities are 
+nonspecific, but 
+likely related to chronic small vessel ischemia. 
+  
+An air-fluid level is noted in the left sphenoid sinus.  
+Otherwise, the 
+visualized portion of the paranasal sinuses, mastoid air cells, 
+and middle ear 
+cavities are clear.  The visualized portion of the orbits are 
+unremarkable. 
+  
+IMPRESSION:  
+  
+No acute intracranial abnormalities.  Extensive periventricular 
+deep white 
+matter hypodensities are nonspecific, but likely related to 
+chronic small 
+vessel ischemia. 
+  
+BY ELECTRONICALLY SIGNING THIS REPORT, I THE ATTENDING PHYSICIAN 
+ATTEST THAT ___ HAVE REVIEWED THE ABOVE IMAGES FOR THE ABOVE 
+EXAMINATION(S) AND AGREE WITH THE FINDINGS AS DOCUMENTED ABOVE. 
+  
+___, MD 
+___, MD electronically signed on ___ ___ 
+9:57 ___ 
+ 
+
+  Imaging Lab 
+ 
+ 
+
+Report History 
+ ___ ___ 9:57 ___
+by INFORMATION,SYSTEMS  
+
+.
+___
+CONCLUSION:
+The right atrial pressure could not be estimated. There is a 
+small area of regional left ventricular systolic
+dysfunction with basal to mid inferior (see schematic). There is 
+a muscular ventricular septal defect
+treated with an occluder device. Normal right ventricular cavity 
+size with moderate global free wall
+hypokinesis. Intrinsic right ventricular systolic function is 
+likely lower due to the severity of tricuspid
+regurgitation. There is mild [1+] mitral regurgitation. Due to 
+acoustic shadowing, the severity of mitral
+regurgitation could be UNDERestimated. The tricuspid valve 
+leaflets appear structurally normal. There
+is moderate tricuspid annular calcification. There is SEVERE 
+[4+] tricuspid regurgitation. The estimated
+pulmonary artery systolic pressure is normal. In the setting of 
+at least moderate to severe tricuspid
+regurgitation, the pulmonary artery systolic pressure may be 
+UNDERestimated. There is a very small
+circumferential pericardial effusion. There are no 2D or Doppler 
+echocardiographic evidence of
+tamponade.
+IMPRESSION: 1) Moderate global RV systolic dysfunction in 
+setting of severe tricuspid
+regurgitation. RV dysfunction maybe the cause of increased 
+pressor requirements. 2) Mild
+regional LV systolic dysfunction c/w prior myocardial infarction 
+in RCA territory. 3) Ventricular
+septal occluder well seated with residual left to right flow 
+(small by color doppler). The VSD flow
+is located apical to occluder device. Device is located in basal 
+inferoseptal myocardial segement.
+Compared with the prior TTE ___, findings are largely 
+similar. RV systolic function may be
+less vigorous and the severity of TR has increased.
+EMR 2853-P-IP-OP (O7/___) Name: ___ MRN: ___ 
+Study Date: ___ 9:15:00 p. ___
+MEASUREMENTS:
+LEFT ATRIUM (LA)/RIGHT ATRIUM (RA)
+LEFT VENTRICLE (LV)
+Lateral e': 0.06m/sec (nl>0.08)
+Transmitral E/e': 17 (nl<=8)
+RIGHT VENTRICLE (RV)
+Basal Diameter: 3.8cm (nl<4.2)
+TAPSE: 1.0cm (nl>=1.7)
+THORACIC AORTA/PULMONARY
+ARTERY (
+.
+
+___ ___  ___  ___ 
+ 
+Radiology Report LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT 
+Study Date of ___ 5:13 AM 
+ 
+  
+
+___ CSURG CVICU-A ___ 5:13 AM 
+LIVER OR GALLBLADDER US (SINGL   Clip # ___   
+Reason: s/p CABG w/elevated bilirubin and rising alk phos r/o 
+cholecystitis  
+ 
+ 
+
+UNDERLYING MEDICAL CONDITION: 
+   ___ year old woman with as above  
+REASON FOR THIS EXAMINATION: 
+   s/p CABG w/elevated bilirubin and rising alk phos r/o 
+cholecystitis  
+ 
+
+ 
+
+Final Report 
+EXAMINATION:  LIVER OR GALLBLADDER US (SINGLE ORGAN) 
+  
+INDICATION:  ___ year old woman with as above  // s/p CABG 
+w/elevated bilirubin 
+and rising alk phos r/o cholecystitis 
+  
+TECHNIQUE:  Grey scale and color Doppler ultrasound images of 
+the abdomen were 
+obtained. 
+  
+COMPARISON:  CT abdomen/pelvis ___. 
+  
+FINDINGS:  
+  
+LIVER: Evaluation of the liver is limited secondary to overlying 
+bandaging.  
+The visualized portions of the hepatic parenchyma are within 
+normal limits. No 
+focal liver lesions are identified. The main portal vein is 
+patent. There is 
+no perihepatic free fluid. 
+  
+BILE DUCTS: There is no intrahepatic biliary dilation. 
+  CHD: 4 mm 
+  
+GALLBLADDER: The gallbladder is minimally distended with 
+intraluminal sludge.  
+There is no pericholecystic free fluid or wall thickening. No 
+gallstones are 
+seen. 
+  
+PANCREAS: The pancreas is not well visualized, largely obscured 
+by overlying 
+bowel gas. 
+  
+SPLEEN: Unable to be visualized secondary to patient condition. 
+  
+KIDNEYS: Limited views of the right kidney shows no 
+hydronephrosis.The left 
+kidney was not able to be visualized. 
+  
+RETROPERITONEUM: The visualized portions of aorta and IVC are 
+within normal 
+limits. 
+  
+IMPRESSION:  
+  
+Minimally distended gallbladder with internal sludge, similar 
+from prior.  No 
+definite evidence for cholecystitis 
+  
+BY ELECTRONICALLY SIGNING THIS REPORT, I THE ATTENDING PHYSICIAN 
+ATTEST THAT ___ HAVE REVIEWED THE ABOVE IMAGES FOR THE ABOVE 
+EXAMINATION(S) AND AGREE WITH THE FINDINGS AS DOCUMENTED ABOVE. 
+  
+___, MD 
+___, MD electronically signed on ___ ___ 
+10:18 AM 
+ 
+
+  Imaging Lab 
+ 
+ 
+
+Report History 
+ ___ ___ 9:14 AM
+by INFORMATION,SYSTEMS  View  Close  
+
+ ___ ___ 10:18 AM
+by INFORMATION,SYSTEMS  
+
+ 
+Brief Hospital Course:
+Mrs. ___ was admitted on ___. An echocardiogram 
+demonstrated inferior/inferoseptal wall MI with basal inferior 
+wall aneurysm and ventricular
+septal rupture involving the basal to mid inferior wall. Dilated 
+right ventricle with hypokinesis consistent with right 
+ventricular infarction. Moderate to severe pulmonary artery 
+systolic hypertension. Moderate to severe tricuspid 
+regurgitation. She was initially quite stable however she 
+developed recurrent pain. She was taken to the operating room on 
+___. She underwent an emergency repair of posterior 
+ventricular septal defect with a double patch technique, 
+Coronary artery bypass graft x 2 (left internal mammary artery 
+graft to left anterior descending artery and saphenous vein 
+graft to obtuse marginal artery; Endoscopic harvesting of the 
+long saphenous vein). Of note, she had severe bullous disease 
+with multiple bullae and adhesions, bilaterally. Please see 
+operative note for full details. She tolerated the procedure and 
+was transferred to the CVICU in critical condition for recovery 
+and invasive monitoring. She had significant chest tube output 
+and received multiple products to correct coagulopathy. 
+Ultimately, she was taken back to the operating room for 
+mediastinal exploration.  
+Post-operatively she had acute hypoxic respiratory failure and 
+was started on veletri. CRRT was initiated for volume 
+management, but it was difficult to remove volume due to 
+profound hypotension requiring multiple pressors. Infectious 
+disease was consulted for possible sepsis to explain her 
+prolonged hypotension. Many cultures were drawn but not yielded 
+a source. She was placed on broad spectrum antibiotics and Chest 
+tubes remained in due to recurrent pneumothorax with waterseal 
+trials. Post-operative echocardiogram revealed biventricular 
+dysfunction, ejection fraction 15%. Heart failure was consulted 
+due to inability to wean from inotropic support due to 
+persistent low cardiac output and Mvo2. Amiodarone gtt was 
+started for atrial fibrillation with RVR. 
+On ___ her white blood cell count, liver function tests and 
+lactate elevated. Acute surgery was consulted and took her to 
+the operating room for an exploratory laparotomy. There was an 
+approximately 5 cm firm
+calcified omental mass, which was likely not involved in this 
+process, but could be certainly cause a future obstructions and 
+this was easily resected off of the omentum. No other cause was 
+discovered for leukocytosis and lactic acidosis. Her abdomen was 
+left open.  On ___ the same service performed a bedside 
+reopening of her previous exploratory laparotomy, abdominal 
+washout and abdominal wall closure.
+
+ She continued to be dependent on multiple high dose pressors 
+for hypotension. On ___ the cardiac surgery team met with 
+the family and related the critical nature of her condition. 
+That evening she had thrombocytopenia and began thrombosing her 
+hemodialysis line, a HIT was sent and returned positive. She was 
+placed on bivalrudin and hematology was consulted. By the 
+following day her ptt was therapeutic, but she developed 
+significant bleeding from her mouth so it was stopped. As her 
+liver function tests continued to rise, Dr. ___ a 
+hepatology consult. They recommended goals of care discussion 
+with the family.
+
+Bivalrudin stopped for GI bleed. Post-op Afib->started
+Amio then discontinued for bradycardia. Fluctuating pressor
+requirement. 
+Underwent trach on ___.
+Plavix restarted after trach.
+TTE ___ with RV dilation, dysfunction and 4+ TR with normal PA
+pressures. Concern for worsening RV failure. 
+
+Leukocytosis persisted. Culture data largely negative, urine and 
+sputum w/yeast. ___
+CT ABD/pelvis neg and chest w/ RLL consolidation-> bronch-BAL
+w/yeast. Antibx course of ___ and mica for presumed 
+sepsis
+completed. Lines changed ___. CXR w/right effusion drained
+___ fluid w/ NG. Cdiff negative. 
+
+There were several family meetings regarding the patient's 
+clinical status. 
+Dr. ___ spoke with ___ son ___ regarding transition to 
+comfort focused care as patient has multiorgan system failure 
+despite aggressive medical intervention and is unlikely  to 
+return to level of functioning that her family feels she would
+find acceptable.  Family arrived and the patient was made CMO. 
+Patient was started on IV fentanyl drip for comfort. Morphine 
+and lorazepam were also used as adjuvants for comfort. Telemetry 
+showed that the patient became asystolic at 11:32pm- see death 
+note for details. Condolences were provided to the family and 
+autopsy was declined. 
+
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+expired
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Ventricular septal defect
+Coronary artery disease
+Atrial fibrillation
+Acute hypoxic respiratory failure
+Renal Failure
+Acute systolic and diastolic heart failure
+
+Secondary diagnosis: 
+Hypertension 
+
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+expired
+ 
+Followup Instructions:
+___

@@ -1,0 +1,442 @@
+Notes
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cough
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ yo F with past medical history significant
+for HTN, HLD, and ~30 pack year smoking history who presents 
+with
+3 days of cough. Patient reports that 3 days prior to admission,
+she began to experience a non-productive cough that lead to her
+feeling short of breath. She also reports feeling general body
+pain and "like she has the flu". 2 days prior to admission, she
+began to experience watery diarrhea. 1 day prior to admission,
+patient vomited after eating lunch. Patient's son, who lives 
+with
+her, reportedly had a cold the last couple of weeks. She was 
+then
+taken to her PCP, who sent her to an OSH with concern for
+pneumonia. At the OSH, CTA was found to be negative for PNA and
+PE but showed changes c/w COPD. However, there was concern for
+her respiratory status and that she might need ICU level of 
+care,
+so patient was transferred to ___ ED.   
+
+Of note, patient has a ~30 pack year smoking history, quit ___
+years ago. She also has chronic constipation and has been
+hospitalized twice in the past year ___ impaction, last in ___. She is on a bowel regimen of standing Senna, Miralaax, and
+Lactulose PRN.  
+
+In the ED, initial VS were T99.1, ___, BP 129/73, RR 18, Sat 
+96%
+2LNC. Exam notable for tachycardia, tachypnea, decreased air
+movement, and non-tender, non-distended abdomen.    
+Labs showed normal WBC, BUN/Cr > ___, lactate 2.0, trop 0.6.    
+
+
+Received duonebs, azithromycin 500mg, prednisone 40mg, and O2.   
+
+Decision was made to admit to medicine for further management of
+presumed COPD exacerbation. Patient was also noted to have 
+atrial
+fibrillation on telemetry although without any prior cardiac
+history.   
+
+On arrival to the floor, patient reports continued cough,
+improved after nebulizer treatment.  She reports similar episode
+of cough ___ year ago that improved with cough medication. She 
+also
+notes anorexia, which she states is only mildly increased from
+baseline poor appetite. She denies fevers, chills, rhinorrhea,
+chest pain, heart palpitations, nausea, vomiting, abdominal 
+pain,
+blood in BM, and urinary symptoms. 
+
+ 
+Past Medical History:
+HTN
+HLD
+Hyperactive bladder
+Chronic constipation
+Cataracts
+L eye blindness
+Hysterectomy at age ___
+ 
+Social History:
+___
+Family History:
+Mother - died at age ___ from uterine cancer
+Father - died at age ___ from MI
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+#ERROR!
+VS: 97.8 154/88 102 22 93% ___  
+GENERAL: elderly, frail appearing woman, lying comfortably in 
+bed, alert and awake, breathing comfortably with NC in place, in 
+NAD.   
+HEENT: EOMI, anicteric sclera, pink conjunctiva, dry mucus 
+membranes, clear OP, nontender supple neck, no LAD.   
+HEART: irregular rhythm, tachycardic, no murmurs, gallops, or 
+rubs  
+LUNGS: decreased air movement throughout R>L, diffuse wheezing, 
+breathing without use of accessory muscles  
+ABDOMEN: +BS, nondistended, nontender in all quadrants, no 
+rebound/guarding 
+EXTREMITIES: WWP, no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose   
+NEURO: CN II-XII intact 
+
+DISCHARGE PHYSICAL EXAM:
+#ERROR!
+VS: 97.9 89 131/73 97 RA
+GENERAL: elderly, frail appearing woman, breathing comfortably 
+on RA, in NAD.  
+HEART: RRR, nml s1/s2, no murmurs, gallops, or rubs  
+LUNGS: improved air movement throughout, bibasilar crackles, no 
+wheezes. 
+ABDOMEN: +BS, non-distended, nontender in all quadrants, no 
+rebound/guarding 
+EXTREMITIES: WWP, no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose 
+ 
+Pertinent Results:
+ADMISSION LABS:
+#ERROR!
+
+___ 12:05AM BLOOD WBC-8.4 RBC-4.46 Hgb-13.2 Hct-41.1 MCV-92 
+MCH-29.6 MCHC-32.1 RDW-14.7 RDWSD-49.7* Plt ___
+___ 12:05AM BLOOD Neuts-88.7* Lymphs-3.2* Monos-7.5 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-7.47* AbsLymp-0.27* 
+AbsMono-0.63 AbsEos-0.00* AbsBaso-0.02
+___ 12:40AM BLOOD ___ PTT-28.3 ___
+___ 12:40AM BLOOD Glucose-131* UreaN-23* Creat-1.0 Na-137 
+K-4.2 Cl-101 HCO3-24 AnGap-16
+___ 12:40AM BLOOD ALT-10 AST-21 AlkPhos-124* TotBili-0.6
+___ 12:40AM BLOOD Lipase-10
+___ 12:40AM BLOOD proBNP-4661*
+___ 12:40AM BLOOD cTropnT-0.06*
+___ 06:20AM BLOOD cTropnT-0.05*
+___ 12:40AM BLOOD Albumin-3.5 Calcium-7.9* Phos-4.4 Mg-2.0
+___ 11:48PM BLOOD ___ pO2-65* pCO2-65* pH-7.24* 
+calTCO2-29 Base XS--1 Comment-GREEN TOP
+___ 12:12AM BLOOD Lactate-2.0
+
+DISCHARGE LABS:
+#ERROR!
+___ 07:25AM BLOOD WBC-6.4 RBC-4.64 Hgb-13.5 Hct-42.3 MCV-91 
+MCH-29.1 MCHC-31.9* RDW-14.8 RDWSD-48.9* Plt ___
+___ 07:25AM BLOOD Glucose-90 UreaN-25* Creat-0.9 Na-138 
+K-4.4 Cl-99 HCO3-30 AnGap-13
+___ 07:25AM BLOOD Calcium-8.4 Phos-3.4 Mg-2.1
+
+NOTABLE LABS:
+#ERROR!
+
+___ 12:40AM BLOOD cTropnT-0.06*
+___ 06:20AM BLOOD cTropnT-0.05*
+___ 01:42AM BLOOD cTropnT-0.04*
+___ 08:05AM BLOOD cTropnT-0.06*
+___ 02:57PM BLOOD cTropnT-0.04*
+
+___ 01:42AM BLOOD TSH-5.8*
+
+___ 11:48PM BLOOD ___ pO2-65* pCO2-65* pH-7.24* 
+calTCO2-29 Base XS--1 Comment-GREEN TOP
+___ 03:57AM BLOOD Type-ART pO2-59* pCO2-54* pH-7.35 
+calTCO2-31* Base XS-2
+___ 09:30AM BLOOD Type-ART pO2-83* pCO2-53* pH-7.36 
+calTCO2-31* Base XS-2 Intubat-NOT INTUBA
+___ 03:12PM BLOOD ___ pO2-94 pCO2-60* pH-7.34* 
+calTCO2-34* Base XS-3
+
+IMAGING:
+#ERROR!
+___ Imaging CHEST (PORTABLE AP)    
+1. Compared to ___, persistent hyperinflation of the 
+lungs suggestive of COPD, with unchanged appearance of the 
+cardiomediastinal silhouette. 
+2. The previously seen pulmonary edema has effectively resolved. 
+
+3. No large volume pleural effusion or pneumothorax. 
+4. Persistent opacification at the left lung base, likely 
+representing 
+atelectasis. 
+
+___ Cardiovascular ECHO 
+1) Normal biventricular regional/global systolic function.
+2) Grade II LV diastolic dysfunction with elevated LVEDP by 
+E/e'. 
+      
+___ Imaging CHEST (PORTABLE AP)
+There are no prior chest radiographs available. 
+This study is compared to a subsequent chest radiograph 
+available the time of this this review, showing that mild 
+interstitial edema is present on the current examination and 
+improved over the next 9 hours.  Mild left lower lobe 
+atelectasis does not change.  No appreciable pleural effusion.  
+Heart size normal.  Large lung volumes suggest emphysema. 
+
+ 
+___ CTA (OSH)
+No evidence of PNA or PE 
+ 
+Brief Hospital Course:
+___ with PMH significant for HTN, HLD, and ~30 pack year smoking 
+history who presents with 3 days of cough, found to have diffuse 
+wheezing and decreased air movement concerning for COPD 
+exacerbation, clinical picture consistent with hypoxic 
+respiratory failure ___ flash pulmonary edema and COPD 
+exacerbation v PNA. Patient also presented with hypertensive 
+crisis and persistent tachycardia. Patient was started on 
+levalbuterol (given tachycardia) and ipratropium nebs, 
+prednisone, and azithrmoycin. She was started on verapamil for 
+HTN crisis (SBPs 190s-220s). On HD 2, she acutely worsened and 
+CXR showed area of consolidation and pulmonary edema. She was 
+given IV Lasix and started on ceftriaxone. On HD 3, patient 
+clinically improved. On HD 4, patient was noted to be in afib 
+with RVR. Verapamil was d/c'd and she was started on diltiazem 
+PO 30mg TID, which was uptitrated for rate control. She was also 
+started on apixaban. She was subsequently converted to diltiazem 
+ER PO 120mg. Her home lisinopril 10mg PO was continued as well 
+for HTN control. After completion of steroid burst and 
+antibiotics, she was eventually transitioned to Spiriva and 
+albuterol PRN for COPD management. She was evaluated by ___ who 
+recommended discharge home with services including home ___. 
+
+#Hypoxic respiratory failure: patient presented with 
+non-productive cough, diffuse wheezing and decreased air 
+movement on exam. OSH CTA neg for PE and pneumonia, although 
+with some areas of consolidation that could be consistent with 
+atypical pneumonia. Patient without fevers or leukocytosis. She 
+required increasing amounts of O2 to support her oxygenation and 
+blood gases revealed PO2 <60. Patient's respiratory failure was 
+thought to be due to COPD exacerbation v community-acquired 
+pneumonia. She was placed on continuous O2 monitoring. She was 
+started on levalbuterol (due to tachycardia), tiotropium 
+nebulizers. She was given a prednisone burst (50mg x5 days) and 
+started on azithromycin. When patient's respiratory status 
+declined on HD 2, she was started on ceftriaxone for CAP and 
+given a longer course of azithromycin. She was also found to 
+have 2 episodes of flash pulmonary edema ___ hypertensive crisis 
+(see below) and given lasix 20mg IV x3. Patient's respiratory 
+status improved and she was eventually weaned off oxygen prior 
+to discharge. She was discharged on spiriva and albuterol PRN. 
+
+#Hypertensive Crisis: patient with hx HTN, unknown baseline, on 
+lisinopril 10mg daily. During the admission she triggered 
+multiple times for SBPs 190s-220s that resulted in flash 
+pulmonary edema and contributed to the patient's respiratory 
+failure. Initially she was responsive to captopril; however when 
+she needed rate control for her atrial fibrillation she was 
+switched to verapamil. When further rate control was needed, she 
+was changed to diltiazem PO and uptitrated to 45mg PO q6h. She 
+was eventually transitioned to Dilt ER 120mg PO daily. Her SBPs 
+were in the 140s-150s. Her home lisinopril 10mg PO daily was 
+added with resultant pressures in the 110s-120s range.  
+
+#Afib with RVR: Patient without known cardiac history. Upon 
+admission, trop 0.06, repeat trops 0.04-0.06. She was noted to 
+have new fib on tele in the ED; however, EKGs with sinus 
+tachycardia. Repeat EKG with HR ___ with j-points and without 
+evidence of acute ischemic changes. TSH 5.8. A TTE showed grade 
+II diastolic dysfunction, normal systolic function and EF. Trop 
+leak thought likely ___ tachycardia and hypertensive crisis. 
+Patient then was noted to be in a fib with RVR on telemetry. She 
+was initially started on verapamil then transitioned to 
+diltiazem. She triggered multiple times during the admission for 
+afib with RVR to the 160s-170s during which episodes she was 
+given IV metoprolol and IV dilt. The diltiazem was uptitrated to 
+45mg PO q6h then switched to dilt ER 120mg. Patient's CHADS-Vasc 
+score was calculated to be 5. After discussion with the patient 
+about the risks and benefits of anticoagulation, she was started 
+on apixaban 2.5mg BID. Upon discharge, patient was in NSR with a 
+rate of ___. 
+
+#Deconditioning: Patient was noted to be frail on exam. ___ was 
+c/s for evaluation for deconditioning and mobility. Initially ___ 
+recommend rehab; however, patient adamantly refused rehab 
+admission. During admission, ___ to continued to work with 
+patient to improve endurance, mobility, and ventilation. She was 
+eventually discharged home with a rolling walker and home ___ 
+services. 
+
+#?Dysphagia: patient noted by nurse to have difficulty 
+swallowing pills, including pills given with apple sauce. She 
+was evaluated by Speech and Swallow how noted no particular 
+dysphagia and recommended regular diet with thin liquids, 
+medications crushed with pureed solids, and aspiration 
+precautions.
+
+#Diarrhea: At baseline, patient reports chronic constipation and 
+is on senna, miralaax, and PRN lactulose. On presentation 
+patient with 2 day history of diarrhea with evidence of 
+hypovolemia (dry mucus membranes and tachycardia).  Likely ___ 
+bowel regimen. Her bowel regimen was held and the diarrhea 
+resolved. The patient then reported constipation and she was 
+restarted on her home bowel regimen with the addition of 
+bisacodyl PRN. 
+
+TRANSITIONAL ISSUES:
+#ERROR!
+[] Patient with new diagnosis of A. fib, on diltiazem ER 120mg 
+daily for rate control. Please follow up patient's heart rate 
+and titrate diltiazem dose as appropriate. 
+[] Patient newly placed on anticoagulation with Apixaban 2.5mg 
+BID for stroke prevention in setting of afib. Please monitor 
+patient for signs/symptoms of bleeding.
+[] Patient with hypertensive crisis upon admission, leading to 
+two episodes of flash pulmonary edema. Patient currently on 
+diltiazem ER 120mg daily and lisinopril 10mg daily. Please 
+monitor patient's blood pressures and adjust medications as 
+clinically appropriate. 
+[] Patient presented with shortness of breath and wheezing with 
+radiographic evidence of COPD; started on tiotropium daily and 
+albuterol PRN. Please perform PFTs for diagnosis. 
+[] She is newly diagnosed with diastolic heart failure but did 
+not require diuresis in the 6 days prior to discharge. She is 
+not being discharged on diuretics. Please continue to evaluate 
+need for diuresis in the outpatient setting.
+
+-CODE: FULL
+-CONTACT: ___, daughter, cell: ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Vesicare (solifenacin) 10 mg oral DAILY 
+2. Lisinopril 10 mg PO DAILY 
+3. Atorvastatin 20 mg PO QPM 
+4. Senna 8.6 mg PO BID 
+5. Polyethylene Glycol 17 g PO DAILY 
+6. Lactulose 15 mL PO DAILY:PRN constipation 
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler 2 PUFF IH Q4H:PRN shortness of breath, 
+wheezing 
+RX *albuterol sulfate [Ventolin HFA] 90 mcg 2 puffs inhaled q4 
+PRN Disp #*1 Inhaler Refills:*0 
+2.  Apixaban 2.5 mg PO BID 
+RX *apixaban [Eliquis] 2.5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+3.  Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+RX *bisacodyl [Laxative (bisacodyl)] 5 mg 2 tablet(s) by mouth 
+daily PRN Disp #*60 Tablet Refills:*0 
+4.  Diltiazem Extended-Release 120 mg PO DAILY 
+RX *diltiazem HCl 120 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+5.  Tiotropium Bromide 1 CAP IH DAILY 
+RX *tiotropium bromide [Spiriva with HandiHaler] 18 mcg 1 cap 
+inhaled daily Disp #*30 Capsule Refills:*0 
+6.  Atorvastatin 20 mg PO QPM  
+7.  Lactulose 15 mL PO DAILY:PRN constipation  
+8.  Lisinopril 10 mg PO DAILY  
+9.  Polyethylene Glycol 17 g PO DAILY  
+10.  Senna 8.6 mg PO BID  
+11.  Vesicare (solifenacin) 10 mg oral DAILY  
+12.Rolling walker
+Please provide rolling walker
+ICD10: J44.9, I50.33
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+#ERROR!
+Hypoxic Respiratory Failure
+Chronic Obstructive Pulmonary Disease Exacerbation 
+Community Acquired Pneumonia
+Atrial Fibrillation
+Diastolic Congestive Heart Failure, Acute
+HTN
+
+SECONDARY DIAGNOSES:
+#ERROR!
+HLD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were recently hospitalized at ___ 
+___. Below is a description of your hospital stay.
+
+WHY YOU WERE HERE?
+#ERROR!
+- You were admitted for shortness of breath and cough, likely 
+from a COPD exacerbation and pneumonia. You were also found to 
+have high blood pressure and an irregular heart rate. You had 
+diastolic congestive heart failure which was likely a result of 
+these above conditions.
+
+WHAT HAPPENED WHILE YOU WERE HERE?
+#ERROR!
+- For your COPD exacerbation, you were given levalbuterol and 
+ipratropium nebulizers. You also received antibiotics and 
+steroids. 
+- For your pneumonia, you were given antibiotics.
+- For your high blood pressure, you were given medications to 
+lower your blood pressure.
+- You were seen by the physical therapists who worked with you 
+to build up your strength. 
+- You were found to have a fast, irregular heart rate. You were 
+started on a medication to control your heart rate. 
+- You were also started on a new medication called Eliquis 
+(Apixaban) that helps to thin your blood and prevent stroke. We 
+discussed the side effects of Apixaban and symptoms that would 
+be concerning. 
+
+Please call your primary care physician or come to the emergency 
+department if you have: 
+- Changes in your mental status (e.g. increased sleepiness or 
+confusion)
+- Headaches worse than usual
+- severe skin bruising
+- Abnormal bleeding 
+- Blood in stool or dark/black tarry stool 
+- Blood in your urine 
+
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL?
+#ERROR!
+- Take all of your medications as prescribed. 
+- Follow up with your primary care doctor about your high blood 
+pressure, irregular heart rate, and COPD. 
+- Continue to perform your physical therapy exercises. 
+
+It was a pleasure taking care of you.
+
+Your ___ Team
+
+ 
+Followup Instructions:
+___

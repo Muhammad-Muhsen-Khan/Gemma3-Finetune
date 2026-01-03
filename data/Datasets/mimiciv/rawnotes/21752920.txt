@@ -1,0 +1,333 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal distention; admission for planned cecostomy tube 
+placement
+ 
+Major Surgical or Invasive Procedure:
+Cecostomy Tube Insertion
+
+ 
+History of Present Illness:
+The patient is a ___ y/o male with medical history notable
+for metastatic rectal cancer who had developed ___ syndrome.
+Oncologic history notable for recurrent metastatic disease s/p
+proctectomy and complicated by development of 
+pseudo-obstruction.
+The latter of which culminated in his recent admission to the
+hospital under the OMED service after having presented with c/o
+abdominal distention. 
+
+He was seen this afternoon, following his procedure. He 
+tolerated
+the procedure well and cecostomy was draining appropriately.
+
+He denies any fevers, chills, n/v at this time. Additionally
+denies chest pain, dyspnea, headache.
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+ -Rectal carcinoma IIIB (T___) KRAS wild type w/progressive  
+ metastatic disease s/p neoadjuvant chemotherapy and proctectomy 
+ 
+ -Liver mets from rectal cancer s/p right hepatic lobectomy and  
+
+ Y-90 to remnant left lobe  
+ -Gout  
+ PAST SURGICAL HISTORY:  
+ -Right hepatic lobectomy for metastatic rectal cancer and 
+Cholecystectomy ___  
+ -Resection of ileostomy and reanastomosis ___  
+ -Laparoscopic proctectomy ___  
+ -Accidental partial finger amputation in ___  
+ -Appendectomy at age ___  
+
+ONCOLOGIC HISTORY:
+Rectal carcinoma IIIB (T3N1M0) KRAS w/t with progressive
+metastatic disease
+- ___ noticed a change in the stool caliber.    
+- ___ Colonoscopy at ___ in ___ 
+revealed
+a large rectal mass. Staging CTs reportedly raised concern about
+possible liver metastases. 
+- ___ Dr. ___ repeat colonoscopy and
+endoscopic ultrasound which revealed "an infiltrative and
+ulcerated circumferential mass of malignant appearance extending
+from the dentate line to the rectosigmoid junction, 
+approximately
+10 cm in length."  Endoscopic ultrasound demonstrated invasion 
+of
+the muscularis propria with a few pseudopodia along the outer
+border, where the tumor appeared to extend beyond the muscularis
+propria.  No evidence of prostate, seminal vesicle or bladder
+invasion was detected.  A perirectal, hypoechoic and homogeneous
+lymph node could not be sampled as the aspirating needle would
+have had to traverse the primary lesion and risk contamination. 
+Repeat staging CT at ___ demonstrated no evidence of 
+metastatic
+disease including the in liver. 
+-  ___ and ___ Neoadjuvant Fluorouracil 225 mg/m2 with
+concomitant XRT
+- ___ Underwent laparoscopic proctectomy with hand sewn
+coloanal anastomosis and diverting loop ileostomy
+- ___ Resection of ileostomy and reanastomosis
+- ___ C1D1 FOLFOX6
+- ___ C2D1 FOLFOX6
+- ___ C3D1 FOLFOX6
+- ___ C4D1 modified FOLFOX (Oxaliplatin 68 mg/m2 reduced 
+for
+neuropathy)
+- ___ C5D1 modified FOLFOX (Oxaliplatin 55.25 mg/m2 reduced
+for neuropathy, ___ 320 mg/m2 reduced for cytopenias)
+- ___ C6D1 modified FOLFOX (Oxaliplatin 55.25 mg/m2 reduced
+for neuropathy, ___ 320 mg/m2 and ci5FU ___ mg/m2 reduced for
+cytopenias)
+- ___ ___ on imaging
+- ___ CT Torso: ___
+- ___ Colonoscopy with a hyperplastic polyp
+- ___ Lost to follow up. Presented for clinical 
+evaluation
+feeling well, but with CEA elevated to 553
+- ___ CT torso showed a large liver mass involving
+segments 6 and 7 concerning for metastatic disease
+- ___ Underwent resection of the large R lobe liver
+metastasis. Pathology confirmed adenocarcinoma. Margins were
+negative but intraoperative US concerning for an additional 
+focus
+of disease in the liver no accessible for resection. 
+- ___ Post op CEA down to 58 from 553 but not normalized
+- ___ C1D1 FOLFOX6, CEA 19
+- ___ C2D1 FOLFOX6, CEA down to 14
+- ___ MR abdomen showed within the remnant left hepatic
+lobe at least 5 new lesions are identified which demonstrate MR
+features concerning for metastatic disease. 
+- ___ Hold chemo for pancytopenia
+- ___ C1D1 FOLFIRI + Neulasta
+- ___ Y90 TACE
+- ___ C2D1 FOLFIRI + Neulasta
+- ___ Chemo held for thrombocytopenia
+- ___ C2D15 dose of FOLFIRI (no bolus ___, LV 200 mg/m2) 
++
+Neulasta, dose reduced for thrombocytopenia
+- ___ C3D1 FOLFIRI (no bolus ___, LV 200 mg/m2) + 
+Neulasta
+- ___ MR liver showed good response to Y90.  Holding
+chemotherapy until progression. 
+- ___ MR liver showed mixed response to Y-90 therapy 
+since
+the prior MRI. There is a single new metastatic lesion, interval
+growth of 1 metastatic lesion, and interval decrease in size of
+numerous other hepatic metastases. New 7 mm right lung base
+nodule is compatible with metastasis. 
+- ___ C1D1 FOLFIRI + Neulasta
+- ___ C2D1 FOLFIRI + Neulasta
+- ___ CT torso showed stable disease with a small new
+pulmonary nodule
+- ___ C3D1 FOLFIRI Bevacizumab + Neulasta
+- ___ Chemo held for ascites, paracentesis showed benign
+hepatic ascites
+- ___ CT torso showed minimal progression of disease
+- ___ C1D1 capecitabine ___ mg BID D1-14 bevacizumab 7.5
+mg/kg D1
+- ___ C2D1 capecitabine ___ mg BID D1-14 bevacizumab 7.5
+mg/kg D1, preconsent for ___ PDL1 testing
+- ___ C3D1 capecitabine ___ mg BID D1-14 bevacizumab 7.5
+mg/kg D1, capecitabine stopped due to severe diarrhea
+- ___ CT torso showed stable disease
+- ___ C1D1 ___ de Gramont + Bevacizumab
+- ___ C2D1 ___ de Gramont + Bevacizumab
+- ___ Hold chemo for diarrhea
+- ___ CT torso shows progression of liver mets
+- Treatment hold while seen by ___ to optimize liver
+function
+- ___ Colonoscopy shows perirectal irritation
+- ___ MRCP shows growing liver mets
+- ___ CT torso shows progression of liver mets and
+questionable new microscopic omental disease; stable colon
+dilation 
+- ___ C1D1 ___ de Gramont
+- ___ C2D1 ___ de Gramont
+- ___ CT torso stable with stable colonic ileus
+- ___ C2D15 de Gramont/C1D1 cetuximab 500 mg/m2
+- ___ C1D15 cetuximab 300 ___ HFS, delayed for
+HFS/fatigue
+- ___ C2D1 cetuximab 300 mg/m2 D1, D15
+- ___ CT torso shows decrease in liver mets
+- ___ C3D1 cetuximab 300 mg/m2 D1, D15
+- ___ C4D1 cetuximab 300 mg/m2 D1, D15
+- ___ CT torso increase in size and number of liver mets
+- ___ C3D1 modified de Gramont (no ___, LV 200 mg/m2) +
+Bevacizumab
+- ___ New baseline CT torso did show progression off 
+chemo
+- ___ C4D1 modified de Gramont (no ___, LV 200 mg/m2) +
+Bevacizumab
+- ___ C4D15 held per patient request. CT torso obtained
+which shows progression of liver mets and stable lung mets
+
+ 
+Social History:
+___
+Family History:
+Mother with breast cancer. Brother with ___
+ 
+Physical Exam:
+Admission Physical Exam
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+Gen: cooperative, engaged/alert, no distress
+Neuro: nonfocal examination, CN II-XII grossly intact
+Psych: appropriate affect/response without delirium
+EENT: moist oral mucosa, subtle scleral icterus without
+conjunctival pallor
+Neck: soft without jvd
+CV: rrr s1/s2 without m/r/g
+Pulm: clear bilaterally normal depth/effore
+Abd: distended abd but soft, nontender, bowel sounds present but
+hypoactive and high pitched
+MSK: normal bulk/tone, moving all ext; thin but without focal
+atrophy
+Skin: warm, dry
+Ext: trace bilateral edema present
+
+______________________________________
+
+Discharge Physical Exam
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+Gen: cooperative, engaged/alert, no distress; frail cachectic 
+appearance
+Neuro: nonfocal examination, CN II-XII grossly intact
+Psych: appropriate affect/response without delirium
+EENT: moist oral mucosa, subtle scleral icterus without
+conjunctival pallor
+Neck: soft without jvd
+CV: rrr s1/s2 without m/r/g
+Pulm: clear bilaterally normal depth/effort
+Abd: soft, nontender, nondistended, bowel sounds present; 
+cecostomy tube in place at RLQ with good output/drainage
+MSK: normal bulk/tone, moving all ext; thin but without focal
+atrophy
+Skin: warm, dry
+Ext: no c/c/e
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with the past medical 
+history and findings noted above who presents post-procedurally 
+following cecostomy tube placement due to
+___ syndrome as a complication of his recurrent metastatic 
+rectal cancer. 
+
+ACUTE/ACTIVE PROBLEMS:
+#Recurrent, Metastatic Rectal Cancer complicated by ___ 
+Syndrome
+- Planned admission for cecostomy tube placement by advanced 
+endoscopy team. The patient is s/p cecostomy tube insertion, 
+tolerated procedure well and is much more comfortable 
+post-procedure. Admission plan of care was to admit under 
+observation status and post-procedural monitoring. Started on IV 
+antimicrobial coverage per advanced endoscopy team with 
+metronidazole and ciprofloxacin for a planned 5 day course. He 
+tolerated a trial of clears and was advanced on his diet as he 
+was able to tolerate. Cecostomy tube care: flush cecostomy tube 
+with warm water twice
+daily, vent as needed to gravity bag. ___ services requested to 
+assist with management initially and to provide patient and 
+family with instruction/education for care/management.
+
+#Severe Protein Calorie Malnutrition / Frail, Cachectic 
+Appearance
+- Severe malnutrition related to recurrent metastatic rectal 
+cancer as evidenced by 25% weight loss in <12 months and <=75% 
+energy intake compared to estimated energy needs for >=1 month. 
+- Interventions/Recommendations: Encourage PO intake and 
+adequate protein at all meals. Oral nutrition supplement: Ensure 
+Enlive Frappe TID. Consider 2 L fluid restriction should 
+hyponatremia persist. Add MVI as medically able. Trend standing 
+scale weights ___ 
+
+CHRONIC/STABLE PROBLEMS:
+#Cirrhosis complicated by portal hypertension
+- Stable chronic condition. Continued with home medication 
+regimen.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+2. Diphenoxylate-Atropine 1 TAB PO Q6H:PRN diarrhea 
+3. Ferrous Sulfate 325 mg PO DAILY 
+4. LOPERamide 2 mg PO TID:PRN diarrhea 
+5. Omeprazole 20 mg PO BID 
+6. Ondansetron 8 mg PO Q8H:PRN nausea 
+7. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+8. Spironolactone 100 mg PO BID 
+9. Torsemide 20 mg PO BID 
+10. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 5 Days 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*10 Tablet Refills:*0 
+2.  MetroNIDAZOLE 500 mg PO Q8H Duration: 5 Days 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*15 Tablet Refills:*0 
+3.  Omeprazole 20 mg PO BID  
+4.  Spironolactone 100 mg PO BID  
+5.  Torsemide 20 mg PO BID  
+6. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+7. Diphenoxylate-Atropine 1 TAB PO Q6H:PRN diarrhea 
+8. Ferrous Sulfate 325 mg PO DAILY 
+9. LOPERamide 2 mg PO TID:PRN diarrhea 
+10. Ondansetron 8 mg PO Q8H:PRN nausea 
+11. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+#Recurrent, Metastatic Rectal Cancer complicated by ___
+Syndrome
+#Severe Protein Calorie Malnutrition / Frail, Cachectic 
+Appearance
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+The patient is being discharged with instruction to follow-up 
+with his oncologist. Appointments are listed below. Per 
+discussion with GI, there is no specific recommendation for 
+follow-up with them, however, please feel free to schedule an 
+appointment if so desired. No new medications are being 
+prescribed at this time. No medications have been discontinued. 
+
+___ services for assistance in the initial days post-procedure 
+for cecostomy tube drainage management and instruction for care 
+has been requested.
+
+Please continue taking all medications as prescribed unless 
+instructed differently
+ 
+Followup Instructions:
+___

@@ -1,0 +1,300 @@
+Notes
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+pravastatin / simvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ yo F w/ HFpEF, PAD (s/p b/l iliac stents ___, 
+axillary-bifemoral bypass ___ on apixaban), epistaxis, recent 
+UGIB due to gastric AVMs s/p argon photocoagulation) admitted 
+from home with dyspnea. 
+
+Patient reports day prior to admission, she felt shortness of 
+breath, and developed a cough productive of wet sputum. She had 
+subjective fevers but no rigors. She had no sick contacts. She 
+has no episodes of coughing or aspirating while eating food. She 
+reports subjective weight loss. 
+She also denies orthopnea but is visibly short of breath when 
+lying in bed and improved when sitting up. 
+
+She also notes feeling a bit lightheaded as she walks around 
+which she has had for months. She notes that has been getting 
+the urge to eat ice, which happens periodically. 
+
+Her last epistaxis was two weeks ago, and she has not had any 
+hematochezia, melena or hematemesis. Stools have been dark, but 
+she takes iron pills and they always appear that way.
+
+She presented to the emergency room. TMax was 99.1, HR 103-110, 
+SBP 146-162/78-90, RR ___, initially spO2 87 on room air, now 
+97% of 4 liters. 
+
+Labs notable for WBC 12.4 (hx of unexplained leukocytosis, Hgb 
+6.6, Hct 23.6. CXR showed edema with concern for possible Right 
+lower lobe infiltrate. 
+
+She was given IV levofloxacin and admitted to medicine.
+ 
+Past Medical History:
+HFpEF
+CAD
+PVD 
+- left common and external iliac stent in ___
+- right common and external iliac artery stents in ___.
+- s/p Axillary-bifemoral bypass ___ 
+DMII
+CKD (GFR ___ here, previously reported as CKD4) 
+Hypertension
+Diverticulosis of colon
+Renal artery stenosis, native, bilateral
+Gastric AVMs s/p argon photocoagulation ___ 
+ 
+Social History:
+___
+Family History:
+Brother with T2DM
+Father with T2DM
+Mother with T2DM, ovarian cancer
+ 
+Physical Exam:
+ADMISSION EXAM
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: OP clear, nonerythematous 
+CV: Heart regular, no murmur, no S3, no S4.  Reported as no JVP 
+.
+RESP: Coarse BS in bilateral lower lobes, no wheezes, bronchial 
+BS in right lobs
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel 
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+___ 
+WBC-12.4* RBC-2.85* Hgb-6.6* Hct-23.6* MCV-83 MCH-23.2* 
+MCHC-28.0* RDW-21.4* RDWSD-62.9* Plt ___
+
+___ 
+WBC-8.4 RBC-3.75* Hgb-9.0* Hct-30.9* MCV-82 MCH-24.0* MCHC-29.1* 
+RDW-21.1* RDWSD-62.8* Plt ___
+
+___ 
+WBC-12.6* RBC-2.93* Hgb-6.7* Hct-24.0* MCV-82 MCH-22.9* 
+MCHC-27.9* RDW-19.6* RDWSD-58.0* Plt ___
+
+___
+Glucose-135* UreaN-11 Creat-0.8 Na-134* K-3.7 Cl-89* HCO3-29 
+AnGap-16
+
+___ 
+calTIBC-356 Ferritn-36 TRF-274
+
+CTA 
+1.  No evidence of pulmonary embolism or aortic abnormality.
+2.  New peribronchovascular ground-glass and nodular opacities, 
+which most
+likely represent an infectious or inflammatory process and may 
+be related to
+aspiration.
+3.  Mild interstitial pulmonary edema.  Trace bilateral pleural 
+effusions.
+4.  Stable mediastinal lymphadenopathy, which may be related to 
+heart failure.
+
+ECHO
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect or right-to-left shunt on color Doppler 
+or agitated saline at rest. The estimated right atrial pressure 
+is >15mmHg. There is normal left ventricular wall thickness with 
+a normal cavity size. Overall left ventricular systolic function 
+is severely depressed. Quantitative biplane left ventricular 
+ejection fraction is 28 % (normal 54-73%). There is no resting 
+left ventricular outflow tract gradient. Normal right 
+ventricular cavity size with mild global free wall hypokinesis. 
+The aortic sinus diameter is normal for gender with normal 
+ascending aorta diameter for gender. There is a normal 
+descending aorta diameter. The aortic valve leaflets (3) are 
+mildly thickened. There is no aortic valve stenosis. There is 
+trace aortic regurgitation. The mitral valve leaflets appear 
+structurally normal with no mitral valve prolapse. There is an 
+eccentric jet of mild [1+] mitral regurgitation. Due to the 
+Coanda effect, the severity of mitral regurgitation could be 
+UNDERestimated. The pulmonic valve leaflets are normal. The 
+tricuspid valve leaflets appear structurally normal. There is 
+physiologic tricuspid regurgitation. There is mild pulmonary 
+artery systolic hypertension. There is a trivial pericardial 
+effusion.
+Compared with the prior TTE ___ , biventricular function 
+has decreased.
+
+DISHCARGE LABS: 
+___ 06:20AM BLOOD WBC-10.0 RBC-3.60* Hgb-8.7* Hct-30.1* 
+MCV-84 MCH-24.2* MCHC-28.9* RDW-20.6* RDWSD-61.3* Plt ___
+___ 07:40AM BLOOD UreaN-18 Creat-1.1 Na-134* K-3.8 Cl-90* 
+HCO3-28 AnGap-16
+___ 07:40AM BLOOD Mg-1.9
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES:
+- DC weight of 114.2lb; please insure no active change in dry 
+weight on follow up
+- pt has been losing dry weight as well over past several 
+months, with a reported lower interest in food (see below); I 
+wonder whether there is some issue with difficulty cooking for 
+herself contributing; may be worth investigating resources on 
+outpatient side
+
+___ w/ HFpEF, PAD (s/p iliac stents ___, renal artery stenosis, 
+and axillary-bifemoral bypass ___ on apixaban), recurrent 
+epistaxis, recent UGIB due to gastric AVMs s/p argon 
+photocoagulation who is admitted from home with dyspnea treated 
+with 5 days of levaquin but with continued hypoxia ___ CHF, also 
+found to have Hgb 6.6 transfused with 2 units of pRBCs. 
+
+#) Acute hypoxemic respiratory failure
+#) Acute on chronic diastolic heart failure
+#) Acute systolic heart failure
+#) Community acquired pneumonia 
+Patient initially admitted with nonspecific symptoms but mainly 
+subjective dyspnea. 
+On ___, plan was for discharge home but patient triggered for 
+hypoxia to ___ and tachypnea to ___. She required 5L NC when I 
+assumed her care. At home she does not use oxygen. Initially her 
+lungs had crackles and JVP was upto jaw. Of note, she did not 
+have peripheral edema. She is supposed to be on bumex 2 PO 
+daily. Patient told me she had no idea she was on a diuretic and 
+did not have this medication on a printed home medication list 
+she showed me. We started her on lasix 40 IV daily with 
+improvement over the course of several days back to 1L NC. She 
+intermittently was on RA, but would then require 1L NC during 
+the night. She was transitioned to torsemide 40 PO daily on ___. 
+Even when on RA, she had subjective dyspnea. This improved with 
+incentive spirometry and chest ___, as well as guifenesin. CTA 
+was done that showed some mucus plugging and ? e/o aspiration. 
+SLP felt she was swallowing well on bedside eval and no video 
+was necessary. She was seen by the pulmonary service who 
+recommended treatment for emphysema with bronchodilators and 
+LAMA. BNP then obtained that was over 4K, and ECHo shows newly 
+depressed EF, demonstrating her symptoms are from decompensated 
+heart failure. Diuresed with IV Lasix 120 BID as effective dose 
+and breathing improved. Off O2 for 48h before DC and able to 
+ambulate without difficulty. DC weight of 114.2lb. Will have ___ 
+see her and set up cards, PCP ___.
+
+#) Acute blood loss anemia
+#) PAD s/p stents, bypass on apixaban
+#) Gastric AVMs s/p APC 
+Patient did not have any active signs of bleeding but had Hgb 
+6.6 for which she received 2 units of pRBCS on admission. This 
+may have also precipitated worsened edema for her. Her Hgb 
+remained stable after the tranfusions. 
+She has a history of epistaxis, but none while here. 
+She also had recent EGD and ___ in ___ and had APC done to 
+gastric AVMs. She also had a CT A/P in ___ which did not 
+show any acute changes. 
+She is elderly, has some component of CKD and is on apixaban for 
+severe PAD s/p stents ad bypass, making her high risk for 
+bleeding. 
+She had an iron deficit of approximately 700 mg, had received 
+two ___ transfusions, so she was scheduled for 3 infusions of 
+ferrous gluconate 125 mg to make up for iron deficit.
+
+#weight loss: Pt describes dry weight loss and a lack of 
+interest in food. She denies dysphagia, odynophagia, choking, 
+early satiety, night sweats. Pt lives alone and cooks for 
+herself. She says she 'doesn't know what to cook'. Denies 
+depressed mood. I suspect a component of having difficulty 
+preparing food for herself or obtaining, as she was seen in 
+house to eat well and enjoy meals. DC weight of 114.2. ___ 
+benefit from nutrition or SW as outpatient
+
+Greater than ___ hour spent on care on day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Apixaban 5 mg PO BID 
+2. Atorvastatin 80 mg PO QPM 
+3. Bumetanide 2 mg PO DAILY 
+4. Omeprazole 40 mg PO BID 
+5. MetFORMIN XR (Glucophage XR) 1000 mg PO DAILY 
+6. Sucralfate 1 gm PO BID 
+7. Ranitidine 75 mg PO BID 
+8. Ferrous Sulfate 325 mg PO DAILY 
+9. amLODIPine 10 mg PO DAILY 
+10. BuPROPion (Sustained Release) 150 mg PO BID 
+11. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Tiotropium Bromide 1 CAP IH DAILY 
+RX *tiotropium bromide [Spiriva with HandiHaler] 18 mcg 1 
+capsule inhaled once a day Disp #*30 Capsule Refills:*0 
+2.  amLODIPine 10 mg PO DAILY  
+3.  Apixaban 5 mg PO BID  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 80 mg PO QPM  
+6.  Bumetanide 2 mg PO DAILY 
+RX *bumetanide 2 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+7.  BuPROPion (Sustained Release) 150 mg PO BID  
+8.  Ferrous Sulfate 325 mg PO DAILY  
+9.  MetFORMIN XR (Glucophage XR) 1000 mg PO DAILY 
+Do Not Crush  
+10.  Omeprazole 40 mg PO BID  
+11.  Ranitidine 75 mg PO BID  
+12.  Sucralfate 1 gm PO BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PNA
+CHF 
+Acute blood loss anemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to this hospital with shortness of breath. You 
+were treated for a pneumonia. 
+You were also found to have anemia and were given 2 units of 
+blood. 
+You stayed in the hospital because you had a lot of fluid in 
+your lungs because your heart is weak. You were given 
+medications called diuretics to help remove this fluid to make 
+you feel better. 
+ 
+Followup Instructions:
+___

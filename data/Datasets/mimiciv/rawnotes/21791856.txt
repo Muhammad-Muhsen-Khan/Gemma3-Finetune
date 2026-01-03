@@ -1,0 +1,379 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+allopurinol / Statins-Hmg-Coa Reductase Inhibitors
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dyspnea and cough
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+ ___ yo with h/o CAD s/p DES, CKD, HFpEF (EF>60%) on torsemide, 
+AF on coumadin, presented to ED w/3 days of productive cough and 
+gradual onset dyspnea.  
+ Patient reports she developed URI symptoms soon after 
+___, including nasal congestion and cough. Over the 
+past few days cough has worsened, productive of white/yellow 
+sputum. She has also noted some SOB when lying flat and 
+worsening dyspnea on exertion. She denies fevers, chest pain, 
+abdominal pain, nausea, vomiting, diarrhea or urinary symptoms. 
+She has been compliant with all of her medications, including 
+her diuretics and denies worsening leg swelling or PND. Weight 
+is down to 199lbs, from 210 in the past (intentional weight 
+loss). No increase in her weight since she has been feeling 
+unwell. Patient has been hospitalized in past w/HF exacerbation 
+and states that her symptoms are not similar to those episodes. 
+No history of asthma or COPD.  
+ In the ED, initial vitals were: 98.1, 71, 168/80, 16, 93% NC 
+(improved to 95% on RA w/nebs). Exam notable for diffuse 
+wheezes, no crackles. Labs revealed WBC 8.7, Hb 10.4 (baseline), 
+BUN/CR 110/3.5 (unclear baseline-last measured ___ 93/2.41), 
+trop 0.03, BNP ___. EKG NSR rate 70, no ischemic changes. UA 
+negative, CXR showed "possible minimal pulmonary vascular 
+congestion, no focal consolidation". Patient given duonebs with 
+improvement in her respiratory status and transferred to 
+medicine for further management.  
+ On the floor, patient complains of persistent productive cough. 
+She is also requesting oxygen to be worn while she sleeps, for 
+comfort (on no O2 at home). No additional acute complaints.  
+ Review of systems:  
+ (+) Per HPI  
+ (-) Otherwise 10 point ROS negative. 
+ 
+Past Medical History:
+ - HTN, labile  
+ - HLD  
+ - HYPOTHYROIDISM  
+ - RETINAL ARTERY OCCLUSION - BRANCH  
+ - MIGRAINE EQUIVALENT  
+ - CAD/MI (MIs in ___ and ___: This demonstrated a 
+mid  
+ RCA lesion which was stented with a drug-eluting stent. LAD had 
+ 
+ a proximal 30% stenosis, left circumflex had a ostial 50%  
+ stenosis. The distal RCA also had a 50% stenosis)  
+ - CHF (EF 60-65% in ___  
+ - OBESITY,  
+ - insulin-dependent DMII  
+ - Gout  
+ - Renal artery stenosis  
+ - CKDIII  
+ - Anemia  
+ - a-fib on anticoagulation  
+ - Depression  
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION
+==========
+ Vital Signs: 97.9 PO 152 / 72 L Sitting 63 20 90 RA  
+ Weight: 90.58kg (199.7lbs)  
+ General: sitting up in bed, appears comfortable, NAD  
+ HEENT: Sclerae anicteric, MMM, oropharynx clear, neck supple, 
+JVP difficult to appreciate, given obese neck, but does not 
+appear grossly elevated.  
+ CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+ Lungs: Poor air movement throught, diffuse expiratory wheezes. 
+No crackles.  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound or guarding  
+ Ext: Warm, well perfused, trace edema midway up calves b/l  
+ Neuro: no focal deficits  
+ LABS: Reviewed, see below.  
+
+DISCHARGE
+=========
+Vitals:  98.4, HR 78, 93% RA, RR 20, BP ___
+GENERAL: Alert, NAD, sitting up in bed
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: JVP difficult to appreciate due to habitus
+RESP: Kyphotic chest. Poor air movement but no wheezing or 
+crackles
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs
+ABD: +BS, soft, obese, nontender, nondistended. 
+EXT: warm, well perfused. Trace edema bilaterally of medial 
+ankles.
+NEURO: Grossly intact motor and sensory function. 
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 08:20PM BLOOD WBC-8.7 RBC-3.43* Hgb-10.4* Hct-33.6* 
+MCV-98 MCH-30.3 MCHC-31.0* RDW-13.6 RDWSD-48.1* Plt ___
+___ 08:20PM BLOOD Neuts-72.5* Lymphs-18.4* Monos-6.7 
+Eos-1.2 Baso-0.2 Im ___ AbsNeut-6.27* AbsLymp-1.59 
+AbsMono-0.58 AbsEos-0.10 AbsBaso-0.02
+___ 08:20PM BLOOD ___ PTT-52.3* ___
+___ 08:20PM BLOOD Glucose-192* UreaN-110* Creat-3.5*# 
+Na-135 K-4.4 Cl-91* HCO3-29 AnGap-19
+___ 08:20PM BLOOD ___ 08:20PM BLOOD cTropnT-0.03*
+___ 08:20PM BLOOD Calcium-8.9 Phos-4.2 Mg-2.7*
+___ 08:20PM BLOOD Digoxin-0.9
+___ 08:20PM URINE Color-Straw Appear-Clear Sp ___
+___ 08:20PM URINE Blood-TR Nitrite-NEG Protein-100 
+Glucose-100 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 08:20PM URINE RBC-2 WBC-2 Bacteri-FEW Yeast-NONE Epi-1
+___ 10:11AM URINE Hours-RANDOM UreaN-359 Creat-36 Na-87 
+TotProt-81 Prot/Cr-2.3*
+___ 10:11AM URINE Osmolal-339
+
+DISCHARGE LABS
+==============
+___ 07:35AM BLOOD WBC-12.4* RBC-3.66* Hgb-11.4 Hct-36.3 
+MCV-99* MCH-31.1 MCHC-31.4* RDW-13.6 RDWSD-49.7* Plt ___
+___ 07:35AM BLOOD ___
+___ 07:35AM BLOOD Glucose-168* UreaN-112* Creat-2.3* Na-141 
+K-4.0 Cl-95* HCO3-29 AnGap-21*
+___ 07:35AM BLOOD Calcium-9.3 Phos-4.0 Mg-2.0
+
+REPORTS
+========
+CT Chest ___. Bronchial wall thickening, endobronchial secretions, and 
+peribronchial ground-glass and nodular opacities in the middle 
+lobe and bilateral lower lobes, suspicious for aspiration 
+pneumonia. 
+2. At least one pulmonary nodule measuring 10 mm in the middle 
+lobe, possibly with a second 10 mm nodule in the right lower 
+lobe. Recommend follow-up chest CT in 6 weeks, after appropriate 
+treatment. 
+3. Probably reactive mediastinal and hilar lymphadenopathy. 
+4. Mild dilation of the ascending aorta, measuring 41 mm. Mild 
+aortic valve calcifications. 
+5. Coronary calcifications. 
+6. Indeterminate 12 x 12 mm left adrenal nodule. Recommend 
+further 
+characterization with adrenal protocol CT or MRI. 
+
+CXR PA-Lateral ___
+COPD.  Increasing left lower lobe opacities could be atelectasis 
+or pneumonia in the appropriate clinical setting 
+
+Renal US ___: Normal renal ultrasound.
+
+CXR ___
+Possible minimal pulmonary vascular congestion.  No focal 
+consolidation.
+
+MICROBIOLOGY
+============
+Blood cultures - negative
+Urine culture - negative
+ 
+Brief Hospital Course:
+___ y/o F with a h/o CAD, diastolic CHF, AFib, DM, CKD 4, Gout, 
+who presented with hypoxic respiratory failure most consistent 
+with a COPD exacerbation, and ___ on CKD.
+
+ACTIVE PROBLEMS
+===============
+# Hypoxic Respiratory Failure
+# COPD Exacerbation
+# Aspiration PNA
+Her presenting symptoms included a preceding URI, which led to 
+wheezing, cough, and dyspnea, in a patient with longstanding 
+smoking history.  She had a low peak flow. Thus, her diagnosis 
+was most consistent with a COPD exacerbation, although there was 
+no diagnosis of COPD prior to admission.  She remained hypoxic 
+when ambulatory on room air throughout her admission despite 
+several days of high dose PO steroid (Methylpred 32mg daily - 
+this chosen as opposed to Prednisone for simplicity's sake as 
+she is chronically on low dose Methylpred), and scheduled/PRN 
+nebulizers.  Thus, due to continued hypoxia, repeat CXR was done 
+on ___, which showed only radiographic evidence of COPD, as 
+well as atelectasis.  She was thus given Incentive Spirometry 
+for atelectasis.  As she remained hypoxic, CT chest was then 
+done ___, showing likely consolidation due to aspiration in 
+both lower lobes.  She was thus started on Augmentin, and will 
+complete ___s outpatient.  There was no evidence of 
+CHF exacerbation based on bedside eval or imaging. PE unlikely 
+given she is chronically on Warfarin.  Home O2 was arranged, but 
+the patient declined this on day of discharge.  Started inhaled 
+fluticasone BID given clinical certainty of COPD. Outpatient 
+PFT's recommended on discharge.
+
+# ___ on Stage 4 CKD: Presented with Cr 3.5, but quickly 
+downtrended back to baseline mid-2's without any intervention. 
+She appeared euvolemic, although volume status is certainly 
+complex given CHF history. It is unclear what the acute insult 
+was to cause worsening Cr of admission. FE-Urea was 28%, which 
+is consistent with pre-renal azotemia, but not a fully reliable 
+test. Renal US was unremarkable.  Her home Torsemide was 
+continued.  Her home ___ (irbesartan) was replaced with Losartan 
+while in house, as irbesartan is not formulary.
+
+CHRONIC PROBLEMS
+================
+# Chronic Diastolic CHF: No e/o exacerbation. She is below prior 
+dry weight and had minimal edema and no significant rales.  
+Continued home Torsemide, Carvedilol. Continued ___.  Monitored 
+volume status. Low salt diet
+
+# CAD: Stable.
+- Continue home ASA 81mg, Ezetimibe, Carvedilol
+- ___ as above
+
+# A-Fib on Warfarin: INR was supratherapeutic on admission, held 
+Warfarin, and resumed once INR was therapeutic.  There were no 
+further INR issues.
+- Continued Warfarin
+- Daily INR, should recheck as outpatient with ___ Anticoag 
+Team per their routine
+- Continue home digoxin (level checked, was 0.9)
+
+# Diabetes
+- Continue home Glargine/Humalog regimen, along with sliding 
+scale
+
+# Gout
+- Continue home Febuxostat
+- Continue home Methylprednisolone 4mg (initially was on higher 
+dose of 32mg daily to treat COPD exacerbation)
+
+# Hypothyroidism
+- Continue home Levothyroxine 
+
+# Anxiety
+- Continue home Bupropion, Lorazepam
+
+# Incidental findings
+- Pulm nodules need f/u CT in 6 weeks
+- Adrenal nodule needs f/u CT or MRI with adrenal protocol as 
+outpatient
+
+TRANSITIONAL ISSUES
+===================
+- Augmentin 500mg BID x7 days for aspiration pneumonia, ___
+- Started inhaled fluticasone BID given likely COPD
+- Arranged for home O2 and offered to the patient, but she 
+declined it
+- Outpatient PFT's recommended
+- Needs f/u CT chest in 6 weeks to assess for resolution of x2 
+10mm pulmonary nodules seen on CT chest
+- Adrenal nodule noted on CT chest. Needs outpatient adrenal 
+protocol CT or MRI for further characterization of left adrenal 
+nodule
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron 4 mg PO Q8H:PRN nausea 
+2. Ezetimibe 10 mg PO DAILY 
+3. Methylprednisolone 4 mg PO DAILY 
+4. LORazepam 0.5 mg PO BID:PRN anxiety 
+5. Avapro (irbesartan) 150 mg oral DAILY 
+6. Glargine 25 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+7. Vitamin D ___ UNIT PO DAILY 
+8. Warfarin 6.25 mg PO 3X/WEEK (___) 
+9. Metolazone 2.5 mg PO DAILY 
+10. Febuxostat 40 mg PO DAILY 
+11. Torsemide 60 mg PO BID 
+12. nystatin 100,000 unit/gram topical ___ daily 
+13. BuPROPion (Sustained Release) 150 mg PO QAM 
+14. Digoxin 0.125 mg PO 4X/WEEK (___) 
+15. Carvedilol 37.5 mg PO BID 
+16. Levothyroxine Sodium 112 mcg PO DAILY 
+17. Miconazole Powder 2% 1 Appl TP BID 
+18. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob 
+19. Ferrous Sulfate 325 mg PO BID 
+20. Aspirin 81 mg PO DAILY 
+21. Warfarin 5 mg PO 4X/WEEK (___) 
+22. OxyCODONE (Immediate Release) 10 mg PO Q6H:PRN BREAKTHROUGH 
+PAIN 
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+RX *amoxicillin-pot clavulanate [Augmentin] 500 mg-125 mg 1 
+tablet(s) by mouth twice daily Disp #*14 Tablet Refills:*0 
+2.  Fluticasone Propionate 110mcg 2 PUFF IH BID 
+RX *fluticasone [Flovent HFA] 110 mcg/actuation 2 puffs inhaled 
+twice daily Disp #*1 Inhaler Refills:*2 
+3.  Albuterol Inhaler 2 PUFF IH Q4H:PRN sob  
+4.  Aspirin 81 mg PO DAILY  
+5.  Avapro (irbesartan) 150 mg oral DAILY  
+6.  BuPROPion (Sustained Release) 150 mg PO QAM  
+7.  Carvedilol 37.5 mg PO BID  
+8.  Digoxin 0.125 mg PO 3X/WEEK (___)  
+9.  Ezetimibe 10 mg PO DAILY  
+10.  Febuxostat 40 mg PO DAILY  
+11.  Ferrous Sulfate 325 mg PO BID  
+12.  Glargine 25 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+13.  Levothyroxine Sodium 112 mcg PO DAILY  
+14.  LORazepam 0.5 mg PO BID:PRN anxiety  
+15.  Methylprednisolone 4 mg PO DAILY  
+16.  Metolazone 2.5 mg PO DAILY 
+as directed  
+17.  Miconazole Powder 2% 1 Appl TP BID  
+18.  nystatin 100,000 unit/gram topical ___ daily  
+19.  Ondansetron 4 mg PO Q8H:PRN nausea  
+20.  OxyCODONE (Immediate Release) 10 mg PO Q6H:PRN BREAKTHROUGH 
+PAIN  
+21.  Torsemide 60 mg PO BID  
+22.  Vitamin D ___ UNIT PO DAILY  
+23.  Warfarin 6.25 mg PO 3X/WEEK (___)  
+24.  Warfarin 5 mg PO 4X/WEEK (___)  
+25.Home Oxygen
+ICD-10: J44.9, COPD
+2 liters/minute flow rate
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+COPD exacerbation
+___ on CKD
+Aspiration pneumonia
+
+Secondary:
+CAD, diastolic CHF, AFib, DM, Gout
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+It was a pleasure caring for you at ___.  You were admitted to 
+our hospital because of trouble breathing.  It was discovered 
+that the most likely cause of this was an exacerbation/crisis of 
+"COPD."  You were treated with high dose steroids and 
+nebulizers.
+
+The CT scan of your chest also showed evidence of a small 
+pneumonia. We will prescribe you an antibiotic for this, to take 
+twice per day for 1 week.
+
+You were also found to have worsening of your kidney function on 
+arrival.  However, this fortunately improved back to baseline 
+during your stay.
+
+It was a pleasure caring for you, and we wish you the best.  
+Please contact your PCP to get ___ follow up appointment.
+- ___ team
+ 
+Followup Instructions:
+___

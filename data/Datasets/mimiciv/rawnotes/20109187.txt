@@ -1,0 +1,318 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim DS / Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___
+ 
+Chief Complaint:
+Palpitations
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+  PCP: ___ MD  
+ CC: palpitations  
+ HISTORY OF PRESENT ILLNESS:  
+
+ ___ male with a PMH of prostate cancer s/p 
+prostatectomy, paroxysmal atrial fibrillation, and recent 
+admission for FUO and weight loss who presents with palpitations 
+found to be in atrial fibrillation with RVR.  
+
+ Of note, recently admitted ___ - ___ for fevers of unknown 
+origin and weight loss (18 lb purposeful, 12 lb unintentional) 
+discharged with follow up with pulmonary and ID with multiple 
+lab tests still pending. He was noted on last admission to have 
+small pericardial effusion w/o tamponade.  
+
+Patient reports had been feeling improved since discharge until 
+last ___ when he experienced return of his fevers 
+(100-101.8), cough, and generalized weakness. He also reports 
+sharp pain in left upper chest near shoulder that is 
+reproducible with palpation over the past few days. Denies 
+further weight loss and has actually managed to regain ___ lbs 
+since discharge. On day of admission, he reports persistent 
+palpitations and presented to ___ urgent care where he was 
+found to be tachycardic to the 130s. He was sent to the ED for 
+ischemic evaluation given reported pleuritic chest pain, 
+palpitations. He denies SOB, lightheadedness/dizziness, 
+abdominal pain, n/v/d. He does report nonproductive cough, 
+unchanged over the past few weeks.  
+
+ In the ED, initial VS were 97 150 131/81 22 97% on RA .  
+ Labs showed  
+ - 11.8 (72% PMN) > 15.5/45.4 < 246  
+ - 132 | 98 | 15  
+ --------------< 156  
+ 5.2 | 20 | 0.8  
+ - ALT 14, AST 40, AP 70, T. bili 0.8  
+ - proBNP 523  
+ - Trop < 0.01  
+ - Lactate 2.0  
+ - UA: negative  
+
+ Imaging showed  
+ - CTA:  
+ Dilated main pulmonary artery to 4.2 cm suggests pulmonary 
+hypertension. Some patient respiratory motion limits assessment 
+of segmental and subsegmental pulmonary arterial branches, 
+particularly in the left mid to lower lung. No evidence of 
+pulmonary embolism elsewhere.  
+ Small intermediate density pericardial effusion, suggesting 
+that it may be complex.  
+ Trace left pleural effusion. Bibasilar atelectasis.  
+ - CXR: Left base opacity, could be due to atelectasis, but 
+pneumonia may be present in the appropriate clinical setting.  
+ Received IV dilt 10 mg, PO dilt 30 mg  
+ Transfer VS were 97 112/71 24 95% on RA  
+ Decision was made to admit to medicine for further management.  
+
+ On arrival to the floor, patient reports significant 
+improvement in palpitations. No complaints at this time  
+ REVIEW OF SYSTEMS:  
+ Denies fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, abdominal pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.  
+ All other 10-system review negative in detail. 
+ 
+Past Medical History:
+Prostate cancer 
+Colon adenoma 
+Inguinal hernia, left 
+GERD (gastroesophageal reflux disease) 
+RBBB (right bundle branch block) 
+Palpitations 
+Family history of glaucoma in mother 
+Dry eyes 
+ERM OD (epiretinal membrane, right eye) 
+Nuclear sclerotic cataract 
+ 
+Social History:
+___
+Family History:
+Grandmother and Mother with CAD. No history of autoimmune 
+disease.
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+
+VS 98.7 122/63 76 18 96% on RA  
+ GENERAL: NAD  
+ HEENT: AT/NC, EOMI, PERRL, anicteric sclera  
+ CARDIAC: irregularly irregular, S1/S2, no murmurs, gallops, or 
+rubs  
+ LUNG: CTAB, no wheezes, rhonchi. Few crackles in bilateral 
+bases  
+ ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding  
+ EXTREMITIES: no cyanosis, clubbing or edema  
+ NEURO: CN II-XII grossly intact, moves all extremities  
+ SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+PHYSICAL EXAM ON DISCHARGE:
+Vitals- Tm 98.7, 109-122/60-63, 67-76, 18, 96% on RA  
+GENERAL: NAD  
+ HEENT: AT/NC, EOMI, PERRL, anicteric sclera, No LAD  
+ CARDIAC: regular, S1/S2, no murmurs, gallops, or rubs  
+ LUNG: CTAB, no wheezes, rhonchi. Crackles in bilateral bases 
+L>R 
+ ABDOMEN: non-distended, +BS, non-tender in all quadrants, no 
+rebound/guarding  
+ EXTREMITIES: no cyanosis, clubbing or edema  
+ NEURO: CN II-XII grossly intact, moves all extremities  
+ SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+ 
+Pertinent Results:
+LABS ON ADMISSION
+=============================
+
+___ 07:20PM BLOOD WBC-11.8*# RBC-5.07 Hgb-15.5 Hct-45.4 
+MCV-90 MCH-30.6 MCHC-34.1 RDW-15.2 RDWSD-49.7* Plt ___
+___ 07:20PM BLOOD Neuts-72.5* Lymphs-13.3* Monos-11.6 
+Eos-0.8* Baso-0.3 Im ___ AbsNeut-8.54*# AbsLymp-1.57 
+AbsMono-1.37* AbsEos-0.09 AbsBaso-0.04
+___ 07:20PM BLOOD Plt ___
+___ 08:04PM BLOOD ___ PTT-31.1 ___
+___ 07:20PM BLOOD Glucose-156* UreaN-15 Creat-0.8 Na-132* 
+K-5.2* Cl-98 HCO3-20* AnGap-19
+___ 07:20PM BLOOD ALT-14 AST-40 AlkPhos-70 TotBili-0.8
+___ 07:20PM BLOOD proBNP-523*
+___ 07:20PM BLOOD cTropnT-<0.01
+___ 06:05AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 07:20PM BLOOD Albumin-4.0
+___ 06:05AM BLOOD Calcium-9.0 Phos-3.5 Mg-1.9
+___ 06:05AM BLOOD CRP-81.2*
+___ 07:23PM BLOOD Lactate-2.0 K-4.9
+
+MICRO:
+===========================
+
+___ CULTURE- < 10,000 CFU/mL. 
+___ CULTUREBlood Culture, Routine-NGTD X 
+4DAYS
+___ CULTUREBlood Culture, Routine-NGTD X 
+4DAYS
+
+IMAGING/OTHER STUDIES:
+============================
+___ CTA:  
+ Dilated main pulmonary artery to 4.2 cm suggests pulmonary 
+hypertension. Some patient respiratory motion limits assessment 
+of segmental and subsegmental pulmonary arterial branches, 
+particularly in the left mid to lower lung. No evidence of 
+pulmonary embolism elsewhere.  
+ Small intermediate density pericardial effusion, suggesting 
+that it may be complex.  
+ Trace left pleural effusion. Bibasilar atelectasis.  
+
+___ CXR: Left base opacity, could be due to atelectasis, but 
+pneumonia may be present in the appropriate clinical setting.  
+
+LABS ON DISCHARGE
+==============================
+
+___ 06:05AM BLOOD WBC-8.5 RBC-4.56* Hgb-13.8 Hct-40.9 
+MCV-90 MCH-30.3 MCHC-33.7 RDW-15.4 RDWSD-50.4* Plt ___
+___ 08:04PM BLOOD ___ PTT-31.1 ___
+___ 06:05AM BLOOD Plt ___
+___ 06:05AM BLOOD Glucose-110* UreaN-10 Creat-0.6 Na-134 
+K-4.0 Cl-99 HCO3-23 AnGap-___ male with a PMH of prostate cancer s/p 
+prostatectomy, paroxysmal atrial fibrillation, and recent 
+admission for FUO and weight loss who presents with palpitations 
+found to be in atrial fibrillation with RVR. The patient was 
+transferred from Urgent care after he was found to be in Afib w/ 
+RVR, and was experiencing vague chest pain. Conversion from NSR 
+to Afib w/ RVR was felt to be in the setting of patients 2 month 
+history of fevers of unknown origin. The patient was evaluated 
+with EKG, which showed no signs of ischemia, and CTA which 
+showed no e/o PE. The patient was converted back to NSR with IV 
+diltiazem and started on an increased dose of metoprolol. 
+Hospital course c/b hx of unknown fevers (although, afebrile ~24 
+hours during this admission), which patient has had an extensive 
+infectious work up for on recent previous admission, and for 
+which he will follow up with ID on ___, the day after 
+discharge.
+
+#Afib w/ RVR: Patient w/ hx paroxysmal Afib recently diagnosed 
+in ___. Presented w/ vague chest pain, palpitations and HR's 
+in the 130s found to be in Afib w/ RVR. Conversion from NSR to 
+Afib w/ RVR was felt to be in the setting of the patient's 2 
+month history of fevers of unknown origin (see below). The 
+patient was evaluated with EKG, which showed no signs of 
+ischemia, and CTA which showed no e/o PE. The patient was 
+converted back to NSR with IV diltiazem and discharged on an 
+increased dose of metoprolol. 
+
+#FUO: Patient w/ recent admission (discharged ___ where he had 
+extensive infectious disease work up that was negative. Work up 
+on previous admission included: TEE ___ negative for 
+vegetation, negative quant gold (but insufficient to r/o active 
+disease),  negative Lyme antibodies, negative blood and urine 
+cultures (bacterial and fungal). Blood and urine cultures 
+remained negative on this admission. Recent PSA was 0. Patient 
+to follow up with ID on ___, the day after discharge.
+
+# Pericardial effusions: small pericardial effusion seen on TTE 
+(___) during previous admission w/o evidence of tamponade. 
+CTA on this admission showed no e/o increased size of 
+pericardial effusion.  
+
+CHRONIC ISSUES:
+  
+# H/o prostate cancer: s/p prostatectomy, PSA negative ___  
+ 
+# GERD: continued omeprazole  
+
+Transitional Issues
+=====================================
+-Patient to f/u with infectious disease on ___
+-please follow up BP, patient recently uptitrated to metoprolol 
+XL 37.5 mg qday
+
+CODE: Full (confirmed) 
+COMMUNICATION: Patient 
+EMERGENCY CONTACT HCP: ___ (wife) ___
+
+Billing: Greater than 30 minutes spent on discharge counseling 
+and coordination of care
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Docusate Sodium 100 mg PO DAILY 
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+4. Omeprazole 20 mg PO DAILY 
+5. Magnesium Oxide 250 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 37.5 mg PO DAILY 
+Hold if lightheaded / dizzy 
+RX *metoprolol succinate 25 mg 1.5 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*1 
+2.  Aspirin 81 mg PO DAILY  
+3.  Docusate Sodium 100 mg PO DAILY  
+4.  Magnesium Oxide 250 mg PO DAILY  
+5.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Afib w RVR
+Fever of unknown origin
+
+Secondary Diagnosis:
+Pericardial effusion
+history of prostate cancer
+GERD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+It was a pleasure being involved in your care
+
+Why you were here:
+-You were referred from Urgent Care after you began experiencing 
+some palpitations and chest pain
+
+What we did while you were here:
+-We converted your Afib back to normal sinus rhythm with a 
+medication called diltiazem, and increased your home dose of 
+metoprolol from 25mg to 37.5 mg to prevent further episodes of 
+rapid Afib
+-We also spoke with your outpatient Infectious Disease doctor 
+(___) about your fevers and weight loss to try and 
+help determine the etiology for these symptoms
+
+Your next steps
+-Please continue taking your metoprolol 50 mg each day
+-Please follow up with your infectious disease doctor on ___ 
+for further workup of your fevers
+
+We wish you well,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

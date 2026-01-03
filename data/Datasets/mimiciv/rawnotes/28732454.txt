@@ -1,0 +1,354 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Facial droop, slurred speech, difficulty seeing.
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+HPI: Ms. ___ is a ___ woman with sickle cell trait,
+prior strokes (L temporoparietal, bilateral cerebellar, and
+frontal, R frontal), history of blood clots (L transverse sinus
+thrombosis, PE) on apixaban, and multiple miscarriages who
+presents today with a left facial droop, slurred speech, and
+trouble seeing. 
+
+Yesterday morning, she woke up with slurred speech. Her words
+were coming out slurred, but she was saying everything she 
+wanted
+to say and knew what she wanted to say.  She was tired and spent
+most of the day sleeping, so her mother, who lives with her, did
+not notice that she had a facial droop.  She missed 1 dose of
+Eliquis.  This morning, she got out of the shower at 7 AM and
+noticed that she was unable to focus her eyes.  She was unable 
+to
+tell if there is a problem in her vision with one eye or both
+eyes.  Because of this and the facial droop, she came to the
+emergency room.
+
+Of note, she currently has a right lower tooth abscess for which
+she is taking clindamycin.  In ___, she presented to ___ 
+___
+for a 4 day history of speech changes.  She was having trouble
+finding words, with sometimes stutter or substitute words.  She
+was found to have an acute left temporoparietal, small bilateral
+cerebellar and frontal infarcts.  She also had an old right
+frontal infarct on imaging.  MRV showed a left transverse sinus
+thrombus.  She was started on IV heparin and transition to
+warfarin.  She had an extensive workup that included an
+echocardiogram (both transthoracic and transesophageal) and a
+hypercoagulable workup, which were unrevealing.  She remained on
+the warfarin, but this was discontinued in ___ because a cause
+of her stroke was never found.  She was started on aspirin at
+that time.  She did well until ___ when she was found 
+to
+have a pulmonary embolus.  She was then started on apixaban 5 mg
+twice daily.
+ 
+Past Medical History:
+1. Two  prior miscarriages, 
+2. ischemic strokes to the left temporoparietal lobe,bilateral 
+cerebellar, frontal lobes;
+3. pulmonary embolism, 
+4. transverse sinus thrombus, 
+5. sickle cell trait
+
+ 
+Social History:
+___
+Family History:
+HTN and DM. No history of seizures or strokes.
+ 
+Physical Exam:
+Admission Exam:
+
+PHYSICAL EXAMINATION
+Vitals:  T: 98.1F   HR: 102  BP: 138/83  RR: 18  SaO2: 100% RA
+General:  NAD
+HEENT: NCAT,  no oropharyngeal lesions, neck supple
+___: RRR, no M/R/G
+Pulmonary: CTAB, no crackles or wheezes
+Abdomen: Soft, NT, ND, +BS, no guarding
+Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Able to relate
+history without difficulty. Attentive,speech is fluent with full
+sentences, intact repetition, and intact verbal comprehension.
+Naming intact. Able to name individual fingers.  No paraphasias. 
+
+Mild dysarthria. Normal prosody. No apraxia. Unable to read on
+the right (will only read the first two letters of a sentence).
+Writes only on the left side of the page. Will bisect a line on
+with the cross mark on the left. Able to perform calculations. 
+No
+left-right confusion. Able to follow both midline and
+appendicular commands.
+
+- Cranial Nerves: PERRL 3->2 brisk. Optic discs crisp. Dense R
+hemianopsia. EOMI, no nystagmus. V1-V3 without deficits to light
+touch bilaterally. Left lower facial droop. Forehead raise
+symmetric. Hearing intact to finger rub bilaterally.  Palate
+elevation symmetric. SCM/Trapezius strength ___ bilaterally.
+Tongue midline.
+
+- Motor:  Normal bulk and tone. No drift. No tremor or 
+asterixis.
+
+   [Delt] [Bic] [Tri] [ECR] [IO] [IP] [Quad] [Ham] [TA] [Gas]
+    [C5]  [C5]  [C7]  [C6]  [T1] [L2]  [L3]  [L5]  [L4] [S1]
+ L   5     5     5     5     5    5     5     5     5    5 
+ R   5     5     5     5     5    5     5     5     5    5
+  
+- Reflexes: 
+       [Bic] [Tri] [___] [Quad] [Gastroc]
+    L  2+    2+     2+      2+       1
+    R  2+    2+     2+      2+       1  
+
+Plantar response could not be tested as pt's withdrawal was too
+strong even to slight stimulus
+
+- Sensory: No deficits to light touch or pin throughout. No
+exinction to DSS.
+
+- Coordination: No dysmetria with finger to nose testing
+bilaterally. 
+
+- Stance and Gait: broad-based, steady; Romberg is negative
+
+Discharge exam:
+Improvement in her alexia-without-agraphia -- improved reading 
+sight-words. Still reading slower than she did before the 
+stroke.
+Mild left lower facial droop.
+Right homonymous hemianopsia.
+
+ 
+Pertinent Results:
+___ 10:00AM BLOOD WBC-10.1* RBC-3.35* Hgb-8.7*# Hct-26.3*# 
+MCV-79* MCH-26.0 MCHC-33.1 RDW-13.7 RDWSD-39.1 Plt ___
+___ 05:00AM BLOOD WBC-9.1 RBC-2.84* Hgb-7.3* Hct-22.4* 
+MCV-79* MCH-25.7* MCHC-32.6 RDW-13.8 RDWSD-39.5 Plt ___
+___ 11:42PM BLOOD WBC-8.3 RBC-3.08* Hgb-8.3* Hct-24.7* 
+MCV-80* MCH-26.9 MCHC-33.6 RDW-14.2 RDWSD-41.1 Plt ___
+___ 07:30AM BLOOD WBC-6.1 RBC-3.23* Hgb-8.6* Hct-26.1* 
+MCV-81* MCH-26.6 MCHC-33.0 RDW-15.6* RDWSD-45.5 Plt ___
+___ 10:12AM BLOOD Neuts-76.3* Lymphs-13.4* Monos-8.8 
+Eos-0.8* Baso-0.2 Im ___ AbsNeut-6.59* AbsLymp-1.16* 
+AbsMono-0.76 AbsEos-0.07 AbsBaso-0.02
+___ 10:12AM BLOOD Hypochr-2+ Anisocy-1+ Poiklo-1+ 
+Macrocy-NORMAL Microcy-1+ Polychr-1+ Ovalocy-1+ Target-1+ 
+Schisto-1+
+___ 10:12AM BLOOD Hb A-62.3 Hb S-34.1* Hb C-0 Hb A2-3.6* Hb 
+F-0
+___ 07:30AM BLOOD ___ PTT-80.6* ___
+___ 07:30AM BLOOD Glucose-98 UreaN-6 Creat-0.9 Na-143 K-4.2 
+Cl-108 HCO3-23 AnGap-16
+___ 10:12AM BLOOD LD(LDH)-244
+___ 10:00AM BLOOD ALT-11 AST-16 CK(CPK)-101 AlkPhos-60 
+TotBili-0.3
+___ 10:00AM BLOOD CK-MB-3 cTropnT-0.02*
+___ 07:30AM BLOOD Calcium-8.7 Phos-4.0 Mg-2.0
+___ 10:12AM BLOOD calTIBC-339 Hapto-238* Ferritn-17 TRF-261
+___ 01:34PM BLOOD %HbA1c-5.5 eAG-111
+___ 10:00AM BLOOD Triglyc-114 HDL-77 CHOL/HD-1.9 LDLcalc-47
+___ 10:00AM BLOOD TSH-2.6
+___ 10:00AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+ 
+Brief Hospital Course:
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of prior stroke 
+who presented with left lower facial weakness and right 
+homonymous hemianopsia, along with some difficulty speaking. 
+These symptoms were worrisome for stroke. She had a history of 
+prior stroke, and also a history of symptoms suggesting a 
+hyperocagulable state, though her prior hematologic workup 
+(about ___ years ago) did not reveal any caues of a 
+hyper-coagulable state. Her two main symptoms, the hemi-visual 
+field cut and the left lower facial weakness were difficult to 
+localize to the same origin. The left  homonymous hemianopsia 
+was most likely from a stroke in the left PCA distribution, 
+given that she also has alexia without agraphia. The left 
+fusiform gyrus was affected, and the left splenium of the corpus 
+collosum is partially affected on DWI. She most likely had a 
+partial left PCA occlusion, mostly P3, given that she does not 
+have complete amnesia, though she does have some memory 
+difficulties. A more complete PCA occlusion would have a 
+stronger effect on the hippocampus. 
+Ms. ___ left facial weakness was best explained by her 
+right frontal cortical stroke, seen on MRI. She is not aphasic, 
+so she has more distally-affected brain tissue in the right 
+cortical areas. 
+Ms. ___ has several pieces of history suggestive of a 
+hypercoagulable state: she has had 2 miscarriages, a PE, and 
+prior stroke. Ms. ___ also has sickle trait, confirmed on 
+repeat Hb electrophoresis as HbSA disease, and this does not 
+cause a hypercoagulable state. Hematology was consulted 
+initially.
+
+On Ms. ___ first day of admission, her hematocrit was 10 
+points lower than what it was in ___, the last hct in 
+the BI system, so she was transfused with 1U of blood. She 
+endorsed heavy periods, and given her microcytosis and low iron, 
+it was thought that an iron deficiency anemia, likely from her 
+recent extremely heavy periods, was to blame for her hct drop. 
+At the time, she had no symptoms of anemia -- she was not 
+tachycardic or light-headed. She tolerated the 1U of pRBC well. 
+Labs for a hyper-coagulable workup were drawn, except for lupud 
+anti-coagulant. Anti-cardiolipin antibodies were negative. No 
+other labs were revealing (see full list in ___). 
+She was started on a heparin drip, and then warfarin. While 
+inpatient, we attempted to search for a source for her 
+hypercoagulable, given her otherwise negative lab workup.
+Since she had recent dental work, blood cultures were drawn x3, 
+which remained negative throughout her hospitalization. 
+Echo showed no thrombus, and no PFO.
+CT chest, abdomen, and pelvis was performed. Abdomen and pelvis 
+showed enlarged and heterogeneous uterus, though findings could 
+be explained by adenomyosis or uterine fibroids, a mass cannot 
+be excluded.  Further characterization with pelvic MRI was 
+performed, and showed:
+1.  Enlarged uterus secondary to adenomyosis. 
+2.  At least three small uterine fibroids. 
+3.  Normal ovaries. 
+CT chest showed Subsegmental right lower lobe and left lower 
+lobe small pulmonary emboli. The CT chest also revealed 
+questionable sclerotic focus in L1. A bone scan was performed, 
+to clarify this lesion, and showed no evidence of osseous 
+metastatic disease.
+Ultimately, it was thought that Ms. ___ hypercoagulable 
+state is not likely due to an occult malignancy, because she has 
+been hypercoagulable for several years, and for a malignancy to 
+show no other symptoms for this length of time would be very 
+rare. It is most likely that Ms. ___ has anti-phospholipid 
+antibody syndrome, given the characterization of her clotting 
+tendencies, and given that her platelets improved after she 
+became therapeutic on her heparin drip; though, we do not have 
+the complete testing to confirm the diagnosis at this time, and 
+that testing should be pursued as an outpatient.
+
+Ms. ___ was discharged on Coumadin, and instructed to get an 
+INR checked the next morning at ___ clinic. She 
+was given a prescription for outpatient physical therapy.
+She agreed with plans for discharge and follow-up with 
+hematology, neurology, her PCP, ___, gynecology.
+She should have formal visual field testing as well as an 
+outpatient before she is allowed to return to driving.
+
+============================================
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed  () No
+2. DVT Prophylaxis administered? (x) Yes - () No
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No
+4. LDL documented? (x) Yes (LDL = 47 ) - () No
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 100) () Yes - (x) No [if 
+LDL >100, reason not given: ]
+6. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No
+9. Discharged on statin therapy? () Yes - (x) No [if LDL >100, 
+reason not given: ]
+10. Discharged on antithrombotic therapy? (x) Yes [Type: () 
+Antiplatelet - (x) Anticoagulation] - () No
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - (x) N/A
+
+Items for post-hospitalization follow-up:
+- Discharged on Coumadin 7.5mg daily, INR goal 2.5-3.5.
+- Heavy menstrual bleeding -- pelvic MRI showed uterine 
+adenomyosis and 3 small uterine fibroids.
+- Anemia -- started iron supplementation while inpatient.
+- Hyper-coag workup -- leading hypothesis is anti-phospholipid 
+antibody syndrome, though anti-cardiolipin antibodies neg. Need 
+to test Lupus Anticoagulants as an outpatient.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Apixaban 5 mg PO BID 
+2. Clindamycin 300 mg PO Q8H 
+
+ 
+Discharge Medications:
+1.  Ferrous Sulfate 325 mg PO DAILY 
+RX *ferrous sulfate [Iron (ferrous sulfate)] 325 mg (65 mg iron) 
+1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*6 
+2.  Warfarin 7.5 mg PO DAILY16 
+RX *warfarin [Coumadin] 7.5 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*1 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Ischemic stroke
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms.  ___,
+You were hospitalized due to symptoms of difficulty seeing, 
+reading, and facial droop, resulting from an ACUTE ISCHEMIC 
+STROKE, a condition where a blood vessel providing oxygen and 
+nutrients to the brain is blocked by a clot. The brain is the 
+part of your body that controls and directs all the other parts 
+of your body, so damage to the brain from being deprived of its 
+blood supply can result in a variety of symptoms.
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+- Blood clotting disorder (unknown exact diagnosis)
+
+We are changing your medications as follows:
+<>
+Please take your other medications as prescribed.
+
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

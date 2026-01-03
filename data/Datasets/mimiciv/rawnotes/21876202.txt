@@ -1,0 +1,304 @@
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+zolpidem, demerol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weakness 
+
+ 
+Major Surgical or Invasive Procedure:
+n/a
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with the past
+medical history noted below who presents from home with 
+weakness,
+lightheadedness. Pt gives incomplete hx due to dementia. At
+present denying abdominal pain, chest pain, dyspnea,
+lightheadedness, fevers, malaise. Only complaint is right knee
+pain, which has been operated on remotely. Unsure of what she
+takes at home for pain.
+
+Discussed with son over the phone, ___:
+Generally has dementia with about a year and a half of decline.
+Poor Po intake yesterday morning and feeling lightheaded, shaky.
+Patient concerned she had low blood sugar but didn't have
+glucometer, and she ate. Some confusion. 
+
+Per son, PCA coming every day from ___. Day care agency is 
+being
+set up. Son helps with medication. 
+ 
+In ED: 
+VS significant for HR in the 120s recorded; 90s at rest on
+monitor and up to 130s ambulating; sbp 110-160s RA
+Labs: cbc wnl, bmp wnl, INR 1.5 (on Coumadin), UA with tr blood
+and prt
+Got home meds + 25 PO metop, 500mL NS
+CTH: extensive microvascular dss unchanged; no acute process
+CT a/p: no acute abnormality, diverticulosis without
+diverticulitis
+ 
+Past Medical History:
+h/o Afib on Warfarin  
+DM  
+HTN  
+CHF  
+Dementia  
+osteoarthritis  
+hyperlipidemia  
+GERD  
+osteoporosis. 
+-___: mild diverticulitis treated with ciprofloxacin and 
+metronidadzole. 
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this illness/reason for 
+hospitalization.
+ 
+Physical Exam:
+ADMISSION:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress; AOx1 (person, knows
+she's in a hospital but unsure which one)
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  JVP at 6cmH2O
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs; right knee with
+longitudinal surgical scar, well healed; no effusion, mild 
+medial
+joint line tenderness
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+===============================================================
+DISCHARGE: 
+GENERAL: Alert, NAD
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: rrr, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored.
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM.
+MSK: Neck supple, moves all extremities
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, face symmetric, speech fluent, moves all limbs,
+sensation to light touch grossly intact throughout.
+PSYCH: very pleasant, appropriate affect
+
+ 
+Pertinent Results:
+CT abd/pelvis ___:
+1. No acute abnormality within the imaged abdomen and pelvis. 
+2. Diverticulosis without evidence of acute diverticulitis. 
+3. Incompletely characterized 9 mm hypoattenuating mass in the
+upper pole of 
+the right kidney may reflect an RCC or cyst with proteinaceous
+contents, 
+similar in appearance to ___ CT. 
+4. 1.2 cm thickened endometrium is similar to prior CT. 
+5. Extensive atherosclerotic disease. 
+6. Diverticulosis without evidence of acute diverticulitis. 
+
+CXR ___:
+Patient rotated to the left.  Subtle posterior basilar opacity
+seen on the  lateral view raises concern for pneumonia and/or
+atelectasis. 
+
+CT head w/o contrast ___:
+1. No acute intracranial process. 
+2. Chronic lacunar infarcts, chronic small vessel ischemic
+changes. 
+
+EKG 917, my interpretation: Right bundle branch block, irregular
+rhythm, ventricular rate 89, QTC 402, no ST elevation noted.
+
+___ 08:03PM   GLUCOSE-106* UREA N-24* CREAT-1.0 SODIUM-139 
+POTASSIUM-4.6 CHLORIDE-98 TOTAL CO2-27 ANION GAP-14
+___ 08:03PM   ALT(SGPT)-28 AST(SGOT)-39 ALK PHOS-222* TOT 
+BILI-0.4
+___ 08:03PM   25OH VitD-38
+___ 08:03PM   TSH-2.8
+___ 08:03PM   %HbA1c-6.3* eAG-134*
+ 
+Brief Hospital Course:
+# Patient presented with weakness, lightheadedness: Unclear 
+exact nature of Sx or degree, as pt poorly able to report. Son 
+thinks that pt was somewhat anxious and he was concerned for 
+hypoglycemia, though glucose never taken. 
+Differential would include hypoglycemia, volume depletion, 
+hypotension including orthostatic hypotension, bradycardia or 
+other cardiac arrhythmia.  Patient apparently has had poor PO 
+intake and does take long-acting glipizide so hypoglycemia is 
+certainly a possibility.  No blood sugar was checked at the time 
+of her dizziness so cannot know for sure.  She is on an AV nodal 
+blocker and potentially could be experiencing symptomatic 
+bradycardia related to this, she is also on amlodipine.  
+Telemetry showed occasional episodes of asymptomatic rapid A. 
+fib with ventricular rate in the 120s, however in general her 
+heart rate runs in the ___.  Systolic blood pressures have 
+been in the 120s-130s, we held her home amlodipine to allow some 
+permissive hypertension in the setting of elderly patient with 
+dizziness. No s/s infection. 
+- volume given
+- Held glipizide inpatient and on discharge.
+- will hold amlodipine and allow some permissive hypertension
+- halved her home Metoprolol on discharge
+
+#abdominal pain: appears chronic in nature, intermittent, not 
+related to food intake.  CT scan reviewed.  LFTs normal.  Last 
+bowel movement was yesterday and she had 3 so a low concern for 
+constipation.  No hernia detected. No bowel changes. Tolerating 
+diet. No further workup indicated.
+
+#social: Pt living with son who has to work long hours. Son well 
+aware of ___ medical condition including meds, reassuring of no 
+willful neglect, though he expresses concerns that pt's needs at 
+present are too great to be met with current arrangement. 
+- SW--appreciate evaluation.  Apparently the son ___ has set up 
+an adult daycare for the patient at ___  (where the 
+patient has been in years past) has just been financially 
+approved and they are working with the PCP to complete 
+paperwork.
+Once the patient goes to adult day care (___), Max will 
+rearrange the hours for the PCA and companion which will provide 
+more hours of supervision for the patient daily.  
+
+#AF w RVR: pt in 90-100 range at rest though also jumping to 
+160s with movement. On Coumadin
+- decreased home metop from 50mg to 25mg q day
+* Her INR was subtherapeutic. Unclear if she was actually taking 
+this medication as prescribed at home (she was sometimes 
+refusing her meds inpatient), so have not adjusted the dose on 
+discharge but this may very likely need adjustment outpatient. 
+She has PCP ___.
+
+#knee pain: OA
+- Tylenol scheduled
+
+#reported Hx HF: unclear whether this is true Dx. Med list with 
+Lasix at undetermined date in the past. Euvolemic at present. 
+
+#T2DM: glipizide at home; SSI ordered inpatient
+- A1c 6.3
+- consider holding outpatient glipizide on DC given inconsistent 
+diet as outpatient.
+
+#right renal lesion: likely cystic lesion on CT a/p, message to 
+PCP for clinical follow up as needed
+
+#dementia: delirium risk
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Docusate Sodium 100 mg PO BID 
+2. GlipiZIDE 2.5 mg PO DAILY 
+3. Omeprazole 40 mg PO DAILY 
+4. Propylthiouracil 50 mg PO DAILY 
+5. amLODIPine 5 mg PO DAILY 
+6. Gabapentin 300 mg PO BID 
+7. Vitamin D 1000 UNIT PO DAILY 
+8. Warfarin 1 mg PO DAILY16 
+9. Metoprolol Succinate XL 50 mg PO DAILY 
+10. Atorvastatin 80 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 25 mg PO DAILY 
+We decreased the dose because your blood pressure was low. 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*1 
+2.  Atorvastatin 80 mg PO QPM  
+3.  Docusate Sodium 100 mg PO BID  
+4.  Gabapentin 300 mg PO BID  
+5.  Omeprazole 40 mg PO DAILY  
+6.  Propylthiouracil 50 mg PO DAILY  
+7.  Vitamin D 1000 UNIT PO DAILY  
+8.  Warfarin 1 mg PO DAILY16  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+#weakness, lightheadedness
+#abdominal pain
+#knee pain
+#reported history of heart failure
+#Atrial fibrillation
+#type II diabetes
+#right renal lesion
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___, 
+
+You presented to the hospital with feelings of lightheadedness, 
+shakiness, and confusion.  This was felt to be due to possibly a 
+number of different factors, including some mild dehydration, 
+possibly changes in blood pressure, and possible low blood 
+sugar.  
+
+(1) For your mild dehydration, he was given some fluids on 
+admission.
+
+(2) We are unable to definitively say if your blood sugar was 
+low when you are having these episodes, but we did hold your 
+home diabetic medication glipizide while you are here just in 
+case.  If you are not eating well, but still taking this 
+medicine, your blood sugar can become low and cause the 
+symptoms.  This medication was also held on discharge, please 
+follow-up with your primary care provider to determine if that 
+should be resumed.  It can be quite dangerous if your blood 
+sugar becomes too low.
+
+(3) It is also possible that your blood pressure drops 
+occasionally, especially when you are going from a sitting to 
+standing position.  For this reason, we did not give you your 
+amlodipine while you are in the hospital, and we did not resume 
+this medication upon discharge. We also decreased your home dose 
+of Metoprolol because your blood pressure was low.
+It is important for you to follow-up with your outpatient doctor 
+to determine if this medication is needed long-term.
+
+Thank you for allowing us to participate in your care!
+Your ___ Team
+
+ 
+Followup Instructions:
+___

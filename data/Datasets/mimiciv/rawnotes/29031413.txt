@@ -1,0 +1,397 @@
+Notes
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+shellfish derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Prosthetic Joint Infection
+ 
+Major Surgical or Invasive Procedure:
+___ Explant of Right hip prosthesis and placement of an 
+antibiotic spacer
+___ RUE ___ placement
+ 
+History of Present Illness:
+HPI(4): Mr. ___ is a ___ male with history of  
+___, AF on Coumadin, CKD and recurrent right prosthetic hip 
+infections requiring multiple revisions most recently s/p total 
+right hip replacement in ___ now presenting with recurrent PJI 
+with fluid aspirate growing pseudomonas. He was transferred from 
+___ for planned washout and likely removal of hardware with 
+ortho on ___. Course complicate by hypotension now 
+resolved, ___ on CKD with likely ATN now improving, and 
+decompensated heart failure with profound acute on chronic 
+lymphedema and scrotal swelling. 
+
+OSH Course: patient initially presented to ___ on 
+___ with generalized weakness and recurrent falls. He was found 
+to be hypotensive with leukocytosis to 23 and bandemia with 
+poorly healing surgical wound at site of left hip replacement 
+(most recently in ___ and active purulent drainage and 
+erythema with fluid collection noted on CT scan. He underwent 
+ultrasound guided aspiration of joint fluid the next day with 
+fluid culture positive for pseudomonas sensitive to cefepime but 
+has been continued on broad spectrum coverage with cefepime, 
+linezolid and fluconazole since admission. He required fluid 
+rescuscitation on admission for hypotension despite profound 
+volume overload and ongoing decompensated heart failure with ___ 
+on on CKD with peak Cr of 4 felt to have a component of 
+non-oliguric ATN which has been slowly improving. Prior to this 
+admission, his outpatient cardiologist had been increasing his 
+home diuretic therapy for acute on chronic diastolic heart 
+failure with severe TR though without adequate response. 
+
+ROS: Pertinent positives and negatives as noted in the HPI. All 
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+h/o PJI of hip, R - multiple infexns requiring prosthetic  
+removal, spacer placement and recent total hip arthroplasty in 
+___ at ___ with Dr. ___
+OSA on CPAP
+AF on Coumadin (last dose ___
+T2DM
+HTN
+BPH
+Gout 
+Chronic ___ lymphedema
+Chronic diastolic Heart failure - chronic right sided heart 
+failure
+Severe TR
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this illness/reason for 
+hospitalization.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VITALS: Temp: 98.4, BP: 168/74, HR: 91, RR: 18, O2 sat: 95% on 
+RA
+___: Weight: 276 lbs, BMI: 43.2
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema. Oropharynx without 
+visible lesion, erythema or exudate
+CV: Heart irregular, soft ejection murmur, no S3, no S4.  No 
+JVD.
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally. Breathing is non-labored
+GI: Abdomen softly distended, non-tender to palpation. Bowel 
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly 
+symmetric
+SKIN: extensive chronic venous stasis to bilateral ___, 3+ 
+edema with scrotal swelling, skin weeping, open surgical wound 
+to left hip with scant purulent drainage, though per RN report 
+was soaked through dressing on arrival.
+NEURO: Alert, oriented, face symmetric, speech fluent, moves all 
+limbs
+PSYCH: pleasant, appropriate affect
+
+DEATH EXAM:
+No heart or lung exams after auscultating for 60 seconds. Does 
+not withdraw to painful stimuli. No corneal reflex. Pupils fixed 
+and dilated. No carotid pulse.
+
+DISCHARGE PHYSICAL EXAM:
+
+ 
+Pertinent Results:
+OSH LABS: 
+---------
+___
+ CBC: 12.1 > 9.1 / 30.3 <125
+ Diff: 87.1% PMNs
+ INR 1.5
+ BMP: 139 / 3.4 > 103 / 24 < 81 / 2.58; gluc 113, eGFR 24, Ca 
+9.5, 
+
+___
+ CBC: 14.3 > 9.4 / 30.2 < 142
+ INR 1.6
+ BMP: 138 / 3.7 > 102 / 22 < 82 / 2.87; eGFR 22, gluc 111, Ca 
+9.3, phos 3.1
+ LFP: ALT 11, AST 13, ALP 116, Albumin 1.9, Tptn 5.6, Tbili 0.8, 
+Uric acid 9.1
+ Ferritin 135, Iron 16, TIBC 237, Tsat 6.8%
+ B12 919, folate 4.4
+ ___ IgM nonreactive
+ HepB cIgM nonreactive
+ HepB sAg nonreactive
+ Hep C Ab nonreactive
+ C3 102
+ C4 27
+
+Admission Labs: 
+ CBC: 21 > 39 < 173; 40% bands
+ Cr 2.73
+ trp 0.095
+ UA "positive for UTI"
+ INR 2
+ ESR 110
+ ANCA, SPEP/UPEP: PENDING
+
+ADMISSION LABS:
+----------------
+___ 09:45PM BLOOD WBC-12.4* RBC-3.49* Hgb-9.9* Hct-33.8* 
+MCV-97 MCH-28.4 MCHC-29.3* RDW-18.4* RDWSD-64.0* Plt ___
+___ 05:52AM BLOOD Neuts-85.6* Lymphs-4.0* Monos-7.7 Eos-1.4 
+Baso-0.1 Im ___ AbsNeut-10.40* AbsLymp-0.49* AbsMono-0.94* 
+AbsEos-0.17 AbsBaso-0.01
+___ 09:45PM BLOOD ___ PTT-34.1 ___
+___ 09:45PM BLOOD Plt ___
+___ 09:45PM BLOOD Glucose-113* UreaN-72* Creat-2.2* Na-139 
+K-4.0 Cl-100 HCO3-24 AnGap-15
+___ 05:52AM BLOOD ALT-7 AST-17 LD(LDH)-150 AlkPhos-221* 
+Amylase-36 TotBili-1.0
+___ 05:52AM BLOOD Lipase-34
+___ 05:52AM BLOOD Albumin-3.0* Calcium-9.7 Phos-3.2 Mg-2.0
+
+INTERIM LABS:
+-------------
+___ 09:11PM BLOOD Glucose-105* UreaN-88* Creat-5.0* Na-132* 
+K-5.6* Cl-88* HCO3-26 AnGap-18
+___ 06:14AM BLOOD ALT-7 AST-18 LD(LDH)-222 AlkPhos-251* 
+TotBili-1.0
+___ 03:28PM BLOOD CK-MB-<1 cTropnT-0.05*
+___ 07:35AM BLOOD TSH-3.9
+___ 07:35AM BLOOD Free T4-1.5
+___ 06:14AM BLOOD CRP->300
+___ 05:26AM BLOOD CRP-158.3*
+
+OSH MICRO:
+___ OSH R hip wound Cx: pseudomonas aeruginosa and serratia. 
+Serratia R to cefazolin, otherwise pan-sensitive. PsA ___ to 
+amikacin, gent, tobra, cefepime, lveoflox, ciproflox, imipenamm 
+zosyn. 
+
+pending on transfer: UCx, BCx x2, wound Cx
+ 
+___ MICRO:
+-------------
+___ 6:46 pm Foreign Body - Sonication Culture
+      RIGHT TOTAL HIP IMPLANT. 
+
+   Sonication culture, prosthetic joint (Final ___: 
+      Reported to and read back by J.___ ___ 10:10AM. 
+      SERRATIA MARCESCENS.    <16 CFU/10ML. 
+         This result may not be clinically significant and 
+should be
+         interpreted in the context of microbe detected. 
+         This organism may develop resistance to third 
+generation
+         cephalosporins during prolonged therapy. Therefore, 
+isolates that
+         are initially susceptible may become resistant within 
+three to
+         four days after initiation of therapy.  For serious 
+infections,
+         repeat culture and sensitivity testing may therefore be 
+warranted
+         if third generation cephalosporins were used. 
+         Piperacillin/Tazobactam test result performed by ___ 
+___. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             SERRATIA MARCESCENS
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----       S
+TOBRAMYCIN------------     2 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED. 
+
+OSH IMAGING
+--------------
+- ___  OSH CT R hip W/O contrast: Intramuscular fluid collection 
+of the lateral right proximal thigh contiguous with the fracture 
+plane of the displaced right greater trochanter which 
+demonstrates findings of osteolysis likely from infection. There 
+is an additional large superficial fluid collection of the 
+lateral thigh.
+
+___ IMAGING:
+----------------
+TTE ___: 
+The left atrium is moderately dilated. The right atrium is 
+moderately enlarged. There is no evidence for an atrial septal 
+defect by 2D/color Doppler. The estimated right atrial pressure 
+is >15mmHg. There is normal left ventricular wall thickness with 
+a normal cavity size. There is normal regional left ventricular 
+systolic function. There is no resting left ventricular outflow 
+tract gradient. Moderately dilated right ventricular cavity with 
+moderate global free wall hypokinesis (Fractional Area Change 
+30%; normal >35%). Intrinsic right ventricular systolic function 
+is likely lower due to the severity of tricuspid regurgitation. 
+There is abnormal interventricular septal motion c/w right 
+ventricular volume overload. The aortic sinus diameter is normal 
+for gender with normal ascending aorta diameter for gender. The 
+aortic valve leaflets (3) are mildly thickened. There is minimal 
+aortic valve stenosis. There is no aortic regurgitation. The 
+mitral valve leaflets are mildly thickened with no mitral valve 
+prolapse. There is mild [1+] mitral regurgitation. The tricuspid 
+valve leaflets appear structurally normal with leaflets that 
+fail to fully coapt. There is severe [4+] tricuspid 
+regurgitation. There is SEVERE pulmonary artery systolic 
+hypertension. In the setting of at least moderate to severe 
+tricuspid regurgitation, the pulmonary artery systolic pressure 
+may be UNDERestimated. There is a trivial pericardial effusion. 
+IMPRESSION: Normal left ventricular wall thickness, cavity size, 
+and regional/global systolic function. Moderate right 
+ventricular cavity dilation with at least moderate systolic 
+dysfunction. Failure of the tricuspid leaflets to coapt fully 
+with severe tricuspid regurgitation. Mild mitral regurgitation. 
+Minimal aortic valve stenosis. Severe pulmonary artery systolic 
+hypertension.
+
+R FEMUR X-RAY ___:
+There is a right total hip arthroplasty.  There is a displaced 
+right greater trochanter fracture fragment.  Comparison old 
+films would be helpful to establish if this is an interval 
+change 
+
+R PEVIS X-RAY ___:
+Right total hip arthroplasty.  There is a displaced greater 
+trochanter.  There is unclear this is an acute or chronic 
+finding. 
+
+RLE DOPPLER ___: No evidence of deep venous thrombosis in 
+the right lower extremity veins.
+
+TTE ___
+The left atrium is moderately dilated. The right atrium is 
+moderately enlarged. There is no evidence for an atrial septal 
+defect by 2D/color Doppler. The estimated right atrial pressure 
+is >15mmHg. There is normal left ventricular wall thickness with 
+a normal cavity size. There is normal regional left ventricular 
+systolic function. There is no resting left ventricular outflow 
+tract gradient. SEVERELY dilated right ventricular cavity with 
+low normal free wall motion. Intrinsic right ventricular 
+systolic function is likely lower due to the severity of
+tricuspid regurgitation. There is abnormal interventricular 
+septal motion c/w right ventricular pressure and volume 
+overload. The aortic sinus diameter is normal for gender with 
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal with a normal descending aorta diameter. The 
+aortic valve leaflets (3) are mildly thickened. There is no 
+aortic valve stenosis. The increased velocity is due to high 
+stroke volume. There is no aortic regurgitation. The mitral 
+valve leaflets are mildly thickened with no mitral valve
+prolapse. There is mild [1+] mitral regurgitation. The tricuspid 
+valve leaflets appear structurally normal. There is severe [4+] 
+tricuspid regurgitation. There is SEVERE pulmonary artery 
+systolic hypertension. In the setting of at least moderate to 
+severe tricuspid regurgitation, the pulmonary artery systolic 
+pressure may be UNDERestimated. There is no pericardial 
+effusion. Compared with the prior TTE ___, the estimated 
+pulmonary arterial pressure is greater, possibly related to 
+technique. The right ventricular ___ are similar with 
+similar severity of tricuspid regurgitation.
+
+CXR ___
+Lungs are clear.  Cardiomediastinal silhouette is stable.  
+Right-sided PICC line projects to the distal SVC.  There is no 
+pleural effusion.  No pneumothorax is seen.
+
+Renal US ___
+Multiple bilateral renal cysts.  No evidence of hydronephrosis 
+or nephrolithiasis.
+
+CT Right Leg ___. Large complex fluid collection extending from the right hip 
+skin staples to surround the right femur following hardware 
+explantation.  Findings are consistent with a large hematoma, 
+however superinfection cannot be entirely excluded on this 
+noncontrast examination.
+2. Sequelae of total right hip arthroplasty and subsequent 
+explantation with persistent acetabular protrusio and a 
+periprosthetic fracture involving the femoral diaphysis.
+3. Nonspecific partially calcified soft tissue density mass in 
+the right inguinal canal of uncertain etiology.  Comparison with 
+prior studies, if they can be made available, would be useful.  
+Otherwise further evaluation with ultrasound is recommended.
+
+Renal US ___
+Multiple bilateral simple renal cysts.  No hydronephrosis on 
+either side.
+
+US Right Inguinal Region ___
+Heterogeneous hypoechoic nonvascular and partially calcified 
+mass in the right inguinal canal concordant with soft tissue 
+mass seen on CT from ___, similar in size.  The etiology 
+is indeterminate based on this study.  MR may be considered for 
+further characterization.
+ 
+Brief Hospital Course:
+___ is ___ M with type II DM, HFpEF, AF on 
+warfarin, CKD (Cr baseline ~1.1), and recurrent R prosthetic hip 
+infections, admitted initially for septic prosthetic right hip, 
+s/p explant of his right hip prosthesis and placement of an 
+antibiotic spacer ___, with a long hospital course complicated 
+by ___, acute on chronic HFpEF, and right hip hematoma.
+
+Given his chronic issues and the multitude of complications 
+during the hospitalization, Mr. ___ discussing with 
+his partner ___ decided on ___ to be made CMO. Antibiotics 
+were discontinued and all further therapeutics were held in 
+favor of comfort care. His analgesic regimen was liberalized and 
+he was started on IV lorazepam. On ___, he died of acute renal 
+failure with his partner ___ at the bedside.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Hydrochlorothiazide 25 mg PO DAILY 
+2. Fluconazole 200 mg PO Q24H 
+3. TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+4. MetFORMIN (Glucophage) 500 mg PO DAILY 
+5. meloxicam 15 mg oral DAILY 
+6. Furosemide 40 mg PO DAILY 
+7. cloNIDine HCl 0.1 mg oral DAILY 
+8. Tamsulosin 0.4 mg PO DAILY 
+9. Allopurinol ___ mg PO BID 
+10. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+11. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES TID 
+12. Digoxin 0.125 mg PO ___ AND ___ 
+13. Nystatin Cream 1 Appl TP BID 
+14. Metoprolol Succinate XL 100 mg PO DAILY 
+15. Warfarin 0.5-2 mg PO DAILY16 
+
+ 
+Discharge Medications:
+Death
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Death
+ 
+Discharge Condition:
+Death
+ 
+Discharge Instructions:
+Death
+ 
+Followup Instructions:
+___

@@ -1,0 +1,320 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+transfer from ___ for difficult-to-control hepatic hydrothorax, 
+cirrhosis decompensated with ascites, ___
+ 
+Major Surgical or Invasive Procedure:
+none 
+
+ 
+History of Present Illness:
+___ with EtOH/HCV cirrhosis Child's class C (complicated by 
+ascites, varices, hepatic encephalopathy, SBP, alcoholic 
+hepatitis), HCC, EtOH use, and COPD who is being transferred 
+from ___ for a difficult-to-manage hepatic hydrothorax and 
+possible COPD exacerbation, causing hypoxia. He is also noted to 
+have a resolving ___ and decompensated cirrhosis, manifesting as 
+ascites. 
+
+He presented to ___ on ___ with worsening dyspnea. He was 
+seen on ___ by interventional radiology at ___ for possible 
+RFA of ___ lesions - at that time he was found to be SOB with 
+significant pleural effusion on the right side. Sent to the ED, 
+where he had a thoracentesis and was found to have hypoxia/new 
+O2 requirement, ascites and Cr 1.6 (baseline 0.7-0.8). Admitted 
+for management of volume overload. While admitted, he received 
+diuresis with torsemide 20mg daily and spironolactone 100mg 
+daily. The hepatic hydrothorax re-accumulated rapidly despite 
+diuresis and improvement of creatinine/ascites/peripheral edema. 
+He had a second thoracentesis on ___ (1.6L removed). The case 
+was discussed with Dr ___ at ___, who accepted the patient for 
+transfer for ongoing management of hepatic hydrothorax and 
+consideration of TIPS. His creatinine improved to 1.0 by the 
+time of transfer to ___.
+
+On arrival, he reports feeling much improved as compared to 
+arrival at ___ - abdominal distension is improved, peripheral 
+edema is improved. He denies SOB, but reports that his voice 
+sounds a little hoarse, which is a sign for him that his 
+effusion is re-accumulating. No fever/chills.
+ 
+Past Medical History:
+#HCV cirrhosis c/b HE, HCC, ascites, SBP, varices
+#HCV tx ___ years ago with interferon and ribavirin, no SVR  
+#hiatal hernia  
+#COPD  
+#history of Lyme encephalitis and Bell's palsy
+#s/p abdominal surgery in ___ secondary to an abdominal stab 
+wounds.  
+ 
+Social History:
+___
+Family History:
+Father - AAA, lung cancer (smoker), dementia
+Mother - COPD (smoker), HTN 
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+VS: T 97.8, BP 135/73, HR 91, RR 18, ___ NC 
+GENERAL: well-appearing man, lying propped up in bed, NAD. 
+Alert.
+HEENT: no scleral icterus, MMM
+CARDIAC:  RRR, S1+S2, no M/R/G
+PULMONARY:  absent breath sounds over lower ___ R lung, 
+otherwise CTAB
+ABDOMEN:  mildly distended, soft, non-tender. Normoactive bowel 
+sounds. Large vertical midline surgical scar.
+EXTREMITIES: 1+ pitting edema halfway up shins b/l
+SKIN: no jaundice
+NEUROLOGIC:  oriented to self, ___
+
+DISCHARGE EXAM
+==============
+VS: T 98.0, BP 110-116/63-68, HR 81-94, RR 18, ___
+GENERAL: well-appearing man, lying propped up in bed, NAD. 
+Alert. Nasal cannula in place.
+HEENT: no scleral icterus, MMM
+CARDIAC:  RRR, S1+S2, no M/R/G
+PULMONARY:  absent breath sounds over lower ___ R lung, 
+otherwise CTAB
+ABDOMEN:  mildly distended, soft, non-tender. Normoactive bowel 
+sounds. Large vertical midline surgical scar.
+EXTREMITIES: trace pitting edema halfway up shins b/l
+SKIN: no jaundice
+NEUROLOGIC:  no asterixis 
+ 
+Pertinent Results:
+ADMISSION LABS
+=============
+___ 09:50PM   ___ PTT-34.0 ___
+___ 09:50PM   PLT COUNT-140*
+___ 09:50PM   WBC-11.7* RBC-2.75* HGB-10.1* HCT-29.3* 
+MCV-107* MCH-36.7* MCHC-34.5 RDW-14.6 RDWSD-57.1*
+___ 09:50PM   HCV VL-5.9*
+___ 09:50PM   ALBUMIN-2.3* CALCIUM-7.8* PHOSPHATE-2.8 
+MAGNESIUM-1.8
+___ 09:50PM   ALT(SGPT)-53* AST(SGOT)-112* ALK PHOS-244* 
+TOT BILI-3.7*
+___ 09:50PM   GLUCOSE-136* UREA N-14 CREAT-1.2 SODIUM-131* 
+POTASSIUM-3.5 CHLORIDE-93* TOTAL CO2-31 ANION GAP-11
+
+MICRO
+=====
+__________________________________________________________
+___ 6:19 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 5:10 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 4:00 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+DISCHARGE LABS
+=============
+___ 06:03AM BLOOD WBC-9.2 RBC-2.63* Hgb-9.8* Hct-29.0* 
+MCV-110* MCH-37.3* MCHC-33.8 RDW-14.8 RDWSD-60.1* Plt ___
+___ 06:03AM BLOOD Plt ___
+___ 06:03AM BLOOD ___ PTT-38.6* ___
+___ 06:03AM BLOOD Glucose-67* UreaN-12 Creat-1.0 Na-139 
+K-4.1 Cl-101 HCO3-30 AnGap-12
+___ 06:03AM BLOOD ALT-40 AST-93* AlkPhos-207* TotBili-3.6*
+___ 06:03AM BLOOD Albumin-3.0* Calcium-8.7 Phos-3.4 Mg-2.0
+
+IMAGING/STUDIES
+==============
+___ OR GALLBLADDER US
+1. Of note, this is a limited exam due to patient inability to 
+cooperate with
+breath holding.
+2. Within these limitations, the hepatic vasculature appears 
+patent.
+3. Cirrhotic liver with associated mild-to-moderate perihepatic 
+ascites. 
+Multiple hypoechoic liver lesions are noted and not well 
+characterized on this
+exam, but suspicious for hepatomas in this patient with history 
+of cirrhosis.
+4. Moderate right pleural effusion.
+
+___ (PA & LAT)
+Moderate to large right pleural effusion with subjacent 
+atelectasis.
+ 
+Brief Hospital Course:
+___ with EtOH/HCV cirrhosis Child's class C (complicated by 
+ascites, varices, hepatic encephalopathy, SBP, alcoholic 
+hepatitis), HCC, EtOH use, and ___ transferred from CHA for a 
+difficult-to-manage hepatic hydrothorax and possible COPD 
+exacerbation, causing hypoxemia. 
+
+#HYPOXEMIA:
+#HEPATIC HYDROTHORAX: Recurrent hepatic hydrothorax over the 
+past several months, likely a consequence of portal 
+hypertension. Has been difficult to get under control with 
+diuresis alone; pt also doesn't have ascites, so paracentesis 
+for volume management would not be feasible. Patient sent to 
+___ for possible consideration of TIPS for volume management, 
+but given Child's class C cirrhosis with MELD 21 and very recent 
+EtOH, he is not a candidate for TIPS. He was actively discharged 
+during admission. Discharged on Spironolactone 100 mg PO/NG 
+DAILY, torsemide 20mg. Will get regularly scheduled outpatient 
+thoracenteses as an outpatient.
+
+#EtOH/HCV CIRRHOSIS: Child's class C, MELD-Na 21. History of 
+ascites, varices (grade I), hepatic encephalopathy, SBP, 
+alcoholic hepatitis. Not on beta blocker for varices because 
+they are only grade I. Currently decompensated with hepatic 
+hydrothorax. No evidence of HE. Continued home Lactulose 30 mL 
+PO/NG BID, Rifaximin 550 mg PO/NG BID, SBP ppx Ciprofloxacin HCl 
+500 mg PO/NG Q24H. Discussed with patient coordinating 
+reactivation on transplant list, he will meet with transplant 
+social work as an outpatient.
+
+#RISING BILIRUBIN: total bilirubin previously between ___ (in 
+___, was 3.0 on admission to ___ (___). Peaked at 4.2 and 
+trended down. No clear etiology. No evidence of infection this 
+admission.
+
+#HCC: noted in ___, initially seen by tumor clinic at ___, 
+but apparently was following with team at ___. Was being 
+evaluated by ___ for RFA at the time of admission. I reviewed CHA 
+records and do not see any notes from GI/hepatology or oncology. 
+Will need further work-up as outpatient.
+
+#PRERENAL ARF: with Cr to 1.6 on admission to ___; improved to 
+1.0 with diuresis. Baseline Cr 0.7-0.8.
+
+#COPD: no evidence of exacerbation, suspect hypoxia is the 
+result of hepatic hydrothorax. Started on Tiotropium Bromide 1 
+CAP IH DAILY this admission. Continued Symbicort and PRN 
+albuterol neb.
+
+TRANSITIONAL ISSUES
+=================
+[ ] patient should receive albumin with thoracentesis, 
+thoracentesis has been ordered for ___, defer to 
+outpatient team to determine if patient requires further 
+thoracenteses
+[ ] COPD regimen was changed. Ipratropium was added and 
+fluticasone was discontinued given that the patient is already 
+on an inhaled corticosteroid. 
+[ ] send cytology with next thoracentesis (order has been 
+placed) 
+[ ] needs follow-up with ___ at ___ for management of known ___
+[ ] discharge weight: 181.86 kg 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing, SOB 
+2. Amphetamine-Dextroamphetamine XR 10 mg PO QAM 
+3. Amphetamine-Dextroamphetamine XR 30 mg PO NOON 
+4. benzocaine-menthol ___ % topical TID:PRN 
+5. budesonide-formoterol 160-4.5 mcg/actuation inhalation BID 
+6. BuPROPion (Sustained Release) 150 mg PO TID 
+7. Ciprofloxacin HCl 500 mg PO Q24H 
+8. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+9. FoLIC Acid 1 mg PO DAILY 
+10. Lactulose 20 mL PO BID 
+11. Magnesium Oxide 400 mg PO DAILY 
+12. melatonin 3 mg oral QHS:PRN 
+13. Multivitamins 1 TAB PO DAILY 
+14. OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - 
+Moderate 
+15. Rifaximin 550 mg PO BID 
+16. Spironolactone 100 mg PO DAILY 
+17. Thiamine 100 mg PO DAILY 
+18. Torsemide 20 mg PO DAILY 
+19. Pantoprazole 40 mg PO Q24H 
+
+ 
+Discharge Medications:
+1.  Nicotine Patch 14 mg TD DAILY 
+RX *nicotine [Nicoderm CQ] 14 mg/24 hour apply patch to arm 
+daily Disp #*30 Patch Refills:*0 
+2.  Tiotropium Bromide 1 CAP IH DAILY 
+RX *tiotropium bromide [Spiriva with HandiHaler] 18 mcg 1 puff 
+INH daily Disp #*1 Inhaler Refills:*0 
+3.  Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing, SOB  
+4.  Amphetamine-Dextroamphetamine XR 10 mg PO QAM  
+5.  Amphetamine-Dextroamphetamine XR 30 mg PO NOON  
+6.  benzocaine-menthol ___ % topical TID:PRN  
+7.  budesonide-formoterol 160-4.5 mcg/actuation inhalation BID  
+8.  BuPROPion (Sustained Release) 150 mg PO TID  
+9.  Ciprofloxacin HCl 500 mg PO Q24H  
+10.  FoLIC Acid 1 mg PO DAILY  
+11.  Lactulose 20 mL PO BID  
+12.  Magnesium Oxide 400 mg PO DAILY  
+13.  melatonin 3 mg oral QHS:PRN  
+14.  Multivitamins 1 TAB PO DAILY  
+15.  OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - 
+Moderate  
+16.  Pantoprazole 40 mg PO Q24H  
+17.  Rifaximin 550 mg PO BID  
+18.  Spironolactone 100 mg PO DAILY  
+19.  Thiamine 100 mg PO DAILY  
+20.  Torsemide 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+- pleural effusion secondary to cirrhosis 
+
+Secondary diagnosis:
+- alcoholic hepatitis
+- COPD 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Why was I here?
+- You were short of breath and had a low oxygen level. 
+- You were sent here from ___ to help with the 
+fluid in your lungs.
+
+What was done while I was here?
+- You got water pills to help remove the fluid from your lungs. 
+- You got medicine to treat your COPD.
+ 
+What should I do when I get home?
+- Take all your medicines as prescribed.
+- The radiology department will call you schedule an appointment 
+to remove fluid from the lung. If you do not hear from them, 
+please contact Dr. ___. 
+- Do not ever drink alcohol again. This will kill you!
+ 
+Followup Instructions:
+___

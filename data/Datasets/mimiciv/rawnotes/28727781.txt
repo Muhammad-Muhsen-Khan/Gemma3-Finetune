@@ -1,0 +1,217 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Subdural hematoma; skull fracture
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ male who was found down intoxicated. 
+Further workup revealed a skull fracture and subdural hematoma.
+
+ 
+Past Medical History:
+Hypertension
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Upon Admission:
+===============
+GCS upon Neurosurgery Evaluation: 14
+
+Exam:
+Gen: WD/WN, comfortable, NAD.
+HEENT: multiple abrasions
+Neck: supple
+Extrem: warm and well perfused
+Neuro:
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech is fluent with good comprehension. ___
+speaking only)
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, to
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+Upon Discharge:
+==============
+He is primarily ___ speaking. He is awake, alert, and 
+cooperative with the exam. He is oriented to self, hospital, and 
+date. PERRL, EOMI. ___. No pronator drift. He moves all his 
+extremities with ___ strength. Sensation is intact to light 
+touch throughout.
+ 
+Pertinent Results:
+Please see OMR for relevant findings.
+ 
+Brief Hospital Course:
+___ is a ___ year old male who was found down 
+while intoxicated. He presents with subdural hematoma and a 
+non-displaced skull fracture. 
+
+#Skull fracture/subdural hematoma
+He was admitted to the ___ under the Neurosurgery Service for 
+close monitoring. A helmet was ordered for him to wear with 
+physical activity greater than a casual walk. He was started on 
+Keppra for seizure prophylaxis. Repeat head CT was stable and 
+CTA showed no involvement of the sagittal sinus. Initially, he 
+had persistent nausea and he was unable to tolerate food. This 
+improved over the course of his hospitalization. On ___, he 
+was transferred to the floor. On ___, he remained 
+neurologically intact. His pain was well controlled with oral 
+medications. He was tolerating a diet and ambulating 
+independently. His vital signs were stable and he was afebrile. 
+He was discharged to home in a stable condition.
+ 
+Medications on Admission:
+Amlodipine
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+2.  Docusate Sodium 100 mg PO BID  
+3.  LevETIRAcetam 1000 mg PO BID 
+Please take until prescription is gone 
+RX *levetiracetam 1,000 mg 1 tablet(s) by mouth every 12 hours 
+Disp #*12 Tablet Refills:*0 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Severe 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 6 hours as needed 
+for pain Disp #*20 Tablet Refills:*0 
+5.  Senna 8.6 mg PO BID:PRN constipation   
+6.  amLODIPine 5 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Subdural hematoma 
+Vertex Skull fracture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions:
+
+Activity
+_x0095_You must wear a helmet whenever you are moving faster than 
+casual walking speed or you are higher than standing on the 
+ground. This includes while running, skateboarding, etc. as well 
+as painting on scaffolding or anything higher than ground level. 
+ 
+_x0095_We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+_x0095_You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+_x0095_No driving while taking any narcotic or sedating medication. 
+_x0095_If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+_x0095_No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+_x0095_Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+_x0095_You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+_x0095_You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+_x0095_You may have difficulty paying attention, concentrating, and 
+remembering new information.
+_x0095_Emotional and/or behavioral difficulties are common. 
+_x0095_Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+_x0095_Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+ Headaches:
+_x0095_Headache is one of the most common symptoms after traumatic 
+brain injury. Headaches can be long-lasting. 
+_x0095_Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+_x0095_Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+_x0095_There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+More Information about Brain Injuries:
+_x0095_You were given information about headaches after TBI and the 
+impact that TBI can have on your family.
+_x0095_If you would like to read more about other topics such as: 
+sleeping, driving, cognitive problems, emotional problems, 
+fatigue, seizures, return to school, depression, balance, or/and 
+sexuality after TBI, please ask our staff for this information 
+or visit ___
+
+When to Call Your Doctor at ___ for:
+_x0095_Severe pain, swelling, redness or drainage from the incision 
+site. 
+_x0095_Fever greater than 101.5 degrees Fahrenheit
+_x0095_Nausea and/or vomiting
+_x0095_Extreme sleepiness and not being able to stay awake
+_x0095_Severe headaches not relieved by pain relievers
+_x0095_Seizures
+_x0095_Any new problems with your vision or ability to speak
+_x0095_Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+_x0095_Sudden numbness or weakness in the face, arm, or leg
+_x0095_Sudden confusion or trouble speaking or understanding
+_x0095_Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+_x0095_Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

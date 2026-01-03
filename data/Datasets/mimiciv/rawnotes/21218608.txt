@@ -1,0 +1,551 @@
+Notes
+ 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Bactremia
+ 
+Major Surgical or Invasive Procedure:
+___: Right sided ___ Drain
+___: TEE
+ 
+History of Present Illness:
+Mr ___ is a pleasant ___ w/ metastatic ampullary
+adenocarcinoma (s/p pylorus-preserving Whipple and portal vein
+reconstruction on ___ c/b takeback for retroperitoneal
+bleed, previously on gem/abraxane), Cholangitis, T2DM, PE (s/p
+IVC filter), who p/w GPC bacteremia. 
+
+Of note, pt was admitted for diffuse abdominal pain on ___,
+found to have elevated LFTs and imaging c/f hepatic abscesses 
+and
+cholangitis. He was found to have on MRCP hepatic 
+microabscesses,
+and bacteremia w/ Klebsiella and E Coli, last grown ___, with
+course c/b recurrent fever/leukocytosis. He cleared his cultures
+and PICC was placed on ___ and was discharged ___ on IV
+ceftriaxone 2g Q24hr and Metronidazole PO 500mg TID. Plan to
+complete at least 4 weeks antibiotic course (___). 
+
+He went home yesterday and felt weak. No new sx. Overnight he
+felt feverish but did not have any new localizing sx aside from
+feeling weaker. Tmax 100.7F. He received a call from oncology
+that blood cultures were positive (gram-positive cocci in
+chains), and was instructed to come back to the hospital for
+admission. 
+
+In ED, Tmax 102.8. Initial HR 150s but improved to 114 with IVF
+(? 2L NS). Received Cefepime, Flagyl, and Vancomycin and was
+admitted. 
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per OMR):
+As per last clinic note by Dr ___:  
+ "diagnosed with adenocarcinoma when he  
+ presented in ___ with abdominal symptoms and ERCDP  
+ ___ at ___ demonstrated a large, fungated mass lesion  
+
+ appeared to involve the ampullary orifice with spontaneous  
+ bleeding and friability. Despite multiple attempts, unable to  
+ cannulate biliary tract. Ampullary bx at that time showed  
+ invasive adenocarcinoma, moderately-differentiated. Admitted  
+ ___ to ___ and treated for cholangitis. Started neoadjuvant  
+
+ chemotherapy with FOLFOX ___. Chemotherapy course
+complicated  
+ by admissions for abdominal pain, cholangitis, c.diff and PEs 
+in
+ ___. Received EBRT 2400 cGy: ___.  
+ Final dose of FOLFOX ___ and underwent resection
+___.  
+ Final surgical pathology demonstrated ypT4N1, grade 1, well  
+ differentiated adenocarcinoma with ___ lymph nodes involved,  
+ negative margins (nearest 1mm from superior SMA/vein with  
+ perinueral invasion but no lymphovascular invasion moderate  
+ treatment effect.  
+ Adjuvant gemcitabine chemo x 6 months completed ___. Adjuvant course complicated multiple fevers requiring  
+ hospital visits, including one for gram-negative bacteremia in  
+
+ ___ treated with antibiotics.  
+ He also follows with local oncologist Dr. ___.  
+ Post treatment course has been complicated by intermittent  
+ epigastric spasms for which he sees ___.  
+ ___ was over 4000 at time of diagnosis and has been variably 
+
+ elevated since the surgery.  
+ CT on ___ showed a omental nodule and 3 nonspecific  
+ hyper  
+ attenuating hepatic lesions. Further evaluation with MRI  
+ confirmed omental nodularity but did not show any suspicious  
+ hepatic lesions.  
+ He underwent a CT-guided biopsy on ___. No cancer  
+ was identified. The biopsy was technically difficult.  
+ Admitted ___ after presenting to the ED with abdominal pain 
+
+ and constipation.  
+ Bx confirmed met ampullary cancer  
+ ___: C1D1 Gemcitabine Abraxane  
+ ___: Pt recommended to continue on the current treatment 
+while
+ simultaneously waiting for the OncoPanel to assess for other  
+ options but he wanted to postpone treatment and review  
+ it with Dr. ___. Accordingly, is to be seen in 2 weeks 
+with
+MRI beforehand  
+
+PAST MEDICAL HISTORY (per OMR):
+ Diabetes  
+ Hypertension  
+ Hyperlipidemia  
+ Hiatal hernia  
+ C4-C5 fusion for bulging disk  
+ PEs s/p IVC filter placement in ___  
+ Cholangitis s/p CBD stent  
+
+ 
+Social History:
+___
+Family History:
+Siblings: HTN, HL, no cancers 
+Mother: deceased at ___ from ___ 
+Father: ___ at ___; h/o EtoH related cirrhosis but died of 
+MI
+Aunts: Mom sister with lung cancer in ___
+Uncles:Uncle ___ with throat (materal) cancer; heavy smoker
+Maternal Grandmother: Died at ___ ? MI
+Maternal Grandfather: ___ in ___ of MI
+Paternal Grandmother: MI, DM
+Paternal Grandfather: ___, unknown cause
+Children: ___ (son ___) HL; ___ (Daughter ___) delayed
+development; Oldest daughter passed at ___ of MVA
+ 
+Physical Exam:
+#ERROR!
+ADMISSION PHYSICAL EXAM:
+#ERROR!
+VITAL SIGNS: 97.9PO 115 / 77 114 18 100
+General:  NAD, ambulating in hallways comfortably 
+HEENT:  MMM, no OP lesions, no cervical/supraclavicular
+adenopathy
+CV:  RR, NL S1S2 no S3S4 No MRG
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, NTND, minimal diffuse TTP
+LIMBS: WWP, no ___, no tremors
+SKIN:  No rashes on the extremities
+NEURO:  Grossly normal
+___: RUE ___ site intact, not ttp
+
+#ERROR!
+DISCHARGE PHYSICAL EXAM:
+#ERROR!
+VS: ___ ___ Temp: 98.7 PO BP: 131/87 HR: 102 RR: 18 O2 
+sat:
+100% O2 delivery: Ra   
+Gen: Middle aged man sitting in bed in NAD
+HEENT:  Anicteric sclerae, MMM, no oral lesions
+CV:  RRR - no m/r/g
+PULM:  CTAB - no wheezes, rales, or crackles
+ABD:  BS+, soft, ND, NT in all quandrats, +TTP along R flank
+where prior drain site was, with surrounding skin mildly
+edematous but non-erythematous
+EXT: No BLE edema
+SKIN:  No rashes visualized
+NEURO:  Grossly normal, no facial asymmetry
+ 
+Pertinent Results:
+#ERROR!
+ADMISSION LABS:
+#ERROR!
+___ 08:00AM BLOOD WBC-23.6* RBC-4.20* Hgb-9.3* Hct-30.8* 
+MCV-73* MCH-22.1* MCHC-30.2* RDW-18.7* RDWSD-47.6* Plt ___
+___ 08:00AM BLOOD Neuts-84.8* Lymphs-7.3* Monos-3.9* 
+Eos-1.7 Baso-0.3 Im ___ AbsNeut-19.97* AbsLymp-1.73 
+AbsMono-0.91* AbsEos-0.41 AbsBaso-0.08
+___ 12:00PM BLOOD Hypochr-2+* Anisocy-2+* Poiklo-OCCASIONAL 
+Macrocy-1+* Microcy-1+* Polychr-OCCASIONAL Ovalocy-OCCASIONAL 
+Target-OCCASIONAL Fragmen-OCCASIONAL
+___ 08:00AM BLOOD Plt ___
+___ 08:00AM BLOOD Glucose-134* UreaN-16 Creat-0.5 Na-138 
+K-4.8 Cl-95* HCO3-28 AnGap-15
+___ 08:00AM BLOOD ALT-68* AST-38 LD(LDH)-189 AlkPhos-469* 
+TotBili-0.4 DirBili-<0.2 IndBili-0.4
+___ 08:00AM BLOOD Calcium-9.2 Phos-3.7 Mg-1.9
+___ 08:00AM BLOOD CEA-36.3*
+___ 12:27PM BLOOD Lactate-2.4*
+___ 05:09PM BLOOD Lactate-1.3
+
+#ERROR!
+OTHER PERTINENT LABS:
+#ERROR!
+___ 12:00PM BLOOD Lipase-68*
+
+___ 08:00 
+CA ___  
+  Test                          Result              Reference 
+Range/Units
+CA ___                       ___  H            <34 U/mL
+
+#ERROR!
+MICROBIOLOGY:
+#ERROR!
+___ 8:00 am BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      ENTEROCOCCUS FAECIUM.    FINAL SENSITIVITIES. 
+         Daptomycin 2.0 MCG/ML  test result performed by Etest. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROCOCCUS FAECIUM
+                             |   
+AMPICILLIN------------  =>32 R
+DAPTOMYCIN------------       S
+LINEZOLID-------------     2 S
+PENICILLIN G----------  =>64 R
+VANCOMYCIN------------  =>32 R
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI IN PAIRS IN SHORT CHAINS. 
+      Reported to and read back by ___ (___), 
+___ @
+      08:51AM. 
+
+___ 5:17 am BLOOD CULTURE      Source: Line-PICC. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      ENTEROCOCCUS FAECIUM. 
+         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE # 
+___
+         (___). 
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI IN CLUSTERS. 
+
+UCx X2: No Growth
+
+#ERROR!
+IMAGING/STUDIES:
+#ERROR!
+CXR ___ IMPRESSION: No acute cardiopulmonary process. 
+
+MRI LIVER ___ IMPRESSION: 
+1. Interval improvement of multiple hepatic micro abscesses 
+throughout the 
+liver, main the left hepatic lobe. 
+2. However, there has been continued interval increase in size 
+of a right 
+hepatic lobe (segment 6) multiloculated abscess measuring 3.4 
+cm. 
+3. Unchanged mild central intrahepatic biliary ductal dilatation 
+with mural enhancement consistent with cholangitis. 
+4. Unchanged pancreatic tail collection. 
+5. Postsurgical changes related to ___'s procedure. 
+  
+RECOMMENDATION(S):  The right hepatic lobe abscess may be 
+amenable for 
+drainage.  Consider ultrasound feasibility scan. 
+
+CT ITNERVENTIONAL PROCEDURE ___ IMPRESSION: 
+1. Successful CT-guided placement of an ___ pigtail 
+catheter into the 
+right hepatic collection.  Of note, fluid could not be aspirated 
+likely due to phlegmonous nature rather than an organized fluid 
+collection. 
+2. Trace postprocedure perihepatic hemorrhage.  Continued 
+clinical follow-up is recommended. 
+
+CT ABD/PELVIS ___ IMPRESSION: 
+1. No evidence of retroperitoneal hematoma. 
+2. Grossly stable appearance of the liver abscess, status post 
+pigtail 
+catheter placement.  This is somewhat difficult to assess in the 
+absence of contrast. 
+3. Multiple peritoneal metastatic nodules as described above, 
+less conspicuous on today's exam due to lack of intravenous 
+contrast. 
+
+TTE ___ CONCLUSION: The left atrium is normal in size. The 
+estimated right atrial pressure is ___ mmHg. Normal left 
+ventricular wall thickness, cavity size, and regional/global 
+systolic function (biplane LVEF = 61%). Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No masses or vegetations are seen on 
+the aortic valve, but cannot be fully excluded due to suboptimal 
+image quality. The mitral valve leaflets are mildly thickened. 
+No masses or vegetations are seen on the mitral valve, but 
+cannot be fully excluded due to suboptimal image quality. 
+Trivial mitral regurgitation is seen. The tricuspid valve 
+leaflets are mildly thickened. No masses or vegetations are seen 
+on the tricuspid valve, but cannot be fully excluded due to 
+suboptimal image quality. The pulmonary artery systolic pressure 
+could not be determined. There is a trivial/physiologic 
+pericardial effusion. 
+
+ IMPRESSION: Normal biventricular wall thickness, cavity size, 
+and regional/global systolic function. No valvular abnormalities 
+or pathologic flow identified. No echocardiographic evidence of 
+endocarditis. If clinically indicated, a transesophageal 
+echocardiogram may better assess for valvular vegetations.  
+
+CT INTERVENTIONAL PROCEDURE ___ IMPRESSION:  
+An approximately 5.5 cm hypoechoic and hypodense collection 
+within the right hepatic lobe was targeted for aspiration or 
+drainage.  This was determined to be solid during attempted 
+sampling, likely representing phlegmon in the setting of known 
+infection.  A previously placed pigtail catheter was removed 
+without placement of a new catheter into the collection. 
+  
+RECOMMENDATION(S):  4 week followup CT or MRI is recommended to 
+ensure 
+resolution or improvement. 
+
+TEE ___ IMPRESSION: No spontaneous echo contrast or 
+thrombus is seen in the body of the right atrium/right atrial 
+appendage. No thrombus/mass is seen in the right atrium or right 
+atrial appendage. The right atial appendage ejection velocity is 
+normal. There is no evidence for an atrial septal defect by 
+2D/color Doppler. Global systolic function is normal (LVEF 
+greater than 55%). The right ventricle has normal free wall 
+motion. There are no aortic arch atheroma and no atheroma in the 
+descending aorta. The aortic valve leaflets (3) are mildly 
+thickened. No masses or vegetations are seen on the aortic 
+valve. No abscess is seen. There is no aortic regurgitation. The 
+mitral leaflets are mildly thickened with no mitral valve 
+prolapse. No masses or vegetations are seen on the mitral valve. 
+No abscess is seen. There is physiologic mitral regurgitation. 
+No masses/vegetations are seen on the pulmonic valve. The 
+tricuspid valve leaflets appear structurally normal. No 
+mass/vegetation are seen on
+the tricuspid valve No abscess is seen. There is mild [1+] 
+tricuspid regurgitation.
+
+CXR ___ IMPRESSION:
+Left PICC line tip is at the level of cavoatrial junction.  
+Heart size and mediastinum are stable.  Lungs are clear.  No 
+pleural effusion or 
+pneumothorax. 
+
+#ERROR!
+DISCHARGE LABS:
+#ERROR!
+___ 06:40AM BLOOD WBC-13.7* RBC-4.33* Hgb-9.7* Hct-32.9* 
+MCV-76* MCH-22.4* MCHC-29.5* RDW-20.5* RDWSD-54.9* Plt Ct-UNABLE 
+TO 
+___ 06:40AM BLOOD Neuts-90.6* Lymphs-4.7* Monos-2.9* 
+Eos-0.8* Baso-0.4 Im ___ AbsNeut-12.41* AbsLymp-0.65* 
+AbsMono-0.40 AbsEos-0.11 AbsBaso-0.05
+___ 06:40AM BLOOD ___ PTT-31.0 ___
+___ 06:40AM BLOOD Glucose-210* UreaN-5* Creat-0.5 Na-138 
+K-4.9 Cl-95* HCO3-28 AnGap-15
+___ 06:40AM BLOOD ALT-36 AST-68* LD(LDH)-249 CK(CPK)-21* 
+AlkPhos-713* TotBili-0.4
+___ 06:40AM BLOOD Albumin-3.3* Calcium-8.6 Phos-3.0 Mg-1.8
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ w/ metastatic ampullary adenocarcinoma (s/p 
+pylorus-preserving Whipple and portal vein reconstruction, 
+previously on gem/abraxane), T2DM, PE (s/p IVC filter), recent 
+admission for cholangitis c/b ecoli/klebsiella bacteremia and
+microabscesses who p/w new VRE bacteremia and fevers, now s/p ___ 
+drain placement and removal (phlegmon w/o drainable fluid) and a 
+negative TEE. He will be discharged on daptomycin and ertapenem 
+to complete his antibiotic course. 
+
+# VRE Bacteremia
+# Hepatic Abscesses: Likely represents enterococcus from 
+hepatobiliary source given known hepatic abscesses. MRCP with 
+overall decrease in hepatic microabscesses, with the exception 
+of one abscess that is enlarged to 3.4 cm. S/p ___ drain 
+___ c/b trace periphepatic blood found afterwards, removed on 
+___ given non-drainable phlegmon visualized. Of note, ___ 
+BCx returned positive with enterococcus faeceium (after 
+Daptomycin administration) - as such, a TEE was done to rule out 
+endocarditis which was negative. He will be discharged on 
+Daptomycin 300 mg IV daily and Ertapenem 1g IV daily until 
+___ with follow-up in early ___ with ID. 
+
+# Pain control: He had significant pain from new ___ drain 
+(removed on ___. He was continued on his home Fentanyl patch. 
+His pain regimen was increased in the setting of this pain and 
+he was placed on Oxycontin 30 mg BID. Now that the drain was 
+removed, he will be downtritrated to Oxycontin 20 mg BID. 
+Further downtitration should continue as an outpatient. 
+
+# T2DM: History of poor control in the past. ___ was 
+consulted while inpatient. He will be discharged with Lantus and 
+Humalog. Lantus will be 12 U in the AM and 10 in the ___. See 
+attached Humalog sliding scale. He will have follow-up with his 
+PCP with suggestion of follow-up with ___. 
+
+# Anemia: Baseline Hgb 9.5-10.5. Hgb drop from 8.4 to 6.9 
+overnight on ___ i/s/o ___ with known post-procedural 
+note of perihepatic bleeding. He was given 1u pRBCs. He remained 
+hemodynamically stable. His discharge hemoglobin was 9.7. 
+
+# Metastatic ampullary adenocarcinoma: Holding chemotherapy due
+ongoing infection. His dexamethasone was donwtitrated to 1 mg 
+daily (from 1 mg BID; to be continued until he is seen by Dr. 
+___ on ___. His home pain control was continued as 
+described above. His other symptomatic management was also 
+continued. 
+
+Transitional Issues:
+#ERROR!
+#Liver abscess/bacteremia:
+[ ] Discharged on daptomycin 300 mg Q24H and ertapenem 1g daily 
+until ___. 
+[ ] Patient will need weekly labs as below:
+WEEKLY: CBC with differential, BUN, Cr, AST, ALT, Total Bili, 
+ALK
+PHOS, CPK
+ALL LAB RESULTS SHOULD BE SENT TO:
+ATTN: ___ CLINIC - FAX: ___
+[ ] He will follow-up with Dr. ___ on ___
+[ ] Continue Dexamethasone 1mg daily until seen by Dr. ___
+[ ] Per Radiology, recommend 4 week follow up CT or MRI to 
+ensure hepatic collection has resolved (___)
+
+#Pain: 
+[ ] Downtitrate Oxycontin, discharged with 2 weeks of 20 mg 
+Oxycontin BID. 
+
+#Diabetes
+[ ] Discharged on Lantus 12 mg AM and 10 ___. Sliding scale 
+attached. 
+[ ] Need to monitor BG with meals and record BG for review with 
+___
+[ ] Will see PCP for ___ on ___, recommend follow-up with 
+___ thereafter. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+2. Creon ___ CAP PO TID W/MEALS 
+3. Dexamethasone 1 mg PO Q12H 
+4. Dronabinol 2.5 mg PO BID 
+5. Fentanyl Patch 50 mcg/h TD Q72H 
+6. Lactulose ___ mL PO Q6H:PRN constipation 
+7. LORazepam 1 mg PO Q4H:PRN anxiety/insomnia 
+8. Metoclopramide 5 mg PO BID 
+9. Omeprazole 20 mg PO BID 
+10. Tamsulosin 0.4 mg PO QHS 
+11. CefTRIAXone 2 gm IV Q 24H 
+12. MetroNIDAZOLE 500 mg PO Q8H 
+13. Ondansetron ODT 8 mg PO Q8H:PRN nausea/vomiting 
+14. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+15. Docusate Sodium 100 mg PO BID 
+16. Senna 8.6 mg PO BID 
+17. Sodium Chloride 0.9%  Flush ___ mL IV DAILY and PRN, line 
+flush 
+18. MetFORMIN (Glucophage) 1000 mg PO BID 
+19. OxyCODONE (Immediate Release) 10 mg PO Q3H:PRN Pain - 
+Moderate 
+20. GlipiZIDE XL 10 mg PO QAM 
+21. Nystatin Oral Suspension 5 mL PO QID 
+22. Lantus Solostar (insulin glargine) 18 units subcutaneous BID 
+
+23. HumaLOG (insulin lispro) 100 unit/mL subcutaneous QIDACHS 
+
+ 
+Discharge Medications:
+1.  Daptomycin 300 mg IV Q24H 
+RX *daptomycin 500 mg 300 mg IV once a day Disp #*23 Vial 
+Refills:*0 
+2.  Ertapenem Sodium 1 g IV 1X Duration: 1 Dose 
+RX *ertapenem [Invanz] 1 gram 1 g IV Daily Disp #*23 Vial 
+Refills:*0 
+3.  Glargine 12 Units Breakfast
+Glargine 10 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+RX *insulin glargine [Lantus Solostar] 100 unit/mL (3 mL) AS DIR 
+12 Units before BKFT; 10 Units before BED; Disp #*3 Syringe 
+Refills:*0
+RX *insulin lispro [Humalog KwikPen] 100 unit/mL AS DIR Up to 11 
+Units QID per sliding scale Disp #*3 Syringe Refills:*0 
+4.  OxyCODONE SR (OxyconTIN) 20 mg PO Q12H 
+RX *oxycodone [OxyContin] 20 mg 1 tablet(s) by mouth twice a day 
+Disp #*28 Tablet Refills:*0 
+5.  Dexamethasone 1 mg PO DAILY  
+6.  Bisacodyl 10 mg PO/PR DAILY:PRN constipation  
+7.  Creon ___ CAP PO TID W/MEALS  
+8.  Docusate Sodium 100 mg PO BID  
+9.  Dronabinol 2.5 mg PO BID  
+10.  Fentanyl Patch 50 mcg/h TD Q72H  
+11.  Lactulose ___ mL PO Q6H:PRN constipation  
+12.  LORazepam 1 mg PO Q4H:PRN anxiety/insomnia  
+13.  MetFORMIN (Glucophage) 1000 mg PO BID  
+14.  Metoclopramide 5 mg PO BID  
+15.  Nystatin Oral Suspension 5 mL PO QID  
+16.  Omeprazole 20 mg PO BID  
+17.  Ondansetron ODT 8 mg PO Q8H:PRN nausea/vomiting  
+18.  OxyCODONE (Immediate Release) 10 mg PO Q3H:PRN Pain - 
+Moderate  
+19.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+20.  Senna 8.6 mg PO BID  
+21.  Sodium Chloride 0.9%  Flush ___ mL IV DAILY and PRN, line 
+flush  
+22.  Tamsulosin 0.4 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses: 
+VRE Bloodstream infection
+Hepatic Abscesses 
+
+Secondary diagnosis:
+Diabetes mellitus II
+Anemia
+Metastatic ampullary adenocarcinoma 
+Severe malnutrition in the setting of chronic illness
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted with fevers and a positive blood culture. We 
+believed that this infection may have been due to the abscesses 
+in the liver.  We put in a drain to try to drain this area, but 
+there was not much fluid to be drained and we removed the drain. 
+ We also checked your heart with an echocardiogram and did not 
+see any infection there either.  
+
+Please take your medications and keep your follow-up 
+appointments as listed below.  
+
+It was a pleasure taking of you, 
+
+-Your ___ Team 
+ 
+Followup Instructions:
+___

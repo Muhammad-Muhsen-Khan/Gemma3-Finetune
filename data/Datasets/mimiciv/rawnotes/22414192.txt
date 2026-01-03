@@ -1,0 +1,307 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+codeine / morphine / Betadine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Seizure
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Per admitting physician, ___:
+Ms. ___ is a ___ female with atrial
+fibrillation s/p pacemaker, hypothyroidism, left neck/LUE DVT on
+Eliquis, and metastatic lung adenocarcinoma to the brain s/p
+resection and multiple courses of SRS due to progressive brain
+metastases currently on ramucirumab and docetaxel who presents
+with seizure.
+
+She reports left eye twitching and drooling that she noticed the
+morning of ___ at around 9:30 AM when she awoke. She also noted
+that she was unable to speak which slowly improved over several
+minutes. She was taken to ___ ED where she had
+witnessed bilateral facial muscle twitching. She reports that 
+she
+remembers the entire episode and that she was given IV Ativan
+which stopped the seizure but made her very somnolent. CT of the
+head was negative for any interval change or acute bleed. She 
+was
+transferred to ___ for further management.
+
+She also reports that her last chemotherapy was on ___ where 
+she
+was given a more intense treatment with ramucirumab and
+docetaxel. She noted that afterwards she felt very fatigue and
+had muscle spasms, leg cramps, and URI symptoms. She has been
+taking her Keppra twice daily but notes that she ran out of her
+dexamethasone about 1 week ago. She does not like how the
+decadron makes her feel. She also notes pain at her left elbow
+due to leaning on it more frequently.
+
+On arrival to the ___ ED, initial vitals were 96.7 76 142/91 
+14
+95% RA. Exam was notable for CNII-XII intact, opens eyes to
+voice, and moves all extremities. Labs were notable for WBC 
+13.7,
+H/H 12.7/39.0, Plt 131, INR 1.1, Na 141, K 4.5, BUN/Cr ___,
+LFTs wnl, d-dimer 595, and UA negative. Urine culture was sent.
+Neurology was consulted and recommended cvEEG, LP, Keppra 1500mg
+BID, brain MRI, and empiric acyclovir. CXR showed mild pulmonary
+vascular congestion and unchanged severe cardiomegaly. CTA chest
+was negative for PE but showed multiple new bilateral pulmonary
+nodules. Patient was given Keppra 1g IV, acyclovir 550mg IV, and
+dexamethasone 4mg PO. Prior to transfer vitals were 97.4 78
+116/50 19 94% 4L.
+
+On arrival to the floor, patient reports feeling better. She
+believes her symptoms have improved. She denies fevers/chills,
+night sweats, headache, vision changes,
+dizziness/lightheadedness, weakness/numbness, shortness of
+breath, cough, hemoptysis, chest pain, palpitations, abdominal
+pain, nausea/vomiting, diarrhea, hematemesis,
+hematochezia/melena, dysuria, hematuria, and new rashes.
+
+REVIEW OF SYSTEMS: A complete 10-point review of systems was
+performed and was negative unless otherwise noted in the HPI.
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+- Left facial droop and dysarthria ___
+- A contrast-enhanced head CT performed on ___ revealed a 
+1.4
+cm ring-enhancing mass in the right frontal brain. CT of the
+torso on ___ and ___ showed a left upper lobe lung mass
+associated with hilar adenopathy and satellite pulmonary nodules
+- Resection right frontal met ___ by Dr. ___ at the
+___ radiosurgery on ___ to cavity to 2400 (800 cGy 
+in
+3 fractions) at the 75% isodose line and left temporo-occipital
+metastasis to 2200 cGy at the 74% isodose line
+- DFCI protocol ___ ipilimumab + nivolumab started ___ 
+at
+___ radiosurgery on ___ to right superior parietal
+metastasis to 2200 cGy at the 82% isodose line and left
+cerebellar metastasis to 2200 cGy at the 73% isodose line
+- CT torso on ___ showed progression and she was then off
+study protocol ___
+- Carboplatin plus pemetrexed started on ___ at ___
+- Pemetrexed alone ___
+- Cyberknife SRS ___ to right frontal metastasis to 2200 cGy
+- Admitted ___ for aphasia found to have left IJ
+thrombus. Started on apixaban and increased dexamethasone to 4mg
+daily
+- Speech worse ___, dexamethasone up to 6 mg day
+
+PAST MEDICAL HISTORY:
+- Atrial Fibrillation s/p pacemaker
+- Hypothyroidism
+- s/p repair of transposition of her great arteries at age ___
+- s/p C-section in ___
+
+ 
+Social History:
+___
+Family History:
+She is adopted.
+ 
+Physical Exam:
+VS: 97.7 PO 124 / 56 L Lying 62 18 96 RA
+GENERAL: Pleasant woman, in no distress, lying in bed
+comfortably.
+HEENT: Anicteric, PERLL, OP clear
+CARDIAC: RRR, normal s1/s2, no m/r/g.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally
+ABD: Soft, non-tender, non-distended, positive bowel sounds.
+EXT: Warm, well perfused, no lower extremity edema.
+MSK: Scab on left elbow. Normal ROM.
+NEURO: A&Ox3, good attention and linear thought, CN III-XII
+intact. Strength full throughout. Sensation to light touch
+intact.
+ACCESS: Right chest wall port without erythema.
+ 
+Pertinent Results:
+___ 05:42AM BLOOD WBC-19.7* RBC-3.48* Hgb-11.9 Hct-36.0 
+MCV-103* MCH-34.2* MCHC-33.1 RDW-17.7* RDWSD-63.2* Plt ___
+___ 05:42AM BLOOD Glucose-98 UreaN-10 Creat-0.7 Na-144 
+K-4.4 Cl-106 HCO3-24 AnGap-14
+___ 03:40PM BLOOD ALT-18 AST-19 AlkPhos-91 TotBili-0.3
+___ 05:42AM BLOOD Calcium-8.9 Phos-3.8 Mg-2.0
+
+Brain MRI ___
+Wet Read by ___ on WED ___ 11:03 ___ Comparison 
+is made to MRI brain performed ___. No evidence of 
+infarction. Redemonstration of postsurgical changes in the right 
+frontal cortex with similar FLAIR/T2 hyperintense signal. A 9 mm 
+predominantly peripherally enhancing lesion in the right 
+posterior frontal lobe is similar in size compared to prior 
+exam, however demonstrates decreased internal enhancement 
+(9:126). A 5 mm right parietal parasagittal lesion is increased 
+in size, previously measuring 3 mm (9:105). No definite new 
+enhancing lesions are seen. No midline shift. Cavum septum 
+vergae is again noted. For report to follow pending dedicated 
+review by neuroradiology.
+ 
+Brief Hospital Course:
+___ w/ Afib s/p ___, hypothyroidism, left neck/LUE DVT on 
+Eliquis, and metastatic lung adenocarcinoma to the brain s/p 
+resection and multiple courses of SRS due to
+progressive brain mets, currently on ramucirumab and docetaxel, 
+p/w first episode of seizure. Antiepileptics were adjusted and 
+she felt well enough to go home with her husband. 
+
+# Seizure
+This is her first seizure, had at least two (technically one 
+seizure since occurred within 24 hours of each other). She had 
+been of her dex for a wk prior due to running out of med and 
+disliking how it made her feel. She had a brain MRI (with CIED 
+eval pre/post MRI) and it revealed that millimetric interval 
+increase of a R parietal parasagittal lesion, now 5 mm, 
+previously 3 mm ___. She had an infectious workup which 
+revealed a neg UA, neg CTA, blood cx NGTD, and no encephalopathy 
+noted. She declined LP. She also had a continuous video EEG x 24 
+hrs which did not reveal any epileptiform activity on the 
+preliminary report. She was seen by neuro-oncology who advised 
+the following changes:
+- resume home dex 2 mg BID (w/ bactrim and famotidine)
+- increase Keppra from 500 mg bid to ___ mg BID
+- started Lamotrigine 25 mg BID 
+- neuro-oncology will titrate down keppra and uptitrate 
+lamotrigine outpatient
+- f/u with neuro-onc and rad-onc re MRI report
+
+# Leukocytosis
+WBC elevated from 13.7 to 19.7. In absence of infectious 
+process, suspect most likely reactive and related to dex. 
+
+# Non-Occlusive Left IJ Thrombus:
+- cont apixaban  
+
+# Metastatic Lung Adenocarcinoma 
+CTA was done on admission for dyspnea and hypoxia (which had 
+spontaneously resolved). It revealed "interval decrease in size 
+of a spiculated left upper lobe pulmonary mass compared to ___ Also revealed "a new right middle lobe and left 
+lower lobe pulmonary nodules, and slightly increased superior 
+right lower lobe nodule, concerning for progression of 
+malignancy. New diffuse sclerosis of the T4 vertebra without 
+pathologic fracture, which may represent a new metastasis versus 
+sclerotic change of a prior treated metastasis." 
+- f/u w/ DFCI oncologist for chemo and review the CTA findings 
+(report was printed and given to patient to take to her clinic 
+appointment)
+
+# Atrial Fibrillation: appears in SR, has a pacemaker, and on 
+a/c for DVT
+# Hypothyroidism: cont home levothyroxine
+# Psych: cont home citalopram
+
+FEN: Regular 
+PPX: Apixaban
+ACCESS: POC
+COMMUNICATION: Patient
+EMERGENCY CONTACT HCP: ___ (husband) ___
+DISPO: Home
+BILLING: >60 min spent coordinating care for discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 20 mg PO DAILY 
+2. Levothyroxine Sodium 50 mcg PO DAILY 
+3. Multivitamins 1 TAB PO DAILY 
+4. Apixaban 5 mg PO BID 
+5. Dexamethasone 2 mg PO BID 
+6. Famotidine 20 mg PO BID 
+7. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+8. LevETIRAcetam 500 mg PO BID 
+
+ 
+Discharge Medications:
+1.  LamoTRIgine 25 mg PO BID 
+notify your physician if ___ develop any rashes on this 
+medication. never stop on your own 
+RX *lamotrigine [Lamictal] 25 mg 1 tablet(s) by mouth twice a 
+day Disp #*60 Tablet Refills:*0 
+2.  LevETIRAcetam 1500 mg PO BID 
+RX *levetiracetam 750 mg 2 tablet(s) by mouth twice a day Disp 
+#*120 Tablet Refills:*0 
+3.  Apixaban 5 mg PO BID  
+4.  Citalopram 20 mg PO DAILY  
+5.  Dexamethasone 2 mg PO BID Duration: 30 Days 
+your neuro-oncologist will titrate this drug for ___. never stop 
+this medication on your own 
+RX *dexamethasone 2 mg 1 tablet(s) by mouth q 12 hours Disp #*60 
+Tablet Refills:*0 
+6.  Famotidine 20 mg PO BID  
+7.  Levothyroxine Sodium 50 mcg PO DAILY  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Seizure
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+ 
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ were admitted to the hospital for a new seizure. ___ were 
+seen by the neuro-oncology team. This was most likely due to 
+being off dexamethasone. Your home dose was resumed, Keppra dose 
+increased to 1500 mg twice a day, and started on a new 
+medication Lamictal 25 mg twice a day. Dr ___ will adjust this 
+medication so ___ can come off Keppra. ___ had a brain MRI done 
+which revealed very subtle increase size of a brain mass from 3 
+mm to 5 mm. ___ will need to discuss this with your 
+radiationponcologist and neuro-oncologist. ___ also had a 
+continuous video EEG which did not reveal any seizure activity. 
+Please return to the ED if ___ have any seizure activity and 
+notify your neuro-oncologist.  
+
+According to the ___ laws, ___ should not drive for 
+six months after having a seizure until ___ are confirmed 
+seizure free. Regarding your driver's license, MA law state ___ 
+must voluntarily surrender it or be subject to suspension or 
+revocation until ___ have remained episode free for a period of 
+at least 6 months." ___ may have your license back when your 
+doctor confirms ___ have been free from seizures for a minimum 
+of six months. In addition, ___ should avoid unsupervised 
+activities which might pose danger with sudden loss of 
+consciousness, including bathing, swimming alone, riding a bike. 
+Infections and dehydration can also pose a risk. Please do not 
+forget to take your medications as scheduled. If ___ do, please 
+do not double the dose and rather take immediately and then at 
+your regularly scheduled time. Let your neuro-oncologist know 
+___ have a prescription for one months supply of your new 
+medications. 
+
+Please also show the report of the CT scan to your oncologist 
+and the MRI report as well. I called their office but they are 
+closed on the holiday and the hematology oncology fellow on call 
+at ___ had not returned my page at the time of this discharge. 
+
+We wish ___ a healthy ___ holiday,
+Your ___ Team
+ 
+Followup Instructions:
+___

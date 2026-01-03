@@ -1,0 +1,270 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+Right eyelid swelling
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with no significant
+past medical history presenting with right eyelid swelling.
+
+The patient reports that she hit her right eyelid against a car 
+door
+mirror on ___ last week. She experienced a small cut under 
+her
+right eye. She went to the ED on ___ due to some 
+redness and
+swelling of that eye. She didn't have eye pain, vision changes,
+difficulty opening the eye or headache at that time. Her exam 
+was
+notable for swelling and erythema inferior to the right eye with
+no superior swelling, ptosis or difficulty opening the eye, 
+clear
+conjunctiva. She was discharged from the ED on Augmentin.
+
+She went home and took Augmentin as prescribed. However, the
+swelling continued to progress and so she returned to the ED 
+last
+night on ___. A CT scan showed marked right periorbital 
+cellulitis. No
+evidence of orbital cellulitis. 
+
+On the floor, she endorses some pain around the right eye but 
+she
+confirms the history given in the ED that she has no pain with
+extraocular movements, no vision impairment and no headache.
+
+She is worried and upset however, wondering if her eyelid will
+always be swollen like this. She is also upset because on her
+birthday this past ___, her grandmother died at this 
+hospital,
+and so being here is bringing back painful memories. 
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+No significant past medical history.
+ 
+Social History:
+___
+Family History:
+HTN and CAD
+ 
+Physical Exam:
+ADMISSION
+VITALS: ___ ___ Temp: 97.7 PO BP: 104/73 R Sitting HR: 75
+RR: 18 O2 sat: 100% O2 delivery: RA 
+GENERAL: Alert, tearful
+EYES: Significant swelling and erythema inferior to right eye.
+Able to open eyelid though full opening limited by swelling.
+Tenderness inferior to right eye but no pain with movement of
+right eye. No pus, no drainage. No proptosis. 
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+===================================
+DISCHARGE EXAM:
+VITALS: ___ 0745 BP: 129/79 HR: 48 RR: 18 O2 sat: 97% O2 
+delivery: Ra 
+___ 1035 HR: 62 manual 
+GENERAL: Alert, NAD, appears comfortable
+EYES: Moderate swelling and erythema of right eye lid (lower > 
+upper). Able
+to open right eye fully, not limited by swelling or pain.  
+Tender
+to palpation inferior to right eye but no pain with movement of
+right eye and EOMI.  No pus, no drainage. No proptosis. 
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate.  Mild
+swelling of right cheek.  No palpable lymphadenopathy.
+CV: RRR, no murmur, no S3, no S4.  2+ radial pulses bilaterally.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored on room air.
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present. 
+GU: No Foley
+MSK: Moves all extremities, strength grossly full and symmetric
+bilaterally in all limbs
+SKIN: No rashes or ulcerations noted; well-demarcated areas of 
+erythema under right eye, does not extend down cheek or towards 
+ear or neck; no fluctuance
+NEURO: Alert, oriented, gaze conjugate with EOMI, speech fluent,
+moves all limbs, sensation to light touch grossly intact
+throughout
+PSYCH: Calm, cooperative
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 12:26AM   LACTATE-1.6
+___ 12:09AM   GLUCOSE-133* UREA N-17 CREAT-0.8 SODIUM-142 
+POTASSIUM-4.3 CHLORIDE-108 TOTAL CO2-22 ANION GAP-12
+___ 12:09AM   estGFR-Using this
+___ 12:09AM   WBC-6.7 RBC-4.46 HGB-11.5 HCT-38.1 MCV-85 
+MCH-25.8* MCHC-30.2* RDW-14.2 RDWSD-44.4
+___ 12:09AM   NEUTS-40.4 ___ MONOS-6.0 EOS-1.9 
+BASOS-0.7 IM ___ AbsNeut-2.70 AbsLymp-3.41 AbsMono-0.40 
+AbsEos-0.13 AbsBaso-0.05
+___ 12:09AM   PLT COUNT-238
+=================================
+IMAGING:
+CT orbits, sella, IAC with contrast ___
+IMPRESSION: 
+1. Extensive right periorbital cellulitis without evidence for 
+drainable fluid collection.  No evidence of postseptal orbital 
+cellulitis. 
+2. Occlusion of the left ostiomeatal infundibulum and adjacent 
+mild mucosal thickening in the upper aspect of the left 
+maxillary sinus. 
+3. Diffuse heterogeneity of bilateral parotid glands.  8 x 8 mm 
+right parotid nodule central hypodensity is most likely a 
+reactive lymph node. 
+RECOMMENDATION(S):  Outpatient right parotid ultrasound several 
+months after resolution of the right periorbital cellulitis. 
+=================================
+DISCHARGE LABS:
+___ 07:15AM BLOOD WBC-4.8 RBC-4.18 Hgb-10.9* Hct-34.8 
+MCV-83 MCH-26.1 MCHC-31.3* RDW-14.1 RDWSD-42.9 Plt ___
+___ 07:15AM BLOOD Glucose-86 UreaN-11 Creat-0.7 Na-145 
+K-4.1 Cl-108 HCO3-25 AnGap-12
+=================================
+MICROBIOLOGY:
+Blood culture ___: PENDING.  
+MRSA screen: PENDING.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with no significant past 
+medical history presenting with right pre-septal cellulitis.  
+She is afebrile without leukocytosis.  
+
+ACUTE/ACTIVE PROBLEMS:
+#Preseptal cellulitis
+Eyelid swelling and erythema with eyelid tenderness but 
+reassuringly she has no pain with extraocular movements, no 
+proptosis, no diplopia, no vision impairment, no leukocytosis, 
+and CT without evidence of orbital cellulitis. She was initially 
+said to have failed outpatient Augmentin, but on my review, she 
+presented to the ED on ___, was prescribed Augmentin on 
+discharge, and returned on ___, so I would not consider this to 
+be a true failure of treatment. Reassured her that this is a 
+treatable condition.  She was treated with IV ceftriaxone and 
+vancomycin (___) and on ___, switched to Bactrim and 
+Cefpodoxime to finish on ___.  MRSA was pending.  Blood 
+culture was pending at discharge but no growth to date.  She was 
+treated with PRN Tylenol, Toradol, Tramadol, Oxycodone.  
+
+#Psychosocial distress: Regarding recent death of grandmother 
+and about this acute
+infection and needing to be in the hospital.  Patient requested 
+additional support and social work was consulted.
+
+#Cigarette smoking: She smokes 1 pack per day. Counseled on 
+smoking cessation and given nicotine patch, which was prescribed 
+on discharge.
+
+#Right parotid gland: CT scan incidentally showed evidence 
+suggestive of reactive lymph node. Recommend outpatient right 
+parotid ultrasound to follow up this finding after cellulitis 
+resolves.
+
+TRANSITION OF CARE ISSUES:
+- Follow up with PCP ___ ___, as she will be finished 
+with antibiotic course and can assess for improvement/resolution
+- Right parotid gland ultrasound as outpatient to look for 
+reactive node.
+
+============================
+Check if applies: [ X ] Ms. ___ is clinically stable for 
+discharge today. The total time spent today on discharge 
+planning, counseling and coordination of care today was greater 
+than 30 minutes.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+2.  Cefpodoxime Proxetil 400 mg PO Q12H 
+RX *cefpodoxime 200 mg 2 tablet(s) by mouth every twelve (12) 
+hours Disp #*20 Tablet Refills:*0 
+3.  Nicotine Patch 21 mg/day TD DAILY 
+RX *nicotine 21 mg/24 hour 1 patch once a day Disp #*30 Patch 
+Refills:*0 
+4.  Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+RX *ondansetron 4 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*10 Tablet Refills:*0 
+5.  Sulfameth/Trimethoprim DS 2 TAB PO BID 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 2 tab-cap by 
+mouth twice a day Disp #*20 Tablet Refills:*0 
+6.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Preseptal cellulitis
+Tobacco dependence
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+You were admitted to the hospital with a right eyelid infection, 
+which is called cellulitis. We treated you with IV antibiotics 
+and you were improving.  Fortunately, there was no evidence of 
+infection of your eye.  You will complete the remainder of the 
+antibiotics orally.  Please follow up with your primary care 
+doctor later this week or the first part of next week, at which 
+time your doctor can evaluate and see if you need any further 
+antibiotics.  
+
+For pain, you can take Tylenol ___ every 8 hours as needed 
+and alternate with Aleve (naproxen) 500mg every 12 hours as 
+needed.  These are over the counter.
+
+It was a pleasure taking care of you.
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,590 @@
+Notes
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered Mental Status
+ 
+Major Surgical or Invasive Procedure:
+Mechanical intubation ___ with subsequent extubation
+R IJ central line placement, removed ___
+
+ 
+History of Present Illness:
+___ G2P0 Rh+ w history of IVDU, recent track marks found on 
+arms, recent SAB at ___ gestational age ___, pt has not 
+followed up), presenting with 3 days of nausea/vomiting. Patient 
+is very drowsy on history taking, therefore the history is 
+obtained from patient's mother and ___ documentation.
+
+Patient called her mom this past ___ c/o N/V, and 
+had to leave work early. Patient slept the rest of ___ and 
+all day ___. Patient also noted to have a rash on the palmar 
+surface of her left hand on ___. Rash was initially 
+painful, pain has since subsided. ___ patient awoke and had 
+breakfast but reported to her mom that she later vomited that 
+night. Patient then went to her boyfriend's house. She did not 
+answer the phone on ___, and her boyfriend said that she 
+remained sick. She had repeated emesis n ___ and therefore 
+was brought to the ___. Per boyfriend, her temperature was 99.0 
+F. 
+
+Mother endorses that patient had a SAB. Up until her current 
+admission, she has been well. Mother was not aware that patient 
+used IV drugs, but did find syringe's in the patient's purse 
+today. Mother denies knowledge of new sexual partners. ___ 
+patient sometimes takes Tylenol ___. 
+
+Per ___ documentation, patient reported lower abdominal pain, 
+pelvic pain, and a small amount of white vaginal discharge.   No 
+vaginal bleeding since first week after SAB. Denies 
+fevers/chills. Reports 3 days of rash on left hand. No other 
+skin lesions. Denies chest pain, dyspnea, palpitations. No HA or 
+vision changes. No bleeding gums. Took Tylenol once today, no 
+other medications. She denies taking anticoagulation meds.
+
+ 
+-In the ___, initial vitals:  98.0 110 109/65 18 98% RA
+-Exam notable for:  No retinal hemorrhage. No conjunctival 
+hemorrhage
+Multiple punctate erythematous non-painful lesions on palm of 
+left hand. No rash on other extremities
+No cardiac murmur, lungs clear
+Abd soft, nonTTP
+Pelvic: Purulent discharge from cervical os. Left adnexal mass 
+and tenderness. No cervical motion tenderness.
+-Labs notable for: wbc 12.1, H/H 13.8/43.4, Plt 329, Chem 7 with 
+HCO3 12, otherwise normal. Lactate 6.1 ->5.7, INR 4.7, AST 1569, 
+ALT ___, AP 120, Tbili 2.5, Lipase 472. Serum tox negative, hcg 
+8.
+
+-Pelvic u/s prelim read:  
+1. No sonographic evidence of retained products of conception. 
+2. No adnexal masses are seen, though concomitant ectopic 
+pregnancy is not entirely excluded. Correlation with beta HCG is 
+recommended. 
+
+-abdominal u/s prelim read: 
+1. Unremarkable right upper quadrant ultrasound aside from a 
+small regions of fatty hepatic infiltration.
+
+-OB was consulted and reviewed pelvic u/s. Did not appreciated 
+evidence of retained products. Did not suspect endometritis but 
+could not rule out. 
+
+-Liver was consulted and NAC in addition to work up for 
+etiologies of acute liver failure. 
+
+Patient was given narcan given history of IVDU and decreased 
+arousability, with some effect, per report. She als received 
+vanc, flagyl, NAC loading dose, and 2 L of IVF and admitted to 
+the floor.  
+
+On arrival to the MICU, pt is drowsy but arousable to voice and 
+gentle tactile stimuli. Patient follows commands, opens her eyes 
+to voice, and moves all extremities to command.
+
+ 
+Past Medical History:
+-H/o IV drug use.  
+-migraine HA
+-spontaneous abortion
+ 
+Social History:
+___
+Family History:
+-Mother: uterine fibroids    
+-MGM: stomach cancer               
+ 
+ 
+Physical Exam:
+Initial Physical Exam
+#ERROR!
+Vitals: T: 97.9 BP: 105/61 P:104  R: 17 O2: 99% RA  
+GENERAL: Arousable to voice and gentle sternal rub, opens eyes  
+HEENT: Sclera anicteric, dry mucous membranes  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally anteriorly, no wheezes, 
+rales, rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, patient resists abdominal exam diffusely, but no 
+rebound tenderness or voluntary guarding appreciated
+EXT: Warm, well perfused, no clubbing, cyanosis or edema  
+SKIN:  No petechiae, splinter hemorrhages, ___ lesions. 
+left middle finger with round, erythematous 2 mm lesion on 
+middle finger, NT to palpation. additional 1-2 mm erythematous 
+raised lesions on left palmar surface
+NEURO:  moving all extremities to command, pupils reactive b/l
+
+Discharge Physical Exam
+#ERROR!
+Vitals: 98.2 (Tmax 99.1) 103/59 76 16 100% on RA  
+General: young woman, speaking in full sentences, comfortable 
+appearing, in NAD
+HEENT: sclera icteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD; R IJ in place without 
+erythema or induration  
+Lungs: clear to auscultation bilaterally, no wheezes, crackles, 
+ronchi  
+CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley, no CVA tenderness  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: axox3, CNII-XII grossly intact, strength intact in 
+bilateral upper and lower extremities. No asterixis. Able to 
+recite days of week backwards, able to do serial 7s x 2 numbers 
+ 
+Pertinent Results:
+Initial Lab Results
+#ERROR!
+___ 08:50PM BLOOD WBC-12.1*# RBC-4.68 Hgb-13.8 Hct-43.3 
+MCV-93 MCH-29.5 MCHC-31.9* RDW-14.7 RDWSD-48.4* Plt ___
+___ 11:50PM BLOOD ___ PTT-30.7 ___
+___ 05:56AM BLOOD ___ 08:50PM BLOOD Glucose-169* UreaN-17 Creat-0.9 Na-137 
+K-4.6 Cl-98 HCO3-12* AnGap-32*
+___ 11:50PM BLOOD ALT-___* AST-1569* AlkPhos-120* 
+TotBili-2.5*
+___ 05:56AM BLOOD Calcium-8.2* Phos-1.2* Mg-2.2 Iron-40
+___ 05:56AM BLOOD calTIBC-335 ___ Ferritn-689* TRF-258
+___ 05:56AM BLOOD Triglyc-46
+___ 05:56AM BLOOD Osmolal-298
+___ 11:50PM BLOOD IgM HBc-NEGATIVE
+___ 05:56AM BLOOD HAV Ab-NEGATIVE IgM HAV-NEGATIVE
+___ 02:53AM BLOOD AMA-NEGATIVE Smooth-NEGATIVE
+___ 02:53AM BLOOD ___
+___ 11:50PM BLOOD IgG-1178 IgA-112
+___ 07:30PM BLOOD Vanco-7.9*
+___ 11:50PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 12:02PM BLOOD Type-ART Rates-16/ Tidal V-450 FiO2-50 
+pO2-113* pCO2-27* pH-7.32* calTCO2-15* Base XS--10 
+Intubat-INTUBATED Vent-CONTROLLED
+___ 08:50PM BLOOD Lactate-6.1*
+___ 06:56AM BLOOD freeCa-1.18
+
+DISCHARGE:
+
+___ 05:06AM BLOOD WBC-8.7 RBC-2.80* Hgb-8.3* Hct-26.2* 
+MCV-94 MCH-29.6 MCHC-31.7* RDW-19.5* RDWSD-65.7* Plt ___
+___ 05:06AM BLOOD ___ PTT-35.9 ___
+___ 05:06AM BLOOD Glucose-111* UreaN-6 Creat-0.5 Na-135 
+K-3.4 Cl-102 HCO3-21* AnGap-15
+___ 05:06AM BLOOD Calcium-8.7 Phos-2.5* Mg-1.8
+
+IMAGING
+#ERROR!
+___ Pelvic U/S
+IMPRESSION:  
+1.  No sonographic evidence of retained products of conception.  
+Endometritis is not excluded. 
+2.  No adnexal masses are seen, though concomitant ectopic 
+pregnancy is not entirely excluded.  Correlation with beta HCG 
+is recommended. 
+
+___ CXR
+IMPRESSION:  
+No acute intrathoracic abnormality.
+
+___ CT Head
+IMPRESSION: 
+1. No acute intracranial abnormalities on the noncontrast head 
+CT. 
+2. There is relative fullness of the brain parenchyma, however 
+within expected limits for the patient's age.  If there is high 
+clinical concern for cerebellar edema, MRI would be more 
+sensitive in this clinical context, if there are no 
+contraindications. 
+3. Near complete opacification of the right maxillary sinus.  
+Moderate mucosal thickening of the ethmoid air cells. 
+ 
+
+___ Abdominal U/S
+IMPRESSION:  
+1.  2.5 cm ill-defined heterogeneous hepatic hypodensity is new 
+since ___.  Given the provided clinical history, 
+this could represent an area of infection/ abscess.  Recommend 
+MR to further evaluate. 
+2.  Marked gallbladder wall edema is new in the interval and 
+likely reflective of acute hepatitis. 
+3.  No evidence of ascites.  The main portal vein is patent. 
+
+___ MRI Spine
+IMPRESSION: 
+1. Enhancing material in the anterior epidural space throughout 
+the cervical spine and extending into the upper thoracic spine.  
+Given the clinical history, this is suggestive of epidural 
+abscess.  If infection appears unlikely, the differential 
+diagnosis would include inflammatory or neoplastic processes 
+
+___ MRI Abdomen
+IMPRESSION:  
+1.  Diffuse abnormal hepatic signal compatible with hepatitis.  
+No evidence of hepatic abscess. 
+2. Lobulated hypoenhancing T2 hypointense foci surrounding the 
+gallbladder 
+fossa, likely representing  areas of liver relatively spared 
+from hepatitis or regenerative nodules. 
+3.  Severe gallbladder wall thickening secondary to the diffuse 
+hepatic 
+disease. 
+4.  Lobulated cystic lesion in the right mid kidney with 
+apparent mildly 
+thickened enhancing septum. 
+5.  Pulmonary edema. 
+
+___:
+CT Head  
+1. No evidence of infection, mass, edema or hemorrhage. 
+2. Sclerotic right maxillary sinus wall with mucosal secretions, 
+suggestive of 
+chronic sinusitis. 
+
+___: MRI BRAIN
+ 
+Right maxillary and ethmoid sinus disease.  Otherwise 
+unremarkable MRI of the brain. 
+
+___:
+MRI CERVIAL AND THORACIC SPINE:
+ 
+The previous enhancement in the anterior epidural space spanning 
+from C4-T2 is no longer visualized, likely representing interval 
+resolution and treatment response.  Follow-up as clinically 
+indicated. 
+
+MICRO DATA
+___ 4:38 am SWAB      Source: Vaginal. 
+
+                            **FINAL REPORT ___
+
+   Chlamydia trachomatis, Nucleic Acid Probe, with Amplification 
+(Final
+      ___:    Negative for Chlamydia trachomatis by 
+___ System,
+      APTIMA COMBO 2 Assay. 
+
+   NEISSERIA GONORRHOEAE (GC), NUCLEIC ACID PROBE, WITH 
+AMPLIFICATION
+      (Final ___:    Negative for Neisseria gonorrhoeae by 
+___
+      System, APTIMA COMBO 2 Assay. 
+
+___ 4:38 am SWAB      Source: Vaginal. 
+
+                            **FINAL REPORT ___
+
+   SMEAR FOR BACTERIAL VAGINOSIS (Final ___: 
+      GRAM STAIN NEGATIVE FOR BACTERIAL VAGINOSIS. 
+
+   GENITAL CULTURE FOR TOXIC SHOCK (Final ___: 
+      NO STAPHYLOCOCCUS AUREUS ISOLATED. 
+
+   YEAST VAGINITIS CULTURE (Final ___:    NEGATIVE FOR 
+YEAST. 
+  
+___ 9:58 am URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      KLEBSIELLA PNEUMONIAE.    10,000-100,000 ORGANISMS/ML.. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+___:
+Test                          Result              Reference 
+Range/Units
+SOURCE                        Serum               
+HSV 1 QN PCR                  <100                <100 copies/mL
+HSV 2 QN PCR                  <100                <100 copies/mL
+
+___ 4:18 am Immunology (___)      Source: Line-TLC. 
+
+                            **FINAL REPORT ___
+
+   CMV Viral Load (Final ___: 
+      CMV DNA not detected. 
+      Performed by Cobas Ampliprep / Cobas Taqman CMV Test. 
+      Linear range of quantification: 137 IU/mL - 9,100,000 
+IU/mL. 
+      Limit of detection 91 IU/mL. 
+      This test has been verified for use in the ___ patient 
+population. 
+
+___ 11:31 am IMMUNOLOGY      Source: Line-R IJ. 
+
+                            **FINAL REPORT ___
+
+   HIV-1 Viral Load/Ultrasensitive (Final ___: 
+      HIV-1 RNA is not detected. 
+      Performed using the Cobas Ampliprep / Cobas Taqman HIV-1 
+Test v2.0. 
+      Detection Range: ___ copies/mL. 
+      This test is approved for monitoring HIV-1 viral load in 
+known
+      HIV-positive patients. It is not approved for diagnosis of 
+acute HIV
+      infection. 
+      In symptomatic acute HIV infection (acute retroviral 
+syndrome), the
+      viral load is usually very high (>>1000 copies/mL). If 
+acute HIV
+      infection is clinically suspected and there is a 
+detectable but low
+      viral load, please contact the laboratory for 
+interpretation. 
+      It is recommended that any NEW positive HIV-1 viral load 
+result, in
+      the absence of positive serology, be confirmed by 
+submitting a new
+      sample FOR HIV-1 PCR, in addition to serological testing. 
+
+ 
+Brief Hospital Course:
+___ with remote history of IVDU, SAB 8 weeks prior to 
+presentation presenting with 3 days of abdominal pain. Patient 
+was found to have endometritis and acute liver failure. Liver 
+failure secondary to acetaminophen toxicity. Patient required 
+ICU care and intubation, received N acetylcysteine for liver 
+failure. Her liver function improved and her encephalopathy 
+improved with lactulose. After extubation she had an episode of 
+altered mental status with hand jerking and abnormal posturing. 
+She was urgently evaluated by neurology and did not have 
+abnormal EEG findings, head CT and MRI without acute process. 
+___ have been secondary to acute liver failure. Infectious 
+workup unremarkable and patient completed course of IV 
+antibiotics for endometritis. She may have had frontal seizures 
+and will follow up with neurology as outpatient. With 
+downtrending LFTs, normal mental status, and patient afebrile x 
+48 hours she was discharged home with plan for new PCP and 
+neurology follow up.
+
+#ERROR!
+MICU COURSE
+#ERROR!
+# Acute Liver Failure: 
+Patient presented to the MICU in acute liver failure with 
+initially rising LFTs and INR and altered mental status. Liver 
+failure was attributed to Tylenol toxicity given report of 
+Tylenol ingestion. Upon extubation, patient endorsed taking 
+several pills of Tylenol ___ for insomnia. Hepatitis serologies 
+were negative, in addition to ___, AMA, and anti-smooth muscle 
+antibody. Ceruloplasmin and alpha 1 anti-trypsin levels were 
+normal. Patient received N acetylcysteine infusions per 
+protocol. Her LFTs down trended from a peak of ~8000 to 600s. 
+INR also down trended from a peak of 7.2 to 1.9. 
+
+#Acute toxic metabolic encephalopathy: 
+Patient presented with lethargy and somnolence. She initially 
+was able to answer some questions and follow some commands. 
+However her mental status soon deteriorated and she was 
+intubated for airway protection (see below). Her encephalopathy 
+was attributed to liver failure. EEG showed generalized sharp 
+wave discharges, concerning for either non-convulsive status vs 
+sequela of hepatic encephalopathy and she was started on Keppra. 
+Patient's mental status improved, she was able to follow 
+commands, and her EEG also demonstrated improvement. Patient's 
+keppra was discontinued without further evidence of seizure 
+activity, and on day of discharge from the ICU, she was able to 
+answer questions appropriately and follow commands. She was 
+continued on lactulose for hepatic encephalopathy.  
+
+# SEPSIS 
+Patient presented with persistent fevers during admission up to 
+102.3 F. She was started on vanc/zosyn for broad spectrum 
+coverage. Blood cultures were negative. Fevers initially 
+attributed to her acute liver failure. Given persistent fevers, 
+and rising T bili to 7, a RUQ u/s was obtained which showed a 
+2.5cm hepatic lesion. MRI abdomen showed no concern for abscess. 
+Given her history of IVDU, an MR ___ spine was obtained which 
+showed concern for abscess at the anterior cervical level, 
+though no discrete fluid collection or abscess was identified. 
+Repeat MRI without evidence of abscess. ID was consulted. Given 
+patient's history of SAB, and initial complaint of pelvic pain 
+in the ___, she was started on Augmentin 875mg BID/unasyn 
+(___) for endometritis. With downtrending leukocytosis, 
+no further fevers, no abdominal or pelvic pain, antibiotics 
+discontinued. All other infectious workup including EBV, CMV, 
+HIV, HSV negative. Patient remained afebrile x 48 hours and was 
+not discharged on any further antibiotics. 
+
+# INTUBATION FOR DEPRESSED MENTAL STATUS: 
+Patient initially intubated for depressed mental status. Mental 
+status improved and patient was extubated without complications. 
+Pt answered questions and followed commands on day of discharge 
+from the ICU. 
+
+#ERROR!
+FLOOR COURSE:
+#ERROR!
+
+#ACUTE ENCEPHALOPATHY:
+Patient with concerning mental status changes, unable to speak, 
+abnormal hand tremor and movements of arms and legs. Potential 
+etiologies include seizure, infection, malignancy, toxic 
+metabolic encephalopathy. Head imaging unremarkable, EEG without 
+seizure activity, and MRI ___ spine without other further 
+concerning signs of abscess. Patient was followed closely by 
+neurology and psychiatry. There was concern for possible frontal 
+seizures vs volitional psychogenic behavior. Patient's mental 
+status returned to baseline ___ and she did not have any 
+further episodes. Patient discharged with plan for outpatient 
+neurology follow up with Dr. ___ and Dr. ___ in 
+epilepsy clinic.   
+
+  
+#Recent SAB, endometritis:
+Patient with SAB 8 weeks prior to admission. She presented 
+complaining of abdominal pain with presentation concerning for 
+endometritis. Patient unable to tolerate augmentin secondary to 
+nausea. She completed course of unasyn without further fevers, 
+leukocytosis, abdominal pain, or vaginal discharge. 
+
+#History of IVDU:
+Patient noted to have track marks and syringes in purse 
+concerning for IVDU history. Also with history of suboxone use 
+not prescribed by a physician, likely obtained in other ways. 
+Patient did not show signs of withdrawal and was not interested 
+in referral to suboxone treatment program. 
+
+#ACETAMINOPHEN OVERDOSE:
+Patient presented with liver failure secondary to acetaminophen 
+toxicity. Patient revealed that she had taken increasing doses 
+of Tylenol ___ to help with abdominal pain, sleep. She initially 
+endorsed suicidal ideation and had a 1:1 sitter for safety. She 
+was evaluated by psychiatry who determined that patient did not 
+have further suicidal ideation, no current risk to herself, and 
+did not meet criteria for ___ or inpatient psychiatric 
+hospitalization criteria. Patient was counseled on appropriate 
+medication use and to avoid all Tylenol until PCP follow up. ___ 
+may consider establishing care with a psychiatrist or therapist 
+as an outpatient. 
+
+#Tobacco Use:
+Patient is a current every day smoker. She received nicotine 
+patch and gum while inpatient.
+
+#Access:
+Patient initially had R IJ central line placed in the ICU. IV 
+nurses were unable to obtain peripheral access. Central line was 
+discontinued on day of discharge.  
+
+TRANSITIONAL ISSUES:
+#ERROR!
+
+[ ] Acute Liver Failure: please repeat LFTs at PCP follow up, 
+ensure down trending. If normalized can discontinue lactulose.
+[ ] History of Heroin Use: Last use "years ago". Patient 
+counseled on suboxone, she declined services at this time but 
+provided with resources if she should be interested
+[ ] Depression: Patient endorsed feeling depressed after SAB, 
+acetaminophen overdose unintentional. She was counseled on 
+appropriate use of acetaminophen and evaluated by psychiatry who 
+determined she was not at acute risk to herself or others. 
+Please continue to assess. 
+***[ ] Patient needs follow up of lobulated cystic lesion in 
+kidney noted on MRI
+
+#Code: full
+#Communication: ___ ___ 
+___
+ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Lactulose 30 mL PO TID 
+RX *lactulose 10 gram/15 mL (15 mL) 30 mL by mouth three times a 
+day Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute Liver Failure
+Acetaminophen Toxicity
+Endometritis
+Acute Toxic Metabolic Encephalopathy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you during your recent 
+admission to ___. You came into 
+the hospital because of abdominal pain. We found that you had 
+liver failure because you took too much Tylenol. You were in the 
+intensive care unit and required intubation. You were also 
+treated with IV antibiotics for an infection of your uterus 
+(endometritis). Your liver function improved with medication. 
+Additionally you had an episode of confusion related to your 
+liver failure and possible seizures. You were evaluated by 
+infectious disease, neurology, psychology, and hepatology. You 
+did not have any further episodes and did not require any 
+medications for confusion.
+
+Please DO NOT TAKE Tylenol/acetaminophen until your liver 
+numbers return to normal. 
+
+Please continue to take your lactulose so that you have ___ 
+bowel movements per day. 
+
+If you should feel sad or depressed please call the BEST team at 
+___ for assistance. We want to be sure you always 
+feel you have assistance and are safe.
+
+Please take your medications as directed and follow up with your 
+new PCP as scheduled.
+
+We wish you the best.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,208 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Naprosyn
+ 
+Attending: ___.
+ 
+Chief Complaint:
+grade I endometrial adenocarcinoma
+ 
+Major Surgical or Invasive Procedure:
+Robotic-assisted total laparoscopic hysterectomy, bilateral 
+salpingo-oophorectomy
+
+ 
+History of Present Illness:
+Ms. ___ is ___ who recently underwent a D and C 
+with Dr. ___ postmenopausal bleeding and was found to 
+have EIN.  On review of her pathology report here at the ___, 
+small foci of
+endometrial adenocarcinoma, endometrioid type FIGO grade I, who
+was found arising in association with extensive endometrial
+intraepithelial neoplasia involving an endometrial polyp.  She
+had a Mirena IUD placed at the end of her procedure with Dr.
+___.  Since her procedure, she has had episodes of fairly
+significant vaginal bleeding; however, she has only been 
+spotting
+for the last seven days or so.
+
+ 
+Past Medical History:
+PMH: 
+-Recent unprovoked and provoked lower extremity DVT and PE: DVT 
+while taking OCPs in early 2000s, DVT/PE in ___, no hematologic 
+workup per patient
+-NIDDM2
+-HTN
+-HLD
+-Chronic diastolic heart failure
+-Hypothyroidism
+-Fibromyalgia
+
+PSH: 
+-Bladder sling procedure ___
+-D&C 
+-Hand surgery
+-Eye surgery
+
+ObGyn: 
+-G3P3
+-Menarche: ___ years 
+-Menopause: ___ years
+-Pap smear: normal (___), remote history of abnormal Pap smears
+
+ 
+Physical Exam:
+General: NAD, A&Ox3
+CV: RRR, no murmurs
+RESP: CTAB, normal work of breathing
+Abd: soft, appropriately tender, no rebound or guarding, port
+dressings C/D/I
+Incision: dressings clean, dry and intact
+GU: minimal spotting on pad, foley out now by RN
+Extremities: left leg with some tenderness to palpation, tense, 
+?
+lymphadema, pneumoboots on bilaterally
+ 
+Pertinent Results:
+___ 06:46AM BLOOD WBC-8.6 RBC-3.27* Hgb-9.8* Hct-31.4* 
+MCV-96 MCH-30.0 MCHC-31.2* RDW-15.2 RDWSD-54.1* Plt ___
+___ 06:46AM BLOOD Glucose-116* UreaN-11 Creat-1.0 Na-140 
+K-4.5 Cl-99 HCO3-28 AnGap-13
+___ 06:46AM BLOOD Calcium-8.5 Phos-3.4 Mg-1.9
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the GYN oncology service after 
+undergoing a robotic assisted total laparoscopic hysterectomy 
+and bilateral salpingo-oophorectomy for grade 1 endometrial 
+adenocarcinoma.  Please see operative report for full details.
+
+Immediately postoperatively, her pain was controlled with IV 
+morphine and she was subsequently transitioned to oral , 
+tramadol, Tylenol.  Her Foley catheter was removed and she 
+voided spontaneously.  Her diet was advanced without difficulty.
+
+For her history of DVT/PE on lifelong anticoagulation, she held 
+her p.m. dose of Lovenox on the day prior to surgery.  Her 
+therapeutic Lovenox was restarted on postoperative day 0.  She 
+was discharged home with a plan to restart her warfarin on 
+___, and present to ___ clinic for an INR on 
+___.  This plan was discussed with her primary pulmonologist 
+who manages her anticoagulation.
+
+For her history of hypertension, diastolic heart failure, she 
+was continued on spironolactone, Lasix, and 2 g salt 
+restriction.  For her hypothyroidism she continued her 
+levothyroxine.  For her type 2 diabetes, she resumed her 
+metformin when tolerating PO.
+
+By postoperative day 1, she was voiding without difficulty, 
+ambulating independently, tolerating a regular diet, and 
+requiring only oral pain medications.  She was discharged home 
+in stable condition with close follow-up.
+ 
+Medications on Admission:
+Enoxaparin Sodium 120 mg SC Q12H  
+Furosemide 40 mg PO BID  
+Levothyroxine Sodium 50 mcg PO DAILY  
+MetFORMIN (Glucophage) 1000 mg PO BID  
+Spironolactone 50 mg PO BID  
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO TID 
+Do not exceed 2600mg in 24 hours 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth q6h prn Disp #*60 
+Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth bid prn Disp 
+#*60 Capsule Refills:*0 
+3.  TraMADol 25 mg PO Q6H:PRN pain 
+RX *tramadol [Ultram] 50 mg 0.5 (One half) tablet(s) by mouth 
+every 6 hours Disp #*15 Tablet Refills:*0 
+4.  Enoxaparin Sodium 120 mg SC Q12H  
+5.  Furosemide 40 mg PO BID  
+6.  Levothyroxine Sodium 50 mcg PO DAILY  
+7.  MetFORMIN (Glucophage) 1000 mg PO BID  
+8.  Spironolactone 50 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Endometrial cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the gynecologic oncology service after 
+undergoing the procedures listed below. You have recovered well 
+after your operation, and the team feels that you are safe to be 
+discharged home. Please follow these instructions: 
+
+LOVENOX INSTRUCTIONS:
+* Continue to take your lovenox 
+* Start taking your warfarin (Coumadin) on ___ at 7.5mg 
+daily. Also take your lovenox on ___. 
+* Have your INR checked on ___. 
+* Take your medications as prescribed. We recommend you take 
+non-narcotics (i.e. Tylenol, ibuprofen) regularly for the first 
+few days post-operatively, and use the narcotic as needed. As 
+you start to feel better and need less medication, you should 
+decrease/stop the narcotic first.
+* Take a stool softener to prevent constipation. You were 
+prescribed Colace. If you continue to feel constipated and have 
+not had a bowel movement within 48hrs of leaving the hospital 
+you can take a gentle laxative such as milk of magnesium.  
+* Do not drive while taking narcotics.  
+* Do not combine narcotic and sedative medications or alcohol.  
+* Do not take more than 4000mg acetaminophen (tylenol) in 24 
+hrs.  
+* No strenuous activity until your post-op appointment.  
+* Nothing in the vagina (no tampons, no douching, no sex) for 8 
+weeks
+* No heavy lifting of objects >10 lbs for 4 weeks.  
+* You may eat a regular diet.
+* It is safe to walk up stairs.  
+ 
+Incision care:  
+* You may shower and allow soapy water to run over incision; no 
+scrubbing of incision. No bath tubs for 6 weeks.  
+* You should remove your port site dressings ___ days after your 
+surgery, if they have not already been removed in the hospital. 
+Leave your steri-strips on.  If they are still on after ___ 
+days from surgery, you may remove them.  
+
+To reach medical records to get the records from this 
+hospitalization sent to your doctor at home, call ___.  
+
+ 
+Call your doctor at ___ for:  
+* fever > 100.4  
+* severe abdominal pain  
+* difficulty urinating  
+* vaginal bleeding requiring >1 pad/hr  
+* abnormal vaginal discharge  
+* redness or drainage from incision  
+* nausea/vomiting where you are unable to keep down fluids/food 
+or your medication  
+* chest pain or difficulty breathing 
+* onset of any concerning symptoms 
+ 
+Followup Instructions:
+___

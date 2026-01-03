@@ -1,0 +1,252 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Tetracyclines
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Severe jaw/chest pain and diaphoresis on exertion
+
+ 
+Major Surgical or Invasive Procedure:
+___ - Coronary artery bypass grafting x 3 with the left 
+internal mammary artery to the diagonal artery and reverse 
+saphenous vein graft to the posterior descending artery and 
+obtuse marginal artery.
+
+ 
+History of Present Illness:
+___ y.o. male with HTN, HLD, prediabetes, strong family history 
+of premature CAD, and current smoker developed severe jaw/chest 
+pain, SOB, and diaphoresis on
+___ while moving lawn up an incline. Resolved with 
+rest after 30 min. Reports ongoing episodes of severe heartburn 
+since last ___ and GI workup was negative to date and 
+scheduled to have EGD soon. For the past month has been 
+experiencing chest tightness with SOB with exertion which 
+resolves with rest. Yesterday went to PCP, sent to urgent care, 
+and then sent to ___. In the ER c/o chest fullness but 
+nothing similar to events on ___. No ischemic EKG changes 
+but report right bundle branch block. Similar to ___. 
+Troponins negative x3. Patient sent to ___ for cardiac 
+catheterization which revealed coronary artery disease. Patient 
+to be evaluated for coronary artery bypass graft.
+ 
+Past Medical History:
+Allergic rhinitis
+Anxiety
+Depression
+Gastroesophageal Reflux Disease
+Hemorrhoids
+Hyperlipidemia
+Hypertension
+Pre-diabetes
+
+ 
+Social History:
+___
+Family History:
+Father had rheumatic fever and died at age ___ of MI
+Maternal grandfather died of "heart disease" at ___
+ 
+Physical Exam:
+Pulse:71 Resp:13  O2 sat:99% RA 
+B/P  Right:145/87    Left:149/74 
+Height:70.5 in     Weight:108.9 kg
+
+General: No acute distress 
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck: Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x] Irregular [] Murmur none 
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds 
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema none 
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:  +2  Left: +2
+DP           Right:  +1  Left: +1
+___           Right:  +1  Left: +1
+Radial       Right:  TR band   Left: +1 
+
+Carotid Bruit:       Right: no bruit     Left: no bruit 
+
+Discharge PE:
+VS: ___, 128/70, 70, 18, 92% RA O2 SAT
+I/O:1560/1750//SMN:120/750
+
+General:A&O x3, NAD
+___
+Lungs:bibasilar few crackles
+Abd:benign
+___ edema
+Wounds:C/D/I, sternum stable. No rock/ click
+
+ 
+Pertinent Results:
+Cardiac Catheterization ___:
+Severe 3 Vessel CAD involving the left main coronary artery. 
+Ostial circumflex disease. Calcified 80% mid RCA stenosis.
+
+Transesophageal Echocardiogram ___:
+Pre Bypass: 
+The left atrium is mildly dilated. No thrombus is seen in the 
+left atrial appendage. No atrial septal defect is seen by 2D or 
+color Doppler. There is mild symmetric left ventricular 
+hypertrophy. The left ventricular cavity size is normal. There 
+is mild to moderate regional left ventricular systolic 
+dysfunction with septal and mid to distal anteroseptal 
+hypokinesis. LVEF 40%. Right ventricular chamber size is normal 
+with mild global free wall hypokinesis. Tricuspid annular plane 
+systolic excursion is mildly depressed (1.4 cm) consistent with 
+right ventricular systolic dysfunction. The aortic valve 
+leaflets (3) appear structurally normal with good leaflet 
+excursion. There is no aortic valve stenosis. ___ aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. Mild to moderate (___) central mitral regurgitation 
+is seen. 
+
+Post Bypass: 
+Patient is in SR, on phenylephrine infusion. Unchanged 
+biventricular systolic fxn. 1+ MR. ___ AI. ___ intact.  
+
+___ 03:28AM BLOOD WBC-13.6* RBC-3.17* Hgb-10.3* Hct-30.8* 
+MCV-97 MCH-32.5* MCHC-33.4 RDW-12.8 RDWSD-46.0 Plt ___
+___ 01:50PM BLOOD WBC-8.4 RBC-4.72 Hgb-15.4 Hct-44.4 MCV-94 
+MCH-32.6* MCHC-34.7 RDW-12.6 RDWSD-43.4 Plt ___
+___ 03:28AM BLOOD ___
+___ 01:50PM BLOOD ___ PTT-150* ___
+___ 03:28AM BLOOD Glucose-120* UreaN-14 Creat-0.8 Na-140 
+K-3.9 Cl-103 HCO3-25 AnGap-12
+___ 01:50PM BLOOD Glucose-106* UreaN-13 Creat-0.7 Na-141 
+K-4.9 Cl-102 HCO3-22 AnGap-17
+
+___ 05:50AM BLOOD WBC-12.4* RBC-3.50* Hgb-11.2* Hct-34.1* 
+MCV-97 MCH-32.0 MCHC-32.8 RDW-12.7 RDWSD-45.6 Plt ___
+___ 05:50AM BLOOD Glucose-125* UreaN-19 Creat-0.9 Na-141 
+K-4.0 Cl-99 HCO3-26 AnGap-16
+ 
+Brief Hospital Course:
+___ underwent routine preoperative testing and evaluation. 
+He remained clinically stable and was taken to the operating 
+room on ___. He underwent coronary artery bypass graft x 3 
+(left internal mammary artery to the diagonal artery and reverse 
+saphenous vein graft to the posterior descending artery and
+obtuse marginal artery). Please see operative note for surgical 
+details. Following surgery he was transferred to the CVICU for 
+invasive monitoring in stable condition.
+
+ Later that day he was weaned from sedation, awoke 
+neurologically intact and was then extubated. Beta blocker was 
+initiated and he was gently diuresed toward the his preoperative 
+weight. He was transferred to the telemetry floor for further 
+recovery. Chest tubes and pacing wires were discontinued without 
+complication. 
+He was evaluated by the physical therapy service for assistance 
+with strength and mobility. By the time of discharge on POD # 4 
+he was ambulating freely, the wound was healing and pain was 
+controlled with oral analgesics. He was discharged to home with 
+___ services in good condition with appropriate follow up 
+instructions.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pantoprazole 40 mg PO Q24H 
+2. Lisinopril 10 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. Venlafaxine XR 75 mg PO DAILY 
+5. Aspirin EC 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*1 
+3.  Furosemide 20 mg PO DAILY Duration: 7 Days 
+RX *furosemide [Lasix] 20 mg 1 tablet(s) by mouth daily Disp #*7 
+Tablet Refills:*0 
+4.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *hydromorphone 2 mg ___ tablet(s) by mouth q4h prn Disp #*50 
+Tablet Refills:*0 
+5.  Metoprolol Tartrate 37.5 mg PO TID 
+RX *metoprolol tartrate 37.5 mg 1 tablet(s) by mouth three times 
+a day Disp #*90 Tablet Refills:*1 
+6.  Potassium Chloride 20 mEq PO DAILY Duration: 7 Days 
+x 7 days 
+RX *potassium chloride 20 mEq 1 tablet(s) by mouth daily Disp 
+#*7 Tablet Refills:*0 
+7.  Aspirin EC 81 mg PO DAILY 
+RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*1 
+8.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth Q ___ Disp #*30 
+Tablet Refills:*1 
+9.  Pantoprazole 40 mg PO Q24H  
+10.  Venlafaxine XR 75 mg PO DAILY  
+11. HELD- Lisinopril 10 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until reevaluated by Cardiologist
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary artery disease s/p coronary artery bypass graft x 3
+Past medical history:
+Hypertension
+Hyperlipidemia
+Pre diabetes
+GERD
+Anxiety
+Depression
+Hemorrhoids
+Allergic rhinitis
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal 
+Ambulating with steady gait
+Incisional pain managed with 
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Leg Right/Left - healing well, no erythema or drainage.
+Edema
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

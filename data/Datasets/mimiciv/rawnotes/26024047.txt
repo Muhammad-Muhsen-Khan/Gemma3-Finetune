@@ -1,0 +1,320 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Codeine / Percocet / Neomycin / Darvocet-N 100
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+none 
+
+attach
+ 
+Pertinent Results:
+___ 12:50PM BLOOD WBC-8.4 RBC-3.68* Hgb-10.4* Hct-34.0 
+MCV-92 MCH-28.3 MCHC-30.6* RDW-13.7 RDWSD-46.8* Plt ___
+___ 12:50PM BLOOD ___ PTT-43.0* ___
+___ 12:50PM BLOOD Glucose-140* UreaN-22* Creat-1.5* Na-140 
+K-4.8 Cl-104 HCO3-23 AnGap-13
+___ 10:19PM BLOOD D-Dimer-456
+___ 07:55AM BLOOD CK(CPK)-150
+___ 07:53PM BLOOD ALT-24 AST-30 AlkPhos-74 TotBili-0.2
+___ 07:53PM BLOOD Lipase-25
+___ 07:55AM BLOOD CK-MB-4 cTropnT-<0.01 proBNP-285
+___ 12:50PM BLOOD Calcium-9.3 Phos-4.1 Mg-1.9
+___ 08:25PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NORMAL pH-6.5 
+Leuks-TR*
+___ 08:25PM URINE RBC-1 WBC-4 Bacteri-FEW* Yeast-NONE Epi-1 
+RenalEp-<1
+
+TTE 
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect by 2D/color Doppler.
+The estimated right atrial pressure is ___ mmHg. There is focal 
+non-obstructive hypertrophy of the basal
+septum with a normal cavity size. There is normal regional and 
+global left ventricular systolic function. The
+visually estimated left ventricular ejection fraction is >=65%. 
+There is no resting left ventricular
+outflow tract gradient. Normal right ventricular cavity size 
+with normal free wall motion. Tricuspid annular
+plane systolic excursion (TAPSE) is normal. The aortic sinus 
+diameter is normal for gender with a normal
+ascending aorta diameter for gender. The aortic arch diameter is 
+normal with a normal descending aorta
+diameter. There is no evidence for an aortic arch coarctation. 
+The aortic valve leaflets (3) are mildly
+thickened. There is minimal aortic valve stenosis. There is no 
+aortic regurgitation. The mitral valve leaflets are
+mildly thickened with no mitral valve prolapse. There is trivial 
+mitral regurgitation. The pulmonic valve leaflets
+are normal. The tricuspid valve leaflets appear structurally 
+normal. There is physiologic tricuspid regurgitation.
+The estimated pulmonary artery systolic pressure is normal. 
+There is no pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+normal cavity size and regional/
+global biventricular systolic function. Minimal aortic stenosis.
+Compared with the prior TTE (images reviewed) of ___ , 
+minimal aortic stenosis seen otherwise
+similar.
+
+EXAMINATION:  CT ABD AND PELVIS WITH CONTRAST
+ 
+INDICATION:  ___ with lower abdominal tenderness
+
+TECHNIQUE:  Single phase contrast: MDCT axial images were 
+acquired through the
+abdomen and pelvis following intravenous contrast 
+administration.
+Oral contrast was administered.
+Coronal and sagittal reformations were performed and reviewed on 
+PACS.
+ 
+COMPARISON:  CT abdomen pelvis ___.
+ 
+FINDINGS: 
+ 
+LOWER CHEST: Similar interval appearance of pulmonary micro 
+nodules at the
+lung bases which are nonspecific and may be infectious, 
+inflammatory or the
+sequelae of aspiration.  No pleural effusion.  The heart size is 
+normal.
+ 
+ABDOMEN:
+ 
+HEPATOBILIARY: Liver demonstrates homogeneous attenuation 
+throughout without
+evidence of suspicious focal lesion.  There is minimal 
+intrahepatic biliary
+ductal dilatation, grossly similar from prior.  The gallbladder 
+is not
+visualized.  There is no extrahepatic biliary ductal dilatation 
+for patient
+age.  No perihepatic free fluid.
+ 
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of
+focal lesions or pancreatic ductal dilatation.  There is no 
+peripancreatic
+stranding.
+ 
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without
+evidence of focal lesions.
+ 
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape.
+ 
+URINARY: The kidneys are of normal symmetric size with normal 
+nephrograms. 
+There are no suspicious renal lesions.  Subcentimeter 
+hypodensities small to
+characterize and nonspecific cortical irregularities are again 
+noted.  No
+perinephric abnormality.  There are extrarenal pelvises 
+bilaterally with
+fullness of the right collecting system but no overt 
+hydronephrosis.  There is
+prominence of the right ureter particularly in the right mid 
+abdomen, favored
+to represent peristalsis.  No obstructing renal stones are seen.
+ 
+GASTROINTESTINAL: The stomach is unremarkable.  Small bowel 
+loops demonstrate
+normal caliber, wall thickness, and enhancement throughout. 
+There is sigmoid
+diverticulosis without evidence of wall thickening or fat 
+stranding.  No free
+fluid within the abdomen or pelvis.  There is a moderate colonic 
+stool burden.
+ 
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is no
+free fluid in the pelvis.
+ 
+REPRODUCTIVE ORGANS: The uterus is not visualized. No adnexal 
+abnormality is
+seen.
+ 
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There
+is no pelvic or inguinal lymphadenopathy.  Incidental note is 
+again made of a
+few calcified mesenteric lymph nodes.
+ 
+VASCULAR: There is no abdominal aortic aneurysm.  Extensive 
+atherosclerotic
+disease is noted.
+ 
+BONES: There is multilevel vertebral body height loss involving 
+the
+thoracolumbar spine, similar in overall appearance from prior.  
+0.4 cm
+retrolisthesis of L4 on L5 is presumably degenerative in 
+unchanged.  Prior
+laminectomy changes are noted from L3 through L5.
+ 
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits.
+ 
+IMPRESSION:
+ 
+ 
+1. No acute process in the abdomen or pelvis to explain the 
+patient's
+symptoms.
+2. Stable interval appearance of multiple ___ opacities 
+at the lung
+bases which are nonspecific and may be infectious, inflammatory 
+or the
+sequelae of prior aspiration.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with CAD, atrial fibrillation 
+on Coumadin, HTN, DM last HgbA1C was 9.2 in ___  who 
+presents with vague symptoms including dizziness, 
+lightheadedness, dyspnea on exertion, pelvic pain, lower back 
+pain and constipation. 
+Her pelvic pain and constipation was improved with bowel meds 
+Her dyspnea on exertion and lightheadedness improved with 
+fluids. Her DOE was her interpretation of feeling weak when she 
+would stand up to walk. 
+
+#) Orthostasis
+Patient has chronic orthostatic hypotension and HTN. She has 
+labile BPs. Only on amlodipine 2.5 at home, but when stopped her 
+systolic rose to 180s, although they did resolve on their own. 
+She has low PO intake, and had prior admission for orthostasis 
+that improved with fluids. She is also on psych meds which can 
+cause dizziness and orthostasis. 
+Did not change psych meds because she is stable on them from 
+psychiatric point of view. 
+She was given 3L NS while inpatient and felt lightheadedness 
+improved. Giving her fluids was delayed by report of dyspnea. 
+Cardiology was called and she had a TTE which was normal after 
+which she was given fluids. 
+
+#Type 2 Diabetes on insulin, uncontrolled
+Patient with frequent hypo/hyperglycemia. Currently has 
+freestyle ___ glucose monitor but left receiver at home. She 
+was continued on her home regimen with stable sugars, except for 
+2 instance of asymptomatic hypoglycemia that resolved quickly 
+with juice. 
+
+#Atrial fibrillation on Warfarin:
+CHA2DS2VASC score = 6 (Age-2, HTN-1, DM-1, VASC-1, female-1)
+She was continued on warfarin here. Dose was reduced slightly 
+because of elevated INR. 
+
+#Constipation
+Patient manually disempacted on admission. She was started on a 
+bowel regimen.
+CT A/P on admission was normal. 
+Patient expressed concern over her history of bladder cancer 
+which a small transitional cell tumor which was removed many 
+years ago. CT A/P did not show any signs of masses.  
+
+#) CKD 
+Cr remained stable at 1.5. 
+ 
+Transitional issues: 
+[ ] For orthostasis continue to encourage PO intake and can try 
+thigh high compression stockings as outpatient 
+[ ] continue to monitor constipation 
+[ ] can check INR on ___ - goal is ___ for afib (normally 
+takes 5 mg at night)
+[ ] consider changing coumadin to DOAC 
+ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 2.5 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. BusPIRone 15 mg PO DAILY 
+4. BusPIRone 10 mg PO Q NOON 
+5. BusPIRone 10 mg PO QHS 
+6. DULoxetine ___ 60 mg PO DAILY 
+7. Tresiba FlexTouch U-100 (insulin degludec) 100 unit/mL (3 mL) 
+subcutaneous DAILY 
+8. Levothyroxine Sodium 50 mcg PO DAILY 
+9. Tradjenta (linaGLIPtin) 5 mg oral DAILY 
+10. LORazepam 0.5 mg PO DAILY:PRN anxiety 
+11. melatonin 5 mg oral QHS 
+12. Pantoprazole 40 mg PO Q12H 
+13. Warfarin 5 mg PO DAILY16 
+14. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+15. Aspirin 81 mg PO DAILY 
+16. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral DAILY 
+17. Vitamin D 400 UNIT PO DAILY 
+18. Miconazole Powder 2% 1 Appl TP BID:PRN rash 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*30 Capsule Refills:*0 
+2.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram 1 dose by mouth once a day 
+Disp #*15 Packet Refills:*0 
+3.  Warfarin 4 mg PO DAILY16  
+4.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+5.  amLODIPine 2.5 mg PO DAILY  
+6.  Aspirin 81 mg PO DAILY  
+7.  Atorvastatin 40 mg PO QPM  
+8.  BusPIRone 15 mg PO DAILY  
+9.  BusPIRone 10 mg PO Q NOON  
+10.  BusPIRone 10 mg PO QHS  
+11.  Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral DAILY  
+12.  DULoxetine ___ 60 mg PO DAILY  
+13.  Levothyroxine Sodium 50 mcg PO DAILY  
+14.  LORazepam 0.5 mg PO DAILY:PRN anxiety  
+15.  melatonin 5 mg oral QHS  
+16.  Miconazole Powder 2% 1 Appl TP BID:PRN rash  
+17.  Pantoprazole 40 mg PO Q12H  
+18.  Tradjenta (linaGLIPtin) 5 mg oral DAILY  
+19.  Tresiba FlexTouch U-100 (insulin degludec) 100 unit/mL (3 
+mL) subcutaneous DAILY  
+20.  Vitamin D 400 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+orthostatic hypotension 
+constipation 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted for shortness of breath. 
+
+You were seen by the cardiologists, and you had an ultrasound of 
+your heart which showed normal heart function. 
+
+You also felt lightheaded which improved with fluids. 
+
+You also had constipation which improved with medications. 
+ 
+Followup Instructions:
+___

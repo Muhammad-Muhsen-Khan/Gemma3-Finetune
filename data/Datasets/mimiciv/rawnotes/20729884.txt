@@ -1,0 +1,302 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Traumatic IPH
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ is a ___ year old male who presents to ___ on ___ with a moderate TBI. Patient was brought into the 
+ER by EMS for intoxication out of concern for his airway. 
+Patient was admitted to the ER on ___ shortly before 3pm 
+where he was awake and talking. Patient endorsed drinking 
+alcohol. Patient was kept in the ER to sober up. Early ___ 
+morning, nursing became concerned as the patient seemed 
+lethargic and confused, unsteady on his feet, with an episode of 
+emesis. A CT head was performed showing bifrontal and temporal 
+contusions. No outward sign of trauma can be appreciated. 
+
+ 
+Past Medical History:
+unknown
+ 
+Social History:
+___
+Family History:
+Unknown
+ 
+Physical Exam:
+Exam on Admission:
+==================
+O:  T: 99.4   BP:  158/80   HR: 68   RR: 18   O2 Sat: 100% RA
+
+GCS at the scene: _Unknown____
+
+GCS upon Neurosurgery Evaluation:  11      
+Time of evaluation: ___ 0620am
+
+Airway: [ ]Intubated   [X]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [X]3 Opens eyes to voice
+ [ ]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [X]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [X]6 Obeys commands
+
+Exam:
+
+Upon entering the room, patient is asleep, opened eyes briskly 
+to
+name. Upon questions patient mutters back but words were not
+clear. PERRL. Will stay awake during exam. Purposefully MAE in
+the bed. Patient moved BLE to command and lifted RUE to command.
+Does not follow commands consistently. Face appears symmetric. 
+No
+signs of trauma to face/head. 
+On Discharge:
+=============
+Exam: 
+___ speaking primary 
+
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place - hospital in ___ [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+Pupils:  PERRL 4-3mm bilaterally 
+EOM: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+Pronator Drift [ ]Yes [x]No     
+Speech Fluent: [x]Yes [ ]No - in ___
+Comprehension intact [x]Yes [ ]No 
+
+Motor:
+Moving all extremities spontaneously with good strength.
+Strength ___ in all four extremities 
+
+ 
+Pertinent Results:
+Please see OMR for pertinent results and imaging.
+ 
+Brief Hospital Course:
+#TBI
+The patient was under close surveillance initially in the ICU 
+and then transitioned to the ___ intermediate care 
+unit. His traumatic brain injury was managed conservatively. He 
+was transferred from the ICU to the ___ on ___. On ___, the 
+patient underwent a STAT CT head in the AM which showed slightly 
+increased edema in the posterior left frontal lobe possible 
+slight increase in mass effect. He remained in the ___ for 
+close neurologic checks. The patient remained stable and was 
+transitioned to floor status while awaiting discharge planning.
+
+#Altered mental status
+Over the course of his admission, the patient had a waxing and 
+waning neurologic status with more severe lethargy with minimal 
+responsiveness in the morning, following by the patient being 
+more awake and alert in the afternoon. Medicine was consulted on 
+___ and recommended a full metabolic and infectious work-up 
+that finalized as negative. They also recommended starting 
+intravenous fluids for low oral intake, discontinuing all 
+sedatives and starting high dose IV thiamine for probable 
+chronic alcohol abuse. They further recommended consulting 
+Neurology for an EEG that was put on ___ and found to be 
+negative for acute epileptic activity. He completed his course 
+of Keppra x 7 days. He was maintained on salt tabs for 
+hyponatremia. He slowly regained his cognition throughout his 
+hospitalization. 
+
+On ___, his mental status and cognition were clear enough to 
+provide case management and social work with the name of his 
+employer and friends with whom he lived. 
+
+#Thrombocytopenia 
+The patient received 2 units platelets ___ overnight, 1 unit 
+___, 160 on ___. The patient's thrombocytopenia then resolved.
+
+#Thrombocytosis
+Later during the patient's hospitalization, the patient 
+developed thrombocytosis that continued to uptrend. Medicine was 
+consulted. Infectious workup was negative and iron studies/Vit 
+B12 were normal. Thrombocytosis resolved.
+
+#Hyponatremia
+Serum sodium goal > 132. Hypertonic saline stopped ___ and the 
+patient was treated with salt tabs 2 G TID. Salt tabs were 
+weaned again on ___. His salt tabs were discontinued on ___, 
+and he remained within his goal for normal sodium levels 
+throughout discharge. 
+
+#Agitation 
+Patient with unknown alcohol history, acutely intoxicated on 
+presentation to ___. He was initially on phenobarbital in the 
+ICU, and transitioned to a PO Phenobarb taper. Additionally, he 
+was managed with Seroquel and Clonidine. His Seroquel was 
+discontinued on ___, but restarted on ___ overnight PRN 
+QHS for agitation. Over the course of his hospitalization, the 
+clonidine patch was discontinued and the patient was treated 
+with Seroquel as needed for intermittent agitation. Seroquel was 
+discontinued ___ and he remained stable.
+
+#Nutrition
+The patient had a nasogastric tube was that removed ___ and his 
+diet was advanced on ___ to puree and nectar thick with 
+medications crushed in apple sauce. On ___ his diet was 
+changed to ground food and nectar thick liquids, crushed meds 
+and 1:1 supervision with feeding. The swallow team continued to 
+follow the patient while he remained inpatient. On ___, he was 
+re-assessed and was advanced to a soft diet with thin liquids. 
+At this time, he still required 1:1 supervision with independent 
+feedings due to his impulsivity. His diet progressed to a 
+regular diet with no modifications at the time of discharge.
+
+#UTI
+Upon workup for fever, the patient was found to have Klebsiella 
+pneumonia in his urine and was started on Cipro on ___. Abx 
+course finished on ___. Patient had no further urinary 
+complications during hospitalization.
+
+#Chronic Alcohol Use
+The patient was treated with a multivitamin, Thiamine and 
+Folate, followed by the initiation of high dose IV Thiamine on 
+___ and subsequent taper to daily dosing of 100mg daily. 
+
+#Dispo Planning
+On ___, ___ and OT consults were ordered and have been following 
+along with patient's progress. ON ___, the patient was 
+cognitive enough to provide case management and social work with 
+the information for his "boss" and his roommates. ___ and OT 
+continued working with the patient towards discharge to home. 
+Team meeting was held on ___ and the patient was cleared 
+by OT for discharge home with outpatient follow-up.
+ 
+Medications on Admission:
+Unknown
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild  
+2.  FoLIC Acid 1 mg PO DAILY  
+3.  Multivitamins W/minerals 1 TAB PO DAILY  
+4.  Thiamine 100 mg PO DAILY  
+5.Outpatient Occupational Therapy
+Evaluate and treat
+6.Outpatient Physical Therapy
+Evaluate and treat
+7.Outpatient Speech/Swallowing Therapy
+Evaluate and treat
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Bifrontal and bitemporal IPH
+Hyponatremia
+Thrombocytosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Activity
+
+* We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+* You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+* No driving while taking any narcotic or sedating medication. 
+* If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+* No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+
+* Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+* You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+* We recommend that you continue to take a multivitamin, folic 
+acid and thiamine supplements.
+
+What You ___ Experience:
+
+* You may have difficulty paying attention, concentrating, and 
+remembering new information.
+* Emotional and/or behavioral difficulties are common. 
+* Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+* Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+Headaches:
+
+* Headache is one of the most common symptom after a brain 
+bleed. 
+* Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+* Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+* There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+When to Call Your Doctor at ___ for:
+
+* Severe pain, swelling, redness or drainage from the incision 
+site. 
+* Fever greater than 101.5 degrees Fahrenheit
+* Nausea and/or vomiting
+* Extreme sleepiness and not being able to stay awake
+* Severe headaches not relieved by pain relievers
+* Seizures
+* Any new problems with your vision or ability to speak
+* Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+
+* Sudden numbness or weakness in the face, arm, or leg
+* Sudden confusion or trouble speaking or understanding
+* Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+* Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,424 @@
+Name:  ___.             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Mercaptopurine / ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pancreatic adenocarcinoma s/p neoadjuvant therapy 
+ 
+Major Surgical or Invasive Procedure:
+___: PROCEDURES:
+1.  Exploratory laparoscopy.
+2.  Intraoperative laparoscopic ultrasound of liver
+3.  Liver biopsy of segment VIII.
+4.  Radical pancreaticoduodenectomy with en bloc resection of 
+lateral portal vein and distal stomach.
+5.  Portal venorrhaphy to be dictated by Dr. ___.
+6.  Placement of gold fiducials.
+7.  End-to-side ductal mucosa modified Blumgart style
+pancreaticojejunostomy, ductal mucosa.
+8.  End-to-side hepaticojejunostomy after cholecystectomy.
+9.  Polya gastrojejunostomy.
+10.  Placement of transgastric feeding jejunostomy tube.
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with a history of Crohn's 
+disease limited to his colon, rectum, and anus who underwent 
+laparoscopic total proctocolectomy with intersphincteric 
+proctectomy and end ileostomy in ___ ___ here at 
+___. Pathology at that time demonstrated Crohns disease 
+without dysplasia and one normal lymph node. Since then he has 
+not undergone any further interrogation/endoscopy. Unfortunately 
+in ___ he had progressive weight loss and jaundice and 
+was found to have a pancreatic mass with an associated CA ___ 
+of 56,900. He also was found to have Lupus coagulant and has 
+been on prophylactic Lovenox since ___. Patient 
+underwent neoadjavant treatment (not completed secondary to poor 
+tolerance), and was followed by Dr. ___ in his pancreas and 
+liver institute for possible surgical resection. Today patient 
+present for elective Whipple resection.
+
+On staging imaging work up he was also found to have a right 
+middle lobe lung lesion which was percutaneous-biopsy negative 
+for malignancy (biopsy demonstrated granulomatous inflammation). 
+AFB, micro/gram stains were also negative from that biopsy.  
+
+He had been started on neoadjuvant chemotherapy with FOLFIRINOX 
+this past ___, which led to severe nausea with PO intolerance. 
+He also had intolerance to tube feeds via subsequently-placed NJ 
+tube which we had recommended (placed by ___ ___. Despite 
+this, he underwent 5 cycles in total of preoperative FOLFIRINOX, 
+with his last dose having been administered on ___. He 
+did
+lose quite a bit of weight in the process, at one point weighing 
+115 lbs from his original weight around 140 lbs one year ago.  
+Mr. ___ in is improving from a malnutrition standpoint. 
+His laboratory values included an Albumin of 3.1 on ___ 
+starting chemotherapy his CA ___ has come down from a high of 
+56,900 in ___ to 627 on ___. . He has gained an additional 
+4.8 pounds in that time. He feels significantly stronger and now 
+eating one good meal and three to four smaller meals a day. His 
+weight today is 122.8 pounds, and BMI is 20.4 from 20.0.  
+
+He reports an 85% return to his functional and energy status 
+from one year ago. He reports he is now exercising multiple 
+times a day including use of hand weights and leg and arm raises 
+___, using the treadmill 20 minutes a day, and notes he is 
+increasing his treadmill use with a goal of walking ___ a mile a 
+day. His wife notes he is much more independent around the 
+house. His activity involves sitting on the couch less than ___ 
+of the day. Overall he currently has an ECOG score of 2.
+
+CTA on ___ revealed a stable known pancreatic head lesion, 
+without evidence of metastases, a stable RML lesion (previously 
+___ biopsied as above), and new slight narrowing of the main 
+portal vein at the SMV confluence, where there is some, but less 
+than 180 degree, contact with the mass. He presented to ___ on 
+___ for planned whipple procedure 
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY: 
+- Crohn's Disease (s/p ___ colectomy and ileostomy)  
+- Nephrolithiasis 
+- Anxiety  
+- pancreatic adenocarcinoma s/p neoadjuvant therapy 
+- Depression 
+ 
+Social History:
+___
+Family History:
+Father with DM. Maternal grandmother with question of breast 
+cancer (died in ___ or ___. Paternal grandparents died young 
+age.
+ 
+Physical Exam:
+Physical Exam at Discharge: 
+ 
+Pertinent Results:
+RECENT LABS:
+
+___ 05:05AM BLOOD WBC-6.3 RBC-2.74* Hgb-8.8* Hct-27.0* 
+MCV-99* MCH-32.1* MCHC-32.6 RDW-14.5 RDWSD-51.5* Plt ___
+___ 06:08AM BLOOD Glucose-107* UreaN-17 Creat-0.9 Na-142 
+K-4.9 Cl-102 HCO3-27 AnGap-13
+___ 05:00AM BLOOD ALT-10 AST-13 LD(LDH)-163 AlkPhos-82 
+TotBili-0.4
+___ 06:08AM BLOOD Calcium-9.6 Phos-3.9 Mg-1.9
+___ 09:34AM ASCITES Amylase-7 Triglyc-599
+___ 09:34AM ASCITES Amylase-7 Triglyc-188
+___ 07:15PM OTHER BODY FLUID Amylase-15
+___ 07:15PM OTHER BODY FLUID Amylase-10
+ 
+Brief Hospital Course:
+Patient is a ___ year old M with pancreatic adenocarcinoma in the 
+head of the pancreas who is status post neoadjuvant 
+chemoradiation who presented to ___ for a scheduled whipple 
+procedure. He was taken to the OR on ___ for an elective 
+whipple procedure for resection of his tumor. Approximately 1hr 
+into case ___ was noted have low urine output. A blood 
+gas and chem10 confirmed that he had metabolic acidotic (pH 7.1) 
+and acute kidney injury (Cr 1.8 from baseline approx. 0.7-1.3). 
+He was given fluids in the OR and had multiple ABGs. His urine 
+output picked up and his ABGs normalized. In the OR his EBL was 
+100cc, IVF 4300cc, h received 1u PRBC, and UOP 300cc. He was 
+kept intubated in the immediate post-operative period and 
+overnight. Renal was consulted and recommended bicarbonate to be 
+given in the immediate post-operative period due to the 
+acidosis. 
+On POD1 he was extubated and no additional bicarb was given his 
+complete resolution of acidosis. He was given 2u pRBC for acute 
+blood loss anemia. He bumped appropriately from 21.2 to 26.4. 
+His NGT was kept in place. His creatinine was monitored and 
+trended down to WNL. 
+On POD 2, patient was transferred to the floor NPO/NGT, IV 
+fluids, Foley catheter, JP drain x 2, and epidural for pain 
+control. Patient was hemodynamically stable.
+
+Neuro: His-operative pain was initially well controlled with an 
+epidural, but he was split to PCA/epidural due to soft blood 
+pressures. He was subsequently converted to PCA alone.   On POD 
+8 he was converted to oral pain medication when tolerating clear 
+liquids. He was continued on PO pain medications throughout the 
+hospitalization with his pain well controlled. 
+
+Psych: Patient has a history of major depression, he is on 
+Celexa and Clonazepam at home. During hospitalization patient 
+experienced exacerbation of symptoms secondary to prolong 
+hospital stay, large ileostomy and uncertainly of outcomes. 
+Psychiatry was consulted and patient was provided with Remeron 
+for better sleep and Dronabinol to increase appetite. After 
+patient progress with recovery, symptoms of depression subsided 
+and he returned to his base line.   
+
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.  
+ 
+Pulm: During this hospitalization, the patient ambulated early 
+and frequently, was adherent with respiratory toilet and 
+incentive spirometry, and actively participated in the plan of 
+care. 
+
+GI: The NG tube was discontinued on POD#4. The patient was 
+started on sips of clears on POD#5, On POD 2 he was started on 
+tube feeds (Vital 1.5).  Unfortunately on POD 6 his JP output 
+became thicker and he was noted to have high triglycerides in 
+the fluid. His TF were held.  He was subsequently restared on TF 
+(Vivonex) on POD 7 and started on TPN on POD 8 due to 
+intolerance from secretory diarrhea/high ileostomy output. He 
+continue to have large ileostomy output despite starting on 
+Octreotide, Psyllium, Opium Tincture, Imodium, Creon and 
+Cyproheptadine. TF was discontinued on POD 10 and patient 
+remained on TPN, his diet was advanced to full liquids as 
+chylous drainage subsided. He was subsequently advanced to 
+regular diet on POD 10 which he tolerated well. His chylous leak 
+improved and repeat JP amylase on tube feeds were 15,10 
+respectively.  On POD 12 he was started on dronabinol to improve 
+his appetite/PO intake. On POD 14 his dronabinol was doubled and 
+was restarted on tube feeds given his poor caloric intake. 
+Patient was restarted on Vital 1.5 and TPN was weaned off. With 
+the combination of the aforementioned mediations patient's 
+ostomy output remained in the ~1500cc range throughout the 
+remainder of his hospitalization. On POD 25, Tincture of Opium 
+was discontinued secondary to abdominal cramps, and on POD 26 
+Octreotide was discontinued as well.  
+
+GU: He initially had a foley catheter in place. The foley 
+catheter was discontinued at midnight of POD#4. The patient 
+subsequently voided without problem
+
+Heme: The patient received 3 units of pRBC post operative for 
+acute blood loss anemia. Patient blood count was follow during 
+hospitalization and no further transfusion were required.
+
+Endocrine: The patient's blood sugar was monitored regularly 
+throughout the stay; it was noticed that BS were elevated 
+especially during ___ diabetic team was contacted 
+for management of hyperglycemia. Patient's blood sugar improved 
+prior to discharge. He was discharged with a prescription of 
+sliding scale insulin along with the appropriate administration 
+supplies 
+
+ID: Given his high ileostomy output, he was checked for 
+c.difficile on pod15, which was negative. Fever curve and CBC 
+were monitored throughout his hospitalization. 
+
+At the time of discharge on ___, the patient was doing 
+well, afebrile with stable vital signs.  The patient was 
+tolerating a regular diet and cycled TF, ambulating, voiding 
+without assistance, and pain was well controlled. Staples were 
+removed, and steri-strips placed. The patient was discharged 
+home with services. The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. ClonazePAM 0.5-1 mg PO QHS:PRN sleep 
+2. Citalopram 40 mg PO ___ 
+3. Enoxaparin Sodium 40 mg SC ___  
+Start: ___, First Dose: Next Routine Administration Time 
+4. Omeprazole 40 mg PO ___ 
+5. Ranitidine 300 mg PO ___ 
+6. Thiamine 100 mg PO ___ 
+7. Ondansetron 4 mg PO Q8H:PRN nausea 
+8. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+9. Diphenoxylate-Atropine 1 TAB PO Q6H:PRN ostomy output 
+10. LORazepam 0.5 mg PO Frequency is Unknown anxiety 
+
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override:  
+do not exceed more then 3000 mg/day  
+2.  Banatrol Plus (banana flakes-t-galactooligos.) 1 pack oral 
+TID W/MEALS 
+RX *banana flakes-t-galactooligos. [Banatrol Plus]  1 powder(s) 
+by mouth three times a day w/ meals Disp #*30 Packet Refills:*0 
+3.  Creon (lipase-protease-amylase) ___ unit 
+oral TID W/MEALS 
+please take 3 caps with every meal  
+RX *lipase-protease-amylase [Creon] 36,000 unit-114,000 
+unit-180,000 unit 1 capsule(s) by mouth three times a day Disp 
+#*30 Capsule Refills:*0 
+4.  Cyproheptadine 4 mg PO BID 
+RX *cyproheptadine 4 mg 1 tablet by mouth twice a day Disp #*30 
+Tablet Refills:*0 
+5.  Dronabinol 5 mg PO BID 
+RX *dronabinol 5 mg 1 capsule(s) by mouth twice a day Disp #*30 
+Capsule Refills:*0 
+6.  HumaLOG KwikPen Insulin (insulin lispro) 100 unit/mL 
+subcutaneous qachs 
+as per sliding scale up to 20 units per day 
+RX *insulin lispro [Humalog KwikPen Insulin] 100 unit/mL 1 unit 
+sc qachs Disp #*50 Syringe Refills:*0 
+7.  Insulin SC 
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using HUM Insulin 
+8.  Insupen (pen needle, diabetic) 32 gauge x ___ sc 5x ___ 
+RX *pen needle, diabetic [BD Ultra-Fine Nano Pen Needles] 32 
+gauge X ___  5x ___ Disp #*100 Container Refills:*2 
+9.  LOPERamide 8 mg PO TID 
+RX *loperamide 2 mg 4 tabs by mouth three times a day Disp #*40 
+Tablet Refills:*0 
+10.  Mirtazapine 30 mg PO QHS 
+RX *mirtazapine 30 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+11.  Multivitamins W/minerals 1 TAB PO ___  
+12.  OneTouch Delica Lancets (lancets) 30 gauge miscellaneous 4x 
+___ 
+test BG 4x ___  
+RX *lancets [OneTouch Delica Lancets] 30 gauge  4x ___ Disp 
+#*100 Each Refills:*2 
+13.  OneTouch Verio (blood sugar diagnostic) 1 strip 
+miscellaneous 4x ___ 
+test BG 4x ___ 
+RX *blood sugar diagnostic [OneTouch Verio]   4x ___ Disp 
+#*100 Strip Refills:*2 
+14.  Citalopram 40 mg PO ___  
+15.  ClonazePAM 0.5-1 mg PO QHS:PRN sleep  
+16.  Diphenoxylate-Atropine 1 TAB PO Q6H:PRN ostomy output  
+17.  Omeprazole 40 mg PO ___  
+18.  Ondansetron 4 mg PO Q8H:PRN nausea  
+19.  Prochlorperazine 10 mg PO Q6H:PRN nausea  
+20.  Ranitidine 300 mg PO ___  
+21.  Thiamine 100 mg PO ___  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. Pancreatic ductal adenocarcinoma 
+2. Acute kidney injury 
+3. Severe Malnutrition 
+4. Chylous leak.
+5. Severe post operative diarrhea
+6. Severe depression 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+You were admitted to the surgery service at ___ for surgical 
+resection of your pancreatic mass. Your surgery was complicated 
+by acute kidney injury, which was treated with fluid boluses. 
+Your post operative recovery was complicated by anemia, which 
+was treated with blood transfusions; high ileostomy output, 
+which was treated with various medications and bowel rest; and 
+chylous leak, which was treated with TPN and bowel rest. You are 
+now safe to return home to complete your recovery with the 
+following instructions:
+.
+Please call Dr. ___ office at ___ or Office RNs at 
+___ if you have any questions or concerns. 
+.
+Please call your doctor or nurse practitioner if you experience 
+the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain is not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+.
+General Discharge Instructions:
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication.  Also, please take 
+any new medications as prescribed.
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+.
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water.  Gently pat the area dry.
+*If you have steri-strips, they will fall off on their own.  
+Please remove any remaining strips ___ days after surgery.
+.
+JP Drain x 2 Care:
+*Please look at the site every day for signs of infection 
+(increased redness or pain, swelling, odor, yellow or bloody 
+discharge, warm to touch, fever).
+*Maintain suction of the bulb.
+*Note color, consistency, and amount of fluid in the drain.  
+Call the doctor, ___, or ___ nurse if the amount 
+increases significantly or changes in character.
+*Be sure to empty the drain frequently.  Record the output, if 
+instructed to do so.
+*You may shower; wash the area gently with warm, soapy water.
+*Keep the insertion site clean and dry otherwise.
+*Avoid swimming, baths, hot tubs; do not submerge yourself in 
+water.
+*Make sure to keep the drain attached securely to your body to 
+prevent pulling or dislocation.
+. 
+Ileostomy Care:  
+The most common complication from ileostomy is dehydration. The 
+output from the stoma is stool from the small intestine and the 
+water content is very high. The stool is no longer passing 
+through the large intestine which is where the water from the 
+stool is reabsorbed into the body and the stool becomes formed. 
+You must measure your ileostomy output. The output from the 
+stoma should not be more than 1500 cc or less than 500cc. If you 
+find that your output has become too much or too little, please 
+call the office for advice. Keep yourself well hydrated, if you 
+notice your ileostomy output increasing, take in more 
+electrolyte drink such as Gatorade. Please monitor yourself for 
+signs and symptoms of dehydration including: dizziness 
+(especially upon standing), weakness, dry mouth, headache, or 
+fatigue. If you notice these symptoms please call the office or 
+return to the emergency room for evaluation if these symptoms 
+are severe. You may eat a regular diet with your ileostomy. 
+However it is a good idea to avoid fatty or spicy foods.  
+ 
+ 
+Followup Instructions:
+___

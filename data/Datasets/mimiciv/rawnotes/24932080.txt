@@ -1,0 +1,193 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o man with history of CAD s/p CABG x3, HTN presented with 
+chest pain. The patient reported that ___ years ago he had episode 
+of chest tightness and had a positive exercise tolerance test at 
+that time. He had elevated BPs and underwent CABG x3 
+(___), with LIMA-LAD, SVG-OM1 and SVG-PDA. 
+ He reported that several years after he had his CABG he started 
+experiencing chest pain occasionally, less than 1 time per week 
+and very brief episodes lasting seconds. However, his pain had 
+recently changed, and in the 2 weeks prior to admission he had 
+been having episodes ___ times per day that lasted for ___ 
+hours. The pain had similar characteristics as the pain before 
+his CABG, and was ___ in intensity. The pain was in the left 
+hemithorax around the nipple, and not radiated or associated 
+with respiration, and had no associated shortness of breath, 
+nausea, vomiting, or lightheadedness. His pain occurred with his 
+activities of daily living or sometimes when he was at rest. He 
+went to ___ 3 weeks prior to admission because of 
+the pain and they did an exercise tolerance test which was 
+"normal" according to him. He was also seen at ___ 3 weeks 
+ago because of "dizziness" and they decided to discontinue his 
+Donepezil because of this.
+ On ___ he came to our ER because the pain was worse, 
+approximately ___ but with similar characteristics as before. 
+He left without been seen because of the long wait. He came 
+again on ___ because of similar pain.   
+In the ED initial vitals were: 97.2 73 158/79 16 100% RA 
+EKG: NSR at 61 bpm; NA/NI; TWI V1 (old)
+Labs/studies notable for: Trop-T <0.01, proBNP 162; BMP, CBC wnl
+- CXR: No acute cardiopulmonary process.
+- UA negative.
+Patient was given: 
+- ___ 06:41 PO Aspirin 324 mg
+Vitals on transfer: 98.2 59 143/59 15 100% RA  
+
+On the floor the patient is free of any chest pain and is 
+comfortably breathing room air. His vital signs are stable
+ 
+Past Medical History:
+Benign prostatic hypertrophy
+Crohn's disease
+Hypertension
+Macular degeneration
+Osteoporosis
+Osteoarthritis (back)
+Back surgery with rod (as teenager)
+Bilateral rotator cuffs
+Bilateral carpal tunnel release
+Skin cancer excised from lower lip
+ 
+Social History:
+___
+Family History:
+Mother had some type of cervical or perhaps bladder cancer. 
+There is no family history of colon cancer.  Father and one 
+sister had a history of alcoholism.  His other sister is 
+otherwise well.  He has three healthy children ages ___, ___, and 
+___ along with four grandchildren, all in good health.
+ 
+Physical Exam:
+VS: T=97.7 BP=133/58mmHg HR=58x' RR=18x' O2 SAT 100% RA 
+GENERAL: Well appearing man in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  
+
+NECK: Supple with JVP not visualized at 45 degrees.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. Ejection murmur ___ in right sternal 
+border, not radiated. No rubs/gallops. No thrills, lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+ 
+Pertinent Results:
+___ 06:38AM BLOOD WBC-8.8 RBC-4.69 Hgb-14.3 Hct-44.3 MCV-95 
+MCH-30.5 MCHC-32.3 RDW-13.8 RDWSD-47.7* Plt ___
+___ 06:38AM BLOOD Neuts-69.2 Lymphs-17.0* Monos-9.2 Eos-3.4 
+Baso-1.0 Im ___ AbsNeut-6.12* AbsLymp-1.50 AbsMono-0.81* 
+AbsEos-0.30 AbsBaso-0.09*
+___ 06:38AM BLOOD Glucose-114* UreaN-28* Creat-1.2 Na-139 
+K-4.2 Cl-101 HCO3-23 AnGap-19
+___ 12:45PM BLOOD CK-MB-3 cTropnT-<0.01
+___ 06:38AM BLOOD cTropnT-<0.01
+___ 06:38AM BLOOD proBNP-162
+ 
+Brief Hospital Course:
+Mr. ___ is an ___ y/o patient with a history of Alzheimer's 
+dementia, IBD, HTN, CAD (s/p CABGx3 LIMA-LAD, SVG-OM1, SVG-PDA) 
+who presented with chest pain with negative cardiac biomarkers 
+and without new EKG changes. The patient did not have recurrence 
+of chest pain. Of note, the patient recently presented to 
+___ for chest pain and underwent nuclear stress 
+testing on ___. These results were reviewed. The patient 
+exercised for 7 minutes on ___ protocol with Max HR 136 and 
+Max BP 180/68. Max work load was ___ METs. Nuclear imaging showed 
+homogenous myocardial uptake and no fixed or reversible defects. 
+He had no chest pain and no ischemic changes on ECG. The 
+etiology of the patient's chest discomfort is unclear, but based 
+on these findings it not related to cardiac ischemia.
+
+TRANSITIONAL ISSUES:
+- No medication changes.
+- Please follow up patient's chest pain.
+- Code: Full
+- Contact: ___ (daughter) ___
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Lisinopril 10 mg PO DAILY 
+2. Memantine 10 mg PO BID 
+3. Metoprolol Succinate XL 25 mg PO QHS 
+4. Simvastatin 20 mg PO QPM 
+5. Tamsulosin 0.4 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Lisinopril 10 mg PO DAILY  
+2.  Memantine 10 mg PO BID  
+3.  Metoprolol Succinate XL 25 mg PO QHS  
+4.  Simvastatin 20 mg PO QPM  
+5.  Tamsulosin 0.4 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY: 
+- Chest pain 
+ 
+SECONDARY: 
+- Hypertension 
+- Alzheimer's dementia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You came to the hospital because you were having chest pain. We 
+did several tests, and fortunately did not find any problems 
+with your heart that cause the chest pain. Your chest pain 
+resolved. We reviewed your tests from ___, and 
+these results were reassuringly normal.
+
+Please continue to take your medications as prescribed and 
+follow up with your doctors.
+
+___ wish you the best of health.
+
+Sincerely,
+
+Your ___ Team
+
+We wish you the best of health.
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,353 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: PLASTIC
+ 
+Allergies: 
+labetalol / nifedipine / hydralazine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chronic Left medial ankle wound measuring 8 cm x 4 cm with 
+exposed tibia since ___
+
+ 
+Major Surgical or Invasive Procedure:
+___
+1.  Pedicle, islandized dorsalis pedis neurocutaneous flap.
+2.  Split-thickness skin graft coverage of donor defect.
+.
+___
+Irrigation and debridement of left medial ankle wound including 
+skin and subcutaneous tissue, granulation tissue, and bone.
+
+ 
+History of Present Illness:
+___ male who has a longstanding wound involving in his 
+left medial ankle since the 1980s.  At that time, he had fallen 
+from a ladder and fractured his ankle.  He was treated with open 
+reduction and internal fixation.  This was complicated by 
+hardware infection.  His hardware was subsequently removed and 
+he was treated with antibiotics, and left with an open wound.  
+Since that time he has had an open wound of the left medial 
+ankle.  He has been managing in the wound care center and he has 
+also had a previous skin graft.  However, despite these 
+interventions, he has been left on a chronic wound for decades.  
+He now presents for more definitive management.
+
+ 
+Past Medical History:
+#cataracts
+#atrial fibrillation
+#amyloidosis of the heart
+#Hernia repair
+#L elbow surgery 
+#ORIF in 1980s, s/p hardware removal 
+.
+Past surgical history:
+Hernia repair, left elbow surgery, procedure with Dr. ___ surgery, open reduction internal fixation left ankle
+
+ 
+Social History:
+___
+Family History:
+non-contributory 
+ 
+Physical Exam:
+Physical exam per PRS post op check note ___:
+Gen: NAD, A&Ox3, lying on stretcher.
+HEENT: Normocephalic. 
+CV: RRR
+R: Breathing comfortably on room air. No wheezing.
+Ext: WWP. Palpable radial, DP and TP signal. No ___ edema.
+Dressing c/d/I. 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 05:00PM   GLUCOSE-80 UREA N-27* CREAT-1.5* SODIUM-139 
+POTASSIUM-5.2* CHLORIDE-100 TOTAL CO2-24 ANION GAP-15
+___ 05:00PM   estGFR-Using this
+___ 05:00PM   ALBUMIN-4.2 CALCIUM-9.6 PHOSPHATE-3.4 
+MAGNESIUM-2.2
+___ 05:00PM   WBC-5.0 RBC-4.14* HGB-13.7 HCT-41.7 MCV-101* 
+MCH-33.1* MCHC-32.9 RDW-15.6* RDWSD-58.4*
+___ 05:00PM   PLT COUNT-113*
+___ 05:00PM   ___ PTT-47.2* ___
+.
+DISCHARGE LABS:
+___ 05:31AM BLOOD WBC-8.0 RBC-2.99* Hgb-9.9* Hct-30.5* 
+MCV-102* MCH-33.1* MCHC-32.5 RDW-16.4* RDWSD-61.5* Plt ___
+___ 05:31AM BLOOD Neuts-69.0 Lymphs-12.8* Monos-11.0 
+Eos-6.0 Baso-0.7 Im ___ AbsNeut-5.54 AbsLymp-1.03* 
+AbsMono-0.88* AbsEos-0.48 AbsBaso-0.06
+___ 05:31AM BLOOD UreaN-28* Creat-1.0
+___ 05:31AM BLOOD Mg-2.4
+___ 05:31AM BLOOD CRP-14.3*
+.
+IMAGING:
+Radiology Report ANKLE (AP, MORTISE & LAT) LEFT Study Date of 
+___ 4:05 ___ 
+IMPRESSION:  
+Deformity of the distal tibia likely reflects remote trauma with 
+malunion of a fracture.  There are moderately severe 
+degenerative changes at the tibiotalar joint and varus 
+angulation of the foot
+.
+ ___ ECHOCARDIOGRAPHY REPORT
+Conclusions  
+The left atrial volume index is severely increased. The right 
+atrium is markedly dilated. There is severe symmetric left 
+ventricular hypertrophy. The left ventricular cavity size is 
+normal. Regional left ventricular wall motion is normal. Overall 
+left ventricular systolic function is normal (LVEF>55%). 
+Quantitative (3D) LVEF = 68 %. Right ventricular chamber size 
+and free wall motion are normal. The right ventricular free wall 
+is hypertrophied. The diameters of aorta at the sinus, ascending 
+and arch levels are normal. The aortic valve leaflets (3) are 
+mildly thickened. There is a minimally increased gradient 
+consistent with minimal aortic valve stenosis. The mitral valve 
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is 
+seen. The tricuspid valve leaflets are mildly thickened. 
+Moderate [2+] tricuspid regurgitation is seen. There is mild 
+pulmonary artery systolic hypertension. There is a 
+trivial/physiologic pericardial effusion. There are no 
+echocardiographic signs of tamponade. 
+IMPRESSION: 
+1) Severe symmetric left ventricular hypertrophy likely due to 
+infiltrative cardiomyopathy.
+2) Moderate tricuspid regurgitation in setting of normal RV 
+size/function and at least mild pulmonary hypertension. There is 
+a suggestion of significant PVR elevation since pulmonary 
+acceleration time is short with mid-systolic notching and low 
+VTI of pulmonary venous flow envelop.   
+.
+Radiology Report RENAL U.S. Study Date of ___ 8:47 AM 
+FINDINGS:  
+The right kidney measures 10.5 cm. The left kidney measures 11.2 
+cm.  There is a 1.5 x 1.4 x 1.2 cm lower right kidney exophytic 
+thin-walled, circumscribed predominantly anechoic cyst without 
+vascularity.  There is no hydronephrosis or calculus 
+bilaterally.  Normal cortical echogenicity and corticomedullary 
+differentiation are seen bilaterally.  
+The bladder is moderately well distended and unremarkable in 
+appearance. 
+Bilateral ureteral jets are seen.  
+IMPRESSION:   
+The right renal cystic lesion is likely a hemorrhagic cyst given 
+ultrasound findings and hyperdensity on CT. 
+.
+MICROBIOLOGY:
+Time Taken Not Noted     Log-In Date/Time: ___ 4:43 pm
+      TISSUE     Site: LEG
+      LEFT LOWER LEG BONE  ORDERS WERE CONFIRMED BY ___. ___ 
+___ ON
+      ___ @1643.  SAME SITE PER ___. ___ ON 
+___ @1643. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   TISSUE (Final ___: 
+      Reported to and read back by ___. ___ @ 12:58 ___ ON 
+___. 
+      MIXED BACTERIAL FLORA. 
+         Due to mixed bacterial types [>=3] an abbreviated 
+workup is
+         performed; all organisms will be identified and 
+reported but only
+         select isolates will have sensitivities performed. 
+      CORYNEBACTERIUM SPECIES (DIPHTHEROIDS).    MODERATE 
+GROWTH. 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |   
+CEFEPIME--------------              <=1 S
+CEFTAZIDIME-----------                4 S
+CIPROFLOXACIN---------           <=0.25 S
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   0.5 S
+GENTAMICIN------------ <=0.5 S      <=1 S
+MEROPENEM-------------           <=0.25 S
+OXACILLIN-------------   0.5 S
+PIPERACILLIN/TAZO-----                8 S
+TETRACYCLINE----------  =>16 R
+TOBRAMYCIN------------              <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   ANAEROBIC CULTURE (Final ___: 
+      BACTEROIDES FRAGILIS GROUP.    SPARSE GROWTH. 
+         OF TWO COLONIAL MORPHOLOGIES.  BETA LACTAMASE POSITIVE. 
+
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+.
+OR CULTURES FROM ___:
+
+___ 2:41 pm TISSUE     Site: BONE      BONE FROM LEFT 
+TIBIA. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+.
+___ 9:10 pm TISSUE     Site: ANKLE      LEFT ANKLE SKIN. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Preliminary): 
+      PSEUDOMONAS AERUGINOSA.    RARE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+
+   ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED. 
+
+ 
+Brief Hospital Course:
+1) chronic medial left ankle wound
+Patient was admitted to plastic surgery service on ___ and 
+underwent irrigation and debridement of left medial ankle wound 
+including skin and subcutaneous tissue, granulation tissue, and 
+bone.  Samples were sent to microbiology and pathology for 
+further evaluation.  Patient had daily wound care of left ankle 
+wound until next debridement in OR on ___.  On ___, 
+patient went to OR for Pedicled, islandized dorsalis pedis 
+neurocutaneous flap and a Split-thickness skin graft coverage of 
+donor defect.  He was maintained on strict bedrest until POD#5 
+when dangle protocol was commenced and tolerated well.  Patient 
+had flap checks per protocol.  On POD#7, bulky OR dressing and 
+bolster were taken down.  Incisions were clean and without 
+evidence of infection.  Flap site with superior area of ischemia 
+noted.  Skin graft with 100% take.  Patient was re-dressed with 
+fresh dressings and placed in a posterior splint.
+.
+2) atrial fibrillation/cardiac amyloidosis
+Patient was maintained on telemetry. Patient was initially 
+started on therapeutic lovenox post-operatively on ___ and 
+was transitioned to heparin IV on ___ in anticipation of 
+further surgical intervention.  A medicine consult was obtained 
+post-operatively from ___ OR in anticipation of a 
+potentially long reconstructive surgery.  Due to significant 
+cardiomyopathy and atrial fibrillation, medicine felt that a 
+Cardiology consult was warranted to so this was also obtained.  
+Cardiology gave pre-operative recommendations regarding the 
+potential for prolonged procedure and management during general 
+anesthesia.  Patient was thus switched from lovenox to heparin 
+gtt per Cardiology recommendation.  After last surgery on 
+___, patient was transitioned back to therapeutic lovenox and 
+discharged home on same.  Coumadin will be held until seen for 
+follow up evaluation.
+.
+3) osteomyelitis
+Patient was maintained on cefazolin IV until an ID consult was 
+obtained on ___ and antibiotics were changed to Vancomycin 
+1g q12h, CefePIME 2g q12h, and metronidazole 500mg q8h PO while 
+awaiting OR culture data.  Micro data from surgical bone 
+specimen on ___ revealed PsA (pan-S), citrobacter (R: cefazolin, 
+Augmentin), MSSA, Providentia spp. (R: augmentin), Bacteroides 
+(R: amp), and Myroides spp. (S: cipro and tigecycline only). ID 
+recommended a total of 6 weeks of antibiotic therapy so a PICC 
+line was placed and vancomycin was discontinued in favor of 
+daptomycin; cefepime and flagyl were maintained.
+.
+4) Rash
+On POD#6, patient was noted to have a red, non-pruritic rash on 
+his back and buttocks area.  Yeast rash ___ area.  The areas 
+were cleansed and then aquaphor ointment and micostatin powder 
+were applied TID.
+ 
+Medications on Admission:
+Furosemide, Coumadin, terazosin
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO TID  
+2.  Aquaphor Ointment 1 Appl TP TID apply to back and buttocks 
+RX *white petrolatum [Aquaphor Original] 41 % Apply to back and 
+buttocks three times a day Refills:*2 
+3.  CefePIME 2 g IV Q12H 
+RX *cefepime [Maxipime] 2 gram 2 gm IV every twelve (12) hours 
+Disp #*84 Vial Refills:*0 
+4.  Daptomycin 500 mg IV Q24H 
+RX *daptomycin 500 mg 500 mg IV once a day Disp #*42 Vial 
+Refills:*0 
+5.  Enoxaparin Sodium 60 mg SC Q12H 
+RX *enoxaparin 60 mg/0.6 mL 60 mg SC every twelve (12) hours 
+Disp #*20 Syringe Refills:*1 
+6.  GuaiFENesin ER 600 mg PO Q12H 
+RX *guaifenesin 600 mg 1 tablet(s) by mouth every twelve (12) 
+hours Disp #*14 Tablet Refills:*0 
+7.  MetroNIDAZOLE 500 mg PO TID 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*105 Tablet Refills:*0 
+8.  Miconazole Powder 2% 1 Appl TP TID to buttocks 
+RX *miconazole nitrate 2 % Apply to back and buttocks three 
+times a day Disp #*1 Spray Refills:*1 
+9.  Furosemide 10 mg PO DAILY  
+10.  Terazosin 1 mg PO QHS  
+11.Crutches
+DX: Left ankle osteomyelitis
+PX: Good
+___: 13 months
+___ #: ___ 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+1) chronic medial left ankle wound
+2) atrial fibrillation/cardiac amyloidosis
+3) osteomyelitis
+4) rash
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - walks with crutches
+
+ 
+Discharge Instructions:
+Followup Instructions: ___

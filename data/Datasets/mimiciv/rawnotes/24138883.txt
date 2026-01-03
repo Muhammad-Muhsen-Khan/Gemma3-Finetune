@@ -1,0 +1,137 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+aspirin
+ 
+Attending: ___
+ 
+Chief Complaint:
+epigastric ventral hernia
+ 
+Major Surgical or Invasive Procedure:
+ventral hernia repair with mesh
+ 
+History of Present Illness:
+___ presented for elective repair of incarcerated ventral 
+hernia. He first noticed the hernia ___ years ago. He has since 
+begun to experience abdominal pain and bloating, which has 
+limited his PO intake. Secondary to that, he has lost 
+significant weight. He was referred to Dr. ___ elective 
+___. 
+ 
+Past Medical History:
+HTN
+Gout
+Anxiety/Depression
+ 
+Social History:
+___
+Family History:
+FamHx: Father--deceased, Mother--deceased, siblings: alive--one 
+sister at ___ children--alive, ___ daughter w/ myasthenia 
+___
+
+ 
+Physical Exam:
+Gen: NAD
+Resp: non-labored
+CV: well-perfused
+Abd: S/appropriate TTP/ND, incision c/d/I, JP w/ serosanguinous 
+output
+Ext: well-perfused
+ 
+Pertinent Results:
+None
+ 
+Brief Hospital Course:
+Patient presented to preop holding area on ___ in stable 
+condition. He underwent uncomplicated ventral hernia repair with 
+mesh under general anesthesia. A drain was placed to assist with 
+extraperitoneal fluid drainage. Both his PACU and floor 
+condition were stable and he was discharged in stable condition 
+on ___. Drain removed day of discharge for low output. He is 
+scheduled to follow-up with Dr. ___ on ___ at 1PM. 
+
+Neuro: Pain controlled on PO Acetaminophen, PO Oxy, and IV 
+Morphine. +Fluoxetine and Lorazepam (home meds) for 
+anxiety/depression.
+
+CV: PO Metoprolol, Lisinopril, and Amlodipine (home meds). 
+Stable.
+
+Resp: Encouraged use of IS. Patient was encouraged to be OOB. 
+Stable.
+
+GI: Abdominal exam stable. Placed on PPI (Omeprazole--home med). 
+Fluid remained serosanguinous in JP bulb. 
+
+GU: Allopurinol (home med). No foley.
+
+Heme: SQH. Discontinued on discharge.
+
+ID: Afebrile, no WBC. 
+
+TLD: JPx1 drained q4h. PIV maintained until discharge.  Both 
+discontinued upon discharge. 
+ 
+Medications on Admission:
+ 
+3.  Allopurinol ___ mg PO DAILY 
+Take 1.5 tablets (450mg) daily--as previously prescribed.  
+4.  amLODIPine 10 mg PO DAILY  
+5.  FLUoxetine 80 mg PO DAILY  
+6.  Lisinopril 40 mg PO DAILY  
+7.  LORazepam 1 mg PO BID:PRN anxiety  
+8.  Metoprolol Succinate XL 100 mg PO DAILY  
+9.  Omeprazole 20 mg PO DAILY 
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q4H:PRN Pain - Mild  
+2.  OxyCODONE (Immediate Release) 2.5-5 mg PO Q4H:PRN pain 
+Do not take before driving, operating machinery, or with 
+alcohol. Discontinue when not needed.  
+3.  Allopurinol ___ mg PO DAILY 
+Take 1.5 tablets (450mg) daily--as previously prescribed.  
+4.  amLODIPine 10 mg PO DAILY  
+5.  FLUoxetine 80 mg PO DAILY  
+6.  Lisinopril 40 mg PO DAILY  
+7.  LORazepam 1 mg PO BID:PRN anxiety  
+8.  Metoprolol Succinate XL 100 mg PO DAILY  
+9.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+status post epigastric ventral hernia repair with mesh
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You underwent repair of your epigastric hernia. Mesh was used in 
+this repair. A drain was also placed to assist with fluid 
+removal until complete healing is achieved.
+
+Do not lift anything greater than 5lbs for the next ___ weeks.
+
+Call to make an appointment with Dr. ___ in ___ 
+days.
+
+You will be set-up with a ___ nurse for drain care. It should be 
+drained every ___ hours--less if output decreases, more often if 
+needed.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,316 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+neutropenic fever
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ yo man with HIV on HAART and stage IV (T3
+N1a M1) invasive poorly differentiated squamous cell carcinoma 
+of
+distal rectum/ anal canal, on chemoradiation with ___ and
+mitomycin C (c/b chemotherapy interruption) presenting with
+neutropenic fever. Patient called his oncologist to report a
+fever of 100.8 and was asked to come in because of concern for
+ANC of 1000. 
+He reports having intermittent fevers for past ___ days and high
+grade for past 1 day, as high as 102.9. a/w chills.
+He also reports diarrhea, ___ BMs, watery missed with stools,
+foul smelling, non bloody. Diarrhea started after his last 
+chemo.
+He was initially taking Imodium which had controlled the 
+diarrhea
+but then stopped taking it ___ days ago. NO N/V. He has severe
+pain and spasms in the anal area which is chronic for him, no
+abdominal pain.
+He reports mild chronic burning in urine and bladder which has
+remained unchanged. No cough/phlegm. no skin rash. no URI like
+symptoms.
+No known sick contacts.
+
+In ED,
+His initial vitals were 102.9 100 115/62 20 100% RA.
+He was given 1L NS x 2, Cefepime 2gm IV, Vancomycin 1gm IV
+
+Of note,
+His last  chemo was ___. He was admitted in ___ for port
+infection and discharged on ___ on a week of doxycycline.
+
+REVIEW OF SYSTEMS: A complete 10-point review of systems was
+performed and was negative unless otherwise noted in the HPI. 
+
+ 
+Past Medical History:
+ONCOLOGIC HISTORY:
+- ___: High grade anal dysplasia on screening. Lost to
+follow up
+- ___: Rectal pain, bleeding and discharge
+- ___: Seen by Dr. ___ noticed a 3x4 cm mass in
+distal rectum. Biopsy showed at least squamous cell carcinoma in
+situ. Concurrent pap smear showed no malignant cells. He also 
+had
+malodorous rectal discharge and per patient report, was found to
+have "E.coli" on culture. He was started on antibiotic course
+with bactrim for 10 days. 
+- ___: Evaluated by Dr. ___ who noticed 
+distal
+rectal/ anal junction friable fixed mass, most consistent with 
+an invasive cancer. 
+- ___: Flexible sigmoidoscopy showed fungating, partially
+circumferential non-obstructing large mass in distal rectum 
+which
+was very friable with minimal contact. Biopsy showed poorly
+differentiated squamous cell carcinoma. The tumor cells were
+positive for P40, CK5/6 and p16. They were negative for CK7,
+CK20, synaptophysin, chromogranin and CDX2. Mucicarmine stain 
+was
+negative. ___ stain showed proliferative index of 95%.
+- ___: Staging PET/CT showed 5.9 cm FDG avid rectal mass,
+and FDG uptake in presacral, left common iliac, left internal
+iliac, and perirectal regions.
+- ___: MRI rectum showed rectal mass along with abnormal
+perirectal, mesorectal, left internal iliac, and perisigmoidal
+lymphadenopathy. Imaging stage was T3 N1a M1.
+CT torso showed no distant visceral metastases.
+- Colorectal surgery recommended against diverting colostomy; as
+risks would outweigh any potential benefits.
+- Started on chemoradiation with XRT and ___ + mitomycin C
+- ___: Start XRT
+- ___: C1D1 ___ C
+- ___: Removed port dressing + T of 100.5 F; disconnected
+___
+- ___: ___ infusion re-connected
+- ___: Cellulitis at port site; ___ infusion disconnected;
+OMED admission due to failure of oral cephalexin.
+- ___: Admitted for cellulitis & pain control.
+Improved with IV vancomycin. Started on diltiazem & topical NTG
+for pain.
+- ___: D29-32 of ___ + mitomycin C 
+
+PAST MEDICAL HISTORY:
+- HIV on HAART
+- Dysplastic nevus of trunk 
+- Secondary Syphilis; Lymphogranuloma venereum
+- Shigella and salmonella colitis (___)
+- Testicular hydrocele 
+- Depressive disorder
+- IV drug use
+- Appendix rupture s/p appendectomy
+- Excision of BCC on L forearm
+- Septoplasty
+ 
+Social History:
+___
+Family History:
+- Paternal grandmother: melanoma
+- ___ aunt: ___ cancer
+ 
+Physical Exam:
+Admission Exam:
+=============
+VS: 98.8PO 114 / 62 87 22 100 RA 
+GENERAL: middle aged well build gentleman in distress due to 
+anal
+pain, does not appear acutely ill
+HEENT: no pallor. no icterus. mmm
+CARDIAC: Regular rate and rhythm, no murmurs, rubs or gallops.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Non-distended, normal bowel sounds, soft, non-tender, no
+guarding. Superficial skin ulcers in ___ area.
+EXT: Warm, well perfused. No lower extremity edema. No erythema
+or tenderness.
+NEURO: Alert and oriented, normal speech
+SKIN: Right chest wall port site clean/non tender. Radiation
+burns in pelvic area including genitals.
+
+Discharge Exam:
+=============
+VS: T 97.8 BP 96/56 HR 71 RR 18 97 RA
+GENERAL: middle aged well build gentleman in NAD
+HEENT: no pallor. no icterus. 
+CARDIAC: Regular rate and rhythm, no murmurs, rubs or gallops.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Non-distended, normal bowel sounds, soft, non-tender, no
+guarding. Perianal skin ulcers.
+EXT: Warm, well perfused. No lower extremity edema. No erythema
+or tenderness.
+NEURO: Alert and oriented, normal speech
+SKIN: Right chest wall port site clean/non tender. Radiation
+dermatitis in pelvic area including genitals.
+
+ 
+Pertinent Results:
+Admission Labs:
+============
+___ 06:54PM BLOOD WBC-1.4* RBC-3.33* Hgb-10.1* Hct-29.5* 
+MCV-89 MCH-30.3 MCHC-34.2 RDW-13.5 RDWSD-43.1 Plt ___
+___ 06:54PM BLOOD Neuts-61.1 Lymphs-9.7* Monos-27.1* 
+Eos-1.4 Baso-0.7 AbsNeut-0.88* AbsLymp-0.14* AbsMono-0.39 
+AbsEos-0.02* AbsBaso-0.01
+___ 06:54PM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-OCCASIONAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL 
+Ovalocy-1+*
+___ 06:54PM BLOOD Plt Smr-LOW* Plt ___
+___ 06:54PM BLOOD Glucose-113* UreaN-15 Creat-0.9 Na-135 
+K-4.1 Cl-97 HCO3-26 AnGap-12
+___ 06:54PM BLOOD Calcium-8.7 Phos-3.1 Mg-1.8
+
+Imaging:
+======
+___ MR PELVIS W&W/O CONTRAS:
+1. Interval decrease in bulk of the known lower rectal/anal 
+neoplasm, now with
+an area of intralesional focal ulceration containing trace fluid 
+measuring up
+to 20 x 14 x 9 mm.  No evidence of abscess.
+2. Note, ill-defined enhancing signal extends from the anterior 
+aspect of the
+anal mass anteriorly toward the prostatic apex, likely related 
+to treatment
+effect and/or underlying known tumor.  Attention to this area on 
+follow-up.
+3. Interval decrease in size of mesorectal and superior 
+rectal/superior
+hemorrhoidal lymph nodes, as above.
+
+Discharge Labs:
+===============
+___ 05:20AM BLOOD WBC-1.8* RBC-3.44* Hgb-10.7* Hct-31.1* 
+MCV-90 MCH-31.1 MCHC-34.4 RDW-14.5 RDWSD-45.0 Plt ___
+___ 05:20AM BLOOD Neuts-54.2 Lymphs-12.8* Monos-29.1* 
+Eos-2.2 Baso-0.0 Im ___ AbsNeut-0.97* AbsLymp-0.23* 
+AbsMono-0.52 AbsEos-0.04 AbsBaso-0.00*
+___ 05:20AM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-1+* 
+Macrocy-NORMAL Microcy-NORMAL Polychr-1+* Ovalocy-1+*
+___ 05:20AM BLOOD ___ PTT-27.7 ___
+___ 05:20AM BLOOD Glucose-103* UreaN-16 Creat-0.9 Na-140 
+K-4.3 Cl-100 HCO3-26 AnGap-14
+___ 05:20AM BLOOD Calcium-9.0 Phos-3.9 Mg-2.___ with HIV on HAART and stage IV (T3 N1a M1) invasive poorly 
+differentiated squamous cell carcinoma of distal rectum/ anal 
+canal, who was admitted on ___ with neutropenic fever in setting 
+of recent chemoradiation with ___ and mitomycin C. 
+
+#Neutropenic fever: 
+Developed fever with Tmax 102.9 on day prior to admission 
+associated with chills, diarrhea, and worsening rectal pain. No 
+other localizing symptoms. Flu PCR negative. C.diff, norovirus 
+PCR and other stool cultures negative. Final urine culture with 
+no growth. Port site clean.
+Blood cultures negative. Given worsening rectal symptoms, MRI 
+pelvis obtained and was negative for pelvic abscess or other 
+concerning acute findings. ANC trended daily with nadir of 460 
+on ___. ANC increased to 970 on day of discharge. Patient 
+treated with cefepime throughout stay without any recurrent 
+fevers. 
+
+#Chronic cancer-associated pain:
+#Proctalgia fugax: 
+Exacerbated in setting of active XRT. Continued extensive 
+outpatient regimen consisting of diazepam for spasms, diltiazem 
+to decrease rectal tone, and oxycodone prn. Pain improved 
+throughout admission and well-controlled at time of discharge. 
+Expect ongoing improvement as he recovers from XRT and 
+chemotherapy. 
+
+#HIV infection: Last CD4 50, VL negative in ___.
+Continued emtricitab-rilpivir-tenofo ala 200-25-300 mg ordered 
+separately as combo pill was non-formularly. 
+
+#Invasive Anal SCC: 
+Stage IV (T3 N1a M1) invasive poorly differentiated squamous 
+cell carcinoma of distal rectum/ anal canal. 
+Patient of Dr. ___. On curative intent treatment with 
+chemoradiation with
+___ and XRT. Last received chemotherapy ___. 
+While inpatient, completed last fraction of XRT. Plan to follow 
+up with outpatient oncology team on ___. 
+
+TRANSITIONAL ISSUES:
+--------------------
+[] Medication changes: none
+[] repeat CBC w/ diff for ___ monitoring
+[] continue to monitor rectal pain and adjust regimen as 
+clinically indicated. 
+
+#EMERGENCY CONTACT /HCP: ___ (friend/ partner) 
+___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Docusate Sodium 100 mg PO BID 
+2. emtricita-rilpivirine-tenof DF 200-25-300 mg oral DAILY 
+3. Psyllium Powder 1 PKT PO DAILY 
+4. Senna 8.6 mg PO BID:PRN constipation 
+5. Diazepam 5 mg PO Q12H:PRN muscle spasm pain 
+6. OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+7. Polyethylene Glycol 17 g PO DAILY 
+8. Diltiazem 30 mg PO Q12H proctalgia fugax 
+9. Ondansetron 8 mg PO Q8H:PRN nausea 
+
+ 
+Discharge Medications:
+1.  Diazepam 5 mg PO Q12H:PRN muscle spasm pain  
+2.  Diltiazem 30 mg PO Q12H proctalgia fugax  
+3.  Docusate Sodium 100 mg PO BID  
+4.  emtricita-rilpivirine-tenof DF 200-25-300 mg oral DAILY  
+5.  Ondansetron 8 mg PO Q8H:PRN nausea  
+6.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+7.  Polyethylene Glycol 17 g PO DAILY  
+8.  Psyllium Powder 1 PKT PO DAILY  
+9.  Senna 8.6 mg PO BID:PRN constipation  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Neutropenic fever
+Radiation proctitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a privilege to care for you. You were admitted for a 
+serous condition known as neutropenic fever, which can occur in 
+patients receiving marrow suppressing medications, including 
+mitomycin. You required IV antibiotics and close monitoring of 
+your blood counts, which have now improved. It is now safe for 
+you to be discharged home. 
+
+Please follow up at your previously scheduled oncology 
+appointments on ___. Please contact your oncologist or come to 
+the ED immediately if you development recurrent fever. 
+
+We wish you the best,
+Your ___ Team
+ 
+Followup Instructions:
+___

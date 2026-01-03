@@ -1,0 +1,302 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+zinacef / cephalexin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Sickle cell pain crisis, left ear pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ y/o woman with hemoglobin SC disease c/b
+multiple pain crises, acute chest syndrome, TIA, and avascular
+necrosis of her R hip s/p hip replacement, recently hospitalized
+___ for pain crisis and recurrent sinusitis who presented 
+to
+her hematology appointment with severe left ear with effusion on
+exam and 4 days facial pain and, headache, and was referred to
+the ED.
+
+She has been hospitalized in ___, and ___ of this year
+with pain crises and sinusitis treated with antibiotics each
+time. She reports she has seen an ENT affiliated with ___
+recently (no notes in OMR) but felt the evaluation was very
+cursory. After her recent hospitalization she reports completing
+her antibiotic course. About 1 week later her ears began to feel
+"plugged" and her husband noted she was having decreased 
+hearing.
+About 4 days prior to admission she developed severe left sided
+facial pain radiating down the side of her neck, and severe
+headaches. Her pain did not improve with her home oxycodone and
+tylenol, and after seeing her hematologist in clinic she was
+referred to the ED for further evaluation. She reports pain now
+includes L arm and feels like prior pain crises. She denies any
+fevers/chills, rhinorrhea, nasal congestion, post nasal drip,
+sore throat, drainage from her ears, dyspnea, chest pain,
+abdominal pain, n/v, dysuria, diarrhea/constipation.
+
+ED Course notable for: Afebrile, BP elevated to 170/90 on
+presentation, HR and O2 within normal limits. Left TM
+erythematous and bulging. Labs with persistent leukocytosis to
+14.8. CXR w/o acute abnormality, CT neck and sinus were ordered
+but not completed due to code help. Received 1mg hydromorphone
+boluses for pain control, ampicillin-sulbactam, 1 L NS and
+maintenance NS @ 150/hr
+
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as
+per HPI
+ 
+Past Medical History:
+Hemoglobin SC disease (h/o stroke ___ and multiple episodes of
+acute chest syndrome)
+Depression
+Avascular necrosis s/p R hip replacement ___
+s/p L hip replacement ___ 
+
+ 
+Social History:
+___
+Family History:
+multiple family members with sickle cell SC
+disease (mother has trait)
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: ___ 0035 Temp: 98.2 PO BP: 183/113 HR: 77 RR: 20 O2 
+sat:
+96% O2 delivery: RA 
+GENERAL: Lying in bed, appears mildly uncomfortable
+HEENT: Anicteric sclera, MMM. L TM bulging, erythematous, R TM
+w/o erythema or bulging. Maxillary and frontal sinus tenderness.
+Tenderness to palpation L mastoid
+NECK: supple, tenderness to palpation along left lateral neck, 
+no
+masses or fluctuance appreciated.
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no rashes on face, arms, or lower
+legs
+
+DISCHARGE PHYSICAL EXAM:
+GENERAL: NAD, resting in bed
+HEENT: PERRLA, EOMI, anicteric sclera, MMM. Bulging and 
+opacified
+L TM intact with no perforation or obvious effusion. R TM mild
+opacification, no effusion or perforation. Nasal turbinates
+enlarged and boggy. Posterior oropharynx minimally erythematous;
+tonsils not erythematous or edematous.
+NECK: supple, no LAD, tender to light palpation. 
+CV: RRR, no g/m/r 
+PULM: CTAB, no wheezes, no rales, no rhonchi
+GI: NTND, bowel sounds present, no rebound, no guarding
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: A&Ox3, CNII-XII intact
+DERM: Warm and well perfused, no excoriations or lesions, no
+rashes
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 12:30PM BLOOD WBC-14.8* RBC-4.46 Hgb-12.2 Hct-34.7 
+MCV-78* MCH-27.4 MCHC-35.2 RDW-15.9* RDWSD-43.8 Plt ___
+___ 12:30PM BLOOD UreaN-13 Creat-1.0 Na-140 K-4.9 Cl-100 
+HCO3-26 AnGap-14
+___ 12:30PM BLOOD Hapto-<10*
+
+DISCHARGE LABS
+==============
+___ 06:13AM BLOOD WBC-13.2* RBC-4.24 Hgb-12.0 Hct-33.4* 
+MCV-79* MCH-28.3 MCHC-35.9 RDW-15.9* RDWSD-44.4 Plt ___
+___ 06:13AM BLOOD Glucose-128* UreaN-10 Creat-0.9 Na-140 
+K-5.0 Cl-100 HCO3-23 AnGap-17
+___ 06:13AM BLOOD Calcium-9.8 Phos-5.0* Mg-1.7
+
+PERTINENT IMAGING
+=================
+CT NECK W/CONTRAST (EG:PAROTIDS)
+Study Date of ___ 1:02 AM
+
+1.  Dental amalgam streak artifact limits study. 
+2. No deaf evidence of cervical abscess. 
+3. Scattered subcentimeter nonspecific lymph nodes without 
+definite 
+enlargement by CT size criteria, which may be reactive. 
+4. Partial opacification of bilateral mastoid air cells, better 
+demonstrated 
+on concurrently obtained temporal bone CT. 
+
+CT ORBIT, SELLA & IAC W/O CONTRAST
+Study Date of ___ 1:02 AM
+ 
+1. Study is mildly degraded by motion. 
+2. Grossly stable nonspecific bilateral mastoid fluid without 
+definite 
+destruction of mastoid septa. 
+3. Minimal bilateral middle ear opacification lateral to the 
+ossicles without 
+definite associated osseous destruction. While findings are 
+nonspecific, 
+please note that cholesteatoma is not excluded on the basis of 
+this 
+examination. 
+
+ 
+Brief Hospital Course:
+This is a ___ yo F with hemoglobin SC disease c/b multiple pain 
+crises, acute chest and TIA with hospitalizations in ___, 
+___ and ___ of this year for acute otitis media (AOM) who 
+presented with leukocytosis, bulging opaque LTM, L auricular, 
+neck and mastoid pain. 
+
+HOSPITAL COURSE BY PROBLEM LIST
+#L Ear pain
+#Eustachian Tube Dysfunction
+#Rhinosinusitis
+#Serous Otitis Media
+Pt w/ admissions for AOM ___ (4d course of augmentin) and 
+___ (10d course of levofloxacin). During her last 
+hospitalization she was treated with two days of Unsayn then 
+transitioned to a seven day course of Augmentin. CT at that time 
+showed chronic sinusitis without oribital involvement. Given CT 
+findings, otodynia likely represents rhinosinusitis contributing 
+to increased middle ear/Eustachian tube obstruction. 
+- CT Orbit, Sella and Neck w/ contrast was ordered to evaluate 
+for possible mastoiditis. The study found no bony erosion or 
+evidence of mastoiditis, with scattered lymph nodes in the 
+bilateral cervical regions not pathologically enlarged by CT 
+size criteria. The L middle ear cavity was clear.
+- Pt was started on ampicillin-sulbactam 3g IV q6h for 2d then 
+transitioned to doxycycline 100mg PO Q12 on day three with plan 
+for 10 day course. She was continued on home fluticasone, 
+started on 3d of Afrin and an oral antihistamine. She was 
+scheduled for post-hospitalization f/u with ENT on ___. 
+
+#Acute Pain Crisis
+#Sickle Cell Disease
+Follows with Dr. ___. Second to middle ear/sinus 
+inflammation. Pt initially received 2mg IG dilaudid in ED and 
+continued on 4mg PO dilaudid q4h PRN. She was given IV Fluids in 
+the ED and encouraged PO intake. She was ultimately transitioned 
+to oral oxycodone. Continued home folic acid. Not on hydroxyurea 
+as has been trying to conceive.
+
+TRANSITIONAL ISSUES:
+===================
+- Patient was noted to have elevated blood pressures this 
+admission to SBP 180. Resolved to 130s after pain control. 
+Continue to monitor as outpatient.
+- Antibiotic plan: Doxycycline 100mg PO Q12, end of therapy 
+___. This was submitted electronically and she was given a 
+paper prescription. 
+- Patient has follow up scheduled with ENT as outpatient. 
+- Confirmed with patient's hematologist Dr. ___ never 
+filled her prescription of oxycodone on ___. Refilled her 
+prescription as such after discussion with hematologist on 
+discharge: oxycodone 5 mg tablet ___ tablet(s) by mouth every 6 
+hours as needed for severe sickle cell crisis pain do not drink 
+or drive if taking 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FoLIC Acid 1 mg PO DAILY 
+2. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+3. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line 
+4. Senna 8.6 mg PO BID:PRN Constipation - First Line 
+5. Sertraline 100 mg PO DAILY 
+6. Vitamin D ___ UNIT PO DAILY 
+7. OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Severe 
+8. Acetaminophen ___ mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Doxycycline Hyclate 100 mg PO Q12H 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth twice per 
+day Disp #*15 Tablet Refills:*0 
+2.  Oxymetazoline 1 SPRY NU BID Duration: 3 Days 
+RX *oxymetazoline [Afrin (oxymetazoline)] 0.05 % 1 SPRAY 
+INTRANASAL TWICE PER DAY Disp #*1 Bottle Refills:*0 
+3.  Acetaminophen ___ mg PO Q8H:PRN Pain - Mild  
+4.  Fluticasone Propionate NASAL 2 SPRY NU DAILY  
+5.  FoLIC Acid 1 mg PO DAILY  
+6.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Severe 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 6 hours as 
+needed for severe sickle cell crisis pain Disp #*60 Tablet 
+Refills:*0 
+7.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+8.  Senna 8.6 mg PO BID:PRN Constipation - First Line  
+9.  Sertraline 100 mg PO DAILY  
+10.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Acute Bacterial Rhinosinusitis
+# Serous Otitis Media
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+WHY WAS I IN THE HOSPITAL?
+_x0095_ You were admitted because you had pain in your ear and we were 
+concerned about a possible sinus infection and a sickle cell 
+pain crisis. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+_x0095_ You had a CT, or CAT scan, of some of the bones and ___ air 
+spaces, or sinuses in your head.  
+_x0095_ The CT scan showed that there was no bone infection. 
+_x0095_ We started medication to treat an infection of the nose and 
+sinuses.  
+_x0095_ You likely have ear pain because of a build up of pressure 
+from your sinus inflammation. 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+_x0095_ Continue to take your medications as prescribed. 
+_x0095_ Please wear SPF sunscreen while outdoors as doxycycline can 
+make your skin sensitive to sunburn.  Please take with glass of 
+liquid and while sitting upright. 
+_x0095_ Follow up with the Ear, Nose and Throat Specialists as 
+scheduled. 
+_x0095_ Follow up with your Hematologist. 
+_x0095_ Follow up with your primary care provider. 
+
+We wish you the best!
+Your ___ Team
+ 
+Followup Instructions:
+___

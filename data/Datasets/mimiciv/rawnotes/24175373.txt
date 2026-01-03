@@ -1,0 +1,343 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+oxycodone
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+___: Coronary artery bypass grafts x3 (LIMA-LAD, SVG-PDA, 
+SVG-OM2); Endovascular saphenous vein harvest LLE.
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with past medical history of 
+coronary artery disease, diabetes mellitus, hyperlipidemia, and 
+hypertension. He presented to ___ with crushing chest pain 
+radiating to his back which occurred while running. He ruled out 
+for MI. Nuclear stress test demonstrated anterior ischemia. He 
+was referred for coronary angiogram which revealed coronary 
+artery disease. Cardiac surgery consulted for coronary artery 
+bypass graft evaluation. 
+
+ 
+Past Medical History:
+Cervical Spine Disease
+Coronary Artery Disease
+Diabetes Mellitus Type II  
+Hyperlipidemia
+Hypertension  
+Myocardial Infarction, s/p PCI to OM1; ___ 
+Neuropathy
+ 
+Social History:
+___
+Family History:
+Brother had CABG at age ___.
+Father died of old age
+Mother alive 
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAMINATION:  
+===============================  
+BP: 139/87  HR: 56  RR: 16  O2 sat: 97% RA
+Height: 66 in  Weight: 210 lbs 
+
+General:
+Skin: Dry [] intact [x]
+HEENT: PERRLA [] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______ 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  
+Extremities: Warm [x], well-perfused [x]  No edema [x]
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+___           Right: 2+  Left: 2+
+Radial       Right: 2+ Left: 2+
+
+Carotid Bruit: absent bilaterally
+
+DISCHARGE PHYSICAL EXAMINATION:  
+
+Physical Examination:
+General: NAD [x] 
+Neurological: A/O x3 [x] non-focal [x] 
+HEENT:  PEERL [] 
+Cardiovascular: RRR [x]  Irregular []  Murmur [] Rub [] 
+Respiratory: Decreased at the bases bilaterally. No resp 
+distress
+[x]
+GI/Abdomen: Bowel sounds present [x] Soft [x] ND [x] NT [x]
+Extremities: 
+Right Upper extremity   Warm [x]  Edema  
+Left Upper extremity    Warm [x]  Edema 
+Right Lower extremity   Warm [x]  Edema trace
+Left Lower extremity    Warm [x]  Edema trace
+Pulses:
+DP             Right:       Left:
+___             Right:       Left:
+Radial         Right:       Left:
+Skin/Wounds: Dry [x] intact [x]
+Sternal: CDI [] no erythema or drainage []
+                 Sternum stable [x] Prevena [x]
+Lower extremity: Right [] Left [x]  CDI [x]
+Upper extremity: Right [] Left []  CDI []
+Other:
+=============================== 
+
+ 
+Pertinent Results:
+ADMISSION LABS:  
+===============================  
+___ 04:55PM BLOOD WBC-8.1 RBC-4.82 Hgb-14.2 Hct-43.8 MCV-91 
+MCH-29.5 MCHC-32.4 RDW-13.0 RDWSD-42.6 Plt ___
+___ 04:55PM BLOOD ___ PTT-55.7* ___
+___ 04:55PM BLOOD Glucose-181* UreaN-13 Creat-0.8 Na-141 
+K-4.0 Cl-103 HCO3-27 AnGap-11
+___ 04:55PM BLOOD ALT-29 AST-25 AlkPhos-77 Amylase-99 
+TotBili-0.4
+___ 04:55PM BLOOD Albumin-4.1 Calcium-8.9 Phos-2.8 Mg-1.9
+___ 09:50PM BLOOD %HbA1c-10.1* eAG-243*
+___ 09:50PM BLOOD Triglyc-533* HDL-37* CHOL/HD-4.6 
+LDLmeas-98
+
+PERTINENT STUDIES:  
+===============================  
+___ CORONARY ANGIOGRAPHY
+Stenoses: 90% LAD proximal with 40% distal and 50% diag, 70% OM 
+with existing patent stent, 70% RCA
+
+pMIBI ___
+There is a small to moderate zone of anterior  apical wall 
+reversibly decreased perfusion suggesting ischemia. No fixed 
+defect of LV perfusion to suggest established infarct.
+1. Anteroapical ischemia.
+2. Normal wall motion demonstrated. Ejection fraction is 
+estimated to
+be 59%.
+
+CXR ___
+Heart is normal in size. Descending aorta shows mild unfolding.  
+Mediastinal and hilar contours are otherwise unremarkable. 
+Platelike opacities are consistent with minor atelectasis in the 
+lingula. Otherwise, lungs appear clear. No pleural effusion or 
+pneumothorax. Bony structures are unremarkable. 
+
+Transthoracic Echocardiogram ___
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. There is no evidence for an atrial septal 
+defect by 2D/color Doppler. The estimated right atrial pressure 
+is ___ mmHg. There is
+normal left ventricular wall thickness with a normal cavity 
+size. There is normal regional and global left ventricular 
+systolic function. Quantitative biplane left ventricular 
+ejection fraction is 55 % (normal
+54-73%). There is no resting left ventricular outflow tract 
+gradient. Mildly dilated right ventricular cavity with normal 
+free wall motion. Tricuspid annular plane systolic excursion 
+(TAPSE) is normal. The
+aortic sinus diameter is normal for gender with normal ascending 
+aorta diameter for gender. The aortic arch diameter is normal 
+with a normal descending aorta diameter. There is no evidence 
+for an aortic arch
+coarctation. The aortic valve leaflets (3) are mildly thickened. 
+There is no aortic valve stenosis. There is  mild [1+] aortic 
+regurgitation. The mitral valve leaflets are mildly thickened. 
+There is mild [1+] mitral
+regurgitation. The pulmonic valve leaflets are normal. The 
+tricuspid valve leaflets appear structurally normal. There is 
+mild [1+] tricuspid regurgitation. The estimated pulmonary 
+artery systolic pressure is
+normal. There is no pericardial effusion.
+
+DISCHARGE LABS:  
+===============================  
+___ 05:18AM BLOOD WBC-9.3 RBC-3.85* Hgb-11.3* Hct-35.7* 
+MCV-93 MCH-29.4 MCHC-31.7* RDW-12.9 RDWSD-43.6 Plt ___
+___ 03:25AM BLOOD ___ PTT-32.7 ___
+___ 05:18AM BLOOD Glucose-164* UreaN-19 Creat-0.8 Na-142 
+K-3.7 Cl-100 HCO3-29 AnGap-13
+___ 09:18AM BLOOD ALT-31 AST-26 AlkPhos-80 TotBili-0.5
+
+EXAMINATION:  CHEST (PA AND LAT) ___
+ 
+INDICATION:  ___ year old man eval effusions// ___ year old man 
+eval effusions
+ 
+TECHNIQUE:  Chest PA and lateral
+ 
+COMPARISON:  Comparisons made to multiple prior chest 
+radiographs, most
+recently ___.
+ 
+FINDINGS: 
+ 
+Slight improvement in lung volumes bilaterally.  The 
+cardiomediastinal
+silhouette is stably enlarged, consistent with a postoperative 
+state.  The
+right IJ catheter has been removed.  There is no sign of 
+pulmonary edema and
+there is mild obscuration of the left hemidiaphragm, consistent 
+with a small
+pleural effusion and there is retrocardiac opacity, consistent 
+with
+atelectasis.  There is also likely a small right pleural 
+effusion and
+atelectasis.
+ 
+IMPRESSION: 
+ 
+Interval mild improvement in bibasilar atelectasis and small 
+pleural
+effusions.  Otherwise, stable postoperative appearance of the 
+chest.
+Improvement in pulmonary edema.
+
+ 
+Brief Hospital Course:
+He was admitted to ___ on ___ and underwent routine 
+preoperative evaluation. He was cleared for surgery and was 
+brought to the Operating Room on ___. He underwent coronary 
+artery bypass grafting x 3. Please see operative note for full 
+details. Overall the patient tolerated the procedure well and 
+post-operatively was transferred to the CVICU in stable 
+condition for recovery and invasive monitoring. POD 1 found the 
+patient extubated, alert and oriented and breathing comfortably. 
+The patient was neurologically intact and hemodynamically 
+stable. Beta blocker was initiated and the patient was gently 
+diuresed toward the preoperative weight. Oxycodone was stopped 
+due to nausea and Ultram/Tylenol were used for pain control. The 
+patient was transferred to the telemetry floor for further 
+recovery. Chest tubes and pacing wires were discontinued without 
+complication. ___ was consulted due to HBA1C 10.1% 
+preoperatively while on oral agents and the patient was started 
+on Lantus and a sliding scale. The ___ educator met with 
+patient to begin teaching on new use of insulin injections. The 
+patient was evaluated by the Physical Therapy service for 
+assistance with strength and mobility.  By the time of discharge 
+on POD #5 the patient was ambulating freely, the wound was 
+healing and pain was controlled with oral analgesics.  The 
+patient was discharged to home in good condition with 
+appropriate follow up instructions.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN XR (Glucophage XR) 1000 mg PO DAILY 
+2. Potassium Chloride 10 mEq PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Losartan Potassium 50 mg PO DAILY 
+5. GlipiZIDE XL 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H  
+2.  Aspirin EC 81 mg PO DAILY 
+RX *aspirin [Aspir-Low] 81 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+4.  Furosemide 40 mg PO BID Duration: 2 Weeks 
+RX *furosemide 20 mg 2 tablet(s) by mouth twice a day Disp #*56 
+Tablet Refills:*0 
+5.  Glucose Gel 15 g PO PRN hypoglycemia protocol  
+6.  Glargine 19 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+RX *blood sugar diagnostic [OneTouch Verio]  test glucose 4 
+times a day Disp #*100 Strip Refills:*2
+RX *insulin glargine [Lantus Solostar U-100 Insulin] 100 unit/mL 
+(3 mL) AS DIR 19 Units before BKFT; Disp #*2 Syringe Refills:*2
+RX *blood-glucose meter [OneTouch Verio System]  test glucose 4 
+times per day Disp #*1 Each Refills:*0
+RX *insulin lispro [Humalog KwikPen Insulin] 100 unit/mL AS DIR 
+Up to 11 Units QID per sliding scale Disp #*2 Syringe Refills:*2
+RX *lancets [OneTouch Delica Lancets] 33 gauge test glucose 4 
+times per day Disp #*100 Each Refills:*2 
+7.  Metoprolol Tartrate 25 mg PO Q8H 
+RX *metoprolol tartrate 25 mg 1 tablet(s) by mouth three times a 
+day Disp #*90 Tablet Refills:*0 
+8.  Polyethylene Glycol 17 g PO DAILY  
+9.  Ranitidine 150 mg PO BID 
+RX *ranitidine HCl 150 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+10.  Senna 17.2 mg PO DAILY  
+11.  TraMADol 50 mg PO Q4H:PRN Pain - Moderate 
+RX *tramadol 50 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*64 Tablet Refills:*0 
+12.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+13.  Potassium Chloride 40 mEq PO DAILY 
+RX *potassium chloride [K-Tab] 20 mEq 2 tabs by mouth once a day 
+Disp #*28 Tablet Refills:*0 
+14.  MetFORMIN XR (Glucophage XR) 1000 mg PO DAILY 
+RX *metformin 1,000 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+15.needles
+insulin pen needles 32G, ___ Ultra Nano)
+Disp # 150 needles
+2 refills
+16.Outpatient Lab Work
+please check BUN/Creat and potassium 2x/ week
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary ARtery Disease
+hypertension
+hyperlipidemia
+diabetes mellitus type 2 
+
+ 
+Discharge Condition:
+Alert and oriented x3, non-focal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Edema: trace -1+
+
+ 
+Discharge Instructions:
+Your prevena dressing will remain in place for 2 more days then 
+it may be removed by the ___. 
+
+Please shower daily -wash incisions gently with mild soap, no 
+baths or swimming, look at your incisions daily once Prevena 
+removed
+Please - NO lotion, cream, powder or ointment to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics
+Clearance to drive will be discussed at follow up appointment 
+with surgeon
+No lifting more than 10 pounds for 10 weeks
+Encourage full shoulder range of motion, unless otherwise 
+specified
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

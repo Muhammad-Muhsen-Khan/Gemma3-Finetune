@@ -1,0 +1,277 @@
+Notes
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+Shortness of Breath
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ is a ___ man with diabetes and metastatic 
+choriocarcinoma, on single patient IND trial who is admitted 
+from the ED with subacute progressive dyspnea.
+
+Patient noted increased dyspnea approximately 2 weeks prior to 
+admission. First noticed while walking up steps, then progressed 
+to difficulty after walking for a prolonged period of time. 
+Symptoms continued to progress, and over the weekend he had 
+difficulty even standing up before getting winded. He called his 
+oncologist office, and was directed into the ED.
+
+In the ED, initial VS were pain 4, T 97.8, BP 115/73, HR 89, RR 
+18, O2 92% RA. Desatted to 88%RA. Initial labs notable for WBC 
+9.5, HCT 33.1, PLT 124. Na 137, K 3.4, HCO3 14, Cr 2.7. Trop 
+0.05x2. BNP 903. CXR showed substantial increase in the size and 
+number of pulmonary mets. Bilateral ___ showed no evidence of 
+DVT. Patient was given home medications and insulin. VS prior to 
+transfer were pain 0, T 98.1, HR 99, BP 130/68, RR 22, O2 
+95%4LNC.
+
+On arrival to the floor, patient notes progressive dyspnea as 
+above. He denies orthopnea or PND. No leg swelling and not 
+gaining weight. No chest pain or palpitations. No fevers or 
+chills. He has intermittent mild epistaxis. No ST. No dysphagia 
+or odynophagia. No N/V. He is constipated with last BM last 
+___. No new rashes or joint pains. No sick contacts. Last 
+chemo was on ___.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+- ___: Diagnosed with widely metastatic choriocarcinoma 
+including lung, liver, lymph nodes, spleen, mediastinum, 
+gallbladder (s/p CCY) adrenal glands, kidneys and brain 
+metastases. Back pain and mass in left testes. Beta hCG of 1.43 
+million.
+- EP X1 followed by VIP, TIP ×3, with plateauing of hCG
+- ___ Orchiectomy with resection of 7 x 4 x 3 cm mixed NSG CT 
+with extensive necrosis
+- Postoperative ACE ×1, VIP ×1, and ATP ×1 with minimal hCG drop
+- ___: Gamma knife to a left occipital brain metastasis
+- ___: 3 sequential cycles of high-dose 
+chemotherapy (carboplatin/etoposide) with ASCT at ___ 
+- ___: Restaging tests show complete response
+- ___: Relapse with hCG rise and new pulmonary metastases
+- No auto cells leftover. Stem cells collected from identical 
+twin
+- ___: HDC #4 with 
+gemcitabine/docetaxel/melphalan/carboplatin with this syngeneic 
+stem cell transplant. HCG rising at admission to 1367. 
+Toxicities included mucositis, rash, and orthostatic 
+hypotension.
+- ___: Radiation necrosis of the brain had a previously 
+treated left occipital metastasis with extensive edema. Symptoms 
+of a right visual field cut and residual left arm weakness. 
+Responded to dexamethasone.
+- ___: Resection of 9 residual lesions at all 3 lobes of the 
+right lung. Pathology with necrosis and all of them.
+- ___: Resection of 5 residual lesions in left upper lobe 
+and left lower lobe of lung. Pathology with necrosis and all of 
+them.
+- ___: Isolated brain relapse, received gamma knife. HCG 
+subsequently normalized.
+- ___: Isolated lung relapse as post resection.
+- ___: Recurrent disease on CT.
+- ___: CTT consult with progression (pembro).
+- ___: Gemcitabine/oxaliplatin. Per patient, 4 cycles Q 3 
+weeks complicated by persistent pancytopenia.
+- ___ PET/CT with FGD avid pulmonary masses, lymph node near 
+porta hepatis, and suspicious lesion on R lower extremity.
+- ___: Palliative radition to skin lesion with single 
+fraction electron beam radiothearpy.
+- ___: C1D1 ___: A PHASE 2A SINGLE PATIENT 
+COMPASSIONATE USE STUDY OF TRC___ IN COMBINATION WITH 
+BEVACIZUMAB IN A PATIENT WITH REFRACTORY CHORIOCARCINOMA 
+ 
+PAST MEDICAL HISTORY: 
+- Non-insulin dependent diabetes, diagnosed ___ years ago
+- Chronic Kidney Disease, diagnosed ___ years ago
+- Peripheral Neuropathy, diagnosed ___
+- Hearing loss, using hearing aids, ___ years ago
+
+PAST SURGICAL HISTORY:
+- Oncologic surgeries as noted above
+- Hernia repair x4-5, most recently ___, other repairs ___ 
+years ago
+- Appendectomy, ___ years ago
+ 
+Social History:
+___
+Family History:
+No family history of stroke or neurologic disorders.
+ 
+Physical Exam:
+#ERROR!
+Admission Physical Exam:
+#ERROR!
+VS: T 98.0 HR 88 BP 126/72 RR 20 SAT  93% O2 on 4LNC.
+GENERAL: Pleasant, lying in bed comfortably.
+EYES: Anicteric sclerea, PERLL, EOMI.
+ENT: Oropharynx clear without lesion, JVD not elevated.
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or 
+gallops; 2+ radial pulses.
+RESPIRATORY: Appears in no respiratory distress, soft dry 
+crackles at right base, otherwise clear with fair air movement.
+GASTROINTESTINAL: Normal bowel sounds; nondistended; soft, 
+nontender without rebound or guarding; no hepatomegaly, no 
+splenomegaly.
+MUSKULOSKELATAL: Warm, well perfused extremities without lower 
+extremity edema; normal bulk.
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory 
+function grossly intact.
+SKIN: No significant rashes.
+LYMPHATIC: No cervical, supraclavicular, submandibular 
+lymphadenopathy. No significant ecchymoses.
+
+#ERROR!
+Discharge Physical Exam:
+#ERROR!
+ 
+Pertinent Results:
+#ERROR!
+Admission Labs:
+#ERROR!
+___ 04:36PM BLOOD WBC-9.5 RBC-3.33* Hgb-11.2* Hct-33.1* 
+MCV-99* MCH-33.6* MCHC-33.8 RDW-13.8 RDWSD-49.1* Plt ___
+___ 04:36PM BLOOD Glucose-119* UreaN-41* Creat-2.7* Na-137 
+K-3.4 Cl-105 HCO3-14* AnGap-18
+___ 04:36PM BLOOD CK(CPK)-26*
+___ 04:36PM BLOOD CK-MB-3 cTropnT-0.05* proBNP-903*
+___ 06:00AM BLOOD Calcium-8.0* Phos-3.0 Mg-2.2
+___ 01:57PM BLOOD ___
+___ 04:40PM BLOOD Lactate-1.2
+
+#ERROR!
+Discharge Labs:
+#ERROR!
+
+#ERROR!
+Microbiology:
+#ERROR!
+___ Urine Culture - No Growth
+___ Blood Culture - Pending
+
+#ERROR!
+Imaging:
+#ERROR!
+CXR ___
+Impression: Right-sided PICC terminates in the low 
+SVC/cavoatrial junction,without evidence of pneumothorax. Since 
+the prior study. There has been substantial interval increase in 
+size and number of now diffuse bilateral pulmonary nodular 
+opacities, most consistent with progression of metastatic 
+disease.
+
+Bilateral Lower Extremity Ultrasound ___
+Impression: No evidence of deep venous thrombosis in the right 
+or left lower extremity veins.
+
+TTE ___
+Impression: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with normal global biventricular 
+systolic function. Due to suboptimal image quality, a focal wall 
+motion abnormality or valvular pathology cannot be fully 
+excluded.
+
+CT Chest w/o Contrast ___
+1. Significant interval increase in size and number of 
+innumerable pulmonary metastases.
+2. New nonspecific multifocal areas of ground-glass opacity 
+throughout all pulmonary lobes raises concern for lymphatic 
+spread of malignancy.
+3. New mediastinal lymphadenopathy.
+ 
+Brief Hospital Course:
+___ with DMII and metastatic choriocarcinoma who was admitted 
+with subacute progressive dyspnea and found to have progressive 
+hypoxia. 
+
+ACUTE ISSUES:
+#ERROR!
+#Hypoxic respiratory failure  
+#Choriocarcinoma
+His hypoxia is almost certainly from his progressively pulmonary 
+mets based off of chest x-ray and CT chest. Pulmonary embolism 
+was felt to be unlikely with negative LENIs and no embolism seen 
+on CT chest (albeit non-contrast). CHF unlikely with stable 
+troponin and no volume overload on exam. He required increasing 
+O2 and was transferred to the ICU on ___ for high flow oxygen. 
+He was trailed on one day of ceftriaxone/azithromycin for 
+potential pneumonia, furosemide for component of volume 
+overload, and prednisone, but demonstrated zero improvement and 
+these were all discontinued. In terms of his cancer, he has been 
+on multiple rounds of chemotherapy and most recently started an 
+IND trial with Avastin and a novel monoclonal antibody. He 
+received salvage/palliative chemotherapy with 
+gemcitabine/oxaliplatin on ___. HCG on ___ was ___, which 
+was slightly up from before chemotherapy. His oxygen status 
+continued to be tenuous and on ___ further declined. He was 
+made CMO early in the morning and died shortly thereafter.  
+
+#Goals of care
+The patient initially expressed wishes to be full code, in part 
+due to the need to complete pension paperwork prior to his 
+death. Upon extensive family meetings, the decision was made for 
+the patient to be DNR in the event that his hypoxemia lead to 
+PEA arrest with the understanding that resuscitation would be of 
+little to no benefit for him. The discussion regarding 
+intubation was more difficult as he felt that it might buy him 
+time for more chemotherapy. We discussed how intubation would be 
+a sign that further chemo would not work and that even if he 
+were to be intubated, he would not likely be successfully 
+extubated. He was then made DNI. Following his respiratory 
+failure worsening as above he was made CMO. 
+
+CHRONIC ISSUES:
+#ERROR!
+# Chronic Kidney Disease. 
+# Metabolic acidosis: Stage IV CKD. Baseline Cr 2.3-2.5, 
+recently slowly increasing to around 2.8 earlier this month. His 
+creatinine was trended. 
+
+# DMII
+Home oral medications were held and he was placed on an insulin 
+sliding scale. 
+
+# History of shingles
+He was continued on his home VZV prophylaxis with valacyclovir. 
+
+# Neuropathy
+He was continued on his home pregabalin. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pregabalin 150 mg PO DAILY 
+2. Testosterone Cypionate 200 mg IM Q MONTH 
+3. ValACYclovir 500 mg PO EVERY OTHER DAY 
+4. Co Q-10 (coenzyme Q10) 300 mg oral DAILY 
+5. Senna 8.6 mg PO BID:PRN constipation 
+
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Patient died.
+ 
+Discharge Condition:
+Patient died.
+ 
+Discharge Instructions:
+Patient died.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,370 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+admission for hematopoietic stem cell transplantation 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old man with no significant past medical history until 
+he presented late ___ with night sweats, fevers, shortness of 
+breath and found to have FLT3, IDH2 mutated AML with 7+3 with 
+midostaurin followed by 5+2 with midostaurin. He was discharged 
+on ___ and is presenting today for allogenic stem cell 
+transplant. 
+ 
+He did very well at home. Did a lot of exercise on a stairmaster 
+and on a bike and actually got quite a bit stronger. He's been 
+having some nightsweats since discharge, though they've been 
+getting better. Endorses dry cough when lying flat, though not 
+for the past couple of days. Also sees spots of blood on toilet 
+paper once a day that he thinks is related to hemorrhoid. No 
+headaches, changes in vision, dizziness, painful swallowing, 
+chest pain, palpitations, shortness of breath, constipation, 
+diarrhea, nausea, dysuria, hematuria, rash, weakness, numbess, 
+petechiae, anorexia. 
+ 
+Past Medical History:
+======================
+PAST ONCOLOGIC HISTORY
+====================== 
+- ___: Drenching nightsweats nightly
+- ___: Presented to PCP with fever, cough, profound 
+fatigue, diffuse arthralgia, shortness of breath and neutropenia 
+found to have significant blasts
+ 
+___ Hospital Admission and Diagnosis
+- ___: Admission to ___ for further evaluation.  
+Infectious workup for persistent fevers (102-103) and cough with 
+RLL infiltrate on imaging in the setting of neutropenia treated 
+empirically with vancomycin, cefepime, and posaconazole.
+- ___: RAPID HEME- DNMT3A R882H; IDH2 R140Q; and FLT3 ___ 
+MUTATED
+- ___: Bone marrow biopsy #1 (see details below)
+- ___: Developed hyponatremia and SIADH which improved with 
+fluid restriction
+- ___: CXR with progressive RLL infiltrate consistent with 
+progressive PNA and fever of 102-103 with worsening O2 
+requirement (___) possibly fungal or leukemic infiltration with 
+transaminitis and RUQUS with "starry sky" appearance consistent 
+with acute hepatitis thought to be medication related or 
+possible leukemia infiltration
+- ___: Bronchoscopy negative for PMNs, leukocytes, 
+microorganisms, acid fast smear, culture, acid fast culture, 
+fungal culture, fungal elements, PCP, nocardia 
+- ___: Afib with RVR following bronchoscopy with rates to 
+170 treated with diltiazem
+- ___: Worsening hypoxia on O2 improved with diuresis and 
+hallucinations thought to be medication induced
+- ___: Cough/URI symptoms which later improved
+- ___:  Worsened headache ___ with concern for possible 
+fungal infection of sinuses given pain in the setting of 
+appropriate treatment (meropenem), CT Sinus ___ demonstrated 
+unchanged mild mucosal thickening of the right maxillary sinus 
+and ethmoid air cells and posaconazole was restarted
+- ___: Increased dizziness, fatigue.  8.0 to 6.4 despite 1 
+unit pRBC with some improvement in symptoms with increased 
+dyspnea and blood streaked sputum and stool noted to be 
+increased in volume, dark in color, guaiac positive with CT AP 
+negative for acute process
+- ___: Bone Marrow Biopsy #2 (details below) 
+- ___: Developed pharyngitis with fever in the setting of 
+neutropenia treated empirically with Meropenem and Vancomycin 
+and posaconazole was later added given persistent fevers 
+- ___: Bone Marrow Biopsy #3 (details below)
+- ___: Meropenem d/c'd for acute LFT elevation which later 
+resolved and started PO Cipro instead with cultures negative
+- ___: developed volume overload with 10 lbs weight gain, ___ 
+edema, and bibasilar crackles treated with diuresis
+- ___: Sputum culture from ___ positive for fusarium. 
+Unsuccessful attempted induced sputum, on posaconazole
+- ___: Febrile neutropenia (up to 103.1) treated with 
+empiric antiobiotics-cefepime and vancomycin with concern for 
+cellulitis around CVL as source and broadened to meropenem with 
+new papules on L thigh concerning for fungal infection although 
+bx demonstrated with non specific inflammatory findings and CT 
+torso with evidence of bilateral pneumonia. RVP returned 
+coronavirus positive.
+- ___: 2 episodes of melena with PMH of GERD and suspected 
+PUD/gastritis in setting of critical illness which later 
+resolved.
+- ___: EGD-Schatzki's ring.  Otherwise normal EGD to third 
+part of the duodenum
+ 
+Social History:
+___
+Family History:
+His father died of metastatic melanoma at age ___ in ___.  His 
+paternal uncle (in his ___ and cousin (in his ___ had liver 
+cancer-no history of alcoholism or hepatitis.         
+ 
+Physical Exam:
+ADMISSION EXAM
+======================
+Gen: Well appearing man speaking to me in no distress, 
+accompanies by two of his children and his wife
+___ equal and reactive, no scleral icterus or 
+injection, no oropharyngeal lesions or thrush, lipoma on back of 
+head, good dentition, moist mucous membranes
+CV: S1/S2 regular with no murmurs, rubs or S3/S4 
+LUNGS: Clear to auscultation bilaterally
+ABD: Soft, non-tender, non-distended
+EXT: No lower extremity swelling. Normal pedal pulses. Warm 
+extremities. 
+SKIN: No petichiae or rash. Lipoma on back and on occiput. 
+Healing former biopsy sites on L leg. 
+NEURO: CNII-XII normal. Grossly normal strength. 
+LINES: R chest tunneled line 
+ 
+DISCHARGE EXAM
+======================
+VITALS: Temp: 97.7 PO BP: 136/88 HR: 88 RR: 18 O2 sat: 98% O2 
+delivery: RA 
+GENERAL: Well appearing man in no acute distress. Comfortable.
+NEURO: AAOx3. Moving all four extremities with purpose.
+___: EOMI. MMM. Mucositis improved. 
+CARDIAC: Regular rate & rhythm. Normal S1/S2. No murmurs, rubs, 
+or gallops.
+PULMONARY: Clear to auscultation bilaterally. Breathing 
+comfortably on room air.
+ABDOMEN: Soft, non-tender, non-distended.
+EXTREMITIES: Warm, well perfused, non-edematous. 
+SKIN: No significant rashes.
+ 
+Pertinent Results:
+ADMISSION LABS
+======================
+___ 08:25AM   ___ PTT-30.4 ___
+___ 08:25AM   NEUTS-51.1 ___ MONOS-9.7 EOS-1.4 
+BASOS-0.5 AbsNeut-1.11* AbsLymp-0.81* AbsMono-0.21 AbsEos-0.03* 
+AbsBaso-0.01
+___ 08:25AM   WBC-2.2* RBC-3.66* HGB-12.2* HCT-37.4* 
+MCV-102* MCH-33.3* MCHC-32.6 RDW-UNABLE TO  RDWSD-UNABLE TO 
+___ 08:25AM   TOT PROT-6.7 ALBUMIN-4.5 GLOBULIN-2.2 
+CALCIUM-9.4 PHOSPHATE-4.1 MAGNESIUM-2.1 URIC ACID-5.2
+___ 08:25AM   ALT(SGPT)-31 AST(SGOT)-22 LD(LDH)-178 ALK 
+PHOS-66 TOT BILI-0.5 DIR BILI-<0.2 INDIR BIL-0.5
+___ 08:25AM   GLUCOSE-106* UREA N-13 CREAT-0.8 SODIUM-143 
+POTASSIUM-4.9 CHLORIDE-105 TOTAL CO2-30 ANION GAP-8*
+___ 12:00AM   GLUCOSE-83 UREA N-15 CREAT-1.1 SODIUM-141 
+POTASSIUM-4.1 CHLORIDE-103 TOTAL CO2-25 ANION GAP-13
+___ 12:00AM   ALT(SGPT)-27 AST(SGOT)-23 LD(LDH)-172 ALK 
+PHOS-59 TOT BILI-0.3
+___ 12:00AM   ALBUMIN-3.9 CALCIUM-8.8 PHOSPHATE-5.5* 
+MAGNESIUM-2.0
+___ 12:00AM   WBC-2.7* RBC-3.30* HGB-11.1* HCT-33.7* 
+MCV-102* MCH-33.6* MCHC-32.0 RDW-UNABLE TO  RDWSD-UNABLE TO 
+___ 12:00AM   NEUTS-39.0 ___ MONOS-8.8 EOS-1.8 
+BASOS-0.4 AbsNeut-1.06* AbsLymp-1.36 AbsMono-0.24 AbsEos-0.05 
+AbsBaso-0.01
+ 
+PERTINENT STUDIES
+======================
+KUB (___)
+No evidence of bowel obstruction.
+ 
+CXR (___)
+Stable to mild interval improvement in right lower lung 
+atelectasis.
+ 
+MICRO
+======================
+___ 12:16 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+                            **FINAL REPORT ___
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Cepheid nucleic 
+acid
+      amplification assay.. 
+           (Reference Range-Negative). 
+ 
+___ 8:20 am Stem Cell - Blood Culture     Site: STEM CELLS
+      UNMANIPULATED, ___. 
+
+                            **FINAL REPORT ___
+
+   Stem Cell ___ Culture (Final ___:    NO GROWTH. 
+ 
+DISCHARGE LABS
+======================
+___ 12:08AM BLOOD WBC-4.5 RBC-2.83* Hgb-9.5* Hct-28.7* 
+MCV-101* MCH-33.6* MCHC-33.1 RDW-17.3* RDWSD-63.5* Plt ___
+___ 12:08AM BLOOD Neuts-61 Bands-0 Lymphs-14* Monos-23* 
+Eos-0 Baso-2* ___ Myelos-0 AbsNeut-2.75 
+AbsLymp-0.63* AbsMono-1.04* AbsEos-0.00* AbsBaso-0.09*
+___ 12:08AM BLOOD ___ PTT-30.1 ___
+___ 12:08AM BLOOD Glucose-101* UreaN-12 Creat-0.6 Na-140 
+K-4.2 Cl-101 HCO3-27 AnGap-12
+___ 12:08AM BLOOD ALT-13 AST-13 LD(LDH)-196 AlkPhos-84 
+TotBili-<0.2
+___ 12:08AM BLOOD Calcium-9.0 Phos-5.0* Mg-1.6
+___ 12:08AM BLOOD tacroFK-5.7
+___ 12:25PM BLOOD CMV VL-NOT DETECT
+ 
+Brief Hospital Course:
+___ man with PMHx notable for DNMT3A, IDH2, FLT3 mutated 
+AML currently in remission admitted for planned myeloablative 
+minimal residual disease allogeneic stem cell transplantation. 
+Underwent myeloablative therapy with subsequent transplant stem 
+cell infusion on ___, now s/p engraftment and doing well. 
+Course complicated by neutropenic fever without clear source, 
+now off antibiotics. 
+ 
+# AML S/P MRD STEM CELL TRANSPLANT
+Presented for planned matched related donor peripheral stem cell 
+transplant. History of DNMT3A, IDH2, AND FLT3 mutated AML, 
+currently in remission. Received fludarabine and busulfan 
+condition ___ to ___. Uncomplicated hematopoietic stem cell 
+infusion ___ with subsequent engraftment. Course notable for 
+febrile neutropenia, diarrhea, and discovery of pulmonary 
+infiltrates, discussed below. At time of discharge was feeling 
+well with adequate PO intake. Prophylactic regimen at discharge 
+included acyclovir, Bactrim, and fluconazole. Tacrolimus at 2 mg 
+qAM and 2 mg qPM with plan for repeat level on ___ AM at time 
+of follow up.
+ 
+# NEUTROPENIC FEVER
+Developed neutropenic fever with Tmax 100.5. No obvious source; 
+possibly mucositis given ongoing sore throat. Completed course 
+of vancomycin / meropenem ___ - ___ with discontinuation 
+following normaliazation of ANC. No subsequent infectious signs 
+or symptoms.
+ 
+# DIARRHEA / HEMMORHOIDS 
+Early hospital course notable for watery diarrhea with negative 
+C. diff. Also with episode of BRBPR likely related to 
+hemorrhoid. In setting of recent normal EGD on ___. 
+Symptoms improved with rectal hydrocortisone. Continued on 
+omeprazole. Repeat episode of abdominal cramping / single loose 
+stool with repeat negative C. diff.
+ 
+# PULMONARY INFILTRATES
+CT chest from ___ with pulmonary infiltrates, reviewed with 
+pulmonology and infectious disease. Most likely due to resolving 
+prior infection from microaspirations related to GERD. 
+Determined that bronchoscopy could be deferred. 
+ 
+TRANSTIONAL ISSUES
+=================================
+- Discharge weight: 82.74 kg
+ 
+[ ] Please ensure repeat tacrolimus trough on ___ AM in clinic. 
+Adjusted dose to 2 mg BID on ___.
+ 
+[ ] Repeat CMV / EBV viral loads were drawn prior to discharge 
+on ___. 
+ 
+#CODE STATUS: full (confirmed)
+#CONTACT: ___ (spouse: ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Posaconazole Delayed Release Tablet 300 mg PO DAILY 
+2. Acyclovir 400 mg PO Q12H 
+3. Ciprofloxacin HCl 500 mg PO Q12H 
+4. Multivitamins 1 TAB PO DAILY 
+5. Omeprazole 40 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Fluconazole 400 mg PO Q24H 
+RX *fluconazole 200 mg 2 tablet(s) by mouth daily Disp #*60 
+Tablet Refills:*0 
+2.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+3.  Sulfameth/Trimethoprim SS 1 TAB PO/NG DAILY 
+RX *sulfamethoxazole-trimethoprim 400 mg-80 mg 1 tablet(s) by 
+mouth daily Disp #*30 Tablet Refills:*0 
+4.  Tacrolimus 2 mg PO QPM 
+RX *tacrolimus 0.5 mg 4 capsule(s) by mouth twice daily Disp 
+#*240 Capsule Refills:*0 
+5.  Tacrolimus 2 mg PO QAM  
+6.  Ursodiol 300 mg PO Q12H 
+RX *ursodiol 300 mg 1 capsule(s) by mouth every 12 hours Disp 
+#*60 Capsule Refills:*0 
+7.  Vitamin D 400 UNIT PO DAILY 
+RX *ergocalciferol (vitamin D2) 400 unit 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0 
+8.  Acyclovir 400 mg PO Q8H 
+RX *acyclovir 400 mg 1 tablet(s) by mouth every 8 hours Disp 
+#*90 Tablet Refills:*0 
+9.  Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+10.  Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___.
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+# DNMT3A, IDH2, AND FLT3 ACUTE MYELOID LEUKEMIA S/P MRD 
+HEMATOPOIETIC STEM CELL TRANSPLANT
+ 
+SECONDARY DIAGNOSES:
+# NEUTROPENIC FEVER
+# DIARRHEA
+# HEMMORHOIDS 
+# PULMONARY INFILTRATES
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___.
+
+Why you were in the hospital:
+- planned hematopoietic stem cell transplant for treatment of 
+leukemia
+- complications of your bone marrow transplant, including fever
+
+What was done for you in the hospital:
+- we completed the stem cell transplant with successful 
+engraftment
+- we monitored you for complications, including fever, and gave 
+you antibiotics to treat this
+- we monitored your progress on several new medications to 
+ensure ongoing success of your stem cell transplant
+
+What you should do after you leave the hospital:
+- Please take your medications as detailed in the discharge 
+papers. If you have questions about which medications to take, 
+please contact your oncologist to discuss.
+- Please go to your follow up appointments as scheduled in the 
+discharge papers starting tomorrow, ___
+- Please monitor for worsening symptoms. If you have any 
+concerns at all or develop any fever, please immediately call in 
+to discuss
+
+We wish you the best!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,270 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+___: ___ x 5cm Advanix double pigtail stent was 
+successfully placed across the ampulla
+___: Laparoscopic cholecystectomy, Dr. ___ 
+ 
+___ of Present Illness:
+___ with GERD, Depression, p/w worsening epigastric pain.
+
+Pt states symptoms of colicky epigastric pain started ___ days 
+ago, worse with food or liquids.  Denies nausea, vomiting, 
+changes in stool, jaundice, or fevers/chills.  No SOB, CP, 
+lightheadedness, or dizziness.  Recently had friend who passed 
+away from dehydration so she presented to her PCP for further 
+evaluation given her concerns about becoming dehydrated.  Her 
+PCP sent her to ___ for further evaluation.
+
+Of note, pt states she has been drinking heavier than usual 
+given recent death in the family but does not drink regularly 
+and has not had symptoms of EtOH w/d in the past.
+
+Labs from ___ notable for ALT: 326, AST: 270, Alk Phos: 444, 
+Tbili: 4.8, Lipase: 2280, she was transferred to ___ at ___ for 
+further evaluation
+
+In the ___ here, VS: 100.4, 84, 116/74, 16, 96% RA
+RUQ US shows choldocholithaisis, diablated CBD with >1cm stone 
+in CBD and multiple stones in GB
+Pt given morphine with improvement in abdominal pain
+Admitted for likely ERCP in AM.
+
+ROS: Full 10-point ROS reviewed and is negative except as noted 
+above.
+ 
+Past Medical History:
+GERD
+Depression
+
+PAST SURGICAL HX:
+Abdominoplasty
+ 
+Social History:
+___
+Family History:
+Multiple family members with ca including mom with esophageal 
+ca, grandmother with stomach ca, uncle with colon ca, and cousin 
+with ovarian ca.
+ 
+Physical Exam:
+VITALS: 128 / 85 74 18 98 
+GEN: Pleasant lady, sitting in bed in NAD
+EYES: no scleral icterus, EOMI, PERRLA
+ENT: no oral lesions, MMM
+NECK: supple, no JVD
+RESP: CTA b/l, no respiratory distress
+CV: RRR, no m/r/g
+GI: soft, tender to deep palpation of epigastrum and RUQ, 
+non-distended, +BS
+GU: no foley
+EXT: wwp, 1+ edema in b/l ___
+SKIN: no lesions, no rashes, no jaundice
+NEURO: AOx3, moving all extremities with purpose
+PSYCH: pleasant, normal mood and affect
+
+ 
+Pertinent Results:
+LABS at ___:
+ALT: 326, AST: 270, AP: 444, Dbili: 4.8, Lipase: 2280
+WBC: 8.8, K: 3.3, rest of CBC and Chem7 wnl
+
+ 
+Brief Hospital Course:
+___ F with history of GERD, depression, recent heavy EtOH use, 
+presenting with worsening epigastric pain on ___, found to 
+have acute choledocholithasis and likely gallstone pancreatitis. 
+Labs notable for total bilirubin elevated at 4.8 and lipase of 
+2280. Right upper quadrant ultrasound showed gallstones, 
+gallbladder wall thickening, and common bile duct measurement of 
+1.7 cm and intrahepatic biliary dilation. She was stable from a 
+cardiopulmonary standpoint. The patient was admitted to medicine 
+for ERCP with plan for laparoscopic cholecystectomy once lipase 
+normalized.
+
+On HD2 the patient underwent ERCP. Occlusion cholangiogram 
+showed several stones within the cystic duct and gallbladder. 
+Common bile duct was dilated approximately 15mm in diameter with 
+multiple filling defects. A sphincterotomy was preformed and a 
+___ Fr x 5 cm Advanix double pigtail stent was placed across the 
+ampulla due to extensive stone burden. Post procedure abdominal 
+pain resolved. Repeat labs showed total bilirubin decreased to 
+1.8 and lipase decreased to 190. 
+On HD3 informed consent was obtained and the patient was taken 
+to the operating room............................
+.
+.
+.
+.
+
+# Epigastric abdominal pain
+# Choledocholithaisis
+# Likely gallstone pancreatitis
+Pt noted to have significantly elevated LFT's and lipase on 
+admission at ___ with dilated CBD on RUQ US.  Most likely 
+obstruction rather than significant EtOH intake responsible for 
+lab abnormalities.  Pt with mild temp on arrival but denies 
+fevers/chills at home and no other e/o cholangitis at this time.
+--Keep NPO at current time
+--ERCP in AM
+--Tylenol and prn IV morphine for pain control
+--Hold off on abx at current time as pt stable and currently 
+afebrile.  Would start Zosyn vs. Cipro/flagyl if pt spikes 
+another temp and/or becomes otherwise unstable
+--Pt also likely needs ACS consult for ?ccy this admission
+
+# EtOH abuse
+Pt reports recent binge drinking after death in family but 
+denies history of chronic drinking or w/d symptoms in the past.
+--Monitor on ___ q4H for now, ___ MD to order benzos if needed
+--MVI, thiamine, folate
+
+# Depression-- Continue home fluoxetine
+
+# GERD-- Continue home PPI
+
+# OA-- holding home Celebrex given possible ERCP today
+
+FEN: NPO pending ERCP, LR@ 200cc/hr
+ACCESS: PIV's
+PPX: SubQ heparin
+FULL CODE
+DISPO: HMED pending ERCP
+
+___, MD
+___, ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FLUoxetine 40 mg PO DAILY 
+2. Celecoxib 200 mg oral DAILY 
+3. Omeprazole 40 mg PO DAILY 
+4. B Complex ___ (vit B complex-folic acid;<br>vit 
+B1-B2-B3-B5-B6) 0.4 mg oral DAILY 
+5. Docusate Sodium 100 mg PO BID 
+6. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+choledocholithiasis
+Gallstone pancreatitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ with abdominal pain and found to have 
+an infection in your gallbladder and gallstones causing and 
+obstruction of bile flow. You were initially admitted to the 
+medical service and underwent ERCP with sphincterotomy to clear 
+the stones and placement of a stent due to the amount of stones 
+found. Your labs were closely monitored after the procedure and 
+showed the bile was clearing. You then underwent surgery and had 
+your gallbladder removed laparoscopically. You tolerated the 
+procedure well and are now ready to be discharged to home to 
+continue your recovery.
+
+Please note the following discharge instructions:
+
+ACTIVITY:
+ 
+o Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.
+o You may climb stairs. 
+o  You may go outside, but avoid traveling long distances until 
+you see your surgeon at your next visit.
+o  Don't lift more than ___ lbs for 4 weeks. (This is about 
+the weight of a briefcase or a bag of groceries.) This applies 
+to lifting children, but they may sit on your lap.
+o You may start some light exercise when you feel comfortable.
+o You will need to stay out of bathtubs or swimming pools for a 
+time while your incision is healing. Ask your doctor when you 
+can resume tub baths or swimming.
+ 
+HOW YOU MAY FEEL: 
+o  You may feel weak or "washed out" for a couple of weeks. You 
+might want to nap often. Simple tasks may exhaust you.
+o  You may have a sore throat because of a tube that was in your 
+throat during surgery.
+o  You might have trouble concentrating or difficulty sleeping. 
+You might feel somewhat depressed.
+o  You could have a poor appetite for a while. Food may seem 
+unappealing.
+o  All of these feelings and reactions are normal and should go 
+away in a short time.  If they do not, tell your surgeon.
+ 
+YOUR INCISION:
+o Tomorrow you may shower and remove the gauzes over your 
+incisions. Under these dressing you have small plastic bandages 
+called steri-strips. Do not remove steri-strips for 2 weeks. 
+(These are the thin paper strips that might be on your 
+incision.) But if they fall off before that that's okay).
+o Your incisions may be slightly red around the stitches. This 
+is normal.
+o You may gently wash away dried material around your incision.
+o Avoid direct sun exposure to the incision area.
+o Do not use any ointments on the incision unless you were told 
+otherwise.
+o You may see a small amount of clear or light red fluid 
+staining your dressing or clothes. If the staining is severe, 
+please call your surgeon.
+o You may shower. As noted above, ask your doctor when you may 
+resume tub baths or swimming.
+ 
+YOUR BOWELS:
+o Constipation is a common side effect of narcotic pain 
+medications. If needed, you may take a stool softener (such as 
+Colace, one capsule) or gentle laxative (such as milk of 
+magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription.
+o If you go 48 hours without a bowel movement, or have pain 
+moving the bowels, call your surgeon. 
+ 
+PAIN MANAGEMENT:
+o It is normal to feel some discomfort/pain following abdominal 
+surgery. This pain is often described as "soreness". 
+o Your pain should get better day by day. If you find the pain 
+is getting worse instead of better, please contact your surgeon.
+o You will receive a prescription for pain medicine to take by 
+mouth. It is important to take this medicine as directed. o Do 
+not take it more frequently than prescribed. Do not take more 
+medicine at one time than prescribed.
+o Your pain medicine will work better if you take it before your 
+pain gets too severe.
+o Talk with your surgeon about how long you will need to take 
+prescription pain medicine. Please don't take any other pain 
+medicine, including non-prescription pain medicine, unless your 
+surgeon has said its okay.
+o If you are experiencing no pain, it is okay to skip a dose of 
+pain medicine.
+
+You will need to return for a repeat ERCP in 2 to 4 weeks (scope 
+with camera down your mouth) to remove stents that were placed 
+there on your last ERCP. 
+
+ 
+Followup Instructions:
+___

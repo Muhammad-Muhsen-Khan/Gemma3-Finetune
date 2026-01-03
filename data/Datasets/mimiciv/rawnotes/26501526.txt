@@ -1,0 +1,496 @@
+Notes
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Naprosyn / Ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea, Tachycardia, Lightheadedness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with CAD (s/p STEMI ___ with 2 bare metal stents to mid
+LAD ___, cardiac cath ___ with PTCA to RCA, most recent cath
+___ with TO RCA and proximal to that 99%, elevated LVEDP, no
+PCI done ___ high risk), HTN, afib, HFrEF LVEF 55%, AF on
+xeralto, prior TIA, CAS with CEA, T2DM, HLD, PUD, COPD who
+presents with worsening dyspnea.
+The patient was recently discharged from ___, had been 
+admitted for a heart failure exacerbation. During that stay he 
+was diuresed with 120mg IV Lasix bolus, metolazone, and 
+___ drip until euvolemic. He had bilateral ___ on ___ 
+for effusions. His TTE was notable for an EF of 40% and features 
+c/w restrictive CM. This along with a CT non-con showing e/o 
+cirrhosis raised questions of possible
+amyloid CM, but given his overall poor prognosis, further workup 
+was deferred. His course was complicated by E. coli sepsis, 
+contained perforation of a peptic ulcer, and he was treated 
+conservatively with antibiotics. Goals of care discussions were 
+had an based on this patient expressed wishes to be DNR/DNI. He 
+was discharged to rehab on a course of IV ceftriaxone and PO 
+metronidazole (final course TBD by ID team) and plans to repeat 
+CT non-con with barium A/P and follow up
+with ID as an outpatient.
+At ___, he was noted to have a weight gain of 7 lbs over the 
+past few days, in the setting of having his torsemide decreased 
+from 100 mg to 90 mg daily. He reported dizziness and 
+palpitations, and was found to be tachycardic to the 150s. No 
+abdominal pain, no n/v/d. Denies black or bloody stool. No 
+fevers.
+In the ED, initial vitals were: 97.8 F, HR 100-120s, BP 90/40s, 
+RR 18, 97% RA
+- Exam notable for: n/a
+- Labs notable for: WBC 6.6, Hgb 8.5, plts 252, Na 134, K 4.1, 
+Cr 1.8, lactate 2.3, BNP 10809, albumin 3.4, INR 2.5
+- Imaging was notable for:
+- Patient was given:
+Upon arrival to the floor, patient asks "where am I? What am I 
+doing here?" He reports having a "dizzy spell" earlier, but 
+denies pain, shortness of breath (although he has not walked 
+much at rehab), nausea or abdominal pain. He denies passing out.
+REVIEW OF SYSTEMS:
+(+) Per HPI
+(-) 10 point ROS reviewed and negative unless stated above in 
+HPI
+ 
+Past Medical History:
+CHF
+CAD s/p bare metal stent to LAD in ___ and RCA stent in ___
+TIA/CVA/old right basal ganglia/thalamic lacunar infarct
+multilevel cervical spinal stenosis/spondylosis.
+mild-to-moderate bilateral right greater than left carotid
+stenosis
+dysequilibrium/gait disorder/peripheral vertigo
+macular degeneration/almost blind in left eye
+HTN
+HLD
+DM 2
+CKD 3 (baseline creatinine 1.5-1.8)
+COPD
+PVD
+h/o PUD and GIB, perforated gastric ulcer
+depression/anxiety
+osteoarthritis
+bilateral hearing loss
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.  
+ 
+ 
+Physical Exam:
+ADMISSION EXAM
+#ERROR!
+Vital Signs: afebrile, BP 120/80s, HR 110 bursting into the 
+150s, RR 16, 98% RA
+General: Alert, oriented x3, no acute distress
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL.
+Neck: Supple. JVP 12.
+CV: Tachycardic, no murmurs appreciated
+Lungs: Diffuse end-expiratory wheezing, decreased breath sounds. 
+No dullness to percussion.
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding
+GU: No foley
+Ext: Warm, well perfused, 2+ pulses, 2+ pitting edema to the 
+knees
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.
+
+DISCHARGE EXAM
+#ERROR!
+Vital Signs:  98.7 98.1 ___ 100-115 18 92-95%RA 
+
+Wt: 63.5 kg  <-  64.4Kg <- 65.5 Kg <- 67.5 Kg <- 68.4<-69.9Kg <- 
+71.4
+I/O: ___
+
+Tele: n/a
+
+General: Very pleasant male; Alert, oriented x3, no acute 
+distress  
+HEENT: Sclerae anicteric, MMM, EOMI, PERRL. Hard of hearing, 
+hearing aid on left ear.   
+Neck: JVP 7 at 45 degrees
+CV: Irregular rate, no murmurs appreciated  
+Lungs: Bibasilar crackles, upper fields sound clear.  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, trace pitting ___: AOx3, Grossly intact
+
+ 
+Pertinent Results:
+ADMISSION LABS
+#ERROR!
+___ 08:14PM BLOOD WBC-6.6 RBC-3.21* Hgb-8.5* Hct-28.8* 
+MCV-90 MCH-26.5 MCHC-29.5* RDW-19.9* RDWSD-64.5* Plt ___
+___ 08:14PM BLOOD Neuts-69.8 Lymphs-15.6* Monos-12.9 
+Eos-0.9* Baso-0.3 Im ___ AbsNeut-4.61# AbsLymp-1.03* 
+AbsMono-0.85* AbsEos-0.06 AbsBaso-0.02
+___ 08:14PM BLOOD ___ PTT-34.1 ___
+___ 08:14PM BLOOD Glucose-182* UreaN-35* Creat-1.8* Na-134 
+K-4.1 Cl-92* HCO3-31 AnGap-15
+___ 08:14PM BLOOD ALT-13 AST-26 AlkPhos-165* TotBili-0.4
+___ 08:14PM BLOOD Albumin-3.2* Calcium-8.7 Phos-3.4 Mg-1.9
+___ 08:25PM BLOOD Lactate-2.3*
+
+NOTABLE LABS
+#ERROR!
+
+___ 06:23AM BLOOD Lactate-1.6
+___ 06:23AM BLOOD pO2-65* pCO2-49* pH-7.39 calTCO2-31* Base 
+XS-3 Comment-GREEN TOP
+
+DISCHARGE LABS
+#ERROR!
+___ 04:39AM BLOOD Glucose-157* UreaN-50* Creat-1.9* Na-134 
+K-3.9 Cl-89* HCO3-36* AnGap-13
+
+IMAGING
+#ERROR!
+CHEST X RAY:  ___
+Moderate to large right and small to moderate left bilateral 
+pleural effusions with overlying atelectasis, increased since 
+the prior study. Underlying basilar consolidation difficult to 
+exclude. Moderate to severe, right greater than left, pulmonary 
+edema.  
+
+___ ABD & PELVIS W/O CON
+IMPRESSION:
+1. Near complete resolution of inflammation surrounding a 
+duodenal
+diverticulum.  No extraluminal contrast or free air.
+2. Mild interval increase in bilateral pleural effusions and 
+pericardial
+effusion.
+3. Increased heterogeneous right basilar lung opacity, could 
+represent
+pneumonia in the correct clinical setting.
+
+___
+The left atrial volume index is severely increased. There is 
+moderate symmetric left ventricular hypertrophy. The left 
+ventricular cavity size is normal. There is severe global left 
+ventricular hypokinesis (LVEF = ___. The right ventricular 
+cavity is mildly dilated with moderate global free wall 
+hypokinesis. Tricuspid annular plane systolic excursion is 
+depressed (1.1 cm) consistent with right ventricular systolic 
+dysfunction. The aortic valve leaflets (3) are mildly thickened 
+but aortic stenosis is not present. Trace aortic regurgitation 
+is seen. Moderate to severe (3+) mitral regurgitation is seen. 
+Moderate to severe [3+] tricuspid regurgitation is seen. There 
+is moderate pulmonary artery systolic hypertension. [In the 
+setting of at least moderate to severe tricuspid regurgitation, 
+the estimated pulmonary artery systolic pressure may be 
+underestimated due to a very high right atrial pressure.] There 
+is a small pericardial effusion. Bilateral pleural effusions are 
+present. 
+
+IMPRESSION: Prominent LV wall thickening with severe global left 
+ventricular systolic dysfunction. Moderate right ventricular 
+systolic dysfunction. Moderate to severe mitral regurgitation. 
+Moderate to severe tricuspid regurgitation. At least moderate 
+pulmonary hypertension. Small pericardial effusion. An 
+infiltrative cardiomyopathy, such as cardiac amyloidosis, should 
+be considered.
+
+Compared with the prior study (images reviewed) of ___, 
+biventricular systolic function has further deteriorated. There 
+is more mitral and tricuspid regurgitation. 
+
+ 
+Brief Hospital Course:
+___ year old gentleman with CHFrEF 40% (presumed amlyoid 
+cardiomyopathy), CAD, PUD, HTN, CKD (baseline Cr 1.5), 
+questionable cirrhosis (seen on CT imaging), and recent duodenal 
+ulcer perforation on ceftriaxone/flagyl presenting from rehab 
+with recurrent systolic CHF exacerbation complicated by large 
+right sided and moderate left sided pleural effusion improved 
+with diuresis. 
+
+ACTIVE ISSUES:
+# Systolic CHF (new LVEF = ___, presumed amyloid 
+cardiomyopathy): 
+Presented with history of systolic dysfunction with a 
+restrictive component (c/o amyloid) and was volume overloaded on 
+exam (BNP was 10K, had reported 7Kg weight gain). Patient was 
+managed on a lasix drip at 20 cc/hr with intermittent doses of 
+metolazone. Patient diuresed adequately and returned to below 
+his dry weight prior to discharge. Has been intolerant of it in 
+the past with hypotension. Not on spironolactone due to 
+hypotension as well. Torsemide 100 mg daily was continued on 
+discharge. Of note, surface echo showed worsening biventricular 
+systolic function and EF of Weight on discharge of: 63.5 Kg or 
+139.7 lbs. If patient's weight increases by more than 2 lbs. 
+over three days torsemide dose should be increased to 100 mg 
+BID. Patient continued on magnesium oxide 400 mg daily and 
+potassium chloride 20 mEQ daily. Can be discontinued pending 
+ongoing discussion of medical management and de-escalation. 
+
+# Large right sided and moderate left sided pleural effusion 
+improved with diuresis. 
+Effusions remained stable and patient was diuresed with IV Lasix 
+and transitioned to torsemide 100 mg daily prior to discharge. 
+
+# Paroxysmal Atrial fibrillation:
+Has had RVR several times this admission that responds to PO 
+metop. Have avoided anything IV as he becomes hypotensive given 
+his restrictive physiology. Changed amiodarone 200 mg daily this 
+admission from QOD. On apixiban BID for anticoagulation. Metop 
+12.5 mg XL daily started given rapid rates to the 140's at times 
+with associated dizziness. Can be de-escalated and stopped as 
+seen fit by hospice team.
+
+# History of duodenal perforation: Occurred during prior 
+admission, patient was planned on ceftriaxone and flagyl. ID 
+while patient in house recommended repeat CT abdomen/pelvis that 
+showed almost entirely healed perforation. They recommend 
+discontinuation of IV ceftriaxone/flagyl given improvement of 
+findings on imaging in addition to patients overall goals of 
+care. Aspirin 81 mg continued to be held. Patient does not need 
+to follow up with ID on discharge as outpatient. 
+
+# Anemia: Monitored H/H that remained stable without need for 
+transfusion. Iron pills were discontinued to minimize 
+medications as patient was transitioning to hospice care. 
+
+# Goals of Care- On last admission, patient was made DNR/DNI. 
+Palliative care was consulted on this admission and goals of 
+care with son/HCP involved were transitioned to hospice at 
+___. MOLST form was completed. Morphine 5 mg PRN every 4 
+hours started as needed for chest pain or dyspnea. All other 
+unnecessary medications were discontinued. Further medications 
+can be discontinued pending ongoing discussion with hospice team 
+and Dr. ___ patient primary cardiologist. 
+
+CHRONIC ISSUES:
+
+# CKD: 
+Cr at 1.5 consistent with prior baseline. Creatinine on 
+discharge of 1.8. Meds were renally dosed. 
+
+# CAD: Recent cath done in ___, too high risk for intervention. 
+Given high risk and goals of care, cath deferred. Aspirin was 
+discontinued at that time in setting of duodenal perforation. 
+Atorvastatin was discontinued given patient's overall goals of 
+care. 
+
+#DM: 
+Patient continued on ISS while in house. Patient required small 
+amounts of insulin while in the hospital so insulin sliding 
+scale was discontinued on discharge given hospice and palliative 
+goals. 
+
+# E/o Cirrhosis on CT: 
+Hepatitis serologies negative. Patient has history of heavy 
+alcohol use in the past. No signs of decompensation during this 
+hospitalization. 
+
+TRANSITIONAL ISSUES:
+#ERROR!
+MEDICATION
+- NEW: morphine 5 mg every 4 hours PRN started for pain and 
+dyspnea
+- CHANGED: Torsemide dose on discharge of 100 mg daily
+- STOPPED: ceftriaxone, flagyl, ferrous sulfate, multivitamin, 
+atorvastatin, and insulin sliding scale (patient required 
+minimal sliding scale dosage while in house).
+-weight on discharge: 63.5 Kg or 139.7 lbs.
+-if weight increases by more than 2 lbs. in 3 days please 
+increase torsemide dose to 100 mg BID. Please call Dr. ___ 
+___ for titration of Torsemide ___. 
+-patient transitioned to hospice care at ___. This was 
+documented with MOLST form prior to discharge. Patient's 
+cardiologist Dr. ___ will assist with titration of torsemide 
+dose with hospice team.
+-consider discontinuation of apixiban in discussion with Dr. 
+___ ___. 
+-consider discontinuation of metoprolol pending follow up of 
+heart rates and blood pressures
+-consider discontinuation of potassium and magnesium as well 
+pending ongoing de-escalation of medications and if torsemide 
+stopped for any reason
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+________________________________________________________________
+# CODE: DNR/DNI/ Do not hospitalize (MOLST completed)
+# CONTACT: ___ (___)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Docusate Sodium 200 mg PO QHS 
+2. Apixaban 2.5 mg PO BID 
+3. Allopurinol ___ mg PO DAILY 
+4. Amiodarone 200 mg PO EVERY OTHER DAY 
+5. Atorvastatin 40 mg PO QPM 
+6. Ferrous Sulfate 325 mg PO DAILY 
+7. Tiotropium Bromide 1 CAP IH DAILY 
+8. Torsemide 90 mg PO DAILY 
+9. Bisacodyl 10 mg PR QHS:PRN constipation 
+10. CefTRIAXone 2 gm IV Q 24H 
+11. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN shortness of 
+breath 
+12. Heparin Flush (10 units/ml) 2 mL IV X1 PRN For Midline 
+Insertion 
+13. Heparin Flush (10 units/ml) 2 mL IV DAILY and PRN, line 
+flush 
+14. Magnesium Oxide 400 mg PO DAILY 
+15. MetroNIDAZOLE 500 mg PO Q8H 
+16. Multivitamins W/minerals 1 TAB PO DAILY 
+17. Pantoprazole 40 mg PO Q12H 
+18. Polyethylene Glycol 17 g PO BID 
+19. Senna 8.6 mg PO BID 
+20. Sodium Chloride 0.9%  Flush 10 mL IV DAILY and PRN, line 
+flush 
+21. TraZODone 50 mg PO QHS:PRN insomnia 
+22. Cyanocobalamin 250 mcg PO DAILY 
+23. PreserVision AREDS (vitamins  A,C,E-zinc-copper) 
+___ unit-mg-unit oral DAILY 
+24. Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation DAILY 
+25. Glucerna (nut.tx.gluc.intol,lac-free,soy;<br>nut.tx.glucose 
+intolerance,soy) 237 ml oral TID 
+26. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+27. Acetaminophen 650 mg PO Q4H:PRN Pain - Mild 
+28. Milk of Magnesia 30 mL PO DAILY PRN constipation 
+29. Magnesium Citrate 300 mL PO DAILY PRN one bottle prn if no 
+bowel movement after fleet enema 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 12.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 0.5 (One half) tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0 
+2.  Morphine Sulfate (Oral Solution) 2 mg/mL 2.5 mg PO DAILY PRN 
+Pain - Mild 
+RX *morphine 20 mg/5 mL (4 mg/mL) 5 mg by mouth every 4 hours 
+Refills:*0 
+3.  Potassium Chloride 20 mEq PO DAILY 
+Hold for K > 5 
+RX *potassium chloride [Klor-Con] 20 mEq 1 packet(s) by mouth 
+daily Disp #*30 Packet Refills:*0 
+4.  Torsemide 100 mg PO DAILY 
+RX *torsemide 100 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+5.  Amiodarone 200 mg PO DAILY 
+RX *amiodarone 200 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+6.  Acetaminophen 650 mg PO Q4H:PRN Pain - Mild  
+7.  Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN shortness of 
+breath 
+RX *albuterol sulfate 2.5 mg/3 mL (0.083 %) 1 neb inhaled every 
+4 hours Disp #*30 Vial Refills:*0 
+8.  Allopurinol ___ mg PO DAILY 
+RX *allopurinol ___ mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+9.  Apixaban 2.5 mg PO BID 
+RX *apixaban [Eliquis] 2.5 mg 1 tablet(s) by mouth twice daily 
+Disp #*60 Tablet Refills:*0 
+10.  Bisacodyl 10 mg PR QHS:PRN constipation  
+11.  Docusate Sodium 200 mg PO QHS  
+12.  Glucerna (nut.tx.gluc.intol,lac-free,soy;<br>nut.tx.glucose 
+intolerance,soy) 237 ml oral TID  
+13.  Magnesium Oxide 400 mg PO DAILY 
+RX *magnesium oxide 400 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+14.  Milk of Magnesia 30 mL PO DAILY PRN constipation  
+15.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth every 12 hours Disp 
+#*60 Tablet Refills:*0 
+16.  Polyethylene Glycol 17 g PO BID  
+17.  PreserVision AREDS (vitamins  A,C,E-zinc-copper) 
+___ unit-mg-unit oral DAILY  
+18.  Senna 8.6 mg PO BID  
+19.  Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation DAILY 
+RX *budesonide-formoterol [Symbicort] 80 mcg-4.5 mcg/actuation 1 
+puff inhaled daily Disp #*30 Inhaler Refills:*0 
+20.  Tiotropium Bromide 1 CAP IH DAILY 
+RX *tiotropium bromide [Spiriva Respimat] 1.25 mcg/actuation 1 
+cap inhaled daily Disp #*30 Inhaler Refills:*0 
+21.  TraZODone 50 mg PO QHS:PRN insomnia 
+RX *trazodone 50 mg 1 tablet(s) by mouth QHS PRN Disp #*30 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Heart Failure Exacerbation
+Transition to Hospice
+Atrial Fibrillation
+Pleural Effusions
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You presented to the hospital with lightheadedness.  
+
+In the hospital, you were found to have acute heart failure 
+exacerbation causing extra fluid in your body (including your 
+lungs). You were given medications to remove the extra fluid and 
+your symptoms improved.  
+
+Also in the hospital- 
+- Ultrasound of your heart showed worsening of your heart 
+failure
+- You were seen by palliative care.  Based on your care goals, 
+you will be transferred to hospice at ___ and your cardiac 
+medications will be managed by your primary Cardiologist Dr. 
+___. 
+- Your antibiotics for your duodenal perforation infection were 
+stopped as your abdominal CT scan showed improvement. 
+
+At ___- 
+- Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+
+It was a pleasure taking care of you, 
+-- Your ___ Care Team
+
+ 
+Followup Instructions:
+___

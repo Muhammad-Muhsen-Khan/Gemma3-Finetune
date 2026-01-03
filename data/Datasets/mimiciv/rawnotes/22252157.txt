@@ -1,0 +1,308 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Treatment monitoring 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o M with h/o follicular lymphoma s/p
+multiple treatments s/p BEAM and auto SCT ___ with relapse
+admitted to ___ on ___ for monitoring on Week 3 protocol
+___. 
+
+Ms. ___ has follicular lymphoma on protocol ___ and was
+recently admitted to ___ after a prior outpatient visit for
+sore throat, hypotension, muscle aches, fever, and increased 
+CRP.
+She was supported with fluids, Tylenol for fever, ondansetron 
+for
+nausea, and monitored closely for potential CRS. The patient
+developed a non-pruritic rash on her right arm on ___ that
+resolved on ___. On ___ viral panel came back
+positive for rhinovirus or enterovirus. ___ morning, the
+patient began feeling much better with better energy, no fever,
+no muscle aches, and a decreased level of CRP. Though this event
+was initially reported as Grade 2 CRS, her symptoms were
+attributed to be related to viral upper respiratory infection
+instead, and it is not believed that she had true CRS.  She
+received her week 3 trial
+protocol ___ therapy with an anti-CD20 and anti-CD3 
+bispecific
+monoclonal antibody on ___ and was admitted for routine
+monitoring per study protocol.   
+
+On arrival to the floor, patient reports feeling fine with no
+complaints.  All of her prior symptoms attributed to her viral
+illness have resolved.  She denies fevers/chills, night sweats,
+headache, vision changes, dizziness/lightheadedness,
+weakness/numbnesss, shortness of breath, cough, hemoptysis, 
+chest
+pain, palpitations, abdominal pain, nausea/vomiting, diarrhea,
+hematemesis, hematochezia/melena, dysuria, hematuria, and new
+rashes.
+
+ 
+Past Medical History:
+ ___: Developed severe vomiting and abdominal pain. She 
+initially attributed her symptoms to food poisoning or a GI 
+infection, however her symptoms persisted for several days and 
+she also palpated a lump near her umbilicus which concerned her. 
+
+She was seen by her PCP who felt her abdomen to be distended. CT
+imaging was obtained which revealed a large lobulated soft 
+tissue
+mass encasing the uterus and posterior bladder which appeared to
+be arising from the right ovary; omental caking and peritonteal
+studding with pelvic ascites; bilateral hydronephrosis from mass
+effect; and a 1.8 cm pericardiophrenic soft tissue mass. The
+imaging findings were initially concerning for an ovarian
+carcinoma, though her CA-125 was only mildly elevated to 64. She
+saw Gynecologic Oncology for further 
+management. She was taken to the OR on ___ where diffuse 
+mesenteric tumor nodules along the entire small bowel were
+identified along with a 10 cm immobile mesenteric mass, 
+confluent
+peritoneal pelvic studding in a sheet-like manner, and 8 cm 
+right
+ovarian tumor. It was determined that optimal
+cytoreduction/debulking would not be possible, so diagnostic
+biopsies were obtained and further resection was not performed.
+She had bilateral ureteral stents placed for her
+hydronephrosis.
+- Pathology of her biopsies revealed a cytologically low-grade 
+follicular lymphoma with discordantly high proliferation index 
+of 70% in follicle centers. FISH panel on the paraffin-embedded 
+formalin fixed tissue revealed IGH/BCL2 rearrangement in 
+addition to a GAIN of MYC.
+- ___: C1D1 RCHOP14
+- ___: C2D1 RCHOP14
+- ___: C3D1 RCHOP14
+- ___: C4D1 RCHOP14
+- ___: CT Torso showing partial response with decreased size 
+of all adenopathy, however still with significant disease burden
+including for example small bowel mesenteric adenopathy 
+measuring 3.8 x 5 cm, previously 6 x 8.6 cm.
+- ___: Admit for ___ treatment with DA-EPOCH-R ___ cycle of
+therapy).
+- ___: CT of torso with decrease in pericardial and a 
+diaphragmatic lymph node with stable mesenteric adenopathy.
+- ___: Admit for ___ treatment with DA-EPOCH/R ___ cycle of
+therapy).
+- ___ cycle R-ICE
+- ___ cycle R-ICE D1 ___
+- ___: plerixafor stem cell collection for total 2.1 ___: Filgrastim/Sargramostim collection for total 2.27
+x10^6. proceeding with auto-SCT
+- ___: D0 auto BEAM. 
+- ___: Hospital course for auto-SCT: course notable for 
+mild tachycardia that had persisted in the second week of her
+transplant thought to be related to fever and diarrhea which
+ultimately improved, a skin rash likely related to chlorhexidine
+exposure, neutropenic fever which resolved after empiric
+antibiotics, prolonged time to platelet engraftment prompting
+early discontinuation of acyclovir, and jaw pain amidst the end
+of her carmustine infusion prompting early termination of the
+infusion, though with only about 4% of the chemotherapy
+remaining. All issues improved by the time of discharge.
+- ___ CT torso: Interval decrease in size of a mesenteric
+soft tissue mass abutting the small bowel, reflecting treatment
+response.
+- ___: C1D1 maintenance rituximab
+- ___: C2D1 maintenance rituximab
+- ___: C3D1 maintenance rituximab
+- ___: C4D1 maintenance rituximab
+- ___: C5D1 maintenance rituximab
+- ___: C6D1 maintenance rituximab
+- ___: C7D1 maintenance rituximab
+- ___: C8D1 maintenance rituximab
+- ___: CT torso: slight interval growth of a longstanding
+submuscular left upper back soft tissue mass and some
+subcentimeter mediastinal nodes; CT abdomen and pelvis revealing
+slight interval enlargement of the conglomerate nodal mass in 
+the lower mesentery measuring 1.8 x 5.1 cm, previously 1.3 x 5
+cm.  
+- ___: PET-CT: FDG avid conglomerate of mesenteric lymph
+nodes in the lower abdomen measuring 1.7 x 2.5 cm with an SUV 
+max of 6.9 and consistent with ___ 4.
+- ___: Mesenteric node biopsy: follicular lymphoma, grade ___
+of 3, low proliferation index
+
+PAST MEDICAL HISTORY:
+- Follicular lymphoma 
+- HCV dx ___, treated
+- Hypertension
+- Anxiety
+- s/p right partial nephrectomy in ___, pathology revealing
+angiomyolipoma
+
+ 
+Social History:
+___
+Family History:
+No family history of cancer. Siblings with diabetes.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: Temp 97.7, BP 101/62, HR 70-71, RR 18, O2 sat 97% on RA 
+GENERAL: Pleasant woman, in no distress, lying in bed
+comfortably.
+HEENT: no abnormality noted 
+CARDIAC: RRR, short systolic murmur
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Soft, non-tender, non-distended, normal bowel sounds, no
+hepatomegaly, no splenomegaly.
+EXT: Warm, well perfused, no lower extremity edema, erythema or
+tenderness.
+NEURO: A&Ox3, good attention and linear thought, CN grossly
+intact, moving all extremities 
+SKIN: No significant rashes.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: 98.6  126/71  88  18  100Ra 
+GENERAL: Pleasant woman, in no distress, lying in bed
+comfortably.
+HEENT: no abnormality noted 
+CARDIAC: RRR, short systolic murmur
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Soft, non-tender, non-distended, normal bowel sounds, no
+hepatomegaly, no splenomegaly.
+EXT: Warm, well perfused, no lower extremity edema, erythema or
+tenderness.
+NEURO: A&Ox3, good attention and linear thought, CN grossly
+intact, moving all extremities 
+SKIN: No significant rashes.
+ACCESS: R POC 
+
+ 
+Pertinent Results:
+ADMISSION LABS 
+==============
+___ 08:30AM BLOOD WBC-5.2 RBC-3.23* Hgb-10.3* Hct-31.4* 
+MCV-97 MCH-31.9 MCHC-32.8 RDW-13.3 RDWSD-47.0* Plt ___
+___ 08:30AM BLOOD  WBC-5.2# Lymph-11* Abs ___ CD3%-71 
+Abs CD3-408* CD4%-47 Abs CD4-267* CD8%-24 Abs CD8-138* 
+CD4/CD8-1.93
+___ 08:30AM BLOOD UreaN-9 Creat-0.8 Na-143 K-4.0 Cl-103 
+HCO3-29 AnGap-11
+___ 08:30AM BLOOD ALT-25 AST-25 AlkPhos-54 TotBili-0.3
+___ 08:30AM BLOOD Phos-3.1 Mg-2.1 UricAcd-3.3
+
+CRP TREND 
+==========
+___ 08:30AM BLOOD CRP-18.8*
+___ 12:00PM BLOOD CRP-16.1*
+___ 04:20PM BLOOD CRP-15.2*
+___ 08:16PM BLOOD CRP-14.4*
+___ 09:49AM BLOOD CRP-10.9*
+___ 03:15PM BLOOD CRP-9.7*
+___ 07:09PM BLOOD CRP-8.5*
+___ 01:15PM BLOOD CRP-5.1*
+
+DISCHARGE LABS
+==============
+___ 01:15PM BLOOD WBC-9.8 RBC-2.91* Hgb-9.1* Hct-28.6* 
+MCV-98 MCH-31.3 MCHC-31.8* RDW-13.5 RDWSD-47.8* Plt ___
+___ 01:15PM BLOOD Neuts-72.5* Lymphs-11.7* Monos-11.2 
+Eos-2.4 Baso-0.5 Im ___ AbsNeut-7.10* AbsLymp-1.15* 
+AbsMono-1.10* AbsEos-0.24 AbsBaso-0.05
+___ 01:15PM BLOOD Plt ___
+___ 01:15PM BLOOD Glucose-92 UreaN-19 Creat-0.7 Na-140 
+K-3.3* Cl-102 HCO3-27 AnGap-11
+___ 01:15PM BLOOD LD(LDH)-173
+___ 01:15PM BLOOD Phos-2.2* Mg-2.0 UricAcd-3.3
+ 
+Brief Hospital Course:
+HOSPITAL COURSE
+===============
+Ms. ___ is a ___ woman with history of 
+follicular lymphoma s/p BEAM and auto SCT with subsequent 
+relapse and now on clinical trial ___ who presents for study 
+monitoring.
+
+ACTIVE ISSUES
+=============
+# Follicular Lymphoma: On clinical trial ___ for relapsed 
+lymphoma. This was her third cycle. Completed with no 
+complications, no signs or CRS or TLS. Continued acyclovir for 
+infectious prophylaxis. Will return to clinic day after 
+discharge to check in.
+
+CHRONIC ISSUES
+==============
+# Anxiety/Depression: Continued home lexapro and lorazepam.
+
+# Constipation: Continued colace/miralax.
+
+Transitional Issues 
+===================
+[] Closely monitor for signs of CRS
+[] Close f/u with Dr. ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Docusate Sodium 100 mg PO BID constipation 
+2. Escitalopram Oxalate 10 mg PO DAILY 
+3. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+4. Acyclovir 400 mg PO Q12H 
+5. LORazepam 0.5-1 mg PO Q6H:PRN 
+nausea/vomiting/anxiety/insomnia 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID constipation  
+2.  Acyclovir 400 mg PO Q12H  
+3.  Escitalopram Oxalate 10 mg PO DAILY  
+4.  LORazepam 0.5-1 mg PO Q6H:PRN 
+nausea/vomiting/anxiety/insomnia  
+5.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Follicular lymphoma 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital for your third round of 
+immunotherapy. You had labs drawn and were monitored for any 
+adverse symptoms, but everything went well with no 
+complications. You will follow up with your primary oncologist 
+to discuss next steps in therapy.
+
+It was a privilege to care for you in the hospital, and we wish 
+you all the best.
+
+Sincerely,
+
+Your ___ Health Team
+ 
+Followup Instructions:
+___

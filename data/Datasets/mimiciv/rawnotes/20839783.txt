@@ -1,0 +1,428 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+SOB, CP, Weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with a PMH of COPD, prior CVA w/ residual left-sided
+weakness, chronic headache attributed to sinusitis, IDDM c/b
+gastroparesis, CAD s/p stent (___), who p/w SOB, CP, and
+left-sided headache. 
+
+Pt reports that she has been feeling SOB since ___. She
+denies new or chronic cough. States that she feels like she has
+to cough but nothing comes up. She walks just around her house
+with a walker but does not walk further. Denies fevers/chills,
+sick contacts. She has been using her home inhaler. She is 
+laying
+flat in bed and does not note any worsened SOB w/ lying flat. 
+She
+personally denies smoking but is not on home oxygen per PCP note
+because there was concern she was still smoking at home. Her
+daughter does not know if she is smoking.
+
+Pt describes sharp, constant, non-radiating pain beneath her
+right breast. This pain is worse with coughing, non-pleuritic.
+She says it feels similar to the pain she had prior to having a
+stent placed in ___. Pain is worse with palpation. 
+
+She has left temporal/sinus pain that she describes as her face
+feeling "heavy." This pain is constant. She denies visual
+changes, double vision, hearing loss, jaw claudication. 
+
+Denies history of blood clots, leg swelling. Denies
+fevers/chills, N/V, diarrhea/constipation, dysuria/urinary
+frequency, new weakness/numbness/tingling .
+
+Recently admitted ___ for fatigue and hyperglycemia,
+insulin regimen adjusted by ___. Recently admitted ___
+for epigastric pain and SOB found to have CAD and RCA stent was
+placed. 
+
+She was seen in the ED ___ for dizziness and L sided
+reduced facial sensation (which daughter states was actually R
+sided). CT head ___ did not show acute stroke. Pt was seen by
+neurology for vertigo who recommended outpatient follow up. 
+
+In the ED, initial vitals: 97.7 72 160/90 20 92  
+
+Labs were significant for:
+1) BMP: Na 137, K 5.9, Cl 102, HCO3 26, BUN 20, Cr 1.2
+2) Trop 0.01
+3) LFT: ALT 32, AST 35, AP 122, Lipase 18, Tbili 0.3, Albumin 
+3.5
+4) BNP: 623
+5) CRP: 56.3
+6) CBC: WBC 12.8, Hb 10.4, plt 220
+7) Coags: INR 1.2, PTT 34.2
+8) A1C 11.7%
+9) VBG: 7.39/49
+
+Imaging showed:
+1) CXR: Hyperinflated lungs. No focal consolidation
+2) EKG: SR, normal axis, 
+
+In the ED, pt received:
+___ 00:49 IH Ipratropium-Albuterol Neb 1 NEB  
+___ 00:59 IH Ipratropium-Albuterol Neb 1 NEB   
+___ 03:18 PO PredniSONE 60 mg 
+
+Vitals prior to transfer: 98.8 67 117/39 20 97% RA  
+
+Upon arrival to the floor,
+ 
+ROS: (+) as above, otherwise 10 point ROS negative
+ 
+Past Medical History:
+- CAD s/p RCA stent ___
+- COPD
+- T2DM c/b peripheral neuropathy, gastroparesis (markedly
+abnormal gastric emptying study ___
+- HLD
+- HTN 
+- TIA
+- GI intestinal metaplasia
+- H pylori gastritis
+- GERD w/ irregular Z line
+- Back pain
+- Osteoporosis 
+- Urinary incontinence 
+- Chronic L sided weakness
+ 
+Social History:
+___
+Family History:
+Mother- died at age ___, had CAD, DM2, HTN 
+Father- died at ___ of possible laryngeal cancer 
+Notable for BPAD in a daughter. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+======================
+VS:  100.3 PO 122 / 66 68 17 93 Ra  
+GEN: Lying in bed, NAD
+HEENT: PERRL, EOMI, OP clear, MMM
+NECK: Supple 
+PULM: Bilateral wheezes, decreased breath sounds
+CARDS: RRR, S1 S2 present, no mrg  
+CHEST: Below R breast focal TTP, no bruising/swelling
+ABD: SNTND, +BS, no rebound/guarding
+EXTREM: WWP, no ___ edema
+NEURO: CN II-XII intact with exception of reported decreased
+sensation R V2-V3. ___ strength in ___ bilaterally. AOx3, ___
+backwards w/ exception of mixing ___ 
+
+DISCHARGE PHYSICAL EXAM
+======================
+24 HR Data (last updated ___ @ 1111)
+    Temp: 98.3 (Tm 98.6), BP: 126/70 (112-152/62-77), HR: 69
+(65-69), RR: 18, O2 sat: 95% (95-99), O2 delivery: 2l (2L Nc-3L
+Nc)   
+ 
+GEN: Alert, eating breakfast. Appears comfortable.
+HEENT: PERRL, EOMI, OP clear, MMM
+NECK: Supple 
+PULM: CTAB, decreased breath sounds bilaterally. 
+CARDS: RRR, no murmurs, rubs, or gallops. 
+CHEST: No bruising or swelling
+ABD: Distended abdomen with minimal tenderness. No rebound or
+guarding. 
+EXTREM: WWP, no ___ edema
+NEURO: CNII-XII intact. ___ strength in UE b/l, ___ strength 
+LLE.
+AOx3
+ 
+Pertinent Results:
+ADMISSION LABS
+=============
+___ 12:40AM BLOOD WBC-12.8* RBC-3.60* Hgb-10.4* Hct-31.3* 
+MCV-87 MCH-28.9 MCHC-33.2 RDW-13.9 RDWSD-43.9 Plt ___
+___ 12:40AM BLOOD Neuts-71.6* Lymphs-18.4* Monos-7.9 
+Eos-1.4 Baso-0.2 Im ___ AbsNeut-9.16* AbsLymp-2.35 
+AbsMono-1.01* AbsEos-0.18 AbsBaso-0.02
+___ 12:40AM BLOOD Glucose-175* UreaN-20 Creat-1.2* Na-137 
+K-5.9* Cl-102 HCO3-26 AnGap-9*
+___ 12:40AM BLOOD ALT-32 AST-35 AlkPhos-122* TotBili-0.3
+___ 12:40AM BLOOD Lipase-18
+___ 12:40AM BLOOD cTropnT-<0.01 proBNP-623
+___ 12:50PM BLOOD CK-MB-<1 cTropnT-<0.01
+___ 12:40AM BLOOD calTIBC-293 Ferritn-151* TRF-225
+___ 12:40AM BLOOD %HbA1c-11.7* eAG-289*
+___ 12:40AM BLOOD CRP-56.3*
+
+IMAGES
+======
+
+CXR (___): Hyperinflated lungs.  No focal consolidation.
+
+NOTABLE LABS
+============
+
+CRP  (___): 56
+ESR (___): 38
+
+DISCHARGE LABS
+=============
+___ 04:46AM BLOOD WBC-9.6 RBC-3.55* Hgb-10.3* Hct-31.4* 
+MCV-89 MCH-29.0 MCHC-32.8 RDW-14.0 RDWSD-45.3 Plt ___
+___ 04:46AM BLOOD Glucose-118* UreaN-13 Creat-1.2* Na-140 
+K-5.6* Cl-101 HCO3-26 AnGap-13
+___ 04:46AM BLOOD Calcium-9.0 Phos-4.4 Mg-2.___ with a PMH of COPD, prior CVA w/ residual left-sided 
+weakness, chronic headache attributed to sinusitis, IDDM c/b 
+gastroparesis, CAD s/p stent (___), who p/w SOB, CP, and 
+left-sided headache. 
+
+ACUTE ISSUES:
+=============
+# Hyperkalemia: Developed hyperkalemia in setting of ___, 
+although may be chronic in part. Improved after stopping 
+lisinopril. Will need to recheck lytes in ___ days. 
+
+# Ileus
+# Constipation
+Abdominal improved after bowel regimen. Evidence of ileus, but 
+no
+obstruction. C diff PCR positive, but toxin negative suggesting
+infection unlikely. Loose stool in the setting of
+bowel regimen and ileus. No evidence of infection. She should 
+continue her bowel regimen after discharge. 
+
+# COPD Exacerbation: SOB likely ___ COPD exacerbation given 
+wheezes on exam. Not on home O2 previously. O2 sat 86%/RA ___, 
+requiring ___ O2. No e/o PNA on CXR ___. Low c/f PE. Pt 
+received 5D course of prednisone/azithromycin. She received 
+albuterol/Duonebs. Pt was discharged on home oxygen.
+
+# L Temporal/Sinus Headache: L temporal/maxillary/scalp pain is 
+most likely due to chronic sinusitis. Per ENT evaluation pt 
+requires outpatient follow up for surgical intervention. Low c/f 
+temporal arteritis given lack of vision changes/jaw claudication 
+and alternative explanation. Temporal artery US ___ w/o 
+concerning changes. Temporal artery biopsy was deferred. Pt was 
+started on 3D afrin, flonase, nasal spray.
+
+# Chest Pain: Likely musculoskeletal given area below R breast/L 
+breast given TTP. Negative troponin x2 and EKG w/o ischemic 
+changes. However, she should have cardiology follow up given 
+recent stenting of RCA and consideration of repeat stress if 
+pain recurs. 
+
+# Normocytic Anemia: Baseline Hb ___, p/w Hb 10. Possibly new 
+baseline. Pt denied blood in stool. Fe studies c/w Fe deficiency 
+anemia. Pt started on ferrous gluconate 324 mg QD.
+
+# Dizziness: Pt denies current dizziness. Seen by neurology ___ 
+for vertigo in addition to R facial decreased sensation. CT head 
+negative at the time, planned for outpatient neurology follow 
+up. 
+
+# IDDM: Followed by ___. A1C 11.7%. Patient developed 
+significant hypoglycemia in the morning, so her insulin dose was 
+decreased to 15u QAM. She should have close follow up with 
+___. 
+
+CHRONIC ISSUES:
+===============
+# CKD: Baseline Cr 0.9-1.4. Held lisinopril at discharge given 
+Cr elevated 1.3 and hyperkalemia. 
+
+# HTN: Continued on home amlodipine 5 mg QD, lisinopril 20 mg QD 
+and metoprolol succinate 25 mg QD.
+
+# Neuropathy: Continued on pregabalin 25 mg TID, tramadol 50 mg 
+BID:PRN, lidocaine patch.
+
+# CAD: S/p stent (___): Continued on aspirin 325 mg QD, 
+plavix 75 mg QD and atorvastatin 80 mg QD
+
+# Nutrition: Continued ensure
+
+# Depression: Continued fluoxetine 20 mg QD
+
+# Insomnia: Continued home melatonin 1 mg QHS
+
+# GERD: Continued home omeprazole 20 mg QD
+
+# Smoking: PRN nicotine patch
+
+TRANSITIONAL ISSUES
+================== 
+[ ] Stopped Lisinopril in setting of ___. Please recheck Cr at 
+follow up appointment and restart Lisinopril if Cr normalized 
+and potassium is stable. (Discharge Cr 1.3)
+[ ] Please recheck Chem10 in ___ days to ensure that K+ is 
+stable. 
+[ ] Started fluticasone nasal spray for treatment of sinusitis. 
+Patient need close follow up at ENT appointment with Dr. 
+___ on ___ for consideration of sinus surgery
+[ ] Follow up with cardiology and consider ischemia workup if 
+pain recurs. 
+[ ] Started fluticasone-salmeterol 100/50 BID for treatment of 
+COPD. Patient should continue on this regimen post-discharge
+[ ] Started ferrous gluconate 324mg every other day for 
+treatment of iron deficiency anemia. Should follow up repeat 
+CBC. 
+[ ] Repeat low-dose CT RUL seen in ___
+[ ] Home O2: Patient has COPD and is in a chronic and stable 
+state, not experiencing acute illness/exacerbation. Alternative 
+treatments have been tried and failed in improving hypoxia 
+(including treatment of COPD, incentive spirometry, chest ___. 
+Pt requires long-term home and portable oxygen therapy to 
+improve hypoxia related symptoms. 
+[ ] Progress note faxed to ___ F: ___ Cell: 
+___ in order to secure home oxygen delivery (must have 
+exact wording above) 
+# Contact: ___ (daughter) ___ 
+# Code: Full (presumed) 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Docusate Sodium 100 mg PO BID:PRN Constipation - First Line 
+2. Glargine 36 Units Breakfast
+Insulin SC Sliding Scale using UNK Insulin
+3. Pregabalin 25 mg PO TID 
+4. Acetaminophen 500 mg PO Q8H:PRN Pain - Mild/Fever 
+5. Albuterol Inhaler 1 PUFF IH Q4H:PRN SOB 
+6. amLODIPine 5 mg PO DAILY 
+7. Aspirin 325 mg PO DAILY 
+8. Atorvastatin 80 mg PO QPM 
+9. Vitamin D3 (cholecalciferol (vitamin D3)) 2,000 unit oral QD 
+10. Clopidogrel 75 mg PO DAILY 
+11. FLUoxetine 20 mg PO DAILY 
+12. Lisinopril 20 mg PO DAILY 
+13. melatonin 1 mg oral QHS 
+14. Metoprolol Succinate XL 25 mg PO DAILY 
+15. Lidocaine 5% Patch 1 PTCH TD QAM 
+16. Nicotine Patch 7 mg/day TD DAILY 
+17. Omeprazole 20 mg PO DAILY 
+18. TraMADol 50 mg PO BID:PRN Pain - Moderate 
+19. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line 
+20. Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+nausea  
+
+ 
+Discharge Medications:
+1.  Ferrous GLUCONATE 324 mg PO EVERY OTHER DAY 
+RX *ferrous gluconate 324 mg (37.5 mg iron) 1 tablet(s) by mouth 
+every other day Disp #*15 Tablet Refills:*0 
+2.  Fluticasone Propionate NASAL 2 SPRY NU BID 
+RX *fluticasone 50 mcg/actuation 2 spray nasal twice a day Disp 
+#*1 Spray Refills:*0 
+3.  Fluticasone-Salmeterol Diskus (100/50) 1 INH IH BID 
+RX *fluticasone-salmeterol [Advair Diskus] 100 mcg-50 mcg/dose 1 
+puff inh twice a day Disp #*1 Disk Refills:*0 
+4.  Glargine 15 Units Breakfast
+Humalog 2 Units Breakfast
+Humalog 2 Units Lunch
+Humalog 2 Units Dinner 
+5.  Polyethylene Glycol 17 g PO TID:PRN Constipation - Third 
+Line  
+6.  Acetaminophen 500 mg PO Q8H:PRN Pain - Mild/Fever  
+7.  Albuterol Inhaler 1 PUFF IH Q4H:PRN SOB  
+8.  Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+nausea   
+9.  amLODIPine 5 mg PO DAILY  
+10.  Aspirin 325 mg PO DAILY  
+11.  Atorvastatin 80 mg PO QPM  
+12.  Clopidogrel 75 mg PO DAILY  
+13.  Docusate Sodium 100 mg PO BID:PRN Constipation - First Line 
+ 
+14.  FLUoxetine 20 mg PO DAILY  
+15.  Lidocaine 5% Patch 1 PTCH TD QAM  
+16.  melatonin 1 mg oral QHS  
+17.  Metoprolol Succinate XL 25 mg PO DAILY  
+18.  Nicotine Patch 7 mg/day TD DAILY  
+19.  Omeprazole 20 mg PO DAILY  
+20.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+21.  Pregabalin 25 mg PO TID  
+22.  TraMADol 50 mg PO BID:PRN Pain - Moderate  
+23.  Vitamin D3 (cholecalciferol (vitamin D3)) 2,000 unit oral 
+QD  
+24. HELD- Lisinopril 20 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until you see your primary care doctor
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+================
+COPD Exacerbation
+Sinusitis
+Normocytic Anemia
+
+SECONDARY DIAGNOSIS
+==================
+Dizziness
+Normocytic Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to be part of your care. 
+
+You presented to the hospital with difficulty breathing and a 
+headache. 
+
+Your shortness of breath was likely due to a COPD exacerbation. 
+You received treatment for your COPD and your breathing 
+improved. You will need oxygen when you leave the hospital.
+
+Your headache is likely due to your chronic sinusitis. You will 
+need to see the Ear, Nose and Throat doctors when ___ leave the 
+hospital to have surgery to prevent yourself from continuing to 
+get sinus infections. We have prescribed a nasal steroid which 
+you should take every day. 
+
+We are holding your lisinopril medication due to a worsening in 
+your kidney function. You should get this rechecked when you see 
+your primary care doctor prior to restarting this medication. 
+
+You also had stomach pain, likely due to constipation. We 
+started you on medications to help you move your bowels and 
+things improved. You should continue taking these after you 
+leave. 
+
+You also had low blood sugars while you were in the hospital, 
+but you were found to have a high hemoglobin A1c. We decreased 
+your insulin and you should follow up with your primary care 
+doctor. 
+
+If you experiences any fevers, chills, difficulty breathing, 
+chest pain, vision changes, worsening headache then please seek 
+medical attention. 
+
+We wish you the best,
+Your ___ Team 
+ 
+Followup Instructions:
+___

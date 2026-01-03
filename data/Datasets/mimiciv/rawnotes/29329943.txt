@@ -1,0 +1,230 @@
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Depression
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of depression, paroxysmal afib, temporal lobe 
+epilepsy, who was brought in by EMS after visiting NP saw 
+patient yesterday AM and noted that she was weak and not eating 
+any food.  
+
+In the ED, initial vitals: 97.7 78 153/87 15 96% RA   
+ - Labs notable for: Na of 129 
+ - Pt given:  1L IVF and home carbamazepine, sertraline and 
+metoprolol
+
+She was seen by psychiatry who was concerned for worsening 
+depression and neurovegetative symptoms. Recommended admission 
+to a ___ facility. However, lack of workup for 
+hyponatremia precluded admission to psych so she was admitted to 
+medicine.
+
+On arrival to the floor she states that lately she has had 
+feelings of despair as well and anxiety attacks. This in turn 
+has caused her not to be able to eat as much as she usually 
+does. She has only been eating things like crackers for the last 
+few weeks. 
+
+ 
+Past Medical History:
+atrial flutter status post ablation in ___  
+tachybrady syndrome status post implantation of a ___ dual 
+chamber pacemaker in ___  
+paroxysmal atrial fibrillation  
+degenerative joint disease (knee, hip)  
+osteopenia  
+temporal lobe seizure on EEG, normal MRI  
+spinal stenosis  
+HTN  
+IBS  
+
+Past Surgical History:
+___:
+1. Open reduction and internal fixation of right greater
+   trochanteric femur fracture.
+2. Revision of right acetabulum component of total hip
+   arthroplasty.
+s/p cholecystectomy  
+s/p R TKR Dr. ___ ___  
+ 
+Social History:
+___
+Family History:
+son with hemochromatosis  
+mother - hypertension  
+father - diabetes  
+brother - afib, CVA, hypertension  
+daughter - diabetes type 2
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+Vitals-  97.7 128/76 59 18 95%
+General- Alert, oriented, no acute distress  
+HEENT- Sclerae anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- CTAB no wheezes, rales, rhonchi  
+CV- RRR, Nl S1, S2, No MRG  
+Abdomen- soft, NT/ND bowel sounds present, no rebound tenderness 
+or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro- CNs2-12 intact, motor function grossly normal  
+
+DISCHARGE PHYSICAL EXAM:  
+Vitals-  97.6 164/96 73 18 98%RA
+General- Alert, oriented, no acute distress  
+HEENT- Sclerae anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- CTAB no wheezes, rales, rhonchi  
+CV- RRR, Nl S1, S2, No MRG  
+Abdomen- soft, NT/ND bowel sounds present, no rebound tenderness 
+or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro- CNs2-12 intact, motor function grossly normal  
+ 
+Pertinent Results:
+ADMIT LABS:
+___ 06:55PM BLOOD WBC-8.2 RBC-5.35* Hgb-16.5* Hct-47.3* 
+MCV-88 MCH-30.8 MCHC-34.9 RDW-13.2 RDWSD-42.3 Plt ___
+___ 06:55PM BLOOD Neuts-62.0 ___ Monos-13.1* 
+Eos-0.9* Baso-0.5 Im ___ AbsNeut-5.10 AbsLymp-1.90 
+AbsMono-1.08* AbsEos-0.07 AbsBaso-0.04
+___ 06:20AM BLOOD ___ PTT-33.4 ___
+___ 06:55PM BLOOD Glucose-140* UreaN-15 Creat-0.9 Na-129* 
+K-5.4* Cl-94* HCO3-21* AnGap-19
+
+Preliminary Report CXR:
+1. Small left pleural effusion. 
+2. No pneumonia or large intrathoracic mass. 
+
+DISCHARGE LABS:
+___ 06:20AM BLOOD Glucose-87 UreaN-17 Creat-0.7 Na-131* 
+K-4.6 Cl-100 HCO3-24 AnGap-___ with history of depression, paroxysmal afib, temporal lobe 
+epilepsy, who was brought in for depression and found to be 
+hyponatremic.
+
+#Hyponatremia: History of poor PO intake and malnutrition from 
+recent social stressor. Na improved from 128 to 131 with IVF. 
+Likely has component of SIADH from tegretol. Also may have poor 
+solute intake as well. CXR was negative for acute lung 
+abnormality to explain SIADH.
+
+#Depression/Adjustment Disorder: Patient's son recently moved in 
+and he is in poor health. This has taken a toll on the patient 
+and she has not showered or gotten out of bed much for the last 
+few weeks. While admitted she expressed more energy and the 
+medical team believes that the acute adjustment disorder from 
+her son moving in has triggered malnutrition, hypovolemia, and 
+depression. She will be discharged to a rehab facility for 
+physical therapy and psychiatric treatment. The daughter is 
+actively involved in her care and is looking into assisted 
+living for the patient after rehab. She was seen by psychiatry 
+who recommended continuing home mirtazapine and discontinuing 
+home sertraline at this time.
+
+#Paroxysmal Afib s/p ___: on anticoagulation and rate control 
+with ___ assist. Continue apixiban. Decreased metoprolol to 12.5 
+for HR in ___
+
+#Temporal Lobe Epilepsy: stable. continued tegretol.
+
+# osteoporosis: continued home calcitonin 
+
+Transitional Issues:
+-Hyponatremia thought to be due to combination of hypovolemia 
+from poor PO intake, SIADH from tegretol, and poor solute 
+intake. Treatment of depression and good nutrition with a 
+liberal salt diet will help and consulting with her prior 
+neurologist is a possibility regarding tegretol usage. Current 
+Na 131 and not clinically dangerous at this time.
+-Current Psych regimen: Mirtazipine 12.5mg QHS; Home sertraline 
+discontinued by psychiatry on this admission.
+-Please establish outpatient psychiatry relationship by calling 
+___.
+-Metoprolol XL Dose decreased to 12.5mg daily due to HR in ___
+-Please have psychiatry see patient while in rehab for titration 
+of antidepressants.
+-Was initially on ___, but lifted by psychiatry while 
+admitted
+
+# CONTACT: ___ (daughter) ___
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Mirtazapine 7.5 mg PO QHS 
+2. Metoprolol Succinate XL 25 mg PO DAILY 
+3. Apixaban 2.5 mg PO BID 
+4. Docusate Sodium 100 mg PO DAILY 
+5. Calcitonin Salmon 200 UNIT NAS DAILY 
+6. Acetaminophen 500 mg PO Q8H:PRN pain 
+7. Vitamin D 1000 UNIT PO DAILY 
+8. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+9. Sertraline 25 mg PO DAILY 
+10. Carbamazepine (Extended-Release) 100 mg PO BID 
+
+ 
+Discharge Medications:
+1. Acetaminophen 500 mg PO Q8H:PRN pain 
+2. Apixaban 2.5 mg PO BID 
+3. Calcitonin Salmon 200 UNIT NAS DAILY 
+4. Carbamazepine (Extended-Release) 100 mg PO BID 
+5. Docusate Sodium 100 mg PO DAILY 
+6. Metoprolol Succinate XL 12.5 mg PO DAILY 
+7. Mirtazapine 7.5 mg PO QHS 
+8. Vitamin D 1000 UNIT PO DAILY 
+9. Polyethylene Glycol 17 g PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Hyponatremia
+Depresssion
+Adjustment Disorder
+Malnutrition
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital because you were weak, not 
+eating well, and depressed. We treated you by giving you 
+antidepressants, IV fluids, and good nutrition.
+
+You will need to follow up with your PCP, ___, and 
+psychiatrist. 
+ 
+                             ___ MD ___
+ 
+Completed by: ___

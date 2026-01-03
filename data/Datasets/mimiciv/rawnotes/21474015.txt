@@ -1,0 +1,377 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+pollen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+recurrent SBO
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a pleasant ___ w/ stage IV sigmoid
+adenocarcinoma s/p LAR (___) with subsequent POD involving
+spleen s/p splenectomy/distal pancreatectomy/wedge
+gastrectomy (___), w/ POD despite multiple regimens
+(Irinotecan ___, course c/b DVT and recurrent malignant SBO
+s/p venting G-tube ___, now on hospice, who p/w anorexia,
+abdominal and lower back pain for several days. He states he has
+a lot of gas, passing it, no bm x 2 days. Denied F/C/N/V. He
+states this pain is different than prior in that it involves his
+lower back. Pain is constant. Feels very fatigued. 
+
+In the ED, VSS. Noted to be uncomfortable w/ TTP in LUQ/LLQ. CT
+revealed slight worsening of his SBO and slight worsening of
+severe R hydroureteronephrosis due to malignant obstruction.
+Surgery was consulted but because patient is on hospice, they
+deferred any interventions and advised OMED admission. He
+received 2 mg IV hydromorphone x 2 and LR and zofran and
+admitted. 
+
+REVIEW OF SYSTEMS:
+12 point ROS reviewed in detail and negative except for what is
+mentioned above in HPI
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per OMR):
+Colon cancer stage IIIC (T3N2M0) of the sigmoid colon with
+progressive metastatic disease, KRAS mutated, MSI intact
+- ___ Colonscopy for weight loss of 26 lbs in a year
+revealed a fungating, circumferential mass of malignant
+appearance was found in the sigmoid colon at 18cm. Biopsy
+consistent with adenocarcinoma. CT torso revealed 3.7 cm segment
+of the mid sigmoid colon demonstrating circumferential wall
+thickening in keeping with tumor. There is no associated bowel
+obstruction at present time. Adjacent mesenteric lymph nodes
+measuring up to 6 mm in short axis dimension are noted. No
+evidence of metastatic disease within the chest, abdomen, or
+pelvis. 
+- ___ MR pelvis revealed Ill-defined sigmoid mass,
+approximately 15 cm above the anal verge, as seen on the CT
+examination from ___, with extension across the
+muscularis propria. This is suspicious for T3 disease. 1.6 x 1.5
+cm mass abutting the anterior aspect of the rectum and posterior
+aspect of the seminal vesicles, 7 cm above the anal verge, is
+suspicious for a drop metastasis as it is not convincingly
+arising from rectal wall. This likely corresponds to the 
+palpable
+finding on physical exam. Intrapelvic lymphadenopathy adjacent 
+to
+the sigmoid mass, some with morphology suspicious for tumor
+involvement. 
+- ___ Undderwent LAR. Path revealed colonic 
+adenocarcinoma
+in the resected rectosigmoid colon.  Tumor size was 3.6cm, low
+grade, staged pT3.  Margins were negative.  Of the 15 nodes
+examined, 6 were positive, thus staged pN2a. Finally, a separate
+nodule of adenocarcinoma was identified 9 cm distal to the
+primary tumor involving pericolonic adipose tissue, serosa, and
+muscularis propria, consistent with metastasis of the primary
+tumor.  Furthermore, the resected peritoneal nodule showed
+metastatic adenocarcinoma with perineural invasion.  Thus, this
+was staged pM1b.  Of note, KRAS mutation was detected.  
+- ___ to ___ admitted for abdominal pain, OSH CT
+was reviewed here and felt to be not concerning for any acute
+intra-abdominal process including leak or abcess however there
+was a high stool burden and gas.  Pt discharged on bowel 
+regimen.
+- ___ ED visit for abdominal pain, KUB reassuring,
+discharged after bowel regimen
+- ___ C1D1 XELOX (Xeloda 1000mg BID)
+- ___ to ___ Admission for n/v and abd pain. CT
+showed mildly dilated  stomach and proximal small bowel, but no
+evidence of obstruction. He underwent NGT decompression with 
+good
+bilious output and improvement in symptoms and was slowly
+advanced to regular diet. 
+- ___ C1D1 XELOX (Xeloda 1000mg BID)
+- ___ to ___ admission for abd pain and
+constipation. CT showed multiple mildly distended loops of ileum
+with fecalized  contents and a narrow caliber of the terminal
+ileum.  Stool and  air seen in the colon.  Symptoms improved 
+with
+aggressive bowel regimen.
+- ___ C3D1 XELOX (Xeloda 1500mg BID)
+- ___ C4D1 XELOX (Xeloda 1500mg BID)
+- ___ C5D1 XELOX (Xeloda 2000mg BID)
+- ___ C6D1 XELOX (Xeloda 2000mg BID)
+- ___ C7D1 XELOX (Xeloda 2000mg BID)
+- ___ CT torso with no evidence of recurrence or
+metastases
+- ___ colonoscopy showed multiple tiny 2 mm polypoid
+lesions which showed to be lymphoid aggregates on path 
+- ___ CT torso with no evidence of recurrence or
+metastases
+- ___ CT abdomen in the ED for abdominal pain showed ___
+- ___ CT abdomen in the ED for abdominal pain showed ___
+but indeterminate liver lesion
+- ___ CT torso ___ with stable liver lesion
+- ___ Colonoscopy revealed a single polyp, pathology
+consistent with adenoma. 
+- ___ CT torso showed a new lesion in the splenic hilum
+concerning for recurrence
+- ___ PET CT showed avid lesion in the spleen, no other
+sites of disease
+- ___ Splenectomy revealed metastatic colon cancer
+- ___ CT torso showed ___
+- ___ CT torso extensive recurrence in the spenic bed and
+nodes, CEA rising
+- ___ Biopsy of the splenic bed confirmed metastatic
+adenocarcinoma
+- ___ CT torso showed increase in metastatic disease
+- ___ CT torso showed increase in metastatic and
+concerning new areas in the liver
+- ___ Admitted with malignant SBO
+- ___ C1D1 FOLFOX6
+- ___ C1D15 FOLFOX (oxaliplatin at 65 ___
+neuropathy)
+- ___ C2D1 FOLFOX (oxaliplatin at 65 ___ neuropathy
+- ___ CT torso shows stable disease
+- ___ Treatment delayed per patient preference
+- ___ C3D1 FOLFOX (oxaliplatin at 65 ___ 
+neuropathy)
+- ___ Patient requested to defer dose, CEA rising
+- ___ C1D1 Irinotecan
+- ___ Admitted with recurrent malignant SBO
+- ___ C2D1 Irinotecan
+- ___ Admit for recurrent SBO, concern for ___
+diverticulitis
+- ___ Readmitted for recurrent SBO
+- ___ C3D1 Irinotecan (150 ___ diarrhea)
+- ___ C4D1 Irinotecan (150 ___ diarrhea)
+- ___ Treatment held ___ fatigue
+- ___ C1D1 Weekly irinotecan 100 mg/m2 1, 8, 15 and 22 of
+a 42-day cycle
+- ___ Prolonged hospitalization for SBO
+
+PAST MEDICAL HISTORY (per OMR):
+Metastatic colon cancer
+Malignant bowel obstruction
+Hydronephrosis
+DVT 
+
+ 
+Social History:
+___
+Family History:
+Negative for colon cancer, inflammatory bowel disease, uterine 
+cancer. He does have history of lipomas in his family.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITAL SIGNS: 98.3 PO 129 / 83 58 18 100 Ra
+General: Frail, cachectic, lethargic, in fetal position covered
+in blankets, uncomfortable
+HEENT:  MMM
+CV:  RR, NL S1S2 no S3S4 No MRG
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+ slightly tympanic but certainly present in all four
+quadrants, soft, not distended, + lower quadrant pain, no
+peritoneal signs, + gastrostomy in place w/o erythema or pain
+around the tube
+LIMBS: WWP, no ___, no tremors
+SKIN:  No notable rashes on trunk nor extremities
+NEURO: Generalized weakness
+PSYCH: Thought process logical, linear, future oriented
+ACCESS: Chest port site intact w/o overlying erythema, accessed
+and dressing C/D/I 
+
+DISCHARGE PHYSICAL EXAM:
+___ 0706 Temp: 98.1 PO BP: 138/97 HR: 68 RR: 20 O2 sat: 98%
+O2 delivery: RA 
+GENERAL: Cachectic and chronically ill but pleasant man sitting
+on bed in no distress
+HEENT:  MMM, OP clear
+CV:  RR, NL S1S2 no S3S4 No MRG
+PULM:  CTAB, No respiratory distress
+ABD:  Soft BS, not distended, soft, mild lower quadrant
+pain with palpation but no rebound, + gastrostomy in place w/o
+erythema or drainage about site
+LIMBS: WWP, no ___, no tremors
+SKIN:  No notable rashes on trunk nor extremities
+NEURO: Alert and oriented. Fair attention. Moves all exremities
+equally. 
+PSYCH: Reserved affect. Engages appropriately with examiner. 
+Thought process is linear
+ACCESS: Chest port site intact w/o overlying erythema, accessed
+and dressing C/D/I 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 10:40PM BLOOD WBC-6.9 RBC-2.95* Hgb-7.7* Hct-25.2* 
+MCV-85 MCH-26.1 MCHC-30.6* RDW-16.1* RDWSD-49.9* Plt ___
+___ 10:40PM BLOOD Glucose-110* UreaN-18 Creat-1.0 Na-137 
+K-4.2 Cl-97 HCO3-29 AnGap-11
+___ 10:40PM BLOOD Albumin-3.3*
+___ 10:40PM BLOOD Lactate-0.7
+
+DISCHARGE LABS:
+===============
+
+___ 06:00AM BLOOD WBC-6.2 RBC-3.12* Hgb-8.2* Hct-25.9* 
+MCV-83 MCH-26.3 MCHC-31.7* RDW-15.7* RDWSD-47.4* Plt ___
+___ 06:00AM BLOOD Glucose-139* UreaN-11 Creat-1.0 Na-137 
+K-4.0 Cl-99 HCO3-26 AnGap-12
+
+MICRO:
+======
+___: Urine Cx - <10K CFU
+
+IMAGING:
+========
+___BD & PELVIS WITH CO  
+1. Slight interval worsening of high-grade small bowel
+obstruction measuring up to 5.4 cm, previously up to 4.9 cm, 
+with
+transition point at the known mid abdominal mesenteric 
+metastatic
+lesion. There is marked mural thickening of the small bowel near
+the mesenteric metastatic implant, although no perforation or
+convincing evidence of mesenteric ischemia is identified. 
+2. Patient is status post gastrostomy tube placement, of which
+the location appears grossly within the remaining stomach but is
+difficult to clearly discern due to marked decompression of the
+remaining stomach. If indicated, enteric contrast via G-tube may
+be administered to assess for intragastric placement. 
+3. Grossly similar metastatic disease burden within the
+limitations of paucity of intra-abdominal fat and small bowel
+distension. 
+4. Slight interval worsening of severe right
+hydroureteronephrosis due to malignant obstruction. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ w/ stage IV sigmoid adenocarcinoma s/p LAR 
+(___) with subsequent POD involving spleen s/p 
+splenectomy/distal pancreatectomy/wedge gastrectomy (___), w/ 
+disease progresion despite multiple regimens (most recent 
+Irinotecan ___, course c/b DVT and recurrent malignant SBO 
+s/p venting G-tube ___, recently started on hospice, who was 
+admitted with anorexia, weakness, abdominal and lower back pain 
+for several days. 
+
+CT imaging shows progression of known high grade small bowel 
+obstruction and right sided malignant hydronephrosis. He was 
+started on dilaudid PCA, octreotide SC, and dexamethasone with 
+good improvement. G-tube is now clamped and he is tolerating 
+liquid diet with BM and flatus. 
+
+Symptoms have been generally well controlled, but have required 
+frequent escalation in PCA dosing. After extensive disucssions 
+with patient we feel continuing parenteral opioids and 
+maximizing patient's support services will be best option for 
+patient moving forward, and he is agreeable to continue with 
+hospice services. Patient will be discharged to ___ 
+___ Home this afternoon. 
+
+# Recurrent malignant SBO
+# CRC
+On admission CT scan confirmed persistence of high grade bowel 
+obstruction. G-tube was vented and patient was made NPO with 
+IVF. He was placed on dilaudid PCA along with SC octreotide 
+100mcg bid and 4mg daily dex with good improvement in symptoms. 
+G-tube clamped and he is now tolerating diet. Current dilaudid 
+PCA 1.5mg basal/hour with 1mg IV bolus and 10 minute lockout. 
+Max 5mg per hour. Plan to continue dex; holding octreotide on 
+discharge. Patient may adjust diet as tolerated at hospice house 
+and vent g-tube as needed. 
+
+# Neoplastic Pain
+Was on MS ___ 200mg q8h with PO dilaudid 8mg q4h as  needed 
+for breakthrough pain. However w/ SBO, absorption and ability to 
+tolerate PO erratic. Doing well on PCA, as above and will 
+attempt to maximize his support and pain control, as above.
+
+# DVT: Held apixaban as NPO, and bridged w/ enoxaparin 100mg
+daily. Will DC with apixaban, but may need to readdress long 
+term need for this medication.
+
+# HTN: Held home amlodipine. BP's were actually mildly elevated 
+in house. Will DC with this medication, but again, may readdress 
+need for it as needed.
+
+# BILLING: >30 minutes spent coordinating this discharge plan
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Docusate Sodium 100 mg PO BID 
+2. Apixaban 5 mg PO BID 
+3. Polyethylene Glycol 17 g PO DAILY 
+4. Ondansetron 8 mg PO Q8H:PRN nausea 
+5. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+6. TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+7. amLODIPine 5 mg PO DAILY 
+8. Senna 17.2 mg PO BID 
+9. Morphine SR (MS ___ 200 mg PO Q8H 
+10. HYDROmorphone (Dilaudid) 4 mg PO Q4H:PRN Pain - Moderate 
+11. Bisacodyl ___AILY:PRN Constipation - Second Line 
+
+ 
+Discharge Medications:
+1.  Dexamethasone 4 mg PO DAILY  
+2.  HYDROmorphone (Dilaudid) 2 mg IV Q3H:PRN Pain - Severe  
+3.  HYDROmorphone (Dilaudid) 1 mg IVPCA Lockout Interval: 10 
+minutes  Basal Rate: 1.5 mg(s)/hour 1-hr Max Limit: 5 mg(s) 
+Start: Today - ___ @ 1300  
+4.  amLODIPine 5 mg PO DAILY  
+5.  Apixaban 5 mg PO BID  
+6.  Docusate Sodium 100 mg PO BID  
+7.  Ondansetron 8 mg PO Q8H:PRN nausea  
+8.  Polyethylene Glycol 17 g PO DAILY  
+9.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# Encounter for palliative care
+# Malignant small bowel obstruction
+# Metastatic colon cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___. You were admitted with weakness and pain due to 
+your bowel obstruction. We started you on IV pain medications 
+and you felt better. After discussion with you and your hospice 
+team, we believe a residential hospice house will be able to 
+provide you the best combination of symptom control and support 
+during this time. We have arranged for you to be admitted into 
+the ___ House, and they will continue to 
+closely monitor and control your symptoms.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

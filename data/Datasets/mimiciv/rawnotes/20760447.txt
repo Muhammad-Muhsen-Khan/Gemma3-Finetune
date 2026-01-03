@@ -1,0 +1,410 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / IV Dye, Iodine Containing Contrast Media / aspirin 
+/ metronidazole / eggplant
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Confusion
+ 
+Major Surgical or Invasive Procedure:
+TIPS + embolization
+ 
+History of Present Illness:
+___ year old woman with HCV/EtOH cirrhosis c/b ascites, edema and
+refractory HE s/p ___ of a large IMV shunt due to
+worsening hepatic encephalopathy on ___ with ___, stage I
+NSCLC in remission s/p CyberKnife ___ who presented to the ED
+with confusion. Patient stated that she felt confused this
+morning, was normal yesterday and that she has been taking her
+lactulose consistently. She stated she had some 'labored
+breathing' and low grade fevers at home, as well as diffuse
+chronic abdominal pain and mild nausea. She also reported 
+feeling
+off-balance. Patient denied any chills, cough, congestion,
+shortness of breath, dysuria, vision changes, numbness/tingling,
+diarrhea. 
+
+Of note, patient was recently discharged on ___ for hepatic
+encephalopathy likely triggered by medication non-adherence also
+with possible contribution from persistent iliac to IMV
+collaterals. At the time, she was evaluated by interventional
+radiology and further embolization was deferred for further 
+trial
+of medical therapy due to concern for worsening portal
+hypertensive gastropathy and/or PVT. Her hospital course was 
+also
+notable for incidentally noted 2cm hepatic lesion meeting
+radiographic criteria for ___ for which she will receive
+outpatient treatment. 
+ 
+In the ED initial vitals:  T98.7, HR67, BP155/73, RR18, 100% RA 
+- Exam notable for:  
+GA: Comfortable
+Neuro: +asterixis
+HEENT: +scleral icterus
+Cardiovascular: Normal S1, S2, regular rate and rhythm, no
+murmurs/rubs/gallops, 2+ peripheral pulses bilaterally
+Pulmonary: Clear to auscultation bilaterally
+Abdominal: Soft, tender to palpation right upper, nondistended,
+no masses
+Extremities: No lower leg edema
+Integumentary: No rashes noted
+
+- Labs notable for:  
+WBC: 3.6  Hgb: 11.0  Plt: 76 
+139|109| 18     AGap=7 
+-----------<108 
+5.1| 23|0.9  
+ALT:  AP: 102 Tbili: 2.4 Alb: 3.2 
+AST: 71 LDH:  Dbili:  TProt:  
+___:  Lip: 77     
+___: 15.9  PTT: 30.5  INR: 1.5  
+Lactate:1.5
+UA: negative
+ 
+- Imaging notable for: 
+Liver US: Cirrhotic liver with patent main portal vein with
+hepatopetal flow. Splenomegaly is mild. Small volume ascites.
+Status post cholecystectomy.
+CXR: No acute findings. 
+
+- Consults:  Hepatology who recommended admission and 
+uptitration
+of lactulose
+- Patient was given:  
+___ 14:43 IV CefTRIAXone  2gm 
+___ 14:43 PO/NG Lactulose 30 mL  
+
+- ED Course:  bedside US with no tappable pocket thus dx para 
+was
+not done.
+
+On the floor, patient reports that she woke up yesterday feeling
+somewhat off. She states she has been taking her lactulose and
+having at least 3 BMs a day at home. Her sleep cycle has been
+normal and she has been able to sleep at night with the
+hydroxyzine. She endorses mild fever the night prior to 
+admission
+to ___ but no focal sx. Has periumbilical abdominal pain but
+that's chronic. Denies any cough, chest pain, n/v/c, dysuria,
+rash, bleeding.
+
+ 
+Past Medical History:
+1.  Hepatitis C.
+2.  Cirrhosis (HCV, possibly ETOH), 
+3.  Lung cancer (___ Stage I, s/p CyberKnife stereotactic body
+radiotherapy ___
+4.  ___ esophagus
+5.  Depression.
+6.  Hypertension
+7.  Obesity
+8.  S/p abdominoplasty and cholecystectomy
+9.  Unspecified colitis, on Mesalamine intermittently, last ___
+in ___ normal 
+ 
+Social History:
+___
+Family History:
+- Mother (deceased at ___) - acute MI, emphysema
+- Father (deceased at ___) - stroke
+- 8 siblings:
+   - brother died of GI bleed ___ hepatitis
+   - sister died of overdose
+   - two other siblings murdered
+   - other four siblings alive and healthy
+- No FH cancers
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+VS:  98.2 PO 140 / 81 64 18 99 Ra 
+GENERAL: NAD, pleasant and conversant
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM  
+NECK: supple, no LAD, TTP over paraspinal muscles, ROM preserved
+HEART: RRR, S1/S2, ___ LUSB systolic murmur, no gallops, or rubs 
+
+LUNGS: CTAB but distant breath sounds, no wheezes, rales,
+rhonchi, breathing comfortably without use of accessory muscles  
+
+ABDOMEN: mild TTP in periumbilical area, mildly distended, 
+obese,
++BS, no hepatomegaly
+EXTREMITIES: no cyanosis, clubbing, trace edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose. Minimal
+asterixis, difficulty with ___ backwards 
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes, soft raised lesion on R shoulder  
+
+DISCHARGE PHYSICAL EXAM
+24 HR Data (last updated ___ @ 330)
+    Temp: 98.1 (Tm 98.7), BP: 108/74 (101-151/52-89), HR: 84
+(70-85), RR: 18, O2 sat: 99% (94-99), O2 delivery: Ra, Wt: 250.8
+lb/113.76 kg  
+General: Lying in bed, NAD
+Cardiovascular: RRR. Normal S1 and S2. No r/m/g
+LUNGS: CTAB. No wheezes, rhonchi or crackles.
+ABDOMEN: Obese. Bowel sounds present. Soft and tender to
+palpation of RLQ. No rebound. Ecchymoses on RLQ and LLQ.
+EXTREMITIES: Warm and well perfused without edema, erythema or
+cyanosis.
+NEURO: Oriented to person, place, and time. +tremor in left
+hand, but no asterixis
+SKIN:  Warm and well perfused, no excoriations or lesions, no
+rashes, soft raised lesion on R shoulder.
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 12:40PM BLOOD WBC-3.6* RBC-3.06* Hgb-11.0* Hct-33.5* 
+MCV-110* MCH-35.9* MCHC-32.8 RDW-16.8* RDWSD-68.5* Plt Ct-76*
+___ 01:01PM BLOOD ___ PTT-30.5 ___
+___ 12:40PM BLOOD Glucose-108* UreaN-18 Creat-0.9 Na-139 
+K-5.1 Cl-109* HCO3-23 AnGap-7*
+___ 12:40PM BLOOD AST-71* AlkPhos-102 TotBili-2.4*
+___ 12:40PM BLOOD Lipase-77*
+___ 12:51PM BLOOD Lactate-1.5
+
+OTHER INTERVAL RESULTS
+======================
+___ 12:40PM BLOOD Lipase-77*
+___ 05:16AM BLOOD VitB12-1183*
+___ 05:16AM BLOOD TSH-3.4
+
+MICRO DATA/REPORTS
+==================
+___ 2:25 pm URINE
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___: 
+      GRAM POSITIVE BACTERIA.    10,000-100,000 CFU/mL. 
+         Alpha hemolytic colonies consistent with alpha 
+streptococcus or
+         Lactobacillus sp. 
+
+LIVER OR GALLBLADDER US (SINGLE ORGAN) Study Date of ___  
+
+Hepatic cirrhosis, small volume ascites.  Main portal vein 
+patent.  Status 
+post cholecystectomy.  No biliary ductal prominence. 
+
+TIPS Study Date of ___ 
+Successful right internal jugular access with IMV - iliac 
+portosystemic shunt embolization and transjugular intrahepatic 
+portosystemic shunt placement with decrease in portosystemic 
+pressure gradient. 
+
+DISCHARGE LABS
+==============
+___ 05:22AM BLOOD WBC-4.1 RBC-2.36* Hgb-8.3* Hct-26.2* 
+MCV-111* MCH-35.2* MCHC-31.7* RDW-16.8* RDWSD-68.8* Plt Ct-27*
+___ 05:22AM BLOOD ___ PTT-33.7 ___
+___ 05:22AM BLOOD Glucose-95 UreaN-18 Creat-0.9 Na-138 
+K-4.4 Cl-105 HCO3-24 AnGap-9*
+___ 05:22AM BLOOD ALT-29 AST-43* AlkPhos-98 TotBili-1.8*
+___ 05:22AM BLOOD Albumin-2.4* Calcium-8.3* Phos-3.0 Mg-2.___ year old woman with HCV/EtOH cirrhosis c/b HCC, ascites, and 
+refractory HE s/p ___ of a large IMV shunt due to 
+worsening hepatic encephalopathy on ___ with ___, stage I 
+NSCLC in remission s/p CyberKnife ___ who presented to the ED 
+with confusion, now s/p shunt embolization with TIPS with 
+improvement of symptoms.
+
+#Hepatic encephalopathy:
+#Shunt embolization with TIPS
+Presented with recurrent hepatic encephalopathy s/p ___ 
+of IMV shunt due to worsening HE in ___. No evidence of 
+infection this admission. CT A/P ___ with persistent 
+collaterals but no significant change from ___. After last 
+hospitalization, decision was made to hold off on further 
+embolization and give medical therapy another
+trial due to concern that a BRTO will increase portal pressures 
+and worsening her PHG/increase risk for PVT. Given that patient 
+re-presented with refractory encephalopathy, ___ performed 
+further shunt embolization with small TIPS placement ___. HE 
+improved s/p TIPS. New PSG 6 mmHg. Continued lactulose 7x/day 
+for minimum ___ BM/day, rifaximin 550 mg BID, and zinc sulfate 
+200mg daily. Will require TIPS ultrasound in 1 week ___ am, 
+___ Radiology).
+
+# ETOH/HCV CIRRHOSIS c/b HCC:
+Childs Class B. MELD 15 on admission, 16 at discharge. c/b 
+ascites, HCC, HE s/p IMV-L iliac ___ for refractory 
+encephalopathy. Of note, patient was evaluated previously for 
+transplant and denied due to BMI 44 and inability to complete 
+the evaluation. ___ new finding on last admission ___ 
+pending outpatient treatment. Continued pantoprazole daily. 
+Restarted lower dose diuretic regimen post-TIPS with furosemide 
+20mg daily and spironolactone 50mg daily.
+
+#Abdominal pain
+Chronic per patient and unclear etiology; reportedly worse with 
+HE episodes. Managed with acetaminophen PRN and low dose 
+oxycodone PRN.
+
+#Vertigo
+Started on prn meclizine for vertiginous symptoms.
+
+CHRONIC ISSUES:
+===============
+#Itching:
+Continued home hydroxyzine qhs and Cholestyramine. 
+
+# NSCLC stage I: 
+Clinically without evidence of lung cancer as recently as 
+___. History of a stage I non-small cell lung cancer of 
+left upper lobe status post CyberKnife stereotactic body 
+radiotherapy completed on ___. 
+
+# Pancytopenia: 
+At baseline, likely secondary to cirrhosis. 
+
+# Depression: 
+Continued home Paroxetine 40 mg PO daily. 
+
+# History of ___ esophagus: 
+Continued home pantoprazole 
+
+#Viral Hepatitis
+Hep C s/p cure; Hep B cAb positive, viral load negative.
+
+TRANSITIONAL ISSUES
+===================
+Discontinued medications: propranolol
+Changed medications: diuretics at half dose (20 Lasix/50 
+spironolactone). Lactulose frequency increased
+New medications: zinc, meclizine prn
+
+[] CT A/P incidentally noted 7mm pancreatic hypodensity c/f IPMN 
+for which MRCP recommended for further evaluation. 
+[] Plan for MWA of ___ lesion outpatient, will need to be 
+scheduled discharge
+[] does not need any further propranolol therapy 
+[] TIPS US ___
+[] outpatient labs to be performed on ___ - at appointment with 
+Dr. ___ 
+[] Patient's diuretics were restarted at half-dose. Patient's 
+weight increasing at discharge. Consider increasing dose at 
+follow-up appointment.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cholestyramine 4 gm PO DAILY:PRN itch 
+2. Lactulose 30 mL PO QID 
+3. Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever 
+4. Furosemide 40 mg PO DAILY 
+5. HydrOXYzine ___ mg PO QHS:PRN itching 
+6. Magnesium Oxide 500 mg PO BID 
+7. Ondansetron 4 mg PO BID:PRN Nausea/Vomiting - First Line 
+8. Pantoprazole 20 mg PO Q24H 
+9. PARoxetine 40 mg PO DAILY 
+10. Propranolol 10 mg PO BID 
+11. rifAXIMin 550 mg PO BID 
+12. Spironolactone 100 mg PO DAILY 
+13. vit A-vit C-vit E-zinc-copper ___ unit-mg-unit 
+oral DAILY 
+
+ 
+Discharge Medications:
+1.  Meclizine 12.5 mg PO TID:PRN vertigo 
+RX *meclizine 12.5 mg 1 tablet(s) by mouth three times a day as 
+needed Disp #*30 Tablet Refills:*0 
+2.  Zinc Sulfate 220 mg PO DAILY 
+RX *zinc sulfate 220 mg (50 mg zinc) 1 capsule(s) by mouth once 
+a day Disp #*30 Capsule Refills:*0 
+3.  Furosemide 20 mg PO DAILY  
+4.  Lactulose 30 mL PO 7X/DAY HE  
+5.  Pantoprazole 40 mg PO Q24H  
+6.  Spironolactone 50 mg PO DAILY  
+7.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever  
+8.  Cholestyramine 4 gm PO DAILY:PRN itch  
+9.  HydrOXYzine ___ mg PO QHS:PRN itching  
+10.  Magnesium Oxide 500 mg PO BID  
+11.  Ondansetron 4 mg PO BID:PRN Nausea/Vomiting - First Line  
+12.  PARoxetine 40 mg PO DAILY  
+13.  rifAXIMin 550 mg PO BID  
+14.  vit A-vit C-vit E-zinc-copper ___ unit-mg-unit 
+oral DAILY  
+15.Outpatient Lab Work
+___.60
+Please obtain CBC, chem-10, AST, ALT, ALP, T. bili and fax to 
+___ attn: ___, MD
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Hepatic encephalopathy
+
+SECONDARY DIAGNOSES
+===================
+Alcoholic and hepatitis C cirrhosis complicated by 
+hepatocellular carcinoma
+Chronic abdominal pain
+Pancytopenia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure taking care of you during your hospitalization 
+at ___!
+
+WHY WAS I HOSPITALIZED?
+-You were admitted to the hospital because you were feeling 
+confused.  
+ 
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?  
+- You received extra doses of lactulose to improve your 
+confusion. You had a procedure performed to block off a blood 
+vessel in your gut that was thought to be contributing to your 
+confusion. You also had a connection made between veins in your 
+liver called a 'TIPS' to decrease the pressure in your blood 
+vessels and decrease your risk of bleeding. 
+- You improved and were ready to leave the hospital.  
+
+WHAT DO I NEED TO DO WHEN I LEAVE THE HOSPITAL?   
+- Take all of your medications as prescribed (listed below)  
+- Keep your follow up appointments with your doctors  
+- Please come to the ___ Radiology in the ___ on 
+___ floor for an ultrasound to make sure that your TIPS is open 
+on ___ at 8 am. This first TIPS ultrasound has to be done 
+at ___, but the subsequent ones can be done closer to home. 
+Please make sure that you have NOTHING TO EAT OR DRINK the 
+morning of the test.
+- Weigh yourself every morning, before you eat or take your 
+medications. Call your doctor if your weight changes by more 
+than 3 pounds  
+- Please stick to a low salt diet and monitor your fluid intake  
+
+- If you experience any of the danger signs listed below please 
+call your primary care doctor or come to the emergency 
+department immediately.  
+
+We wish you the best!  
+
+Sincerely,
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

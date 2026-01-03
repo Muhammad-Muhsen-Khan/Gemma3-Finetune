@@ -1,0 +1,276 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Compazine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Rash
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ PMH ESRD ___ LRRT ___ (on MMF and pred), HLD, who presents
+with 5 days of right hip pain followed by 3 days of unilateral
+right inguinal and groin rash. She has no known trauma 
+triggering
+the pain. She has had associated temp to 99 with mild chills. 
+She
+denies any back pain, decreased UOP, dysuria, hematuria,
+incontinence, diarrhea, constipation. She has been taking all of
+her medications as prescribed.  
+
+On arrival to the ED her VS were 98.2 100 123/82 18 100% RA. Her
+exam was notable for a "vesicular rash in an S2 dermatomal
+distribution over R interior thigh and buttock". She was given 
+IV
+acyclovir 650mg and 1L NS. Nephrology was consulted and
+recommended admission to ___ service for possible
+shingles.  
+
+Vital signs on transfer were 99.2 83 130/78 18 100% RA  
+
+On arrival to the floor pt endorses the above history. Pain x2
+days. Requesting Tylenol. Notes subjective fevers, Tm 99 for the
+past 2 days. No chest pain or SOB, N/V/D or dysuria. 
+
+ROS: Positive per HPI. Remaining 10 point ROS reviewed and
+negative  
+ 
+Past Medical History:
+GPA  
+ESRD s/p LRRT  
+Squamous cell carcinoma  
+AR  
+H/O HPV 
+ 
+Social History:
+___
+Family History:
+Mother - CHF, hip fracture, osteoporosis  
+Father - emphysema, DM, stroke, kidney stones  
+Brother - T2DM  
+Brother - T2DM  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+======================
+VITAL SIGNS:  98.5 131 / 79 76 18 98 RA 
+GENERAL: well appearing, NAD
+HEENT:  OP clear, MMM
+NECK:  supple, no cervical LAD
+CARDIAC:  RRR, no murmurs 
+LUNGS:  CTAB
+ABDOMEN: NABS, soft, NT, ND
+EXTREMITIES: wwp, no edema
+NEUROLOGIC:  AOx3, facial symmetry, moving all extremities with
+purpose
+SKIN/GU: vesicular rash, right groin/labia that wraps around to
+her right buttock
+
+DISCHARGE PHYSICAL EXAM:
+======================Vitals: 24 HR Data (last updated ___ 
+@ 021)
+    Temp: 98.8 (Tm 99.1), BP: 121/82 (101-122/58-82), HR: 77
+(73-85), RR: 18 (___), O2 sat: 96% (96-97), O2 delivery: RA,
+Wt: 143.7 lb/65.18 kg  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Abdomen: no tenderness over RLQ graft site, soft, non-tender,
+non-distended, bowel sounds present, no rebound tenderness or
+guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Neuro: Face grossly symmetric. Moving all limbs with purpose
+against gravity. Not dysarthric. 
+Skin/GU: vesicular rash, right groin/labia that wraps around to
+her right buttock. Continued decreasing erythema and flattening
+of vesicles. 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+=============
+___ 12:09PM BLOOD WBC-7.4 RBC-3.62* Hgb-10.7* Hct-34.7 
+MCV-96 MCH-29.6 MCHC-30.8* RDW-13.8 RDWSD-48.9* Plt ___
+___ 12:09PM BLOOD Neuts-77.3* Lymphs-13.8* Monos-8.1 
+Eos-0.1* Baso-0.4 Im ___ AbsNeut-5.71 AbsLymp-1.02* 
+AbsMono-0.60 AbsEos-0.01* AbsBaso-0.03
+___ 12:09PM BLOOD Glucose-92 UreaN-31* Creat-2.2* Na-141 
+K-5.2 Cl-107 HCO3-22 AnGap-12
+___ 12:09PM BLOOD ALT-9 AST-14 LD(LDH)-213 AlkPhos-44 
+TotBili-0.2
+___ 12:09PM BLOOD Albumin-3.6 Calcium-9.0 Phos-3.5 Mg-1.8
+
+PERTINENT INTERMITTENT LABS:
+=========================
+___ 06:25AM BLOOD Glucose-83 UreaN-34* Creat-2.4* Na-142 
+K-4.6 Cl-107 HCO3-23 AnGap-12
+___ 21:14  Varicella Zoster Virus DNA, PCR: POSITIVE
+___ 21:14  Herpes Simplex Virus, Type 1 & 2 DNA, 
+Quantitative Real Time PCR: NEGATIVE
+
+DISCHARGE LABS:
+==============
+___ 06:00AM BLOOD WBC-3.8* RBC-3.39* Hgb-10.3* Hct-32.0* 
+MCV-94 MCH-30.4 MCHC-32.2 RDW-13.6 RDWSD-46.5* Plt ___
+___ 06:00AM BLOOD Glucose-89 UreaN-41* Creat-2.4* Na-148* 
+K-5.0 Cl-114* HCO3-20* AnGap-14
+___ 06:00AM BLOOD Calcium-9.0 Phos-4.9* Mg-2.1
+___ 04:59PM BLOOD Na-139
+ 
+Brief Hospital Course:
+SUMMARY FOR ADMISSION:
+=======================
+___ PMH ESRD ___ LRRT ___ (on MMF and pred), HLD, who presented
+with 5 days of right hip pain followed by 3 days of unilateral
+right inguinal and groin rash. 
+
+ACUTE/ACTIVE ISSUES:
+=====================
+#VZV
+Dermatomal distribution (S2) and description of pain preceding
+vesicular rash are most consistent with a diagnosis of shingles. 
+VZV PCR returned positive during admission. Rash and pain both 
+began to improve with IV acyclovir 650mg Q12. She received 500cc 
+both pre and post IV acyclovir dosing. Her pain was controlled 
+with Tylenol. On day of discharge her pain and erythema were 
+significatly improved, with flattening of vesicles. She was 
+discharged on po valacyclovir with plans to continue taking it 
+until she follows up with her PCP ___ ___ days for reevaluation. 
+
+#AoCKD 
+Patient has baseline creatinine of 2.0. She was admitted to the 
+floor with elevated Cr (2.4) likely ___ receiving IV acyclovir 
+w/o pre/post IVF in ED. She subsequently received IVF boluses as 
+well as continued 500cc LR pre/post hydration with each dose of 
+IV acyclovir. Cr at discharge remained 2.4.
+
+#Lower Back Pain - IMPROVING
+While lifting herself off of the commode, patient endorsed a 
+sudden onset of LBP, described as severe bilateral ache in 
+lumbosacral region. Pain did not radiate anywhere. It improved 
+with Tylenol, flexeril, and lidocaine patch. On day of discharge 
+her ability to ambulate was greatly improved. 
+
+#Leukopenia: Mild and likely secondary to marrow suppression 
+from her viral infection. 
+
+CHRONIC ISSUES:
+===============
+# ESRD ___ GPA s/p LRRT ___: 
+Baseline Cr ~2.
+- Continued MMF 500mg BID
+- Continued prednisone 10mg every other day. 
+- Continued sodium bicarbonate 650mg Po BID
+
+#HTN: 
+- Continued home Lisinopril 10mg daily 
+
+#Chronic anemia: 
+- Likely secondary to CKD, stable throughout admission in the 
+___. 
+
+TRANSITIONAL ISSUES:
+====================
+Code status: Full, presumed
+Contact: ___, husband, ___
+Discharge creatinine: 2.4
+
+[] Please follow up shingles rash on groin; if significantly 
+improved, can consider stopping acyclovir, otherwise please 
+continue the medication and follow up resolution when 
+appropriate
+[] Patient sustained lower back strain during this admission. 
+Please reevaluate to ensure resolution and/or need for 
+outpatient physical therapy. 
+[] Consider a PPI for GI protection and Ca/VitD while on 
+steroids.
+[] Monitor kidney function (baseline 2.0, discharge 2.4)
+[] Follow up white count to ensure recovery (mild leukopenia)
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Mycophenolate Mofetil 500 mg PO BID 
+2. PredniSONE 10 mg PO EVERY OTHER DAY 
+3. Lisinopril 10 mg PO DAILY 
+4. Sodium Bicarbonate 650 mg PO BID 
+
+ 
+Discharge Medications:
+1.  ValACYclovir 1000 mg PO DAILY Duration: 7 Days 
+RX *valacyclovir 1,000 mg 1 tablet(s) by mouth once a day Disp 
+#*7 Tablet Refills:*0 
+2.  Lisinopril 10 mg PO DAILY  
+3.  Mycophenolate Mofetil 500 mg PO BID  
+4.  PredniSONE 10 mg PO EVERY OTHER DAY  
+5.  Sodium Bicarbonate 650 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+- Varicella Zoster
+
+SECONDARY DIAGNOSIS:
+- End stage renal disease status post living related renal 
+transplant
+- Acute on chronic kidney injury
+- Low back pain
+- Hypertension
+- Anemia
+- Leukopenia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure to care for you at the ___ 
+___.  
+
+WHY DID YOU COME TO THE HOSPITAL?
+- You were having pain and a rash in your groin.
+
+WHAT DID YOU RECEIVE IN THE HOSPITAL?
+- We did blood work which confirmed your diagnosis of shingles. 
+You were treated with medication for this through your IV. Your 
+pain was able to be controlled on Tylenol. 
+
+WHAT SHOULD YOU DO ONCE YOU LEAVE THE HOSPITAL?
+- Please continue to take the medication to treat your shingles 
+(valacyclovir) until your primary care physician is able to 
+reevaluate your rash and need for continued treatment. 
+- Please continue to take the rest of your medications as 
+prescribed
+- Please be sure to make it to your follow up appointments with 
+your doctors ___ below). 
+
+We wish you the best!  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

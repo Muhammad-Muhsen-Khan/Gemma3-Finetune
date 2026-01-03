@@ -1,0 +1,452 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypotension, generalized fatigue and weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with PMH of chronic HBV,
+HTN, stage II (T2aN1M0) squamous cell lung carcinoma s/p
+definitive chemo/XRT completed in ___ who presents from
+stress lab with hypotension as well as generalized fatigue and
+weakness. He has had 1 week of worsening fatigue, generalized
+weakness and mid-sternal chest pain with exertion that radiates
+into the jaw. His chest pain has been present for months, but 
+has
+worsened in the recent past. Associated with palpitations and
+dyspnea. Recent episode where he was unable to carry groceries 
+up
+the stairs due to chest pain. He has a history of lung ca s/p
+chemo and paroxysmal afib, not on anticoagulation. Denies leg
+swelling or hemoptysis.
+
+Of note, he has been incontinent of stool over the last month.
+Was previously taking magnesium in ___, which was
+discontinued, but the patient continued to have loose stools.
+Recent admission in ___ for pre-septal cellulitis, treated
+with vancomycin and transitioned to clindamycin.
+
+In the ED, initial vitals: T 97.5, HR 113, BP 88/55, RR 18, O2
+sat 95% on RA
+
+- Exam notable for:  Tachycardia
+- Labs notable for:  D-dimer 938, proBNP 4556, WHC 14.2 w
+neutrophilia, Hb 11.2
+- Pt given: 1L NS, Aspirin 243
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+--In ___, the patient noted a cough that was productive
+of sputum, no hemoptysis noted.  The cough worsened, and he 
+ended
+up going to ___ ER where he was given antibiotics and
+improved.  He ended up getting a chest x-ray that was obtained 
+on
+___ that showed interval soft tissue fullness of the 
+right
+hilum.  
+--A subsequent CT scan was obtained on ___ and that showed 
+a
+cavitary right hilar mass extending into the upper lobe, highly
+suspicious for malignancy.  He was then referred here to ___
+for multidisciplinary thoracic care
+--___: he underwent bronchoscopy, which showed a right upper
+lobe endobronchial lesion, biopsy of the lesion as well as EBUS
+with TBNA of 4L, 7 and 11R were done.  He also had cauterization
+of the right upper lobe endobronchial lesion.  The results from
+that procedure showed that the lesion was an invasive squamous
+carcinoma.  FNA of level 7 and lymph node was negative, level 4L
+was negative, but 11R was positive.
+--___: . Mediastinoscopy ___ with 2 level 7 and 2 4Rs
+were biopsied which were negative for malignancy.  He was staged
+IIa (T2aN1M0)
+--___: Dr. ___ further imaging including a recent
+contrast CT, which showed the proximity of the tumor to the 
+right
+main pulmonary artery, raising concern that he would require
+pneumonectomy.  Given the patient's symptoms, poor performance
+status and PFTs Dr. ___ that he might well not tolerate
+that and suggested definitive chemoradiation.
+--___: Started XRT
+--___: C1D1 cisplatin/etoposide.  Had significant
+light-headedness, a fall, and positive orthostatics throughout
+the first week with ___ of 1.5.  Needed to hold D8 of
+cisplatin and give a total of 5L IVF over two days.  
+--___: C2D1 cis/etoposide
+--___: Completed XRT 6120 cGy over 34 fractions.
+
+PAST MEDICAL/SURGICAL HISTORY:
+-Hypertension
+-anxiety
+-nephrolithiasis
+-depression
+-irritable bowel syndrome
+-hep B
+-prostatitis.  
+-Latent TB, treated in ___ with nine months of INH.
+ 
+Social History:
+___
+Family History:
+His father died of an MI at age ___. He was heavy smoker and
+wouldn't take his medications. 
+ 
+Physical Exam:
+========================
+Admission Physical Exam:
+========================
+VITALS:  98.0, 116/72, 108, 16, 98%RA
+General: Alert, oriented, no acute distress, pleasant 
+HEENT: Sclerae anicteric, MMM, JVP not elevated 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: Warm, dry, no rashes or notable lesions.   
+Neuro: Normal rectal tone. ___ strength upper/lower extremities,
+grossly normal sensation 
+
+========================
+Discharge Physical Exam:
+========================
+VITALS: 98.4, 132/82, 100, 16, 98%RA
+General: Alert, oriented, no acute distress, pleasant 
+HEENT: Sclerae anicteric, dry MM, JVP not elevated 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, mildly distended, bowel sounds
+present, no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: Warm, dry, no rashes or notable lesions.   
+Neuro: ___ strength upper/lower extremities,
+grossly normal sensation 
+
+ 
+Pertinent Results:
+===============
+Admission Labs:
+===============
+___ 11:43AM BLOOD WBC-14.2*# RBC-4.24* Hgb-11.4* Hct-34.8* 
+MCV-82 MCH-26.9 MCHC-32.8 RDW-14.4 RDWSD-42.7 Plt ___
+___ 11:43AM BLOOD Neuts-85.6* Lymphs-6.4* Monos-6.4 
+Eos-0.6* Baso-0.2 Im ___ AbsNeut-12.12*# AbsLymp-0.91* 
+AbsMono-0.90* AbsEos-0.08 AbsBaso-0.03
+___ 11:43AM BLOOD ___ PTT-29.4 ___
+___ 11:43AM BLOOD Glucose-102* UreaN-22* Creat-1.2 Na-138 
+K-4.2 Cl-100 HCO3-21* AnGap-17
+___ 11:43AM BLOOD ALT-15 AST-23 AlkPhos-77 TotBili-0.4
+___ 11:43AM BLOOD proBNP-4556*
+___ 11:43AM BLOOD cTropnT-<0.01
+___ 11:41PM BLOOD cTropnT-<0.01
+___ 11:43AM BLOOD Albumin-3.9
+___ 11:43AM BLOOD D-Dimer-938*
+___ 11:43AM BLOOD TSH-1.1
+___ 11:43AM BLOOD Free T4-1.3
+___ 11:43AM BLOOD Cortsol-23.5*
+___ 11:53AM BLOOD Lactate-2.0
+___ 01:00PM URINE Blood-NEG Nitrite-NEG Protein-TR* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 01:00PM URINE Color-Yellow Appear-Hazy* Sp ___
+
+===============
+Discharge Labs:
+===============
+___ 09:10AM BLOOD WBC-9.2 RBC-4.00* Hgb-10.7* Hct-32.2* 
+MCV-81* MCH-26.8 MCHC-33.2 RDW-14.2 RDWSD-41.2 Plt ___
+___ 09:10AM BLOOD Neuts-82.9* Lymphs-7.0* Monos-7.3 Eos-1.9 
+Baso-0.1 Im ___ AbsNeut-7.60* AbsLymp-0.64* AbsMono-0.67 
+AbsEos-0.17 AbsBaso-0.01
+___ 09:10AM BLOOD Glucose-95 UreaN-14 Creat-1.0 Na-142 
+K-4.4 Cl-104 HCO3-25 AnGap-13
+___ 09:10AM BLOOD Calcium-9.0 Phos-2.9 Mg-2.0
+
+=============
+Microbiology:
+=============
+C. difficile DNA amplification assay (Final ___: 
+      CLOSTRIDIUM DIFFICILE. 
+         Positive for toxigenic C difficile by the Cepheid 
+nucleic
+         amplification assay.            (Reference 
+Range-Negative).
+
+URINE CULTURE (Final ___:  NO GROWTH. 
+
+Blood Culture, Routine (Pending): NGTD. 
+
+================
+Imaging studies:
+================
+CXR (___):
+Increased perihilar fibrotic changes and right lung volume loss 
+likely reflect interval evolution of posttreatment changes.
+
+ 
+CTA CHEST (___):
+1.  No evidence of pulmonary embolism or aortic abnormality.
+2. Radiation changes are again noted in the right lower and 
+middle lobes and
+at the hilum, with associated scarring and traction 
+bronchiectasis unchanged
+in appearance from recent prior study.
+
+TTE (___):
+FINDINGS: The left atrium is normal in size. No atrial septal 
+defect is seen by 2D or color Doppler. The estimated right 
+atrial pressure is ___ mmHg. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size and global 
+systolic function (LVEF>55%). Due to suboptimal technical 
+quality, a focal wall motion abnormality cannot be fully 
+excluded. Right ventricular chamber size and free wall motion 
+are normal. The diameters of aorta at the sinus, ascending and 
+arch levels are normal. The aortic valve leaflets (3) are mildly 
+thickened but aortic stenosis is not present. No aortic 
+regurgitation is seen. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. There is no mitral 
+valve prolapse. There is mild pulmonary artery systolic 
+hypertension. There is a trivial/physiologic pericardial 
+effusion. 
+
+IMPRESSION: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with preserved global biventricular 
+systolic function. Mild pulmonary artery systolic hypertension. 
+No valvular pathology or pathologic flow identified. 
+
+Compared with the prior study (images reviewed) of ___, 
+the findings are similar. 
+
+ 
+Brief Hospital Course:
+ASSESSMENT & PLAN: 
+
+___ man with stage II (T2aN1M0) squamous cell lung 
+carcinoma s/p chemo/XRT in remission, paroxysmal afib, 
+presenting with hypotension, generalized weakness, and diarrhea 
+found to have C. Diff colitis. 
+
+=============
+ACUTE ISSUES:
+=============
+# C. Diff colitis
+Patient presented with diarrhea and signs of hypovolemia, 
+including sinus tachycardia and orthostatic hypotension, after 
+recent hospitalization for pre-septal cellulitis treated with 
+clindamycin. C. Diff PCR of stool was positive. He was treated 
+with PO Vancomycin 125mg QID (day 1: ___ and will continue 
+treatment for 14 days upon discharge, ending ___, as well as 
+probiotic. He has no prior history of C. Diff infection.
+
+# Stable angina: 
+Patient does have chest pain with exertion, which radiates into 
+the neck/jaw, and resolves with rest. He does not have chest 
+pain at rest and has not yet had stress testing. He was 
+scheduled for outpatient stress testing on the day of admission 
+which was differed ___ hypotension and tachycardia on arrival. 
+He was referred to the ED at that time. During his 
+hospitalization, he denies any chest pain or shortness of 
+breath. We continued his home ASA, metoprolol, and simvastatin. 
+TTE was repeated in the setting of BNP elevation which was 
+unchanged from previous, LVEF >60%. Will plan for follow up with 
+PCP to reschedule outpatient stress test.
+
+# Dyspnea on Exertion:
+BNP significantly elevated compared to last BNP on ___, 
+although does not appear to be in decompensated heart failure as 
+he is significantly hypovolemic on exam, without edema on CXR. 
+His TTE was also unchanged from previous, LVEF >60%. His 
+fibrotic lung changes are near the R pulmonary artery, which 
+could be contributing to his BNP elevation. Otherwise, dyspnea 
+on exertion most likely secondary to post-radiation fibrotic 
+changes of his right lung and/or associated CAD/angina as above. 
+Continued home Budesonide and Albuterol inhalers as needed.
+
+# Generalized weakness/fatigue
+# Weight loss
+Patient reports generalized fatigue, decreased appetite, and 6 
+pound weight loss over the last month. This may be secondary to 
+diarrhea, although it is concerning that patient reports these 
+constitutional symptoms prior to diarrhea onset. Unfortunately, 
+this may suggest progression of his underlying malignancy vs. a
+second malignancy. He is known to have 5.7cm renal mass on 
+recent CT (___) concerning for metastasis vs. new renal cell 
+carcinoma vs. renal cyst. Planned renal MRI ___ as an 
+outpatient with follow up with oncology.
+
+===============
+CHRONIC ISSUES:
+===============
+# Squamous cell lung carcinoma: s/p chemo/XRT, currently thought
+to be in remission.
+
+# Renal mass: CT chest from ___ showed a 5.7 cm left renal 
+mass substantially increased in size compared to prior exam and 
+concerning for renal cell carcinoma versus metastasis. Planned 
+for renal MRI on ___ as above.
+
+# Paroxysmal afib: CHADsVAsc 3 for age and HTN. EKG on admission 
+showing sinus tachycardia. Decision for anticoagulation was 
+deferred originally due to risk of bleeding surgically with the 
+lung mass near the pulmonary artery. Reportedly, he has only had 
+one documented event of atrial fibrillation that was 
+short-lived. We continued his home metoprolol Succinate XL 12.5 
+mg daily during his hospitalization. If he does remain a low 
+bleeding risk at this point, post chemo and radiation, may 
+benefit from another discussion regarding anticoagulation. Will 
+defer this to his outpatient providers.
+
+# Depression and anxiety: Continued home clonopin and 
+sertraline.
+
+# GERD: Continued home omeprazole. 
+
+====================
+TRANSITIONAL ISSUES:
+====================
+
+[] Will need follow up with PCP to reschedule stress testing and 
+discuss anticoagulation for atrial fibrillation as an outpatient
+
+[] MEDICATIONS ADDED: 
+- Vancomycin 125mg QID x 14 days ___ - ___
+
+[] MEDICATIONS CHANGED: 
+- Increased simvastatin 20mg to pravastatin 40mg, as this 
+patient will likely benefit from high dose statin therapy in the 
+setting of angina and presumed CAD 
+
+[] MEDICATIONS CONTINUED: 
+- ASA
+- Clonopin
+- Metoprolol
+- Omeprazole
+- Sertraline
+- Budesonide
+- Albuterol 
+
+[] MEDICATIONS STOPPED: None
+
+Advanced Care Planning: 
+Full code
+Contact ___ (___)
+
+I have seen and examined Mr. ___, reviewed the findings, data, 
+and discharge plan of care documented by Dr. ___, MD dated 
+___ and agree, except for any additional comments below.
+
+Day of discharge management: > 30 minutes
+
+___, MD, PharmD
+Section of ___ Medicine
+___
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. ClonazePAM 1.5 mg PO BID:PRN anxiety 
+3. Metoprolol Succinate XL 12.5 mg PO DAILY 
+4. Omeprazole 20 mg PO DAILY 
+5. Sertraline 200 mg PO DAILY 
+6. Simvastatin 20 mg PO QPM 
+7. Budesonide 180 mcg/actuation inhalation DAILY 
+8. albuterol sulfate 90 mcg inhalation Q4H:PRN Shortness of 
+Breath 
+
+ 
+Discharge Medications:
+1.  Pravastatin 40 mg PO QPM 
+RX *pravastatin 40 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+2.  Vancomycin Oral Liquid ___ mg PO Q6H Duration: 14 Days 
+RX *vancomycin 125 mg 1 capsule(s) by mouth four times a day 
+Disp #*60 Capsule Refills:*0 
+3.  albuterol sulfate 90 mcg inhalation Q4H:PRN Shortness of 
+Breath  
+4.  Aspirin 81 mg PO DAILY  
+5.  Budesonide 180 mcg/actuation inhalation DAILY  
+6.  ClonazePAM 1.5 mg PO BID:PRN anxiety  
+7.  Metoprolol Succinate XL 12.5 mg PO DAILY  
+8.  Omeprazole 20 mg PO DAILY  
+9.  Sertraline 200 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnoses
+==================
+C. Diff colitis
+
+Secondary diagnoses
+==================
+Stable angina
+Squamous Cell Carcinoma
+Renal mass (unclear etiology)
+Paroxysmal atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+Why was I admitted to the hospital?  
+-You were admitted because you had diarrhea and were dehydrated. 
+ 
+
+What happened while I was in the hospital?  
+-  You were given fluids through your veins to help with your 
+dehydration. 
+- We also sent a sample of your stool that showed you have an 
+infection called C. Diff. We started you on antibiotics to treat 
+this infection. This antibiotic is called Vancomycin. You will 
+need to continue to take this antibiotic four times a day until 
+___. 
+- We also did an ultrasound of your heart that was normal. You 
+will still need to follow up with your primary care doctor to 
+reschedule  a stress test once your infection resolves.
+
+What should I do after leaving the hospital?  
+-  Please take your medications as listed in discharge summary 
+and follow up at the listed appointments. 
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Sincerely,
+
+Your ___ Team  
+ 
+Followup Instructions:
+___

@@ -1,0 +1,376 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ PMHx s/f ___, Atrial fibrillation, HTN, CHF, 
+Prostate Ca
+Anemia, Spinal Stenosis presents to ___ ED from assisted 
+living facility with concern of recurrent C. Diff colitis.
+Patient recently discharged from ___ in ___ with 
+diastolic heart failure and C. diff colitis, treated with full 
+course of vancomycin. Represented on ___ with recurrent 
+diarrhea, found ___ C. Diff positive at facility, sought care 
+at ___ ED, sent home on ___. Per patient, has been 
+having diarrhea for 1 months, not improving. Completed ABX w~ 
+___ days ago. Continued to have watery diarrhea. Recheck C. Diff 
+on ___ positive for C. Diff. Apart from diarrhea without 
+hematochezia or melena, endorses non productive cough in last 
+several days. Denies fever, chills, n/v, diarrhea, chest pain, 
+abdominal pain, dyuria, urgency or frequency.
+In the ED, initial vital signs were: 99.3 140/100 16 99%RA
+- Exam was notable for: guiac neg green stool
+- Labs were notable for: no WBC, anemia 10.1/31.8, mild 
+thrombocytopenia (147), INR 1.9, hyponatremia 131, LFTs and 
+lipase WNL.
+- Imaging: CXR Right upper to mid lung opacity is not well 
+assessed, but could be due to consolidation due to pneumonia.
+- The patient was given:
+___ 21:48 PO/NG Vancomycin Oral Liquid ___ mg 
+___
+- Consults: none
+Vitals prior to transfer were: 98.9 95 129/86 18 95%RA
+Upon arrival to the floor, patient alert and oriented. Able to 
+recall above history although does not remember details as to 
+antiobiotics or time. Has had ~2 bowel movement, loose v. watery 
+on ___. Denies pain. Prefers to IVF and would to maintain PO.
+REVIEW OF SYSTEMS:
+[+] per HPI
+[-] Denies headache, visual changes, pharyngitis, rhinorrhea, 
+nasal congestion, cough, fevers, chills, sweats, weight loss, 
+dyspnea, chest pain, abdominal pain, nausea, vomiting, 
+constipation, hematochezia, dysuria, rash, paresthesias, 
+weakness
+
+ 
+Past Medical History:
+___
+Atrial fibrillation
+Constipation
+Memory Loss
+Urinary Incontinence
+Back Pain
+Osteoporosis
+CHF
+Weight Loss
+Hypertension
+Kyphosis
+Prostate Ca
+Anemia
+Spinal Stenosis
+- Status post aortobifemoral bypass graft in ___ for right
+aneurysm repair.
+- Peptic ulcer disease in ___, associated with aspirin for back
+pain, and in ___, associated with Feldene for hip pain.
+- Status post radical prostatectomy in ___.
+- Status post left hip replacement in ___.
+- Basal cell carcinoma of the left ear in ___, status post
+removal.
+ 
+Social History:
+___
+Family History:
+Mother with HTN
+ 
+ 
+Physical Exam:
+=======================
+ADMISSION PHYSICAL EXAM
+=======================
+VITALS - 98.2 131/88 102 20 94%RA
+GENERAL - pleasant, chronically ill appearing elderly gentleman, 
+NAD. Resting pill rolling tremor in both upper extremities. 
+AAOx3, appropriate mentation
+HEENT - normocephalic, atraumatic,
+NECK - supple, no LAD, no thyromegaly, JVP flat
+CARDIAC - irregular rate & rhythm, normal S1/S2, no murmurs rubs 
+or gallops
+PULMONARY - mild expiratory wheezing in both lung fields, worse 
+on nd expiration. Non productive cough. Does not appear 
+tachypneic. Speakign in full sentensce
+ABDOMEN - normal bowel sounds, soft, non-tender, non-distended, 
+no organomegaly
+EXTREMITIES - warm, well-perfused, no cyanosis, clubbing or 
+edema
+SKIN - without rash
+NEUROLOGIC - A&Ox3, CN II-XII grossly normal. MAE. Tremor as 
+above. Gait assessment deferred
+PSYCHIATRIC - listen & responds to questions appropriately. 
+Short term memory loss not immediately appreciable
+
+=======================
+DISCHARGE PHYSICAL EXAM
+=======================
+VS: T 98.3F BP 138/75 mmHg P 74 RR 20 O2 98% RA
+General: Elderly man, pleasant, appearing his stated age in NAD.
+HEENT: PERRL; EOMs intact. Anicteric sclerae.
+Neck: Supple, no JVD. 
+CV: Irregular, no MRGs; normal S1/S2.
+Pulm: Improved air movement with prolonged expiratory phase and 
+mild end-expiratory wheezes. No increased work of breathing. 
+Abd: Soft, non-tender, non-distended.
+Ext: Warm and well-perfused. Trace edema. 2+ DP pulses. 
+Neuro: A&Ox3, CNs II-XII grossly intact. Pill-rolling tremor.
+ 
+Pertinent Results:
+==============
+ADMISSION LABS
+==============
+___ 06:43PM BLOOD WBC-4.2 RBC-3.23* Hgb-10.1* Hct-31.6* 
+MCV-98 MCH-31.3 MCHC-32.0 RDW-15.6* RDWSD-55.9* Plt ___
+___ 06:43PM BLOOD Neuts-75.8* Lymphs-10.8* Monos-11.0 
+Eos-1.2 Baso-0.7 Im ___ AbsNeut-3.17# AbsLymp-0.45* 
+AbsMono-0.46 AbsEos-0.05 AbsBaso-0.03
+___ 06:43PM BLOOD ___ PTT-34.0 ___
+___ 06:43PM BLOOD Glucose-91 UreaN-23* Creat-1.1 Na-131* 
+K-3.7 Cl-96 HCO3-23 AnGap-16
+___ 06:43PM BLOOD ALT-7 AST-19 AlkPhos-60 TotBili-0.7
+___ 06:43PM BLOOD Lipase-28
+___ 06:43PM BLOOD Albumin-3.6 Calcium-8.6 Phos-2.9 Mg-1.7
+___ 06:55PM BLOOD Lactate-1.0
+
+==============
+DISCHARGE LABS
+==============
+___ 06:40AM BLOOD WBC-4.7 RBC-3.29* Hgb-10.3* Hct-31.4* 
+MCV-95 MCH-31.3 MCHC-32.8 RDW-15.5 RDWSD-54.3* Plt ___
+___ 06:40AM BLOOD ___ PTT-33.1 ___
+___ 06:40AM BLOOD Glucose-101* UreaN-19 Creat-0.9 Na-133 
+K-4.3 Cl-98 HCO3-26 AnGap-13
+___ 06:40AM BLOOD Calcium-8.8 Phos-3.1 Mg-1.8
+
+============
+MICROBIOLOGY
+============
+__________________________________________________________
+___ 6:03 am STOOL     CONSISTENCY: FORMED      Source: 
+Stool. 
+
+   OVA + PARASITES (Pending): 
+__________________________________________________________
+___ 3:57 am STOOL     CONSISTENCY: FORMED      Source: 
+Stool. 
+
+   OVA + PARASITES (Pending): 
+__________________________________________________________
+___ 11:46 am STOOL     CONSISTENCY: SOFT      Source: 
+Stool. 
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative). 
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+   OVA + PARASITES (Pending): 
+
+   FECAL CULTURE - R/O VIBRIO (Final ___:    NO VIBRIO 
+FOUND. 
+
+   FECAL CULTURE - R/O YERSINIA (Final ___:    NO YERSINIA 
+FOUND. 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      NO E.COLI 0157:H7 FOUND. 
+__________________________________________________________
+___ 6:43 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      CANCELLED.    Culture negative as of: 2300 ON ___. 
+         Test canceled/culture discontinued per: ___. 
+         PATIENT CREDITED. 
+
+===============
+IMAGING/STUDIES
+===============
+CHEST (PA & LAT) (___):
+FINDINGS:  
+The patient is rotated to the right in the patient's chin 
+overlies the lung apices, partially obscuring the view.  Given 
+the above, there is likely a small right pleural effusion with 
+overlying atelectasis.  Increased interstitial markings 
+bilaterally suggests mild to moderate interstitial edema.  More 
+focal right upper to mid lung opacity is not well assessed due 
+to patient positioning, could be due to consolidation due to 
+pneumonia.  Cardiac and mediastinal silhouettes are stable. 
+  
+IMPRESSION:  
+Limited study due to patient rotation in patient's chin 
+overlying the medial lung apices.  Given this, small right 
+pleural effusion.  Mild to moderate interstitial edema.  Right 
+upper to mid lung opacity is not well assessed, but could be due 
+to consolidation due to pneumonia. 
+
+ 
+Brief Hospital Course:
+___ is an ___ y/o man with a PMH of ___ disease, 
+AFib on warfarin, HTN, chronic , and prostate cancer, with 
+recent admission for C. difficile infection, who presented with 
+diarrhea consistent with recurrent C. diff and decompensated 
+diastolic heart failure. 
+.
+# Recurrent C. difficile infection. Presented with significant 
+ongoing diarrhea for sevearl weeks. Although he was found to be 
+C. difficile negative, this was thought to be secondary to lab 
+error, and he was treated for recurrence of C. difficile. 
+Diarrhea improved on PO vancomycin. For this reason, he will 
+require a prolonged taper of PO vancomycin, to end approximately 
+___. Course: 125 mg PO QIDx14 days (end ___, 
+then BIDx7 days (end ___, then QDx7 days (end ___, then 
+QODx7 days (end ___, then q3 days x14 days (end ___. 
+Additional stool studies were all negative. 
+.
+# Acute on chronic diastolic heart failure. This infection was 
+thought to be the trigger for his decompensated heart failure 
+(presented with significant peripheral edema, and respiratory 
+distress), and he was diuresed with 20 mg IV Lasix to a dry 
+weight of 75.8 kg before restarting home oral PO Lasix. 
+.
+==============
+CHRONIC ISSUES
+==============
+# Atrial fibrillation. Therapeutic on anticoagulation for atrial 
+fibrillation and continued on warfarin and metoprolol succinate 
+25 mg daily. 
+# ___ disease. Continued on home Sinemet and bentropine.
+# Osteoporosis. Continued on alendronate and vitamin D.
+# Iron deficiency anemia. Continued ferrous sulfate.
+.
+===================
+TRANSITIONAL ISSUES
+===================
+# Discharge weight: 75.8 kg
+# Discharge Cr: 0.9
+# Antibiotic course. Will require prolonged PO taper of 
+vancomycin to end approximately ___. Course: 125 mg PO 
+QIDx14 days (end ___, then BIDx7 days (end ___, then 
+QDx7 days (end ___, then QODx7 days (end ___, then q3 
+days x14 days (end ___.
+# Probiotics. Would advise starting a probiotic given C. 
+difficile recurrence. 
+# Medication changes. Restarted on albuterol for reactive airway 
+disease. 
+# Goals of care. MOLST form noting that he does not want IV 
+fluids. Would continue ongoing goals of care discussion 
+regarding re-hospitalization. 
+# CONTACT: ___ ___
+# CODE STATUS: DNR/DNI
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Alendronate Sodium 70 mg PO QSUN 
+2. Benztropine Mesylate 0.5 mg PO BID 
+3. Cal-Citrate (calcium citrate-vitamin D2) 250-100 mg-unit oral 
+BID 
+4. Carbidopa-Levodopa CR (50-200) 1 TAB PO FIVE TIMES DAILY 
+5. Vitamin D ___ UNIT PO 1X/WEEK (___) 
+6. Docusate Sodium 100 mg PO EVERY OTHER DAY 
+7. Ferrous Sulfate 325 mg PO BID 
+8. Furosemide 20 mg PO DAILY 
+9. Metoprolol Succinate XL 25 mg PO DAILY 
+10. Vitamin D 400 UNIT PO DAILY 
+11. Biscolax (bisacodyl) 10 mg rectal DAILY:PRN 
+12. Milk of Magnesia 30 mL PO Q6H:PRN no bowel movement 
+13. Warfarin 7 mg PO DAILY16 
+
+ 
+Discharge Medications:
+1. Benztropine Mesylate 0.5 mg PO BID 
+2. Carbidopa-Levodopa CR (50-200) 1 TAB PO FIVE TIMES DAILY 
+3. Ferrous Sulfate 325 mg PO BID 
+4. Furosemide 20 mg PO DAILY 
+5. Metoprolol Succinate XL 25 mg PO DAILY 
+6. Milk of Magnesia 30 mL PO Q6H:PRN no bowel movement 
+7. Vancomycin Oral Liquid ___ mg PO Q6H Duration: 14 Days 
+Complete ___ 
+8. Alendronate Sodium 70 mg PO QSUN 
+9. Biscolax (bisacodyl) 10 mg rectal DAILY:PRN 
+10. Cal-Citrate (calcium citrate-vitamin D2) 250-100 mg-unit 
+oral BID 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Vancomycin Oral Liquid ___ mg PO BID Duration: 7 Days 
+___ - ___ 
+13. Vancomycin Oral Liquid ___ mg PO DAILY Duration: 7 Days 
+___ - ___ 
+14. Vancomycin Oral Liquid ___ mg PO EVERY OTHER DAY Duration: 7 
+Days 
+___ - ___ 
+15. Vancomycin Oral Liquid ___ mg PO EVERY THREE DAYS Duration: 
+14 Days 
+___ - ___ 
+16. Albuterol Inhaler ___ PUFF IH Q6H:PRN wheezing 
+17. Warfarin 8 mg PO DAILY16 
+18. Docusate Sodium 100 mg PO DAILY:PRN constipation 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+================= 
+PRIMARY DIAGNOSES 
+================= 
+- recurrent Clostridium difficile infection 
+- acute on chronic diastolic heart failure 
+ 
+=================== 
+SECONDARY DIAGNOSES 
+=================== 
+- ___ disease 
+- atrial fibrillation 
+- osteoporosis 
+- chronic iron deficiency anemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___ 
+___. You were admitted because you were having 
+diarrhea. You were found to have C. difficile colitis. We think 
+this is because you will require a long course of antibiotics to 
+completely clear the infection from your body. 
+
+You will be going to a rehab facility to continue your recovery. 
+Please continue to take all medications as prescribed. Your 
+discharge follow-up appointments are outlined below.
+
+We wish you the very best!
+
+Warmly,
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,507 @@
+Notes
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Codeine / lisinopril
+ 
+Attending: ___
+ 
+Chief Complaint:
+New intraparenchymal bleed
+
+ 
+Major Surgical or Invasive Procedure:
+- Intubation
+ 
+History of Present Illness:
+___ year old man with a past medical history of recent R parietal 
+SAH, found down x 5 hours and febrile, found to have large right 
+hemispheric intraparenchymal hemorrhage with IV extension.
+
+Per ED, he was found down at home. EMS was called (unclear how), 
+and found him wrapped up in plastic sheets on the floor. He was 
+answering simple questions, and said he had been down for 5 
+hours. He said he was feeling weak and may have fallen. The oven 
+was found on, carbon
+monoxide testing negative.
+
+Neuro exam by ED notable for "prolonged clonus left lower
+extremity, no clonus right lower extremity, bilateral
+hyperreflexia, increased muscle tone, patient alert to voice,
+able to mumble single word answers, however difficult to
+understand."
+
+He was intubated and sedated as he was unable to cooperate for
+NCHCT.
+
+He was admitted ___ and ___ for spontaneous subarachnoid
+hemorrhages (both right frontal while on plavix) causing
+thunderclap headaches. Per neurology consult, differential
+diagnosis for recent atraumatic subarachnoid hemorrhages thought
+to include RCVS, amyloid angiopathy, amyloid angiitis or other
+vasculitis. He was started on verapamil for possible RCVS.
+
+ 
+Past Medical History:
+HTN  
+HLD  
+CAD s/p PCI x2  
+COPD (ICU admission in ___ with intubation for COPD)  
+Lumbar Stenosis  
+CKD  
+Psychiatric/Behavioral/Delusional Disorder  
+SAH w/ negative CTA for aneurysm
+   
+ 
+Social History:
+___
+Family History:
+(from ___) His father died of "old age" at ___. He worked in a 
+___. His mother died at ___ of cancer.  
+ 
+Physical Exam:
+#ERROR!
+ADMISSION EXAM
+#ERROR!
+General: intubated, sedated. few spontaneous movements. eyes
+closed. 
+HEENT: NC/AT, +subconjunctival hemorrhage left eye, MMM
+Pulmonary: Lungs rhonchorus with likely transmitted upper 
+airways
+sounds bilaterally
+Cardiac: S1S2 RR no murmur
+Abdomen: soft non distended
+Extremities: No edema
+Skin: no rashes or lesions noted.
+
+Neurologic Exam: observed portion of neurosurgery exam
+(intubated, sedated on propofol):
+-Mental Status: Eyes closed, does not open them. Follows command
+to squeeze hand, let go of hand on the right.
+-Cranial Nerves:
+II: PERRL 2.5 to 2mm. Does not blink to threat.
+III, IV, VI: Eyes move together but do not appear conjugate on
+light reflex, L eye exotropia
+V: +corneals bilaterally
+VII: No facial droop noted limited by ETT
+IX, X: cough, gag intact.
+
+-Motor/Sensory: Normal bulk throughout. Decreased tone
+throughout. Moves right arm and leg antigravity with purposeful
+withdrawal to noxious stimulus. Slight movement of the left arm
+and leg to noxious, with grimace but not antigravity.
+
+-DTRs: 3+ throughout + crossed adductor b/l. Plantar response
+extensor on the right, mute on the left
+
+#ERROR!
+DISCHARGE EXAM
+#ERROR!
+Vitals: Tmax 101.4 / Tcurr 100.6 ; BP 100-169/54-71 ; HR 77-122 
+; RR ___ SaO2 82-100%; BG 98-146
+
+Gen: In bed, breathing deeply with audible wheezing; appears 
+comfortable. 
+CV: RRR
+Pulm: Rhonchi in left lung. 
+
+MS: Answers questions appropriately with short, soft phrases. 
+Endorses being comfortable. 
+
+Deferred remainder of exam for patient comfort. 
+ 
+Pertinent Results:
+#ERROR!
+SELECTED LABS
+#ERROR!
+___ 10:30PM BLOOD WBC-11.9*# RBC-5.04# Hgb-13.1*# Hct-40.0# 
+MCV-79* MCH-26.0 MCHC-32.8 RDW-17.2* RDWSD-47.5* Plt ___
+___ 01:00AM BLOOD WBC-8.9 RBC-2.82* Hgb-7.2* Hct-22.8* 
+MCV-81* MCH-25.5* MCHC-31.6* RDW-16.4* RDWSD-48.0* Plt ___
+___ 10:30PM BLOOD Neuts-92.0* Lymphs-3.3* Monos-3.8* 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-11.00*# AbsLymp-0.39* 
+AbsMono-0.45 AbsEos-0.00* AbsBaso-0.02
+___ 01:00AM BLOOD Plt ___
+___ 01:00AM BLOOD ___ PTT-26.7 ___
+___ 10:30PM BLOOD ___ PTT-31.1 ___
+___ 02:07PM BLOOD ___ 02:00PM BLOOD Glucose-126* UreaN-27* Creat-1.3* Na-143 
+K-4.3 Cl-111* HCO3-20* AnGap-16
+___ 10:30PM BLOOD Glucose-131* UreaN-15 Creat-1.5* Na-142 
+K-4.7 Cl-101 HCO3-21* AnGap-25*
+___ 05:29PM BLOOD CK(CPK)-784*
+___ 10:30PM BLOOD ALT-25 AST-44* CK(CPK)-1282* AlkPhos-102 
+TotBili-0.8
+___ 05:29PM BLOOD CK-MB-8 cTropnT-0.03*
+___ 10:30PM BLOOD cTropnT-0.02* proBNP-1674*
+___ 02:00PM BLOOD Calcium-7.6* Phos-4.0 Mg-1.9
+___ 10:30PM BLOOD Albumin-5.4* Calcium-9.9 Phos-3.8 Mg-2.0
+___ 10:30PM BLOOD Osmolal-320*
+___ 08:00AM BLOOD Vanco-8.5*
+___ 10:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 03:06AM BLOOD Type-ART pO2-162* pCO2-33* pH-7.41 
+calTCO2-22 Base XS--2
+___ 10:44PM BLOOD ___ pO2-18* pCO2-40 pH-7.35 
+calTCO2-23 Base XS--4
+___ 01:15AM BLOOD Lactate-2.0
+___ 02:20PM BLOOD Glucose-176* Lactate-1.2 Na-133 K-3.9 
+Cl-107
+___ 02:20PM BLOOD Hgb-8.3* calcHCT-25
+___ 05:36AM BLOOD O2 Sat-65 COHgb-1
+___ 01:15AM BLOOD freeCa-1.09*
+___ 01:31PM BLOOD freeCa-0.98*
+
+___ 01:23AM BLOOD WBC-6.2 RBC-2.70* Hgb-7.0* Hct-22.2* 
+MCV-82 MCH-25.9* MCHC-31.5* RDW-16.3* RDWSD-48.6* Plt ___
+___ 03:06AM BLOOD WBC-8.9 RBC-3.16* Hgb-8.3* Hct-26.0* 
+MCV-82 MCH-26.3 MCHC-31.9* RDW-16.7* RDWSD-50.0* Plt ___
+___ 03:05AM BLOOD WBC-8.8 RBC-2.90* Hgb-7.5* Hct-24.2* 
+MCV-83 MCH-25.9* MCHC-31.0* RDW-16.5* RDWSD-50.4* Plt ___
+___ 03:05AM BLOOD ___ PTT-32.3 ___
+___ 03:05AM BLOOD Glucose-149* UreaN-34* Creat-1.3* Na-148* 
+K-4.3 Cl-109* HCO3-32 AnGap-11
+___ 10:30PM BLOOD ALT-25 AST-44* CK(CPK)-1282* AlkPhos-102 
+TotBili-0.8
+___ 10:40AM BLOOD CK(CPK)-903*
+___ 05:29PM BLOOD CK(CPK)-784*
+___ 10:30PM BLOOD cTropnT-0.02* proBNP-1674*
+___ 05:29PM BLOOD CK-MB-8 cTropnT-0.03*
+___ 03:05AM BLOOD Calcium-8.2* Phos-3.9 Mg-2.4
+___ 02:27AM BLOOD Type-ART pO2-145* pCO2-45 pH-7.42 
+calTCO2-30 Base XS-4
+
+#ERROR!
+IMAGING
+#ERROR!
+CT head: There is a large right intraparenchymal hemorrhage 
+along
+the right frontal, parietal and temporal lobes with surrounding
+vasogenic edema. There is associated mass effect with effacement
+of the right lateral ventricle and 4mm leftward shift of midline
+structures. There is intraventricular hemorrhage extension with 
+a moderate amount of blood layering in the occipital horn of the 
+left lateral ventricle. There is a small amount of left frontal 
+temporal subarachnoid hemorrhage (series 2:image 17). Right 
+frontal lobe white matter hypodensity is again noted.
+
+CTA head & neck: Patent intracranial vasculature and circle of
+___ without >3 mm aneurysmal dilation, vascular occlusion or
+flow limiting stenosis.  Patent cervical vasculature with >70%
+stenosis along the bilateral internal carotid arteries (series
+2H:image 204). Secretions noted in the distal trachea. 
+Interlobular septal
+thickening may reflect mild interstitial edema.
+
+CT c-spine
+IMPRESSION: 
+1. No acute fracture or traumatic malalignment. 
+2. Interlobular septal thickening in the visualized lung apices 
+may reflect mild edema. 
+3. Severe multilevel degenerative changes causing neuroforaminal 
+and spinal canal narrowing as described above. 
+  
+CXR
+FINDINGS:  
+AP portable upright view of the chest.   Overlying EKG leads are 
+present.  A left mid lung linear density may represent linear 
+atelectasis or scar.  Lungs otherwise clear with the lucent 
+hyperinflated lungs likely reflecting emphysema. 
+Cardiomediastinal silhouette appears unchanged with a Coronary 
+stent projecting over the heart.  No large effusion or 
+pneumothorax.  Bony structures are intact. 
+  
+___ NCHCT
+1. Stable right subdural hematoma with expected evolution of 
+blood products. 
+2. Minimal interval decrease in size of right temporal 
+intraparenchymal hemorrhage. Stable bilateral subarachnoid 
+hemorrhage. 
+3. Interval decrease in extent of the bilateral intraventricular 
+hemorrhage. Stable ventricular size and configuration. 
+4. 4 mm right-to-left midline shift, previously 6 mm. 
+5. Moderate interval decrease in extent of pneumocephalus. 
+
+___
+Mild (1+) aortic regurgitation is seen. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. The 
+tricuspid valve leaflets are mildly thickened. Moderate to 
+severe [3+] tricuspid regurgitation is seen. There is severe 
+pulmonary artery systolic hypertension. There is a very small 
+pericardial effusion. There are no echocardiographic signs of 
+tamponade. 
+
+___ NCHCT
+1.  Interval increase in size of right frontoparietal 
+hypodensity since prior study from earlier today, with 
+associated loss of gray-white differentiation, concerning for 
+acute infarct. 
+2. Status post right craniotomy with expected postoperative 
+changes. 
+3. Stable right subdural fluid collection with expected 
+evolution of blood products. 
+4. Stable right temporal intraparenchymal and bilateral 
+subarachnoid 
+hemorrhage. 
+5. Interval decrease in extent of bilateral intraventricular 
+hemorrhage. Stable ventricular size and configuration. 
+6.  3 mm right-to-left midline shift, previously 4 mm.  
+Persistent effacement of the right cerebral sulci. 
+
+___  
+1. Moderately degraded study secondary to motion artifact. 
+2. Restricted diffusion in the right parietal lobe with 
+associated ADC hypodensity and T2/FLAIR hyperintensity is 
+consistent with acute infarct, as indicated on prior CT. 3. 
+Patient is status post right craniotomy with expected 
+postsurgical changes, including pneumocephalus and edema within 
+the surgical bed. 4. Subdural collection along the right 
+convexity with mixed T2 signal and 
+blooming artifact on gradient echo images reflects mixed density 
+blood products. This is similar in appearance to prior CT. 
+5. Scattered FLAIR hyperintensity in the bilateral parietal and 
+left frontal sulci flex small amount of subarachnoid hemorrhage. 
+
+6. Mixed T2 and FLAIR signal associated blooming artifact on 
+gradient echo images corresponds with known right temporal 
+intraparenchymal hemorrhage.  Associated hyperintense T2 and 
+FLAIR signal is consistent with known vasogenic edema. Both 
+appear overall similar in extent and distribution compared to 
+prior CT. 
+7. Predominantly hyperintense T2 and FLAIR signal associated 
+blooming on gradient echo images in the occipital horns of the 
+bilateral ventricle is consistent with known intraventricular 
+hemorrhage, similar to prior CT. 8. 1 mm right-to-left midline 
+shift, previously 3 mm on prior CT. Basal cisterns are patent. 
+Ventricular size and configuration is grossly similar to prior 
+CT. 9. No new foci of intraparenchymal hemorrhage.
+
+ 
+Brief Hospital Course:
+#ERROR!
+___ year old man with history of recent R parietal SAH, HTN, HLD, 
+CAD s/p PCI x2,  COPD with ICU admissions/intubations, and CKD; 
+found down x 5 hours and febrile, found to have large right 
+hemispheric IPH  hemorrhage with IV extension. Per his own 
+wishes previously made clear to family, PCP, and documented - he 
+would not want to be kept alive artificially and if he could not 
+be independent. He was initially emergently intubated in the ICU 
+when these wishes were not yet known. Yesterday he was made 
+comfort-measures-only and extubated. Palliative care was 
+consulted and made recommendations. Family decided on hospice. 
+
+# Comfort Measures
+- Morphine gtt 0.5-5mg/hr for respiratory distress. 
+- Lorazepam PRN
+- Glycopyrrolate
+- No vitals or labs. 
+ 
+# Fever: 
+- Acetaminophen 1g IV Q6H PRN Fever
+
+# Dispo: 
+- Plan for transfer to acute care hospice today. 
+
+#ERROR!
+___ Admitted to neuro ICU. Patient taken to OR for 
+evacuation of hematoma and returned with EVD and subgaleal JP 
+drain. Started on vanc, cefepime, ampicillin, and acyclovir for 
+empiric coverage for possible CNS infection. Ordered for cvEEG. 
+Post-op CT showed pneumocephalus-->started on 100% FiO2 (formal 
+read ____). Post-op labs with bicarb 17 and Hct 24.9 from 40 
+(possibly due to initial dehydration on admission), will CTM. 
+Restarted half of home Lopressor (25 of 50mg). Was given 1400ml 
+of NS,  and a pack of platelets 290ml, output urine 1250 and EBL 
+was 100ml. Patient was not reversed and arrived to the ICU still 
+paralyzed. At 1640, patient had no change in exam compared to 
+pre-op, localize with  RUE, minimal movement to pain in LUE, 
+triple flexion with bilateral ___, R>L. Corneals +, R>L, used 
+gauze with left corneal, delayed response. O/N, he had thigh 
+twitcing L>R for which he received 500mg Keppra. elevated 
+troponins stable and attributed to renal disease
+
+___: Days:  Lasix 10 po daily held due to creat 1.5, abg 
+unchanged, hooked up to EEG, CTV head per neurology to look for 
+sinus thrombosis showed No evidence for dural venous sinus 
+thrombosis with stable size and configuration of the dural 
+sinuses compared to the ___ CTA , ___ ordered for 
+___ in am to r/o endocarditis, transfered to neurology from 
+neurosurgery, do not start sqh/hold LP per Dr ___, 
+___ Lopressor 50 TID in attempt to wean clevidipine, 
+___ c/s, start TF via OGT promote with fiber 50 cc 
+hr, JP d/ced per Dr ___. Confirmed DNR/remain intubated 
+status with HCP/daughter ___. Dr. ___. 
+Verapamil 60mg q8 initiated (home dose  180mg SR for possible 
+RCVS). NIGHTS: wheeze/cough overnight albuterol/atrovent 
+inhaler. at 12 midnight pink frothy sputum noted, crackles and 
+coarse sounds throughout, Lasix 20 mg IV x1 given, CXR done and 
+unchanged on prelim read, FIO2 decreased to 60 % from 100%, 
+recheck abg ****, at 12 midnight febrile 101.4 and blood /urine 
+/ sputum cultures sent, at 0500 episode of tachypnea ___ - will 
+consider additional 20 mg IV Lasix however sbp 94/46 and Lasix 
+not given RR decreased ___ (days) dessynchrony with vent, no improvement with 
+changing PSV to rate. change propofol to precedex. stop Lasix 
+and IVF, but add 250cc NS pre and post acyclovir dosing. send 
+cdiff. send serum HSV (cannot send CSF from LP). EEG showing 
+generalized slowing w/ some more particular R focal slowing, no 
+sz activity. Worsened exam at 1500 with significantly decreased 
+localizing or withdrawal, taken for stat head CT-stable from 
+previous except for suggestion of worsening acute R 
+frontoparietal infarct. Per NeuroMed, watch for decreased 
+brainstem reflexes overnight and take for NCHCT. ___ 
+notified. NIGHT: blood tinged urine noted by nursing at 2200 and 
+urine culture sent***, foley removed on ___ given bloody urine 
+and + UTI. no addition of ABTs given patient already covered  
+vanc, cefepime, ampicillin and acyclovir. TF residual 210 cc and 
+again 200 after TF off x 3 hours.  TF held not tolerated. 250 cc 
+bolus ns prior to acyclovir and post acyclovir given renal 
+disease. at 12 midnight tachypnic to rate 35-40 and hypertensive 
+to 190 sbp, precede gtt increased and fentanyl 25 mcq given x 2 
+and precedex increased to .8, ongoing tachypnea/HTN, precede 
+increased to 1.___ecame hypotensive, placed in 
+___ and decreased to .8, given ongoing rr ___ and 
+labored breathing-> fentanyl gtt started at 25 mcq/hr
+
+___ Days: MRI/MRA today with possible acute infarct. 10mg iv 
+Lasix given with minimal response. Pm vanco ordered.  EEG on 
+___ showing generalized slowing w/ some more particular R 
+focal slowing, no sz activity. Primary dressing removed. ___ SBP 
+soft after labetalol, 500cc IVF given and decreased labetalol. 
+___ lytes stable. RIJ CVL placed. Per Stroke team, can d/c EEG. 
+Vanc trough at ___. (night): patient having frequent PVC's, 
+checked CBC hgb 6.9, hct 20.1, giving one unit RBC's. Lytes 
+pending. Also noted drop in platelets to 134, was 213 on ___ 
+AM labs, however he has only gotten one dose of SQH so HIT is 
+unlikely, 4T HIT score was 2. More hypertensive, started on 
+nicardipine.  
+
+___ Days: Guiac all stools. Family meeting scheduled for 
+___ likely 10 am. Neuro changed to q3h. 20mg Lasix given with 
+minimal output. Repeated this afternoon 40mg, fluid even. ___ 
+lytes with creat 1.4 -monitor. Abx discontinued except acyclovir 
+given negative prelimary cultures. Started on emcycin for high 
+TF residual and changed to osmolite. Resp alkalosis on ___ but 
+in the setting of Lasix, changed back to ___. Night: noted resp 
+alkalosis and large tidal volumes, decreased PS to 8, and repeat 
+ABG was improved and alkalosis had resolved; pH 7.42, pCO2 39, 
+pO2 95, HCO3 26, BaseXS 0  
+
+___ (days): family meeting with ___ (daughter) and son 
+tomorrow at 10a. put on a rate at 1700 for increased work of 
+breathing after repositioning. (night) New hypernatremia (153), 
+BUN/Creat stable 34/1.5, possible volume contraction, although 
+slightly positive, giving 500ml LR and rechecking lytes at 0600. 
+Patient passed his RSBI this morning.  
+
+___ (days): HSV PCR negative, stopped Acyclovir. Family 
+meeting a
+t 10am regarding goals of care--family to await sister from 
+___ (likely next week), continue current code status for now 
+(DNR/remain intubated). FWF increased to 250 q6. Started on home 
+azithromycin 250 three times a week (MWF). 1415 Na 
+149-->continue FWF at 250q6. Tolerated T-piece from 9:45am to 
+3pm, then began to cough and required suctioning-->put back on a 
+rate. At 1745 seen to be hypertensive to low 200s, tachypneic to 
+___, diaphoretic, temp to 100.8, and cough up pink frothy 
+sputum. Diffuse rhonchi. Improved with suctioning. Obtained 
+septic w/u and CXR shows no interval change. (Night) put back on 
+rate on vent at 9pm after turning, tried off a rate but BP up to 
+the 200s. remains with poor neuro exam. slight worsening of 
+kidney function on AM labs with BUN:Cr 36:1.6. At 0645, 5 second 
+burst of afib with RVR self resolved.  
+
+___ Days: No escalation of care, including medications for 
+rate control. FWF increased to 250mg q6h  
+
+___ Days: Decreased FWF to 200cc q6h. Need goals of care 
+discussion on ___.  Nights: No events and no change in exam 
+overnight.  
+
+___ Days: Fam meeting scheduled for tomorrow at 11am, SW 
+consulted. Stopped azithromycin. Stopped emycin given high stool 
+output. Placed back on PSV, chest xray stable. 600ccs retention 
+on bladder scan, straight cath at 1600. (overnight): no 
+complications, failed RSBI.  
+
+___ (days): Family meeting held at 1200, with family agreeing 
+to focus on comfort care. Given Lasix 40mg IV x 1. Extubated at 
+1400, OGT removed, plan for symptomatic treatment and transition 
+to hospice setting if no clinical deterioration in near future.  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezing, dyspnea 
+2. Albuterol Inhaler ___ PUFF IH Q4H:PRN cough/wheezing/sob 
+3. Atorvastatin 80 mg PO QPM 
+4. Calcium Carbonate 500 mg PO DAILY 
+5. Docusate Sodium 100 mg PO BID 
+6. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+7. Furosemide 10 mg PO DAILY 
+8. Gabapentin 300 mg PO BID 
+9. Losartan Potassium 25 mg PO DAILY 
+10. Metoprolol Succinate XL 50 mg PO DAILY 
+11. Montelukast 10 mg PO DAILY 
+12. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+13. Tiotropium Bromide 1 CAP IH DAILY 
+14. Verapamil SR 180 mg PO Q24H 
+15. Vitamin D 1000 UNIT PO DAILY 
+16. OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - 
+Moderate 
+17. Tizanidine ___ mg PO QHS:PRN lower back muscle spasms 
+18. Azithromycin 250 mg PO 3X/WEEK (___) 
+19. Acetaminophen 1000 mg PO TID 
+20. Aspirin 81 mg PO DAILY 
+21. Clopidogrel 75 mg PO DAILY 
+22. Lidocaine 5% Patch 1 PTCH TD QAM 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PR Q4H:PRN Fever, Pain 
+RX *acetaminophen 650 mg 1 suppository(s) rectally Q4H:PRN Disp 
+#*36 Suppository Refills:*0 
+2.  LORazepam ___ mg IV Q4H:PRN Pain, nausea, discomfort 
+RX *lorazepam [Ativan] 2 mg/mL 2 mg IV Q4H:PRN Disp #*6 Vial 
+Refills:*0 
+3.  Morphine Sulfate 0.5-5 mg/hr IV DRIP TITRATE TO NO 
+RESPIRATORY DISTRESS
+Allow bolus: Yes Bolus: Up to 50% of current Rate<br>Q5MIN:PRN
+ 
+10mg/ml PCA, continuous 0.5-5.0 mg/hr, Bolus ___ Q15min PRN.  
+RX *morphine in 0.9 % NaCl 10 mg/mL 0.5-5 mg/hr IV Continuous 
+Refills:*0 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Large Right Hemispheric Intraparenchymal Hemorrhage; Right 
+Parietal Sub-arachnoid Hemorrhage
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Mr. ___, 
+You were admitted for stroke. You have decided for comfort 
+measures only. You will be transferred to a hospice facility per 
+your family's wishes, where they will ensure your comfort. 
+
+- Your ___ Neurology Team
+ 
+Followup Instructions:
+___

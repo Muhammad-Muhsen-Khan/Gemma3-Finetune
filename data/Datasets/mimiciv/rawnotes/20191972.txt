@@ -1,0 +1,185 @@
+Notes
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+morphine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+urinary tract infection
+ 
+Major Surgical or Invasive Procedure:
+IV antibiotics
+
+ 
+History of Present Illness:
+___ F ___ s/p RA-TLH/BSO/PLND for ___ transferred from ___ with fevers and 
+chills
+found to have UTI. She reports fever to 104 at home and dysuria
+x2 days. She has been taking Tylenol and motrin for fever and
+denies any abdominal pain. She denies CP/SOB/calf pain/N/V/back
+pain.
+
+At ___: Tm 103.___/P showed only normal post-op
+changes. Labs notable for:
+Na 133
+Cr 1.0
+Lactate 2.7
+WBC 11.7
+HCT 32.7
+PTT 120
+UA 1.03, +nitr, sm ___, ___ WBC, ___ RBC, few squam
+
+ 
+Past Medical History:
+GYN HISTORY:
+LMP:  ___ 
+CURRENT CONTRACEPTION: n/a  PREVIOUS: none
+DATE OF LAST PAP SMEAR: unsure 
+HISTORY of Abnormal pap smears: denies
+ISSUES: postmenopausal bleeding
+Never used OCPs, HRT
+Denies h/o STIs or pelvic infections
+h/o yeast infections
+
+OB HISTORY: 
+G7P5
+- D&E, IUFD at term
+- SVD x5, 2 frank breech deliveries, 3 footling breech
+deliveries, in ___ 
+
+PAST MEDICAL HISTORY:
+- HTN
+- T2DM
+- Morbid obesity
+- h/o ischemic colitis due to ?mesenteric artery infarct but no
+e/o large vessel occlusive disease noted intraoperatively, s/p
+partial colectomy
+- Hemorroids, s/p hemorroidectomy
+- Hypothyroidism
+- Hypercholesterolemia
+- Anemia
+- Heart murmur
+- Rectocele
+- Stress urinary incontinence
+- Anatomic narrow angle
+- h/o gout
+- Dry eye syndrome
+- Chronic constipation
+- Alopecia
+- Lower back pain
+
+PAST SURGICAL HISTORY:
+- Open cholecystectomy
+- laparoscopic right hemicolectomy with ileal transverse colon
+anastomosis, ___, ___, op note available in ___
+viewer - per op note, no e/o large vessel occlusive disease
+ 
+Social History:
+___
+Family History:
+Denies h/o thromboembolism, CAD, CVA, breast, ovarian, uterine,
+cervical or colon cancers. Mother with DM. Father with HTN.
+ 
+Physical Exam:
+Admission Physical Exam
+VS 100.3 80 24 115/62 98%RA
+Gen: NAD, well appearing
+CV: RRR
+Pulm: CTAB
+Back: no CVAT
+Abd: obese, soft, +mod suprapubic TTP o/w NT, ND, incisions
+healing well and c/d/I
+Pelvic: NEFG, no blood in vault, healing vaginal cuff with
+physiologic discharge, no palpable masses or collections through
+vaginal walls, uterus and adnexa absent
+Ext: +1 ___ edema b/l, NT 
+
+Discharge Physical Exam
+Afebrile, vitals stable
+No acute distress
+CV: regular rate and rhythm
+Pulm: clear to auscultation bilaterally
+Abd: soft, appropriately tender, nondistended, incision 
+clean/dry/intact, no rebound/guarding
+___: nontender, nonedematous
+
+ 
+Brief Hospital Course:
+Ms. ___ initially presented to ___ with high fever and 
+dysuria. She had an elevated lactate and urine analysis 
+consistent with a UTI. She also had a CT abdomen/pelvis that 
+showed only post-operative changes. She had urine cultures and 
+blood cultures drawn. She was then transferred to ___. At 
+___, she remained febrile and was started on IV ceftriaxone. 
+Her urine and blood cultures were repeated. Her urine cultures 
+from ___ returned with E. coli sensitive to ceftriaxone 
+(MIC <1), levofloxacin (MIC 0.5), nitrofurantoin (MIC <16), 
+bactrim (MIC <20). On ___ at 0820 she had been afebrile for 24 
+hours. She was therefore transitioned to PO levofloxacin. Her 
+lactate also resolved to normal levels, and her blood cultures 
+returned negative. She was discharged to home in stable 
+condition on PO antibiotics, with outpatient follow-up 
+scheduled.  
+
+ 
+Medications on Admission:
+amlodipine 5mg', furosemide 20mg', lisinopril 20mg', metformin 
+500mg', metoprolol ER 25mg', simvastatin 20mg', rivaroxaban 
+20mg', omeprazole 20mg', Tylenol, aspirin, colace 
+ 
+Discharge Medications:
+1. amLODIPine 5 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Acetaminophen ___ mg PO Q6H:PRN fever 
+5. Furosemide 20 mg PO DAILY 
+6. Ibuprofen 600 mg PO Q6H:PRN pain, fever 
+7. Levofloxacin 250 mg PO Q24H 
+Take 10 day course of antibiotics. 
+RX *levofloxacin 250 mg 1 tablet(s) by mouth daily Disp #*10 
+Tablet Refills:*0
+8. Lisinopril 20 mg PO DAILY 
+9. MetFORMIN (Glucophage) 500 mg PO DAILY 
+10. Metoprolol Succinate XL 25 mg PO DAILY 
+11. Omeprazole 20 mg PO DAILY 
+12. Rivaroxaban 20 mg PO DAILY 
+13. Simvastatin 20 mg PO QPM 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+complicated UTI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the GYN Oncology service with a UTI, and 
+were treated with IV antibiotics. Your symptoms and labs 
+improved, and you were transitioned to oral antibiotics. You 
+have recovered well and the team feels you are ready for 
+discharge. Please continue to take your oral antibiotics for a 
+total 10 day course. 
+
+To reach medical records to get the records from this 
+hospitalization sent to your doctor at home, call ___. 
+ 
+Followup Instructions:
+___

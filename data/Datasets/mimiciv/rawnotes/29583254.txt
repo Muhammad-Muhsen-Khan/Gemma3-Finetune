@@ -1,0 +1,256 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+auto
+ 
+Major Surgical or Invasive Procedure:
+CVC placement and removal prior to discharge
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with MM who has  
+enrolled to DF/HCC protocol ___: A Randomized, Phase III 
+Study
+Comparing Conventional Dose Treatment Using a Combination of
+Lenalidomide, Bortezomib, and Dexamethasone (RVD) to High-Dose
+Treatment with Peripheral Stem Cell Transplant in the Initial
+Management of Myeloma in Patients up to ___ Years of Age,
+randomized to Arm B (RVD + ASCT) who presents for autologous 
+stem
+cell transplant with mel prep regimen. Course thus far
+complicated by nausea, diarrhea, generalized fatigue, and
+esophagitis, symptoms improving with count recovery.
+ 
+Past Medical History:
+-Sickle cell trait
+-History of chickenpox in the childhood.
+-Hyperlipidemia since ___. Patient was previously on Lipitor
+which he stopped approximately ___ years ago.
+-History of screening colonoscopy in ___ and ___ without any
+unusual findings
+
+Surgical History: denies 
+
+ONCOLOGIC HISTORY:
+___: Diagnosed with MGUS. Followed ___ x/year.
+___: Monoclonal spike was seen. Patient also developed
+mild anemia. BMBX obtained on ___ showed MATURE TRILINEAGE
+HEMATOPOIESIS WITH EXTENSIVE INFILTRATION BY PLASMA CELL
+MYELOMA (60-70% of marrow cellularity by CD135 stains). 
+
+Protocol ___ Program:
+___: RVD Cycle 1 (Lenalidomide 25 mg days ___ Bortezomib
+1.3 mg/m2 IV days, 1, 4, 8, 11; Dexamethasone 20 mg PO days 1, 
+2,4, 5, 8, 9, 11, 12)
+
+___: RVD Cycle 2 (Lenalidomide 25 mg days ___ Bortezomib 
+1.3mg/m2 IV days, 1, 4, 8; d/t poor venous access D11 Bortezomib
+given subcut; Dexamethasone 20 mg PO days 1, 2, 4, 5, 8, 9, 11,
+12)
+
+___: RVD Cycle 3 (Lenalidomide 25 mg days ___ Bortezomib
+1.3 mg/m2 SC days, 1, 4, 8, 11; Dexamethasone 20 mg PO days 1,
+2,4, 5, 8, 9, 11, 12)
+ 
+Social History:
+___
+Family History:
+Father: alive. 
+Mother: deceased ___ ___ abd ca, (?) colon, (?) ovary.
+Patient is youngest of 7. 
+1 child w/sickle cell. 
+Other child in wheel chair: ptbi
+ 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+GEN:  NAD
+VS: T 97.9 BP 140/78 HR 73 RR 18 O2  100%
+HEENT:  MMM, no OP lesions, no cervical, supraclavicular, or
+axillary LAD
+CV:  Regular, normal S1 and S2 no S3, S4, or murmurs
+PULM:  Clear to auscultation bilaterally
+ABD:  BS+, soft, non-tender, non-distended, no masses, no
+hepatosplenomegaly
+LIMBS:  No edema, no inguinal adenopathy
+SKIN:  No rashes or skin breakdown
+NEURO:  Grossly nonfocal, alert and oriented 
+
+DISCHARGE PHYSICAL EXAM:
+GEN: A & O x 3, NAD
+VS: T 100.0 n 99.1 BP 110/70 HR 89 RR 18 O2 98%RA
+I/O: 1100 on ___
+HEENT: MMM, no cervical, supraclavicular, or axillary LAD. 
+Unable
+to visualize OP lesions
+CV: Regular, normal S1 and S2 no S3, S4, or murmurs
+PULM: Non-labored. Clear to auscultation bilaterally
+ABD: BS+, soft, non-tender, non-distended, no masses, no
+hepatosplenomegaly
+LIMBS: No edema, no inguinal adenopathy
+SKIN: No rashes or skin breakdown, oozing at line site
+NEURO: Grossly non-focal, alert and oriented x 3
+LINE: R CVC C/D/I. No signs of infection
+ 
+Pertinent Results:
+___ 12:00AM BLOOD WBC-8.2 RBC-2.92* Hgb-9.0* Hct-27.3* 
+MCV-94 MCH-30.8 MCHC-33.0 RDW-15.6* RDWSD-52.9* Plt ___
+___ 09:50AM BLOOD WBC-1.8* RBC-3.61* Hgb-10.9* Hct-33.5* 
+MCV-93 MCH-30.2 MCHC-32.5 RDW-15.8* RDWSD-52.3* Plt ___
+___ 12:00AM BLOOD Neuts-45 Bands-2 Lymphs-17* Monos-27* 
+Eos-1 Baso-0 Atyps-2* Metas-1* Myelos-4* Promyel-1* NRBC-1* 
+AbsNeut-3.85 AbsLymp-1.56 AbsMono-2.21* AbsEos-0.08 
+AbsBaso-0.00*
+___ 09:50AM BLOOD Neuts-43.6 ___ Monos-24.7* 
+Eos-0.5* Baso-1.6* Im ___ AbsNeut-0.79* AbsLymp-0.53* 
+AbsMono-0.45 AbsEos-0.01* AbsBaso-0.03
+___ 12:00AM BLOOD Glucose-98 UreaN-14 Creat-0.7 Na-140 
+K-3.7 Cl-103 HCO3-25 AnGap-16
+___ 09:50AM BLOOD UreaN-11 Creat-1.0 Na-139 K-4.8 Cl-102 
+HCO3-30 AnGap-12
+___ 12:00AM BLOOD ALT-24 AST-23 LD(___)-326* AlkPhos-80 
+TotBili-0.1
+___ 09:50AM BLOOD ALT-22 AST-23 LD(LDH)-201 AlkPhos-86 
+TotBili-0.2
+___ 12:00AM BLOOD TotProt-6.6 Albumin-3.4* Globuln-3.2 
+Calcium-8.9 Phos-3.7 Mg-2.0 UricAcd-4.1
+___ 09:50AM BLOOD TotProt-7.6 Albumin-4.3 Globuln-3.3 
+Calcium-9.8 Phos-3.7 Mg-2.2 UricAcd-5.2
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with MM who has
+enrolled to ___ protocol ___ who presents for autologous
+stem cell transplant with melphalan preparatory regimen.
+
+D+16
+
+#MM: s/p 3C of RVD on protocol ___ randomized to transplant
+s/p HD Cytoxan mobilization. 
+-Melphalan 180 mg IV Q24H on Days -3 and -2. ___ and
+___ mg/m2) 
+-tolerated stem cell infusion well with no acute issues
+-infused ___ Total CD34/Kg=8.67e6 x 2 bags
+-Antiemetics/IVF per protocol
+-neupogen D+4 thru count recovery (started ___, d/c on ___
+with count recovery
+-f/u in clinic tomorrow or sooner if issues arise
+
+#Pancytopenia: recovering, WBC and ANC normalized,  no longer
+transfusion dependant 
+-transfuse for hgb <7 and/or plt <10K
+-cis as no longer neutropenic
+
+#Nausea/Decreased appetite: improving with WBC recovery
+-added zyprexa 2.5 BID, d/c today
+-continue Zofran/Ativan prn
+-continue to monitor closely
+
+#Mucositis/Esophagitis: Resolved. throat pain better since
+initiation of morphine pca and basal and improving with count
+recovery. Changed oral meds to IV as much as possible.  Added
+fluconazole ___ due to esophagitis although no visible thrush 
+on
+exam.
+-d/c PCA on ___ oxy prn for further relief
+-changed IV meds back to po on ___
+
+#Diarrhea: resolved. C diff neg ___, continuous IVF and Imodium
+prn 
+
+#Dysuria: Resolved. Dysuria and frequency after stem cell
+infusion, likely secondary to extreme auto diuresis post
+infusion, r/o infection with u/a (neg) and u culture (neg)
+
+#GERD: continue omeprazole while inhouse
+
+#Line oozing: Resolved. hold lovenox with active bleeding,
+consider thrombin if continues, ___ to examine patient.
+-resumed lovenox as line oozing resolved but d/c'd ___ as plt
+<50K
+
+#Infectious prophylaxis:
+- PCP: bactrim to begin D+21 or later if plt still remains <50K 
+- HSV/VZV: acyclovir D-2
+- Bacterial: cipro D-2,off at d/c
+- Fungal: off fluc
+
+Prophylaxes:
+# Access: CVC removed prior to d/c
+# FEN: low bacteria diet
+# Pain control: oxycodone prn 
+# Bowel regimen: prn
+# Disposition: home
+# Code status: Full
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acyclovir 400 mg PO Q8H 
+2. Omeprazole 20 mg PO DAILY 
+3. Ondansetron 8 mg PO Q8H:PRN nausea 
+4. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Acyclovir 400 mg PO Q8H 
+2. Omeprazole 20 mg PO DAILY 
+3. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+hold this medication until the outpatient team tells you to 
+restart 
+4. Ondansetron 8 mg PO Q8H:PRN nausea 
+5. Lorazepam 0.5-1 mg PO Q6H:PRN anxiety,nausea or vomiting if 
+not relieved by ondansetron 
+RX *lorazepam 0.5 mg ___ tabs by mouth every 6 hours as needed 
+Disp #*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+myeloma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear  Mr. ___
+You were admitted for an autologous stem cell transplant. 
+
+You also developed mouth sores, nausea, diarrhea and loss of 
+appetite while you were admitted. These are common side effects 
+after transplant and your symptoms continue to improve.
+Your nausea medications are as follows:
+1 zofran
+2 ativan
+
+You will continue to take acyclovir to prevent infection. You 
+will start to take Bactrim to prevent a certain type of 
+pneumonia once your counts have fully recovered. Your outpatient 
+provider ___ tell you when to start this. 
+
+Please take your temperature twice a day, and call us if it goes 
+above 100.4.  Please be sure to drink at least 2L (64oz) of 
+fluid daily. Call if you are unable to do so, or if you have 
+worsening nausea or watery stools.
+
+It has been a pleasure taking care of you. 
+
+ 
+Followup Instructions:
+___

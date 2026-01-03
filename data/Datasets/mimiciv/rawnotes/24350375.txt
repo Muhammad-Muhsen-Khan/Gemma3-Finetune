@@ -1,0 +1,417 @@
+Notes
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Amoxicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Vaginal bleeding, light headedness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ y.o. perimenopausal F with ESRD ___
+T1DM s/p simultaneous pancreas-kidney ___, 
+HTN,
+with a recent hospitalization from ___ for provoked LLE DVT
+(currently not on anti-coagulation), who is being admitted to 
+the
+Inpatient Medicine Service on ___ for vaginal bleeding and
+anemia (Hgb 6.7). 
+
+She reports having intermittent vaginal spotting for the past 9
+months (perimenopause), but reported LMP ___. Since that time,
+she reports heavy bleeding, requiring anywhere from ___ 
+pads/day.
+In the past, she had irregular cycles, but no dysmenorrhea or
+menorrhagia. 
+
+Aside from taking Tylenol, she has not been taking any NSAIDS.
+Although she was admitted in ___ for LLE DVT for which she 
+was
+previously on warfarin, she reports warfarin was discontinued by
+her PCP ___ ___. 
+
+Since starting her menstrual cycle, she has been experiencing
+fatigue, dyspnea, lightheadedness, headache relieved with
+Tylenol. She also endorses intermittent abdominal cramping. Of
+note, she has baseline diarrhea ___ loose stools/day) for 
+which
+she has been taking loperamide. She is following up with GI as 
+an
+outpatient regarding possible IBS. 
+
+In the ED: 
+Initial vital signs were notable for:
+T 98.2, HR 87, BP 135/89, RR 18, SpO2 99% RA 
+ 
+Exam notable for: pale skin. Pelvic exam notable for no lesions
+or polyps noted in vagina or cervix, blood-tinged mucous at os,
+small amount of blood in vaginal vault, no CMT, clots or 
+abnormal
+discharge.
+
+Labs were notable for:
+CBC: Hgb 6.7, WBC 7.7, Plt 183
+BMP: K 5.5 (repeat whole blood 5.0 without intervention), HCO3
+18, BUN 30, Cr 2.2 (baseline 1.8)
+LDH: 287
+INR: 1.0 
+U/A with small leuk, neg nit, pyuria, few bacteria. UCx pending. 
+
+Urine hcg neg.
+
+Studies performed include:
+___ Renal U/S: Normal renal transplant U/S
+___ TVUS: Heterogeneous endometrium with both echogenic and
+cystic portions, measuring up to 7 mm. These findings may
+represent blood products due to stage of menstrual cycle,
+although underlying polyp or additional lesion is difficult to
+exclude. Recommend gynecologic follow-up and follow-up 
+ultrasound
+___ days after termination of bleeding.
+
+Patient was given: 2U pRBC 
+
+Consults:
+-Renal Transplant recommended 
+-OBGYN not formally consulted, but recommended not to give
+Provera given h/o provoked LLE DVT.
+
+Vitals on transfer:
+T 97.9, HR 87, BP 136/75, RR 18, SpO2 100% RA 
+ 
+Upon arrival to the floor, pt recounts the story as stated 
+above.
+She feels vaginal bleeding has slowed down. She denies any HA,
+dyspnea, lightheadedness or cramping on the floor. She denies
+rhinorrhea, sore throat, cough, CP, palpitations, nausea,
+vomiting, constipation, dysuria, urinary urgency or 
+incontinence.
+
+REVIEW OF SYSTEMS:
+Complete ROS obtained and is otherwise negative.
+
+ 
+Past Medical History:
+ESRD ___ T1DM s/p SPK (___)
+HTN
+Prior h/o squamous cell skin cancer (s/p excision from lip
+___, nose ___
+Provoked LLE DVT
+s/p multiple abd hernia repairs
+s/p ovarian cyst removal 
+s/p appendix removal 
+
+ 
+Social History:
+___
+Family History:
+Mother bladder cancer.
+Father colon cancer (dx age ___, skin cancer.
+Two brothers, sister healthy.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+#ERROR!
+VITALS: T 97.7, 157/82, HR 81, RR 16, 98% RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Horizonal scar and vertical scars from prior abdominal
+surgeries. Normal bowels sounds, non distended, non-tender to
+deep palpation in all four quadrants. 
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN: Warm. No visible rash.
+PELVIC: Exam deferred, as this was recently performed in ED.
+NEUROLOGIC: AOx4. No focal neurologic deficits.
+
+DISCHARGE PHYSICAL EXAM
+#ERROR!
+PHYSICAL EXAM:
+VITALS: 24 HR Data (last updated ___ @ 1421)
+    Temp: 98.3 (Tm 98.3), BP: 165/92 (132-165/64-92), HR: 72
+(72-83), RR: 18 (___), O2 sat: 98% (98-99), O2 delivery: ra  
+GENERAL: Alert and interactive. In no acute distress. Laying
+comfortably in bed
+HEENT: NCAT. PERRL, EOMI. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Horizonal scar and vertical scars from prior abdominal
+surgeries. Normal bowels sounds, non distended, non-tender to
+deep palpation in all four quadrants. 
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN: Warm. No visible rash.
+PELVIC: Exam deferred
+NEUROLOGIC: AOx4. No focal neurologic deficits.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+#ERROR!
+___ 01:45PM BLOOD WBC-7.7 RBC-2.30* Hgb-6.7* Hct-21.3* 
+MCV-93 MCH-29.1 MCHC-31.5* RDW-14.6 RDWSD-49.0* Plt ___
+___ 01:45PM BLOOD Neuts-80.2* Lymphs-14.0* Monos-4.9* 
+Eos-0.4* Baso-0.1 Im ___ AbsNeut-6.17* AbsLymp-1.08* 
+AbsMono-0.38 AbsEos-0.03* AbsBaso-0.01
+___ 01:45PM BLOOD ___ PTT-23.9* ___
+___ 01:45PM BLOOD Glucose-96 UreaN-30* Creat-2.2* Na-141 
+K-5.5* Cl-111* HCO3-18* AnGap-12
+___ 01:45PM BLOOD ALT-8 AST-22 LD(LDH)-287* AlkPhos-54 
+TotBili-<0.2
+___ 01:45PM BLOOD cTropnT-<0.01
+___ 01:45PM BLOOD Lipase-26
+___ 01:45PM BLOOD Albumin-3.9
+___ 01:45PM BLOOD Hapto-110
+___ 03:01PM BLOOD K-5.0
+
+INTERVAL LABS
+#ERROR!
+___ 03:08AM BLOOD WBC-6.9 RBC-2.88* Hgb-8.4* Hct-26.2* 
+MCV-91 MCH-29.2 MCHC-32.1 RDW-13.7 RDWSD-45.7 Plt ___
+___ 07:34AM BLOOD tacroFK-8.0 rapmycn-7.5
+
+DISCHARGE LABS 
+#ERROR!
+___ 07:34AM BLOOD WBC-7.7 RBC-3.46* Hgb-10.2* Hct-31.4* 
+MCV-91 MCH-29.5 MCHC-32.5 RDW-13.9 RDWSD-45.8 Plt ___
+___ 07:34AM BLOOD ___
+___ 03:08AM BLOOD ___
+___ 07:34AM BLOOD Glucose-86 UreaN-27* Creat-2.1* Na-146 
+K-4.9 Cl-115* HCO3-19* AnGap-12
+___ 07:34AM BLOOD ALT-7 AST-16 LD(LDH)-182 AlkPhos-59 
+TotBili-0.2
+___ 07:34AM BLOOD Albumin-4.0 Calcium-9.3 Phos-3.6 Mg-1.5*
+___ 03:08AM BLOOD Hapto-99
+
+STUDIES/IMAGING
+#ERROR!
+Renal transplant US ___
+FINDINGS:  
+The left iliac fossa transplant renal morphology is normal.  
+Specifically, the cortex is of normal thickness and 
+echogenicity, pyramids are normal, there is no urothelial 
+thickening, and renal sinus fat is normal.  There is no 
+hydronephrosis.  Trace pelvic free fluid is noted. 
+  
+The resistive index of intrarenal arteries ranges from 0.59 to 
+0.64, within the normal range.  The main renal artery shows a 
+normal waveform, with prompt systolic upstroke and continuous 
+antegrade diastolic flow, with peak systolic velocity of 125 
+centimeters/second.  Vascularity is symmetric throughout 
+transplant. The transplant renal vein is patent and shows normal 
+waveform. 
+IMPRESSION:  
+Normal renal transplant ultrasound. 
+
+Pelvic ultrasound transvaginal ___
+FINDINGS:  
+  
+The uterus is anteverted and measures 7.8 x 3.5 x 4.5 cm.  The 
+endometrium is heterogeneous, shows both echogenic and cystic 
+portions, and measures 7 mm.  
+No internal blood flow is seen within the endometrium.  These 
+findings may 
+represent blood products due to stage of the menstrual cycle, 
+although 
+underlying polyp or additional lesion is difficult to exclude. 
+  
+The ovaries are normal.  There is no free fluid. 
+  
+IMPRESSION:  
+Heterogeneous, avascular endometrium with both echogenic and 
+cystic portions, measuring up to 7 mm.  These findings may 
+represent blood products due to stage of menstrual cycle, 
+although underlying polyp or additional lesion is not excluded 
+and may be present.  Recommend gynecologic follow-up and 
+follow-up ultrasound ___ days after termination of bleeding. 
+  
+RECOMMENDATION(S):  Recommend gynecologic follow-up and 
+follow-up ultrasound ___ days after termination of bleeding.  
+If finding persists, possible sonohysterogram. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ y.o. perimenopausal F with ESRD ___ 
+T1DM s/p simultaneous pancreas-kidney ___, 
+HTN, with a recent hospitalization from ___ for provoked 
+LLE DVT (currently not on anti-coagulation), who was admitted to 
+the Inpatient Medicine Service on ___ for vaginal bleeding and 
+anemia (Hgb 6.7), as well as mild ___, improved after 2u pRBC 
+transfusions. 
+
+ACTIVE ISSUES:
+#ERROR!
+#Anemia
+#Vaginal bleeding
+Hgb 6.7 at admission, for which pt received 2U pRBC in ED. TVUS 
+in ED notable for heterogenous endometrium measuring up to 7mm 
+that may represent blood products, but underlying polyp could 
+not be excluded. Pt is also perimenopausal. Hb responed well to 
+2u pRBC and vaginal bleeding improved during time here. Seen by 
+OB/GYN and given improvement they recommended outpatient follow 
+up. Hemolysis labs negative. Provera deferred given history of 
+DVT. 
+
+#ESRD ___ ___ s/p SPK ___
+#Hyperkalemia
+#Immunosuppresion.
+Cr 2.2 at admission (Baseline Cr 1.6-2.0). Renal U/S in ED 
+without concerning findings. Seen by Renal in ED who felt 
+possibly pre-renal ___ on ESRD iso acute anemia. K initially 
+elevated to 5.5, but repeat whole blood 5. Renal recommended 1
+amp HCO3, however pt refused this as she has experienced diffuse 
+joint pain twice in the past after receiving HCO3. Held home 
+Lisinopril iso ___ and mild hyperK, started on amlodipine 
+instead. Tacro level mildly elevated but continued home dose 
+with plan for close outpatient follow up with lab check. 
+Continued other home immunosuppresants 
+
+#Hypomagnesia
+Replete with PO mag on day of discharge
+
+CHRONIC ISSUES:
+#ERROR!
+#LLE DVT
+Off coumadin. Gave SQ hep bid 
+
+#Nutrition
+Nutriton consulted re: poor diet, recommended more vegetables 
+and fruit. 
+
+#HTN
+Holding home Lisinopril ,starting amlodipine 5mg.
+
+#IBS/Diarrhea
+Contine loperamide PRN
+
+Transitional Issues
+#ERROR!
+Discharge Cr: 1.2
+Discharge Hb: 10.2
+Tacro level: 8.0
+Sirolimus level: 7.5
+
+[] Please check Chem-10, CBC, and tacro/siro level on ___ AM.
+[] For HTN: Lisinopril held iso ___ and hyperkalemia. Patient 
+started on amlodipine 5mg on day of discharge. Please follow up 
+blood pressure at outpatient follow up. 
+[] Sodium bicarb increased to 1300 BID per renal 
+recommendations, please assess need for increased dose after lab 
+check ___
+[] Patient had Mag of 1.5 on day of discharge, repleted with PO 
+mag, please consider supplements if remains low on ___ check
+[] Heterogeneous, avascular endometrium with both echogenic and 
+cystic portions, 
+measuring up to 7 mm.  These findings may represent blood 
+products due to 
+stage of menstrual cycle, although underlying polyp or 
+additional lesion is 
+not excluded and may be present.  Recommend gynecologic 
+follow-up and 
+follow-up ultrasound ___ days after termination of bleeding. 
+
+#CODE: Full Code (confirmed with patient on ___
+#HCP: ___, ___ 
+#Alternate HCP: ___, ___ 
+
+>30 minutes spent on discharge planning including face to face 
+time
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 5 mg PO DAILY 
+2. LOPERamide 2 mg PO BID 
+3. PredniSONE 2.5 mg PO DAILY 
+4. Sirolimus 2 mg oral DAILY 
+5. Tacrolimus 2 mg PO Q12H 
+6. Fish Oil (Omega 3) 1000 mg PO DAILY 
+7. Vitamin D 1000 UNIT PO DAILY 
+8. Sodium Bicarbonate 650 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Magnesium Oxide 400 mg PO BID Duration: 2 Doses 
+RX *magnesium oxide 400 mg 1 tablet(s) by mouth once Disp #*1 
+Tablet Refills:*0 
+3.  Sodium Bicarbonate 1300 mg PO BID 
+RX *sodium bicarbonate 650 mg 2 tablet(s) by mouth twice a day 
+Disp #*120 Tablet Refills:*0 
+4.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+5.  LOPERamide 2 mg PO BID  
+6.  PredniSONE 2.5 mg PO DAILY  
+7.  Sirolimus 2 mg oral DAILY  
+8.  Tacrolimus 2 mg PO Q12H  
+9.  Vitamin D 1000 UNIT PO DAILY  
+10. HELD- Lisinopril 5 mg PO DAILY  This medication was held. Do 
+not restart Lisinopril until you see your doctor
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+#ERROR!
+Vaginal bleeding
+Acute blood loss anemia
+
+Secondary
+#ERROR!
+___
+Renal and pancreatic transplant
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You had vaginal bleeding and needed a blood transfusion  
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You had a blood transfusion and your blood counts got better
+- The kidney transplant doctors saw ___ and made some changes to 
+your blood pressure medications 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+-Please continue to take all of your medications and follow-up 
+with your appointments as listed below. There have been changes 
+in your medications
+-Please go to the ___ on ___ in the 
+morning to get repeat labs done
+- Please seek medical attention if your vaginal bleeding worsens
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___

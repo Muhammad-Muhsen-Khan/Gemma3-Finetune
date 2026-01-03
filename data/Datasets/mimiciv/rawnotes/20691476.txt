@@ -1,0 +1,400 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+NSAIDS (Non-Steroidal Anti-Inflammatory Drug) / Penicillins / 
+Tylenol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+Chest Tube Placement (___)
+
+ 
+History of Present Illness:
+Ms ___ is a ___ year old woman with a history of NASH
+cirrhosis complicated by chylous pleural effusion (___),
+hepatic encephalopathy, and esophageal varices, status post
+banding, who presents with abnormal labs (concerning for ___,
+hyponatremia) and reaccumulation of right-sided pleural 
+effusion.
+She went to her outpatient GI on ___ and was found to have
+hyponatremia and a CXR showed reaccumulation of R-pleural
+effusion, and she was told to present to the ___ ED. Patient
+has developed progressive cough and dyspnea over the past 
+several
+days. Denies fever, chills, chest pain, abdominal pain, 
+headache,
+confusion, dizziness/lightheadedness, nausea, vomiting, 
+diarrhea,
+hematemesis, melena, hematochezia. She endorses worsening
+bilateral pedal edema.
+
+In the ED: Bedside U/S revealed no ascites pocket.
+
+Initial vital signs were notable for:
+97.4  101  121/54  20  96% RA 
+
+Exam notable for: Tachycardia, no oxygen requirement
+
+Labs were notable for:
+
+125  92  34     
+------------< 107 
+5.2  21  1.4 
+
+3.8 > 12.9/36.5 <  43 
+
+___: 15.7  PTT: 25.0  INR: 1.5
+
+AST: 63  ALT: 48  AP: 104  Tbili: 2.8  Alb: 3.8 
+ 
+UA with 12 WBC and few bacteria
+
+Studies performed include:
+CHEST (PA & LAT)
+Wet read:
+Interval progression in size of moderate right pleural effusion.
+Similar appearance of right midlung linear consolidation, likely
+atelectasis. 
+
+Patient was given: None
+
+Consults: None
+
+Vitals on transfer:
+96  ___  97% RA 
+ 
+Upon arrival to the floor, patient endorses mild dyspnea and
+non-productive cough of ~1wk duration. Denies fevers, chills.
+Denies chest pain. She endorses a 5lb weight gain over past 
+week.
+Reports strict adherence to low sodium, low fat diet, no missed
+medication doses. She reports drinking ~1.5-2L water daily.
+Denies melena, hematochezia, hematemesis. Denies abdominal pain,
+bloating. Denies confusion, lethargy. Denies dysuria, urinary
+frequency.
+
+ 
+Past Medical History:
+___ cirrhosis
+Hepatic encephalopathy
+Obesity
+GERD
+dysphagia
+ 
+Social History:
+___
+Family History:
+Mother - CHF, breast/colon cancer
+Father - CHF
+___ - 2 brothers (1 wheelchair bound, obese, DM. Other
+healthy)
+ 
+Physical Exam:
+Admission
+=========
+VITALS: 98.1  107/68  102  18  96% RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Normal rate and rhythm. Normal S1 and S2. Grade ___
+systolic ejection murmur heard loudest at base.
+LUNGS: Decreased breath sounds at right base. No wheezes, 
+rhonchi
+or rales. No accessory muscle use.
+ABDOMEN: Normal bowel sounds. Soft, non-distended. Mild
+suprapubic tenderness to palpation without rebound or guarding.
+No organomegaly. No fluid wave. No shifting dullness.
+EXTREMITIES: No clubbing or cyanosis. 1+ pitting edema
+bilaterally to mid shin. 2+ pedal pulses bilaterally.
+NEUROLOGIC: AAOx3. Able to name days of the week backwards. No
+asterixis. ___ strength throughout. Normal sensation.
+
+Discharge
+==========
+___ ___ Temp: 98.4 PO BP: 98/61 L Lying HR: 83 RR: 18 O2
+sat: 94% O2 delivery: Ra 
+GENERAL: Older woman in NAD
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric. MMM.
+NECK: No JVD.
+CARDIAC: RRR. Normal S1 and S2. Grade ___ systolic murmur
+LUNGS: Clear, trace crackles at right base
+ABDOMEN: NT, nondistended.  No fluid wave. No shifting dullness.
+EXTREMITIES: No clubbing or cyanosis. 1+ non-pitting edema in ___
+NEUROLOGIC: AAOx3. 
+
+ 
+Pertinent Results:
+Admission
+=========
+
+___ 02:52PM BLOOD WBC-3.8* RBC-3.71* Hgb-12.9 Hct-36.5 
+MCV-98 MCH-34.8* MCHC-35.3 RDW-13.0 RDWSD-46.3 Plt Ct-43*
+___ 02:52PM BLOOD ___ PTT-25.0 ___
+___ 02:52PM BLOOD Glucose-107* UreaN-34* Creat-1.4* Na-125* 
+K-5.2 Cl-92* HCO3-21* AnGap-12
+___ 02:52PM BLOOD ALT-48* AST-63* LD(LDH)-244 AlkPhos-104 
+TotBili-2.8*
+___ 07:22AM BLOOD Albumin-4.4 Calcium-9.3 Phos-3.3 Mg-2.3
+___ 08:08AM BLOOD Triglyc-41 HDL-40* CHOL/HD-3.0 LDLcalc-71
+
+Discharge
+===========
+
+___ 07:30AM BLOOD WBC-1.2* RBC-2.88* Hgb-10.0* Hct-28.7* 
+MCV-100* MCH-34.7* MCHC-34.8 RDW-13.3 RDWSD-48.6* Plt Ct-40*
+___ 07:30AM BLOOD ___
+___ 07:30AM BLOOD Plt Ct-40*
+___ 07:30AM BLOOD Glucose-102* UreaN-35* Creat-1.0 Na-138 
+K-4.5 Cl-102 HCO3-20* AnGap-16
+___ 07:30AM BLOOD ALT-29 AST-41* LD(LDH)-147 AlkPhos-89 
+TotBili-1.6*
+___ 07:30AM BLOOD Albumin-4.2 Calcium-9.0 Phos-3.1 Mg-2.0
+
+Studies
+===========
+___ CXR
+Interval progression in size of moderate right pleural effusion 
+with near 
+complete collapse of the right middle and lower lobes. 
+
+___ RUQ US
+1. Cirrhotic liver with splenomegaly, trace ascites and large 
+right pleural 
+effusion.  No focal liver lesions identified. 
+2. Patent portal veins with normal directional flow. 
+3. Mild right hydronephrosis is unchanged going back to ___. 
+  
+___ TVUS
+1. Mildly heterogeneous and thickened endometrium up to 14 mm 
+with smooth 
+outer margin.  This could represent hyperplasia, a polyp, or 
+less likely 
+endometrial cancer.  Consultation with a gynecologist is 
+recommended and if 
+biopsy is not performed, follow-up ultrasound in 3 months is 
+recommended. 
+2. Moderate volume free pelvic fluid. 
+
+___ CT Chest
+1.  Near complete resolution of right-sided pleural effusion 
+status post 
+placement of chest tube. 
+2.  Small right pneumothorax has increased since ___. 
+3.  Increased consolidation in the right middle lobe with air 
+bronchograms, 
+which is could represent residual pneumonia. 
+4.  Improved aeration of the bilateral lower lobes with residual 
+atelectasis 
+in the right lower lobe. 
+5.  Unchanged 5 mm pulmonary nodule in the left upper lobe.  
+Please see 
+recommendations below. 
+
+___ CXR
+Recurrent small right pleural effusion. No evidence of right 
+pneumothorax.
+
+ 
+Brief Hospital Course:
+Ms ___ is a ___ F hx of NASH cirrhosis (c/b varices s/p 
+banding, chylothorax,
+hepatic encephalopathy), admitted for hyponatremia and worsening 
+pleural effusion, and found to have recurrent hepatic 
+chylothorax. This was treated with chest tube placement and 
+drainage on ___. She was then restarted on diuretics and 
+optimized her regimen based on renal function. 
+
+=============
+ACUTE ISSUES:
+=============
+
+# Pleural effusion
+# Hepatic Chylothorax
+Patient presented with pleural effusion, in the setting of 
+recent admission in ___ for hepatic chylothorax. Chest tube 
+placed on ___, with pleural fluid studies consistent with 
+chylothorax (triglycerides of 150). Patient without any other 
+obvious etiology for chylothorax, as she was without any history 
+of recent surgery, underlying lymphoma, tuberculosis, or trauma. 
+The effusion was drained on ___ with over a liter output, chest 
+tube removed on ___. Patient was started and optimized on a 
+diuretic regimen, which ultimately was furosemide 20mg qd and 
+spironolactone 50mg qd. It was discussed with the patient should 
+undergo TIPS procedure, and decided that prior to this procedure 
+a lymphangiogram was warranted to ensure no other reason for 
+chylous leakage. This will be arranged as an outpatient - but is 
+tentatively scheduled for ___. She will continue on the 
+diuretic regimen as above, and will continue on a low fat diet. 
+
+# CAP
+# Bronchiectasis
+CT scan after pleural effusion drainage was concerning for a 
+small right middle lobe pneumonia as well as bronchiectasis. It 
+was treated with 5 day course of cefpodoxime 400 mg q12 hr and 
+flagyl 500 mg. Interventional pulmonary recommended a 
+bronchoscopy as a outpatient for further management of 
+bronchiectasis. 
+
+#Acutely decompensated NASH cirrhosis, resolved
+MELD score of 27 on admission, with worsening hepatic 
+hydrothorax and peripheral edema consistent with decompensated 
+cirrhosis. She was continued on home rifaximin. She will be 
+discharged on rifaximin and oral diuretics as above. She is 
+being follow up with Liver Transplant on ___.
+
+___
+Creatinine initially up to 1.4 from baseline of 1.0, likely 
+prerenal in the
+setting of mild overdiuresis. Renal function improved after 
+initially holding diuretic regimen. Diuretics were gradually 
+restarted, and patient tolerated a regimen of Lasix 20 mg and 
+spironolactone 50 mg daily without worsening renal function. Her 
+discharge Creatinine was 1.0.
+
+#Thrombocytopenia
+#Leukopenia
+Patient has chronic thrombocytopenia and leukopenia, likely ___ 
+cirrhosis. Levels were stable at her baseline.
+
+#Abnormal uterine bleeding
+On review of systems, patient endorsed small amount of abnormal 
+vaginal bleeding, seen by urology as outpatient, concerning for 
+abnormal uterine bleeding. She received a transvaginal 
+ultrasound, showing endometrial thickening consistent with 
+endometrial hyperplasia, which will need a biopsy as an 
+outpatient. 
+
+===============
+CHRONIC ISSUES:
+===============
+#GERD
+Continued home omeprazole 20mg daily
+
+#Hypothyroidism
+Continued home levothyroxine 88mcg daily except ___
+
+Transitional Issues:
+====================
+[ ] Will need to undergo lymphangiogram with ___ in the near 
+future - tentatively scheduled for ___
+[ ] Follow up Chem-7, CBC, and LFTs - to be obtained on 
+___. 
+[ ] Adjust Lasix/Spironolactone as needed depending on labs and 
+respiratory symptoms
+[ ] Follow up with IP for repeat bronchoscopy within ___ weeks 
+given findings of bronchiectasis - IP to arrange appointment.
+[ ] Needs to see a gynecologist to have further work up for 
+abnormal uterine bleeding. She can either be referred to someone 
+local by her PCP, or call ___ and set up an appointment 
+with the resident gynecology clinic at ___. 
+
+#CODE: Full, presumed
+#CONTACT: ___ (husband) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q4H:PRN Cough 
+2. Spironolactone 100 mg PO DAILY 
+3. Rifaximin 550 mg PO BID 
+4. Omeprazole 20 mg PO DAILY 
+5. Furosemide 40 mg PO DAILY 
+6. Levothyroxine Sodium 88 mcg PO 6X/WEEK (___) 
+7. Vitamin B Complex 1 CAP PO DAILY 
+8. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Furosemide 20 mg PO DAILY 
+RX *furosemide 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Spironolactone 50 mg PO DAILY 
+RX *spironolactone 50 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  Albuterol Inhaler 2 PUFF IH Q4H:PRN Cough  
+4.  Levothyroxine Sodium 88 mcg PO 6X/WEEK (___)  
+5.  Omeprazole 20 mg PO DAILY  
+6.  Rifaximin 550 mg PO BID  
+7.  Vitamin B Complex 1 CAP PO DAILY  
+8.  Vitamin D 1000 UNIT PO DAILY  
+9.Outpatient Lab Work
+ICD-9:
+N17.9 (Acute Renal Failure)
+K74.69 (Cirrhosis)
+
+Chem 10 (Na, K, Cl HCO3, BUN, Cr, gluc, mg, phos, ca)
+CBC (with diff)
+LFTs (AST, ALT, Albumin, INR, AlkPhos, T Bili, LDH)
+
+Please fax results to Dr. ___ Dr ___ at ___ liver 
+center:
+___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+Pleural Effusion
+Chylothorax
+Community acquire pneumonia
+Bronchiectasis
+Acute kidney injury
+Hyponatremia
+
+Secondary:
+___ Cirrhosis
+Thrombocytopenia
+Leukopenia
+NASH
+GERD
+Hypothyroidism
+Abnormal Uterine Bleeding
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___,  
+
+It was a pleasure to care for you at the ___ 
+___.  
+
+Why did you come to the hospital?  
+-You came to the hospital because you were short of breath
+
+What did you receive in the hospital?  
+-You had a reaccumulation of fluid in the base of the right lung
+-A chest tube was placed that drained that fluid
+-We treated you for a pneumonia
+-We started new medications, called diuretics, which will help 
+try to prevent or slow down reaccumulation of the fluid
+-We tried to arrange for a lymphagiogram to see if there was a 
+vessel that was leaking into your lungs - this is being 
+scheduled for the near future
+
+What should you do once you leave the hospital?  
+-Continue to take your medications (as below)
+-Be sure to follow-up with your doctors as listed below
+
+___ wish you the best!  
+
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

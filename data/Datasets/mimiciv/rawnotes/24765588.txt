@@ -1,0 +1,356 @@
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+citalopram / iron
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain, nausea, vomiting
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of ___ disease s/p multiple abdominal 
+surgeries (most recently, ___, ex lap, small bowel 
+resection, ileostomy revision for perforated SBO), PE on 
+coumadin, intra-abdominal abscesses on ertapenem, who presents 
+with persistent LLQ pain, N/V, & inability to take PO. Patient 
+states she developed LLQ pain over the weekend. She had pizza at 
+a ___ game on ___ night, then on ___ afternoon she 
+started to feel LLQ pain. This has been a/w nausea and 3 
+episodes of NBNB emesis, worse with food & meds. Pain does not 
+radiate. She presented to the ED on the night of ___, CRC 
+evaluated; KUB reassuring, no further imaging or Abx given. She 
+continues to take ertapenem for splenic abscess. She was 
+discharged from the ED yesterday morning, slept for a few hours, 
+woke up with LLQ pain. Tried eating, vomited. Fever 100.7 at 
+home (first fever). She also noticed looser, increased ostomy 
+output. She re-presented to the ED given persistent pain and 
+inability to tolerate POs.  
+
+In the ED, initial vital signs were: 98.4 100 ___ 99% RA. 
+ 
+- Exam was notable for: nontoxic appearance, Abd: ostomy, 
+surgical scar c/d/I; LLQ tenderness, no rebound/guard but very 
+tender.  
+
+- Labs were notable for: wbc 7, H/H 8.2/26.5, normal serum 
+chemistries. UA with moderate leuks, 7 wbcs, few bacteria.  
+- Imaging: CT A/P with contrast: 1. Previously seen presacral 
+and perisplenic fluid collections are smaller compared to prior. 
+ 
+2. Fluid collection near the dome of the liver is slightly 
+larger compared to prior. US spleen: Small amount of fluid 
+surrounding the spleen appears similar to the prior ultrasound 
+of ___.  
+
+- The patient was given: 1L NS, dilaudid and acetaminophen for 
+pain control.  
+
+- Consults: colorectal surgery, "Pt's CT reviewed. Overall 
+improved picture from prior, with decrease in previous presacral 
+and perisplenic collections and no leukocytosis to suggest 
+persistent infection. NO surgical interventions or admission 
+necessary. Would continue antibiotics until completion."  
+
+- Pt was admitted to medicine for: "currently not tolerating POs 
+and feels uncomfortable going home given recent failure to 
+tolerate PO/pain control at home. will admit for symptom control 
+in the context of PO intolerance."  
+
+Vitals prior to transfer were: 97.9 74 104/67 17 99% RA.  
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:
+- PE ___
+- Tib-fib fx (___) s/p ORIF, c/b osteomyelitis
+- ___ disease (___): Currently on Xeljanz, previously on 
+Humira, Remicade, ___. Followed by  Dr. ___ and Dr. 
+___ at ___
+- Post-surgical DVT (___): in LLE, s/p 6 month course of 
+Coumadin
+- ___ pyoderma gangrenosum (___): Followed by Dr. ___ 
+___ at ___
+- H. pylori (___)
+- C. difficile (___)
+- Acute pancreatitis (___)
+- Serotonin syndrome (___)
+- Depression
+- Headache (migraine and tension)
+- Bruxism/TMJ: uses nightguard
+- S/p sialolithiasis
+
+PAST SURGICAL HISTORY:  
+- ORIF tib-fib fx (___)
+- Examination under anesthesia, placement ___ through the 
+primary rectovaginal fistula and excision of skin tags (___)
+- Lap diverting ileostomy (___)  
+- Excision of fistulous track and primary repair of vaginal 
+canal, perineal vaginal mucosa (___)
+- Lap left hemicolectomy, proctectomy and excision of anus w/ 
+end colostomy, takedown of ileostomy (___)
+- Lap completion colectomy w/ end ileostomy (___)
+- Revision of ileostomy (___)
+- Revision of ileostomy and debridement and drainage of abscess 
+cavity (___)
+- Transvaginal revision of levatorplasty (release of mid vaginal 
+band) (___)
+- Exploratory laparoscopy,resection and revision of end 
+___
+- Exploratory laparotomy, revision of ileostomy with 
+extraperitonealization of the ileostomy (___)
+- Exploratory laparotomy, resection of perforated bowel and 
+revision of ileostomy (___)
+
+ 
+Social History:
+___
+Family History:
+-Mother: HTN, T2DM, hypercholesterolemia, ___ (diagnosed as 
+adult)
+-Father: ___ on ___ with pacemaker, s/p TIA during 
+procedure
+-Older brother: obesity
+-MGM (deceased): lung cancer, smoking
+-MGF (deceased): MI in ___, deceased
+-PGM (deceased): pancreatic cancer, deceased
+-PGF (deceased): MI in ___
+-Paternal cousin: ___
+-Paternal uncle: CVA in ___
+-No history of melanoma, breast, ovarian, or colon cancer
+ 
+Physical Exam:
+>> ADMISSION PHYSICAL EXAM:
+VITALS: T 97.9 P 68 BP 101/58 RR 16 Sat 98% RA
+GENERAL: Pleasant, well-appearing, in no apparent distress.  
+HEENT - normocephalic, atraumatic, no conjunctival pallor or 
+scleral cterus, PERRLA, EOMI, OP clear.  
+NECK: Supple, normal ROM  
+CARDIAC: RRR, normal S1/S2, no murmurs rubs or gallops.  
+PULMONARY: Clear to auscultation bilaterally, without wheezes or 
+rhonchi.  
+ABDOMEN: Soft, non-distended. Midline surgical incision clean 
+and dry. Tap tenderness over left abdomen without rebound or 
+guarding. Mildly TTP over right abdomen. 
+EXTREMITIES: Warm, well-perfused, no cyanosis, clubbing or 
+edema.  
+SKIN: Without rash.  
+NEUROLOGIC: A&Ox3, CN II-XII grossly normal, normal sensation, 
+with strength ___ throughout.  
+.
+>> DISCHARGE PHYSICAL EXAM:
+VITALS: Tmax 98.6 BP ___ P ___ RR 18 Sat 95-100% RA
+GENERAL: Pleasant, well-appearing, in no apparent distress.  
+HEENT: MMM, OP clear 
+CARDIAC: RRR, normal S1/S2, no murmurs rubs or gallops.  
+PULMONARY: Clear to auscultation bilaterally, without wheezes or 
+rhonchi.  
+ABDOMEN: Soft, non-distended. Midline surgical incision clean 
+and dry. Mild tap tenderness over left abdomen without rebound 
+or guarding. Mildly TTP over right abdomen. 
+EXTREMITIES: Warm, well-perfused, no cyanosis, clubbing or 
+edema.  
+SKIN: Without rash. 
+ 
+Pertinent Results:
+>> ADMISSION LABS:
+___ 08:45PM BLOOD WBC-7.0 RBC-3.16* Hgb-8.2* Hct-26.5* 
+MCV-84 MCH-25.9* MCHC-30.9* RDW-21.9* RDWSD-67.4* Plt ___
+___ 08:45PM BLOOD Neuts-70.8 Lymphs-18.3* Monos-8.3 Eos-2.0 
+Baso-0.3 Im ___ AbsNeut-4.92 AbsLymp-1.27 AbsMono-0.58 
+AbsEos-0.14 AbsBaso-0.02
+___ 08:45PM BLOOD Glucose-89 UreaN-5* Creat-0.8 Na-141 
+K-3.6 Cl-106 HCO3-25 AnGap-14
+___ 08:45PM BLOOD ALT-23 AST-24 AlkPhos-122* Amylase-63 
+TotBili-0.1
+___ 08:45PM BLOOD Lipase-79*
+___ 08:45PM BLOOD CRP-29.9*
+.
+>> DISCHARGE LABS:
+___ 05:15AM BLOOD CK(CPK)-21*
+___ 05:15AM BLOOD WBC-6.8 RBC-3.28* Hgb-8.6* Hct-27.7* 
+MCV-85 MCH-26.2 MCHC-31.0* RDW-21.2* RDWSD-64.6* Plt ___
+___ 05:15AM BLOOD ___
+___ 05:15AM BLOOD Glucose-68* UreaN-8 Creat-0.8 Na-137 
+K-3.8 Cl-102 HCO3-25 AnGap-14
+___ 04:51AM BLOOD ALT-18 AST-20 LD(LDH)-117 AlkPhos-120* 
+TotBili-0.1
+___ 05:15AM BLOOD Calcium-9.1 Phos-3.8 Mg-1.7
+.
+>> INTERVAL LABS:
+___ 06:13AM BLOOD ___
+___ 04:51AM BLOOD ___ PTT-49.0* ___
+
+ 
+Brief Hospital Course:
+___ with history of ___ disease s/p multiple abdominal 
+surgeries (most recently, ___, ex lap, small bowel 
+resection, ileostomy revision for perforated SBO), and several 
+intra-abdominal abscesses, who was admitted with LLQ pain, N/V, 
+& inability to take PO.  
+.
+>>ACTIVE ISSUES:
+# Abdominal abscesses: Ms. ___ presented with four 
+days of abdominal pain and nausea, with borderline leukocytosis 
+and CRP 33 (down from previous admissions). A CT abdomen and 
+pelvis demonstrated a slight increase in size of her perihepatic 
+fluid collection, with slight decrease in size of her other 
+collections. The perihepatic collection was not able to be 
+sampled safely by ___. Infectious disease was consulted and 
+recommended changes in her antibiotic regimen: home ertapenem -> 
+cefepime/metronidazole -> meropenem -> meropenem/vancomycin -> 
+meropenem/daptomycin. Ultimately, daptomycin was added 
+empirically to her home ertapenem for enterococcus coverage, 
+with ease of monitoring as the advantage over vancomycin. She 
+was discharged on daptomycin/ertapenem. 
+.
+Aside from the possible worsening abdominal abscess, no other 
+etiologies for the patient's pain were identified. It is 
+possible that abscesses plus adhesions (given extensive surgical 
+history) led to some diffuse pain and motility issues. Her pain 
+was best controlled with IV dilaudid and liquid oxycodone (which 
+she feels she absorbs better). Her nausea improved with Zofran 
+and bowel rest, and she was able to advance to a regular diet by 
+the time of discharge. 
+.
+# ___ disease: s/p colectomy and end ileostomy, c/b multiple 
+SBO's c/b perforation in ___, s/p small bowel resection, 
+which was c/b multiple abdominal abscesses, and more recently 
+with development of enterocutaneous fistula. Given CRP much 
+lower than previous admissions, this was thought not to be a 
+___ flare. The patient was continued on her home tofacitinib 
+(Xeljanz).
+.
+>> STABLE ISSUES:
+# Pulmonary Embolism: Patient was diagnosed with PE during her 
+hospitalization ___. During this hospitalizations he 
+had no hypoxia or respiratory distress. Her warfarin dose was 
+adjusted a few times to maintain INR ___. Her INR was 1.8 on the 
+day of discharge, and she was discharged on her home dose of 
+3mg.
+
+# Normocytic Anemia: Her H/H on admission was 8.___.2, stable 
+from prior values. Her H/H remained stable on the floor with a 
+discharge Hb of 8.6. Previous labs have been consistent with 
+anemia of chronic disease, which we suspect continues to be the 
+underlying cause.
+.
+# GERD: continued on home omeprazole. No issues while in house.
+.
+# Depression: continued on home bupropion. No mood issues while 
+in house.
+.
+# Migraine: home sumatriptan was held. She had no headaches.
+.
+>> TRANSITIONAL ISSUES:
+# Intra-abdominal Abscess: Patient to continue ertapenem and 
+daptomycin upon discharge from hospital. Patient enrolled in 
+___, and will have f/u labs performed weekly and faxed to OPAT 
+office including CBC with diff, Chem-7, LFTs, and CK. 
+# Abdominal Pain: Patient transitioned to 10 mg every 6 hours 
+PRN for pain. Pharmacy contacted regarding adequate dosing. 
+Would consider further pain consultation, long acting opiates 
+(methadone?) as outpatient if continues to be elevated. 
+# Pulmonary Embolism: Patient's discharge INR 1.8. Please 
+continue to check INR on ___, and fax results to Dr. ___ 
+___, PCP. 
+# Nausea/Vomiting: Patient ___ benefit from gastric emptying 
+study as outpatient. 
+# ___ Disease: Patient to continue home Xeljan. 
+# Pending Labs: Please follow up blood culture, negative growth 
+to date upon discharge. 
+# CONTACT: Husband ___ ___ 
+# CODE STATUS: Full code
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. BuPROPion 75 mg PO BID 
+2. Acetaminophen 650 mg PO Q6H:PRN pain 
+3. HYDROmorphone (Dilaudid) ___ mg PO Q6H:PRN moderate-severe 
+pain 
+4. Omeprazole 40 mg PO BID 
+5. tofacitinib 5 mg oral BID 
+6. Calcium Carbonate 500 mg PO DAILY 
+7. Vitamin D 200 UNIT PO DAILY 
+8. lactobacillus combination ___ billion cell oral DAILY 
+9. Warfarin 3 mg PO DAILY 
+10. Sumatriptan Succinate 100 mg PO ONCE headache 
+
+ 
+Discharge Medications:
+1. Daptomycin 350 mg IV Q24H 
+RX *daptomycin [Cubicin] 500 mg 350 mg IV daily Disp #*28 Vial 
+Refills:*0
+2. Ertapenem Sodium 1 g IV 1X Duration: 1 Dose 
+RX *ertapenem [Invanz] 1 gram 1 gram IV daily Disp #*28 Vial 
+Refills:*0
+3. Acetaminophen 650 mg PO Q6H:PRN pain 
+4. BuPROPion 75 mg PO BID 
+5. Omeprazole 40 mg PO BID 
+6. Warfarin 3 mg PO DAILY 
+7. OxycoDONE Liquid 10 mg PO Q6H:PRN moderate pain 
+RX *oxycodone 5 mg/5 mL 10 mg by mouth every 6 hours Refills:*0
+8. Calcium Carbonate 500 mg PO DAILY 
+9. lactobacillus combination ___ billion cell oral DAILY 
+10. Sumatriptan Succinate 100 mg PO ONCE headache 
+11. tofacitinib 5 mg oral BID 
+12. Vitamin D 200 UNIT PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES 
+___ disease 
+Intra-abdominal infection 
+ 
+SECONDARY DIAGNOSES 
+Pulmonary embolism 
+Anemia 
+GERD 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure taking care of you at ___. You were admitted 
+to the hospital with abdominal pain, nausea, and vomiting.
+
+A CT scan showed that the fluid collections in your abdomen were 
+about the same size as before, with the one around your liver 
+being slightly larger. Lab tests showed anemia and an elevated 
+alkaline phosphatase level. Both of these were consistent with, 
+or even a little better than your previous levels. 
+
+You were given IV fluids, IV and oral pain medications, as well 
+as most of your home medications. We changed your antibiotics in 
+order to make sure that we are treating the abdominal infection, 
+so you will take ertapenem and daptomycin when you go home. 
+While you were here, your nausea improved, allowing you to eat 
+and drink, and your pain was eventually controlled with liquid 
+oxycodone. You will continue on ___ at home with Dr. ___.
+
+Please be sure to follow up with your primary care physician and 
+outpatient specialists.
+
+We wish you the best,
+Your ___ Team
+ 
+Followup Instructions:
+___

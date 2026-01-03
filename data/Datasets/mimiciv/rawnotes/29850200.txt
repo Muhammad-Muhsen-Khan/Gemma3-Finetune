@@ -1,0 +1,521 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+streptomycin / codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status
+ 
+Major Surgical or Invasive Procedure:
+___ ___ placement
+
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS: Ms. ___ is a ___ y/o woman with
+Alzheimers/vascular dementia, DMII, CAD, HFrEF (LVEF ___, 
+CKD
+(baseline Cr 1.3) and PVD s/p left ___ toe amputation c/b
+osteomyelitis (s/p debridement, now with chronic wound and dry
+gangrene) who recent admission for severe sepsis due to Proteus
+urinary tract infection and acute kidney injury, now presenting
+with altered mental status.
+
+The patient was recently admitted from ___ for altered
+mental status, found to have severe sepsis secondary to Proteus
+urinary tract infection, for which she completed a 10-day course
+of antibiotics (Vancomycin/Zosyn) narrowed to cefpodoxime (Last
+day: ___. The patient is now presenting again with altered
+mental status.
+
+In the ED, initial VS were: 99.8 109 114/70 20 98% RA 
+Exam notable for: necrotic left foot 
+ECG: Significant artifact, but tachcyardic, rhythm appears to be
+afib/flutter, no acute ischemic changes
+Labs showed: Na 168->163, K 4.3, Cl 123, HCO3 24, BUN/Cr 61/2.1;
+glucose 313; WBC 16.9 H/H 9.3/33; lactate 3.9->1.2; CRP 129;
+blood cultures and urine cultures sent
+
+Imaging showed: 
+- CXR: No acute cardiopulmonary process. 
+- Foot plain films: Diffusely demineralized bones. Cortical
+margins of the distal second through fifth metatarsal heads are
+not well visualized. While some of this may be technical and due
+to overlying gauze, there is suspicion for underlying erosions,
+particularly at the medial aspect of the distal second 
+metatarsal
+head which raises the concern for osteomyelitis. 
+
+Consults:
+- Podiatry: Foot is unchanged in appearance with no signs of
+infection. No Surgical intervention per the pts son. Continue
+with local wound care. 
+Patient received:  
+___ 15:58 IVF  NS 
+___ 16:41 IVF  NS 500 mL 
+___ 16:42 IV Acetaminophen IV 1000 mg 
+___ 17:24 IV Piperacillin-Tazobactam  
+___ 18:04 IVF  ___ ( 1000 mL ordered) 
+___ 19:01 IV Piperacillin-Tazobactam 4.5 g 
+___ 20:28 IV Vancomycin 1000 mg 
+
+Transfer VS were: 99.5 104 143/66 20 99% 2L NC 
+  
+On arrival to the floor, unable to obtain due to patient's 
+mental
+status.
+ 
+REVIEW OF SYSTEMS: Unable to obtain due to patient's mental
+status.
+ 
+Past Medical History:
+PAST MEDICAL AND SURGICAL HISTORY:
+- T2DM
+- CAD - remote cardiac catheterization for angina with diffuse
+disease not amenable to intervention, preserved EF
+- AD and vascular dementia for ___ years
+- PVD
+- HTN
+- Seizure history on divalproex
+- Prior L ___ toe amputations
+- Prior R ___ toe amputation
+- Paroxysmal A-fib in setting of ___ situation, not
+on anticoagulation
+ 
+Social History:
+___
+Family History:
+Unable to obtain
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS: 97.9 121 / 53 102 18 100 3L  
+GENERAL: Lying in bed, in NAD  
+HEENT: PERRL, anicteric sclera, very dry mucous membranes
+NECK: No JVD  
+HEART: Tachycardic, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+ABDOMEN: BS+, soft, nontender, nondistended 
+EXTREMITIES: Dark left ___ toe with eschar; no purulence or
+surrounding erythema; no peripheral edema
+PULSES: ___ pulses not palpable
+NEURO: PERRL, opens eyes to name, repeats words of interviewer,
+does not follow commands  
+SKIN: Warm, well perfused
+
+DISCHARGE PHYSICAL EXAM
+___ ___ Temp: 99.0 AdultAxillary BP: 112/43 HR: 90 RR: 18
+O2 sat: 99% O2 delivery: Ra FSBG: 194     
+GENERAL: anicteric sclera, MMM, oropharynx clear
+HEART: RRR normal S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+on
+RA, no resp distress
+ABDOMEN: soft, NTND
+GU: no suprapublic tenderness
+EXTREMITIES: warm, no edema bilaterally. L foot with
+dressing over distal aspect. 
+NEURO: PERRLA, awake, occasionally tracks to voice, occasionally
+follows commands, moves bilateral UE, parrots back
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===================
+___ 03:00PM BLOOD WBC-16.9* RBC-3.19* Hgb-9.3* Hct-33.1* 
+MCV-104* MCH-29.2 MCHC-28.1* RDW-14.0 RDWSD-53.3* Plt ___
+___ 03:00PM BLOOD Neuts-73.4* Lymphs-16.4* Monos-7.5 
+Eos-1.8 Baso-0.4 Im ___ AbsNeut-12.41* AbsLymp-2.77 
+AbsMono-1.27* AbsEos-0.31 AbsBaso-0.06
+___ 03:00PM BLOOD Plt ___
+___ 02:15PM BLOOD Glucose-257* UreaN-70* Creat-2.1*# 
+Na-168* K-4.5 Cl-123* HCO3-27 AnGap-18
+___ 02:15PM BLOOD CRP-129.6*
+___ 06:50AM BLOOD Vanco-13.6
+___ 03:10PM BLOOD Lactate-3.9*
+___ 08:25PM BLOOD Na-162* K-4.1
+
+DISCHARGE LABS
+========================
+___ 05:37AM BLOOD WBC-10.3* RBC-2.84* Hgb-8.2* Hct-26.7* 
+MCV-94 MCH-28.9 MCHC-30.7* RDW-13.9 RDWSD-47.8* Plt ___
+___ 05:37AM BLOOD Glucose-166* UreaN-15 Creat-0.9 Na-140 
+K-5.0 Cl-102 HCO3-31 AnGap-7*
+___ 05:37AM BLOOD Calcium-8.8 Phos-2.8 Mg-1.9
+
+MICROBIOLOGY
+==========================
+__________________________________________________________
+_______________________________________________________
+___ 2:34 am URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+__________________________________________________________
+___ 1:58 pm URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ___.    10,000-100,000 CFU/mL. 
+         IDENTIFICATION & Susceptibility testing requested per 
+___
+         (___), ___. 
+         Yeast Susceptibility:. 
+         Fluconazole MIC 1 MCG/ML  SUSCEPTIBLE. 
+         Caspofungin MIC 0.03 MCG/ML  SUSCEPTIBLE. 
+         Voriconazole MIC 0.06 MCG/ML  SUSCEPTIBLE. 
+         Results were read after 24 hours of incubation. 
+         test result performed by Sensititre. 
+__________________________________________________________
+___ 10:40 am URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+__________________________________________________________
+___ 10:02 am MRSA SCREEN      Source: Nasal swab. 
+
+                            **FINAL REPORT ___
+
+   MRSA SCREEN (Final ___:    No MRSA isolated. 
+__________________________________________________________
+___ 3:00 pm BLOOD CULTURE      2 OF 2. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 4:37 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+___ 3:00 pm BLOOD CULTURE      2 OF 2. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH.
+
+___ 2:13 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+IMAGING
+===========================
+___ (PORTABLE AP) IMPRESSION: 
+ 
+Right-sided PICC line projects to the cavoatrial junction.  
+There is
+subsegmental atelectasis in the lingula cardiomediastinal 
+silhouette is
+stable.  There is no pleural effusion.  No pneumothorax is seen
+ 
+
+___ (PA & LAT) IMPRESSION: 
+ 
+No evidence of acute cardiopulmonary abnormality.
+
+___ US IMPRESSION: 
+ 
+Echogenic debris within the urinary bladder with no internal 
+vascularity, no longer layering as on prior.
+
+___ FOOT W&W/O CONTRAST IMPRESSION:
+ 
+1. Appearances highly suspicious for osteomyelitis of the second 
+metatarsal head.  Marrow edema hyper enhancement with moderately 
+decreased T1 signal intensity in the heads of the third and 
+fourth metatarsals are also concerning for osteomyelitis.
+
+___ U.S. IMPRESSION:
+
+1. Unremarkable right kidney demonstrating a 1.8 cm simple cyst.
+2. The left kidney is not visualized.
+3. Layering debris within the urinary bladder
+
+___ Imaging FOOT 2 VIEWS LEFT  IMPRESSION:  
+  
+Diffusely demineralized bones.  Cortical margins of the distal 
+second through  fifth metatarsal heads are not well visualized.  
+While some of this may be  technical and due to overlying gauze, 
+there is suspicion for underlying  erosions, particularly at the 
+medial aspect of the distal second metatarsal  head which raises 
+the concern for osteomyelitis. 
+
+___ Imaging CHEST (SINGLE VIEW)  IMPRESSION:  
+  
+No acute cardiopulmonary process 
+ 
+Brief Hospital Course:
+___ y/o woman with Alzheimers/vascular dementia, DMII, CAD, HFrEF 
+(LVEF ___, CKD (baseline Cr 1.3) and PVD s/p left ___ toe 
+amputation c/b osteomyelitis (s/p debridement, now with chronic 
+wound and dry gangrene) who was recently admitted for severe 
+sepsis due to Proteus urinary tract infection and acute kidney 
+injury, now presenting with altered mental status likely ___ 
+hypernatremia and urosepsis.
+
+ACUTE ISSUES:
+=============
+
+# Severe sepsis secondary to a urologic source/Pyuria:
+Patient with recent admission for sepsis secondary to UTI, 
+thought secondary to urinary retention. This admission, patient 
+presented with altered mental status and found to have fever, 
+tachycardia, leukocytosis, and elevated lactate. Likely 
+secondary to urologic source vs less likely LLE gangrene. 
+Urinalysis grossly positive however urine culture from ___ 
+demonstrated mixed flora. Urine culture from ___ (previous 
+admission) growing MDR Proteus mirabilis. MRSA screen negative. 
+Patient was treated with 14 day course of ceftazidime for 
+complicated cystitis (Day 1: ___ (vancomycin ___, d/c'ed 
+given MRSA negative). Renal ultrasound with no evidence of 
+hydronephrosis. However, did show layering debree concerning for 
+blood vs pus in the bladder. Bladder was irrigated with repeat 
+bladder US showing dispersed debris within the bladder without 
+layering. UCx ___ grew pan-sensitive ___. Repeat 
+UA (___) shows pyuria without yeast; f/u Ucx again shows mixed 
+bacterial flora. Decision to defer treatment of yeast with 
+fluconazole given no yeast seen on most recent UA. Patient to 
+complete ceftazidime course last day ___.
+
+# L lower extremity metatarsal ___ osteomyelitis: LLE gangrene 
+also potential source of infection given plain films and MRI 
+with evidence of osteomyelitis. CRP elevated at 130. Per 
+podiatry evaluation, L foot without evidence of acute 
+osteomyelitis. Discussion with pt's son and HCP regarding option 
+of IV antibiotics treatment for osteomyelitis and son deferring 
+at this time. Patient received dry/betadine dressing changes 
+daily. If foot shows any signs of acute, worsening infection, 
+pt's son/HCP agrees ___ is next step. 
+
+# Hx urinary retention: Patient with chronic urinary retention. 
+Has had multiple
+recurrent urinary tract infection with evidence of sludge on 
+bladder ultrasound. Patient to follow up with outpatient ___ 
+clinic for possible urodynamic study and further evaluation.
+
+# Anemia: Likely seconday to anemia of chronic disease. Patient 
+received 1U PRBC this admission with appropriate response. 
+Discharge H/H 8.2/Hct 26.7.
+
+# Hypernatremia: Patient with severe hypernatremia in setting of 
+decreased oral intake due to altered mental status. On 
+admission, patient appeared hypovolemic with free water deficit 
+4.5L. Patient received ___ with improvement in serum Na and 
+was able to maintain normal serum Na levels with PO intake.
+
+# Acute kidney injury: resolved. Cr 2.1 on admission. Thought 
+likely pre-renal in setting of poor oral intake. Discharge 
+creatinine 0.9.
+
+# Chronic systolic congestive heart failure: LVEF ___. Home 
+lasix held throughout admission and at discharge as patient 
+appeared euvolemic. Continued on metoprolol.
+
+# Acute toxic-metabolic encephalopathy
+# Chronic Alzheimer's/vascular dementia: Patient initially 
+presented minimally verbal and unable to follow commands. 
+Altered mental status thoughly likely multifactorial due 
+infection, hypernatremia, and uremia in setting of vulnerable 
+substrate. Per son, pt able to swallow at baseline. Baseline 
+mental status is that she reacts to name and able to follow 
+simple commands, tracks across room, parrots back. Home 
+rivastigmine patch was continued and patient's resumed to 
+baseline mental status described above after treatment of 
+infection and normalization of serum sodium.
+
+# Paroxysmal atrial fibrillation: Patient with history of 
+post-procedural pAF. CHADS2Vasc 6. Occational pAF. Rate well 
+controlled with home metoprolol. Anticoagulation not within 
+goals of care.
+
+CHRONIC ISSUES:
+===============
+# Nutrition/Aspiration: Per son at baseline patient can swallow 
+pills and takes in pureed solids with accepted aspiration risk. 
+TF not within GOC per son. Patient was evaluated by speech and 
+swallow and she is tolerating diet of thin liquids and pureed 
+solids well with 1:1 assist with meals. Aspiration precautions 
+including sitting fully upright, slow rate, and feed with 
+awake/alert.
+
+# DMII: Patient initially received a decreased home dose of 
+insulin given NPO status. Transitioned to home dose with good 
+control of blood sugars.
+
+# CAD: Continued home ASA/Plavix/statin. Patient received 
+decreased home dose of metoprolol which was initially 
+fractionated and then transitioned to home metoprolol succinate 
+200 mg QD. 
+
+# PVD: Continued home aspirin, Plavix, statin.
+
+# Hx seizure disorder: Per son pt has history of absencence 
+seizures, no outpatient plan to downtitrate home divalproex. 
+Divalproex sprinkles were continued during admission then 
+transitioned to home divalproex at discharge.
+
+TRANSITIONAL ISSUES
+====================
+[] Requires Q6H straight catheterizations for urinary retention 
+until urology appointment 
+[] Weigh pt every morning, call MD if weight goes up more than 3 
+lbs. 
+[] Discharge bed weight 63.2kg ___.
+[] Home Lasix 10 mg QD held given that patient remained 
+euvolemic while off lasix. Please re-evaluate volume status and 
+restart lasix if needed.
+[] Patient may need need outpatient urodynamic study to further 
+evaluate urinary retention and outpatient urology f/u for 
+further eval of L kidney stone on ___ CT abdomen pelvis.
+[] Discharge H/H 8.2/Hct 26.7. Please recheck CBC week of 
+___ and ensure normalization of WBC and stable hemoglobin.
+[] Please consider starting ACEI given pt's history of HFrEF.
+[] Please continue to monitor distal left wound for signs of 
+acute infection. Patient has known osteomyelitis and may need 
+___ if area becomes acutely infected.
+
+#CODE: DNR/DNI, OK for BiPAP, ok for ICU transfer
+#CONTACT: Son, (___) 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+5. Clopidogrel 75 mg PO DAILY 
+6. Divalproex (DELayed Release) 125 mg PO DAILY 
+7. Docusate Sodium 100 mg PO BID 
+8. Heparin 5000 UNIT SC BID 
+9. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN SOB/wheezing 
+10. Memantine 10 mg PO BID 
+11. Polyethylene Glycol 17 g PO DAILY 
+12. Senna 8.6 mg PO BID 
+13. Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+chest pain/heart burn 
+14. Ascorbic Acid ___ mg PO BID 
+15. Fleet Enema (Saline) ___AILY:PRN constipation 
+16. Furosemide 10 mg PO DAILY 
+17. ___ (alum-mag hydroxide-simeth) 30 mL oral QID:PRN 
+heartburn 
+18. Magnesium Oxide 400 mg PO DAILY 
+19. melatonin 3 mg oral QHS 
+20. Metoprolol Succinate XL 200 mg PO DAILY 
+21. Milk of Magnesia (magnesium hydroxide) 30 mL oral Q3D:PRN 
+constipation 
+22. Multivitamins 1 TAB PO DAILY 
+23. Pyridoxine 100 mg PO DAILY 
+24. rivastigmine 9.5 mg/24 hr transdermal DAILY 
+25. Vitamin D 400 UNIT PO DAILY 
+26. Glargine 5 Units Breakfast
+Glargine 5 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1.  Glargine 5 Units Breakfast
+Glargine 5 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+2.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+3.  Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+chest pain/heart burn  
+4.  Ascorbic Acid ___ mg PO BID  
+5.  Aspirin 81 mg PO DAILY  
+6.  Atorvastatin 80 mg PO QPM  
+7.  Bisacodyl 10 mg PO/PR DAILY:PRN constipation  
+8.  Clopidogrel 75 mg PO DAILY  
+9.  Divalproex (DELayed Release) 125 mg PO DAILY  
+10.  Docusate Sodium 100 mg PO BID  
+11.  Fleet Enema (Saline) ___AILY:PRN constipation  
+12.  ___ (alum-mag hydroxide-simeth) 30 mL oral QID:PRN 
+heartburn  
+13.  Heparin 5000 UNIT SC BID  
+14.  Ipratropium Bromide Neb 1 NEB IH Q6H:PRN SOB/wheezing  
+15.  Magnesium Oxide 400 mg PO DAILY  
+16.  melatonin 3 mg oral QHS  
+17.  Memantine 10 mg PO BID  
+18.  Metoprolol Succinate XL 200 mg PO DAILY  
+19.  Milk of Magnesia (magnesium hydroxide) 30 mL oral Q3D:PRN 
+constipation  
+20.  Multivitamins 1 TAB PO DAILY  
+21.  Polyethylene Glycol 17 g PO DAILY  
+22.  Pyridoxine 100 mg PO DAILY  
+23.  rivastigmine 9.5 mg/24 hr transdermal DAILY  
+24.  Senna 8.6 mg PO BID  
+25.  Vitamin D 400 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Complicated urinary tract infection
+Toxic metabolic encephalopathy
+Left lower extremity osteomyelitis
+Hypernatremia
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___.
+
+WHY WAS I IN THE HOSPITAL?
+- You were here because you were confused and had a urinary 
+tract infection, and the sodium in your blood was dangerously 
+high.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+- You received antibiotics to treat your infection.
+- You received intravenous fluids to help bring down the level 
+of sodium in your blood.
+- You received a unit of blood because your red blood cell count 
+was low.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medicines and keep your 
+appointments.
+
+We wish you the best!
+
+Sincerely,
+Your ___ Team
+
+ 
+Followup Instructions:
+___

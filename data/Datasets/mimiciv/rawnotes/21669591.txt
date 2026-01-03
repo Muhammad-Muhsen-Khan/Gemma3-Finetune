@@ -1,0 +1,329 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Quinidine-Quinine Analogues / Nsaids / Lipitor / Ampicillin / 
+clindamycin / fluconazole / Vioxx / Mevacor
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Coronary angiography with balloon angioplasty of native PDA via 
+SVG on ___
+ 
+History of Present Illness:
+This is a ___ year old man with an extensive cardiac history 
+(including premature CAD) characterized below, who presented 
+with retrosternal chest pain.
+
+He notes that he had been taking doxycycline for a right great 
+toe infection 2 weeks ago. He took this for 3 days, and stopped 
+due to GI upset.
+
+On the day of admission, he presented with substernal, 
+non-radiating ___ dull aching chest pain, with intermittent 
+sharp stabbing pains and intermittent radiation to the back. 
+This was also accompanied by mild shortness of breath. He notes 
+the pain to be exertional. It occurred previously in the past 
+week when he was shoveling snow and then subsided when he 
+stopped shoveling; these symptoms feels similar to when he had a 
+stent put in ___ years ago.  
+
+In the ED, initial vitals were T 98.0, HR 71, BP 148/70, RR 18, 
+SaO2 99% on RA. EKG without dynamic changes from prior. 
+Labs/studies notable for Troponin-T < 0.01 x2 and Cr 1.4. 
+Patient was given: ASA 162 mg (as took ASA 2x81 mg already), 
+Donnatal, 1 L NS, and metoprolol. Vitals on transfer T 97.8, HR 
+80, BP 124/64, RR 18, SaO2 98% on RA.
+
+Upon arrival to the cardiology ward, he endorsed ___ chest 
+pain, non-radiating, associated with extremely mild dyspnea.
+ 
+Past Medical History:
+CARDIAC HISTORY:  
+- CAD
+ - CABG in ___ (LIMA-D1, SVG-OM, jump SVG-rPDA-PLV)  
+ - PCI ___ BMS to SVG  
+ - PCI ___ with DES to distal SVG  
+ - PCI of the SVG-OM and SVG-PDA with drug-eluting stents 
+___  
+ - PTCA of SVG-OM on ___  
+ - ISCHEMIC CARDIOMYOPATHY: LVEF 50% (___)  
+- Dual-chamber ICD (DDD mode) for primary prevention, with 
+generator change in ___  
+- History of NSVT, no defibrillations required  
+
+OTHER PAST MEDICAL HISTORY:  
+- Hypertension
+- Hyperlipidemia
+- Diabetes mellitus  
+- BPH  
+- CKD, baseline Cr 1.2-1.3  
+
+PAST SURGICAL HISTORY:  
+- Cholecystectomy  
+- Appendectomy  
+- Bilateral knee arthroscopy  
+- Herniorrhaphy
+ 
+Social History:
+___
+Family History:
+Father with CAD. Brother with CAD, CHF. Siblings with DM2.
+ 
+Physical Exam:
+On admission
+GENERAL - pleasant elderly white man, appears comfortable, 
+laying in bed, reporting ___ chest pain
+VITALS - T 97.5 BP 139/83 HR 69 RR 18 SPO2 97% on RA Wt 77.8 kg
+HEENT - sclerae anicteric, PERRL, oral mucosa moist  
+NECK - no JVD  
+COR - soft heart sounds, normal S1/S2, without appreciable 
+murmur  
+LUNGS - clear to auscultation bilaterally anterior & posterior  
+ABDOMEN - soft, LLQ tenderness to deep palpation, nondistended, 
+normal bowel sounds
+EXTREMITIES - RLE with chronic trace edema, LLE without edema; 
+bilateral ___, with 1+ DP pulses
+SKIN - no rashes  
+NEUROLOGIC - face symmetric, oriented x4, moving all extremities 
+well  
+
+At discharge
+GENERAL: Well appearing man in NAD. Oriented x3. Mood, affect 
+appropriate.
+VS: T= 98 BP= 128/74 HR= 69 RR= 20 O2 sat= 95% on RA
+Wt: 76.3 (76.5)
+HEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor 
+or cyanosis of the oral mucosa.
+NECK: Supple with no JVD.
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No murmurs, rubs or gallops. No 
+thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB--no crackles, 
+wheezes or rhonchi.
+ABDOMEN: Soft, non-tender, not distended. No HSM or tenderness. 
+EXTREMITIES: No clubbing, cyanosis or edema. No femoral bruits. 
+Radial access site is clean and dry without hematoma.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+ 
+Pertinent Results:
+___ 12:49PM BLOOD WBC-9.5 RBC-5.19 Hgb-15.8 Hct-47.7 MCV-92 
+MCH-30.4 MCHC-33.1 RDW-12.6 RDWSD-42.7 Plt ___
+___ 12:49PM BLOOD Glucose-110* UreaN-23* Creat-1.4* Na-136 
+K-5.0 Cl-101 HCO3-20* AnGap-20
+___ 01:20AM BLOOD Calcium-9.5 Phos-3.4 Mg-2.1
+
+___ 12:49PM BLOOD cTropnT-<0.01
+___ 01:20AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 04:40PM BLOOD cTropnT-<0.01
+___ 08:45PM BLOOD cTropnT-<0.01
+___ 05:55AM BLOOD cTropnT-<0.01
+
+___ 05:55AM BLOOD WBC-10.3* RBC-4.75 Hgb-14.5 Hct-43.5 
+MCV-92 MCH-30.5 MCHC-33.3 RDW-12.7 RDWSD-42.4 Plt ___
+___ 05:55AM BLOOD Glucose-105* UreaN-22* Creat-1.2 Na-133 
+K-3.9 Cl-99 HCO3-24 AnGap-14
+___ 05:55AM BLOOD Calcium-9.0 Phos-3.9 Mg-1.9
+
+ECG ___ 12:19:34 ___
+Probable atrial paced rhythm with intrinsic ventricular 
+conduction. Left axis deviation consistent with left anterior 
+fascicular block. Intraventricular conduction delay. Prolonged 
+Q-T interval. Compared to the previous tracing of ___ the 
+rhythm appears to be atrial paced. The other findings are 
+similar.
+
+ETT-MIBI ___
+___ yo man with HL, HTN, DM, CKD, h/o nonsustined VT and s/p 
+PPM-ICD, extensive CAD history with MI and CABG in ___ with 
+subsequent PCIs in ___ and POBA in ___ was referred to 
+evaluate a chronic anterior chest discomfort. The patient 
+completed 11 minutes of a Gervino protocol representing an 
+average exercise tolerance; ~ ___ METS. The patient could have 
+continued to exercise, however the exercise was stopped due to a 
+hypotensive blood pressure response to exercise.
+  Prior to exercise the patient reported an anterior chest 
+discomfort; ___. This discomfort did not change during exercise 
+or recovery. At peak exercise, and in the presence of a 
+nonspecific IVCD and diffuse ST-T wave abnormalities, 1-2 mm of 
+horizontal/downsloping ST segment depression was noted 
+inferiorly and in leads V4-V6. In addition, 1-1.5 mm of 
+additional ST segment elevation was noted in aVR. These ST 
+changes resolved with rest and were absent 10 minutes 
+post-exercise. The rhythm was sinus with occasional isolated 
+APBs and VPBs. As noted, a hypotensive blood pressure response 
+was noted with exercise. The heart rate response to exercise was 
+blunted. 
+IMPRESSION: Average exercise tolerance. Hypotensive blood 
+pressure response resulting in test termination. Atypical 
+symptoms with diffuse ST segment changes suggestive of 
+myocardial ischemia in the presence of baseline ECG 
+abnormalities; see above. 
+Nuclear imaging:
+  Left ventricular cavity size is severely dilated. There is 
+akinesis of apical anterior, anteroseptal and inferoseptal walls 
+and hypokinesis of other areas. The calculated left ventricular 
+ejection fraction is 19%.
+  Again seen is severe fixed defect of the apex and anterior 
+wall, and moderate fixed anteroseptal and inferoseptal defect.
+IMPRESSION:
+1. No significant interval change.
+2. Severe fixed defect of the apex and anterior wall, and 
+moderate fixed anteroseptal and inferoseptal defect. There is 
+akinesis in the area of the defects and hypokinesis of other 
+areas.
+3. EF 19%, not significantly changed. 
+
+Cardiac catheterization ___
+Coronary Anatomy
+Dominance: Right
+LIMA to LAD: Patent. LAD is small and diffusely diseased.
+SVG to OM: Patent. Ostial 50% stenosis with catheter dampening, 
+unchanced since prior.
+SVG to PDA. Proximal 40% stenosis graft. Retrograde limb of PDA 
+with focal 90% stenosis.
+Interventional Details
+After discussion with Dr. ___ covering attending) and the 
+patient, we proceeded with PCI of the PDA stenosis. UFH 
+anticoagulation. The SVG to PDA was wired back into the distal 
+RCA using a Prowater wire, and exchanged over a FineCross for a 
+Wiggle wire. Angioplasty with 2.0 compliant and 2.0 NC balloons 
+at > 20 ATM. The distal RCA which filled several small branches 
+was also angioplastied throughout.
+The final residual stenosis was 40% in the mid PDA. Because the 
+vessel was small, we did not pursue further aggressive 
+approached to expanded the lesion.
+Impressions:
+Patent grafts.
+PDA focal 90% stenosis.
+POBA of recalcitrant lesion, final stenosis is 40%.
+ 
+Brief Hospital Course:
+___ year old man with H/O CAD and MI s/p CABG and multiple PCIs 
+who presents with exertional chest pain, without dynamic EKG 
+changes and negative biomarkers.
+
+# Unstable Angina: Patient presented with chest pain at rest, 
+unchanged EKG, and negative biomarkers. Presentation was most 
+concerning for unstable angina from restenosis of stents or new 
+graft stenosis. He was evaluated with a stress test which was 
+stopped early due to hypotensive response with ischemic EKG 
+changes (ST elevation aVR, ST depressions inferolaterally) and 
+symptoms felt atypical for ischemia (baseline ___ pain 
+unchanged with exercise). Coronary angiography on ___ showed 
+patent LIMA-LAD. LAD was small and diffusely diseased. SVG-OM 
+with ostial 50% stenosis with dampening of pressures when 
+engaged, unchanged since prior. SVG-PDA with proximal 40% 
+stenosis graft, but retrograde limb of PDA had a focal 90% 
+stenosis. Balloon angioplasty was done on native PDA via the SVG 
+with residual 40% stenosis post procedurally (too small to 
+stent). Patient was chest pain free on discharge on his home 
+regimen with increase in dosing of his statin.
+
+# ___ on CKD: Patient presented with mild ___ on admission. This 
+improved with PO fluids. Thought to be due to poor PO intake in 
+the days prior to admission.
+
+Transitional Issues:
+--------------------
+- Monitor for myalgias as rosuvastatin dose increased to 40 mg 
+as patient has had myalgias with higher doses of atorvastatin in 
+the past.
+- Continue aspirin, clopidogrel, lisinopril for medical 
+management of CAD
+- PPI changed to pantoprazole to avoid FDA warning about 
+drug-drug interaction between omeprazole and clopidogrel
+- Did not start additional anti-anginal medication as patient 
+was chest pain free on discharge. Consider starting if symptoms 
+recur.
+- Patient had ___ on admission, but improved with fluids. Now at 
+his baseline Cr 1.2. Follow up lab draw ordered for ___ days 
+from discharge.
+-Consider outpatient TTE for evaluation of cardiac function
+# CONTACT: 
+ - Name of health care proxy: ___ 
+ - Relationship: wife 
+ - Phone number: ___ 
+ - Cell phone: ___ 
+# CODE STATUS: FULL
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+2. Diazepam 2 mg PO QHS:PRN RESTLESS LEGS 
+3. Metoprolol Tartrate 50 mg PO BID 
+4. Rosuvastatin Calcium 20 mg PO QPM 
+5. Furosemide 20 mg PO EVERY OTHER DAY 
+6. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN ANGINA 
+7. Clopidogrel 75 mg PO DAILY 
+8. Omeprazole 20 mg PO DAILY 
+9. Aspirin 81 mg PO DAILY
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Clopidogrel 75 mg PO DAILY 
+3. Diazepam 2 mg PO QHS:PRN RESTLESS LEGS 
+4. Furosemide 20 mg PO EVERY OTHER DAY 
+5. Lisinopril 20 mg PO DAILY 
+6. Metoprolol Tartrate 50 mg PO BID 
+7. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN ANGINA 
+8. Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+9. Rosuvastatin Calcium 40 mg PO QPM 
+RX *rosuvastatin [___] 40 mg 1 tablet(s) by mouth qPM Disp 
+#*30 Tablet Refills:*0
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Unstable angina
+-Coronary artery disease, native and bypass graft
+-Acute kidney injury
+-Chronic kidney disease, stage 3
+-Hypertension
+-Hyperlipidemia
+-Diabetes mellitus, with non-proliferative retinopathy
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to ___ with chest pain. You underwent and 
+stress test and a cardiac catheterization which showed that some 
+of the blood flow to your heart was limited. This is likely why 
+you had pain. You underwent a balloon angioplasty, which opened 
+up a narrowed vessel in your heart to help restore flow. We hope 
+that this will help with your symptoms and glad that you are 
+chest pain free today. 
+
+Please have follow up labs drawn in ___ days at your 
+cardiologist's office. Please follow up with your PCP and your 
+cardiologist. 
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+
+It was a pleasure taking care of you.
+
+We wish you all the best, 
+
+Your ___ cardiology team 
+ 
+Followup Instructions:
+___

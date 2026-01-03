@@ -1,0 +1,367 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Percocet / Percodan / colchicine
+ 
+Attending: ___
+ 
+Chief Complaint:
+slurred speech and facial droop
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ yo RHF,  past medical history of hypertension, 
+hyperlipidemia, hypothyroidism, and borderline diabetes, who 
+presents for an episode of slurred speech, nausea, LH, and 
+facial droop.  She is in her usual state of health until  10:45 
+AM, when she was sitting in her bedroom looking at a book.  
+
+She had an acute onset of slurred speech, nausea, and dizziness. 
+ She described she that she knew what she wanted to say, but she 
+was unable to form words.  She also notes that she was drooling 
+from both sides of her mouth.  She also endorses dizziness 
+described as lightheadedness "like I was going to faint" and 
+nausea.  She denied vomiting.  She called her daughter at 11:07 
+AM on the phone.  Her daughter had gone down the street to grab 
+coffee. 
+
+Her daughter at bedside noted that she had difficultly 
+understanding her on the phone. She was in her room minutes 
+later, and described her speech as slurred, with words "long and 
+drawn out".  She had to listen to her speech very carefully to 
+try to understand what her mother was saying.  The patient 
+stated that she was able to understand her daughter and denied 
+any difficulties with comprehending speech.  Her daughter noted 
+that the left side of her face looked droopy.  EMS was called.  
+On EMS arrival her daughter noted that when she is asked to 
+smile that her right mouth was slower to activate.  She gave her 
+4 baby aspirin.
+
+She was taken to an outside hospital, at the outside hospital 
+she still had the 4 baby aspirin in her mouth.  She noted that 
+she had difficulty swallowing and she just allowed the aspirin 
+to dissolve in her mouth.  Her system her persistent symptoms 
+lasted a total of 30 minutes and appeared to slowly improve.  
+She denied any unilateral weakness in her right or left side.  
+She noted that she was still able to ambulate independently 
+after symptom onset.  She has never had symptoms like this 
+before.  She is transferred for TIA workup to ___.
+
+ 
+ROS: On neurologic review of systems, the patient denies 
+headache,  or confusion. Denies difficulty with comprehending 
+speech. Denies loss of vision, blurred vision, diplopia, 
+vertigo, tinnitus, hearing difficulty. Denies focal muscle 
+weakness, numbness, parasthesia. Denies loss of sensation. 
+Denies bowel or bladder incontinence or retention. Denies 
+difficulty with gait.
+ 
+On general review of systems, the patient endorses increased 
+urination the last 24 hours after taking a water pill.  She 
+denies dysuria.  She endorses occasional cough which she 
+attributes to lisinopril.  She denies fevers, rigors, night 
+sweats, or noticeable weight loss. Denies chest pain, 
+palpitations, dyspnea, or cough. Denies vomiting, diarrhea, 
+constipation, or abdominal pain.  No recent change in bowel 
+habits.  Denies dysuria or hematuria. Denies myalgias, 
+arthralgias, or rash.
+
+ 
+Past Medical History:
+HTN 
+HLD
+Hypothyrodism
+Borderline DM 
+Neuropathy 
+ 
+Social History:
+___
+Family History:
+Father with ___. Mother with ___ Cancer. DM. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+PHYSICAL EXAMINATION
+Vitals:  98.5 60 112/69 - SBP180s 16 97% RA 
+General:  NAD
+HEENT: NCAT,  no oropharyngeal lesions, neck supple
+___: RRR
+Pulmonary: Breathing comfortably on room air
+Abdomen: Soft
+Extremities: 1+ pitting edema 
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Able to relate 
+history without difficulty. Attentive, able to name ___ backward 
+without difficulty. Speech is fluent with full sentences, intact 
+repetition, and intact verbal comprehension. Naming intact.  No 
+paraphasias.  No dysarthria. Normal prosody. Able to register 3 
+objects and recall ___ at 5 minutes. No apraxia. No evidence of 
+hemineglect. No left-right confusion. Able to follow both 
+midline and appendicular commands.
+
+- Cranial Nerves: PERRL 3->2 brisk. VF full to number counting. 
+EOMI, no nystagmus. V1-V3 without deficits to light touch 
+bilaterally.  Decreased activation of left mouth. Hearing intact 
+to finger rub bilaterally.  Palate elevation symmetric. 
+SCM/Trapezius strength ___ bilaterally. Tongue midline.
+
+- Motor:  Normal bulk and tone. No drift. No tremor or 
+asterixis.
+  [___]
+L   5     5    5    5    ___    5     5   5    5    5
+R   5     5    5    5    ___    5     5   5    5    5  
+ 
+- Reflexes: 
+   [Bic] [Tri] [___] [Quad] [Gastroc]
+ L  2+    2+     2+      3+       0
+ R  2+    2+     2+      2+       0  
+
+Plantar response flexor bilaterally 
+
+- Sensory: No deficits to light touch bilaterally. Decreased pp 
+to mid-shin bilaterally. Decreased proprioception at Great toe 
+to small amplitude movements (intact to large amplitude 
+movements) bilaterally.  No extinction to DSS.
+
+- Coordination: No dysmetria with finger to nose testing 
+bilaterally. Good speed and intact cadence with rapid 
+alternating movements.
+
+- Gait: Deferred ___ lines 
+DISCHARGE PHYSICAL EXAM:
+Non-focal
+ 
+Pertinent Results:
+___ 03:57PM BLOOD WBC-11.1* RBC-4.50 Hgb-12.2 Hct-39.4 
+MCV-88 MCH-27.1 MCHC-31.0* RDW-16.1* RDWSD-51.6* Plt ___
+___ 03:57PM BLOOD Neuts-46.3 ___ Monos-4.2* Eos-2.2 
+Baso-0.3 Im ___ AbsNeut-5.14 AbsLymp-5.17* AbsMono-0.47 
+AbsEos-0.24 AbsBaso-0.03
+___ 03:57PM BLOOD ___ PTT-29.8 ___
+___ 03:57PM BLOOD Glucose-114* UreaN-21* Creat-1.2* Na-142 
+K-4.5 Cl-106 HCO3-18* AnGap-23*
+___ 03:57PM BLOOD ALT-12 AST-24 AlkPhos-72 TotBili-0.3
+___ 03:57PM BLOOD Albumin-4.1 Calcium-9.2 Mg-1.7 
+Cholest-235*
+___ 03:57PM BLOOD Triglyc-167* HDL-55 CHOL/HD-4.3 
+LDLcalc-147*
+___ 03:57PM BLOOD TSH-4.0
+
+___ 06:40AM BLOOD WBC-7.0 RBC-3.73* Hgb-10.1* Hct-32.6* 
+MCV-87 MCH-27.1 MCHC-31.0* RDW-16.3* RDWSD-52.1* Plt ___
+___ 06:40AM BLOOD ___ PTT-29.9 ___
+___ 06:40AM BLOOD Glucose-98 UreaN-17 Creat-1.0 Na-143 
+K-3.5 Cl-110* HCO3-20* AnGap-17
+___ 06:40AM BLOOD ALT-7 AST-13 LD(LDH)-155 CK(CPK)-48 
+AlkPhos-55 TotBili-0.3
+___ 06:40AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 06:40AM BLOOD Albumin-3.2* Calcium-8.2* Phos-3.6 
+Mg-1.5* Cholest-170
+___ 06:40AM BLOOD %HbA1c-5.9 eAG-123
+___ 06:40AM BLOOD Triglyc-152* HDL-40 CHOL/HD-4.3 
+LDLcalc-100
+___ 06:40AM BLOOD TSH-5.5*
+
+___ H&N
+  
+1. No evidence of intracranial hemorrhage.  Please refer to 
+subsequent MRI 
+demonstrating right precentral gyrus subacute infarction. 
+2. Luminal irregularity of the intradural V4 segment of the left 
+vertebral 
+artery, likely atherosclerotic as described above. 
+3. Mild luminal narrowing of the left posterior cerebral artery. 
+ Otherwise, 
+unremarkable CTA head without stenosis, occlusion, or aneurysm. 
+4. Unremarkable CTA neck without evidence of internal carotid 
+stenosis by 
+NASCET criteria. 
+5. Multiple bilateral pulmonary nodules, measuring up to 5 mm on 
+the right.  
+Recommend correlation with history and prior imaging.  If no 
+prior imaging, 
+the ___ guidelines for pulmonary nodule 
+guidelines suggest for 
+pulmonary nodules greater than 4 mm or less than 6mm, 12 month 
+___ in 
+low-risk patients, and ___ month ___ in high risk 
+patients. 
+6. Nonspecific mediastinal lymphadenopathy, measuring up to 1.1 
+cm. 
+
+___ Head w/o
+1. Subacute infarction within the right precentral gyrus. 
+2. No evidence of intracranial hemorrhage. 
+3. Involutional changes with minimal probable chronic small 
+vessel ischemic 
+disease. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with HTN, HLD, preDM who was 
+admitted to the Neurology stroke service with slurred speech and 
+facial droop (uncertain laterality). An MRI showed an acute 
+ischemic stroke in the R precentral gyrus. Her stroke was most 
+likely secondary to a proximal embolic phenomenon given the 
+cortical appearance of the infarcts and lack of other compelling 
+etiology (only very mild intracranial atherosclerosis). Her 
+deficits improved rapidly, and she had essentially returned to 
+baseline by the time of discharge. She lives at home with her 
+daughter, and is safe to discharge back to home.
+
+Ms. ___ wishes to ___ with neurology closer to her home 
+in ___, ___. She would also like to have the recommended 
+cardiology testing (ECHO, event monitor) be performed through 
+her PCP's office if at all possible. We will help to facilitate 
+this by contacting her PCP's office on ___.
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+================================================================
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed  () No
+2. DVT Prophylaxis administered? (x) Yes - () No
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No
+4. LDL documented? (x) Yes (LDL = 147) - () No
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 70) (x) Yes - () No [if LDL 
+>70, reason not given:
+[ ]  Statin medication allergy 
+[ ]  Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ]  LDL-c less than 70 mg/dL
+6. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >70, 
+reason not given:
+[ ]  Statin medication allergy 
+[ ]  Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ]  LDL-c less than 70 mg/dL
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - (x) N/A
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 150 mg PO DAILY 
+2. amLODIPine 10 mg PO DAILY 
+3. Lisinopril 10 mg PO DAILY 
+4. Levothyroxine Sodium 100 mcg PO DAILY 
+5. Furosemide 10 mg PO EVERY OTHER DAY 
+6. Co Q-10 (coenzyme Q10) 100 mg oral DAILY 
+7. Megestrol Acetate 40 mg PO QID 
+
+ 
+Discharge Medications:
+1.  Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*3 
+3.  amLODIPine 5 mg PO DAILY  
+4.  Co Q-10 (coenzyme Q10) 100 mg oral DAILY  
+5.  Furosemide 20 mg PO EVERY OTHER DAY  
+6.  Levothyroxine Sodium 100 mcg PO DAILY  
+7.  Lisinopril 10 mg PO DAILY  
+8.  Metoprolol Succinate XL 150 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+R MCA territory infarcts
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+You were hospitalized due to symptoms of nausea, slurred speech 
+and facial droop resulting from an ACUTE ISCHEMIC STROKE, a 
+condition where a blood vessel providing oxygen and nutrients to 
+the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms.
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+- high blood pressure
+- high cholesterol
+- pre-diabetes
+
+We are changing your medications as follows:
+- increase aspirin to 325mg daily
+
+Please take your other medications as prescribed, including your 
+statin (atorvastatin 40mg daily).
+
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

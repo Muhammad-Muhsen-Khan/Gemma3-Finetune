@@ -1,0 +1,401 @@
+Notes
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+oxycodone / Tylenol / Cymbalta / Glucophage
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weight gain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old male with history of COPD (On ___ O2 at baseline), 
+OSA on CPAP, CAD with recent hospitalization for worsening 
+dyspnea & agitation, found to have LUL PNA and new atrial 
+fibrillation, discharged on ___ after treatment for CAP and 
+addition of Seroquel for agitation and metoprolol/apixaban for 
+afib. 
+
+His ___ noted 8 pound weight gain over 2 days and worsening 
+lower extremity edema prompting ED visit. This AM he was acting 
+paranoid and has not been reportedly sleeping, however, he was 
+alert. In the ED, he denied any worsening CP or dyspnea. 
+
+In the ED, initial vitals:  97.6 100 110/60 16 92% RA 
+- Exam notable for 2+ pitting edema, relatively clear lungs, 
+agitation
+- Labs were notable for:  WBC 11.5, proBNP ___, trop <0.01, 
+lactate 1.4, BUN/Cr ___, INR 1.5
+- Imaging:  CXR with Significant increase in left upper lobe 
+opacity and increased left perihilar reticular opacities 
+worrisome for significantly worsened pneumonia.
+- Patient was given:
+___ 15:10 PO Lorazepam 1 mg   
+___ 15:25 IV CefePIME 2 g   
+___ 16:24 IV Vancomycin 1000 mg  
+___ 17:07 IM OLANZapine 5 mg   
+___ 17:22 IM Benztropine Mesylate 1 mg 
+___ 17:22 IM DiphenhydrAMINE  
+___ 17:22 IM OLANZapine 5 mg  
+___ 17:36 IV DiphenhydrAMINE 
+___ 18:32 IV DRIP Esmolol 
+___ 18:36 IM OLANZapine 5 mg 
+- Consults: None  
+- Vitals on transfer: HR 124 BP 169/90 
+- Soft wrist restraints were placed
+ 
+On arrival to the MICU, unable to obtain ROS from patient. HPI 
+as above, confirmed with daughter. 
+ 
+Review of systems:  
+(+/-) Per HPI. Limited ROS, however, remaining full 10-point ROS 
+negative.
+ 
+Past Medical History:
+-COPD: FEV1/FVC ratio 44 in ___
+-Stable CAD w/ Hx of MI
+-Diastolic dysfunction
+-OSA on CPAP
+-HTN
+-PVD
+-PERIPHERAL NEUROPATHY 
+-HLD
+-Prior smoker
+ 
+Social History:
+___
+Family History:
+Father with pancreatic cancer
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals: 97.3 95 173/118 26 95% on 6L
+GENERAL: Drowsy, alternates between yelling uncomprehensible 
+phrases and asleep. does not follow commands 
+HEENT: Sclera anicteric, MMM, oropharynx clear. Left pupil 3 ->2 
+mm, Right pupil 1mm ->0.5 mm. 
+NECK: supple, difficult to appreciate JVP, no LAD  
+LUNGS: Mildly labored breathing; Rhonchorous anteriorly L>R. Air 
+movement bilaterally without significant wheeze.  
+CV: Intermittently irregular vs regular rate & tachycardia, S1 & 
+S2. No appreciable murmurs
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, 1+ pitting edema to mid 
+shinsno clubbing, cyanosis 
+SKIN:  Warm no rashes
+NEURO:  Moving all extremities spontaneously. Mental status as 
+above
+ACCESS: PIV 
+
+DISCHARGE PHYSICAL EXAM:
+VS: 97.5, 117/63, 67, 18, 96%6L at rest. 
+GENERAL: elderly, chronically-ill appearing, sitting up in the
+chair, slightly agitated
+HEENT: Sclera anicteric, MMM, oropharynx clear, poor hearing
+NECK: JVP at the level of the clavicle at 90 degrees.
+LUNGS: diffusely poor air movement, + rales over left upper and
+mid listening zones; no significant wheezing or rhonchi.
+CV: RRR
+ABD: +BS, soft, NT/ND. 
+EXT: Warm, well perfused, no ___ pitting edemea
+NEURO:  awake, alert, oriented to person, place and reason for
+hospitalization, reasonably good historian, follows commands,
+clear speech
+
+ 
+Pertinent Results:
+ADMISSION LABS
+#ERROR!
+___ 01:45PM BLOOD WBC-11.5* RBC-4.60 Hgb-14.5 Hct-43.6 
+MCV-95 MCH-31.5 MCHC-33.3 RDW-13.2 RDWSD-45.6 Plt ___
+___ 01:45PM BLOOD Neuts-72.6* Lymphs-15.4* Monos-7.0 
+Eos-3.6 Baso-0.6 Im ___ AbsNeut-8.37*# AbsLymp-1.78 
+AbsMono-0.81* AbsEos-0.41 AbsBaso-0.07
+___ 01:45PM BLOOD ___ PTT-42.5* ___
+___ 01:45PM BLOOD Glucose-86 UreaN-21* Creat-0.8 Na-144 
+K-4.1 Cl-104 HCO3-32 AnGap-12
+___ 01:45PM BLOOD ___ 01:45PM BLOOD cTropnT-<0.01
+___ 01:45PM BLOOD Calcium-8.5 Phos-4.3# Mg-1.7
+___ 01:55PM BLOOD Lactate-1.4
+___ 02:30PM URINE Color-Yellow Appear-Clear Sp ___
+___ 02:30PM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-SM 
+___ 02:30PM URINE RBC-2 WBC-7* Bacteri-NONE Yeast-NONE 
+Epi-<1
+
+IMAGING/STUDIES
+#ERROR!
+___ CXR:  
+Significant increase in left upper lobe opacity and increased 
+left perihilar reticular opacities worrisome for significantly 
+worsened pneumonia. 
+
+___ CT CHEST:    
+1. Worsening consolidation in the left upper lobe, concerning 
+for pneumonia. 
+2. Mediastinal lymphadenopathy mildly increased, likely 
+reactive. 
+3. Unchanged severe emphysema. 
+4. Pulmonary arterial enlargement suggestive of pulmonary 
+hypertension. 
+
+___ CT HEAD: 
+1. Study limited secondary dural AV fistula embolization. 
+2. Within limits of study, no acute intracranial abnormality, 
+with no definite evidence of acute intracranial hemorrhage. 
+
+#ERROR!
+Notable labs while hospitalized:
+___ Retic 2.1% (inappropriately low)
+___ Ferritin ___ proBNP ___ Trop negative x2
+
+#ERROR!
+Micro: 
+___ Stool C.diff - negative
+___ Histoplasma Ag - pending
+___ B-glucan - pending
+___ Aspergillus/Galactomannan - pending
+___ MRSA screen - pending
+___ BCx - NGTD
+___ BCx - NGTD
+___ C. diff - negative
+___ RPR - nonreactive
+___ BCx - No growth (final)
+___ UCx - MBF (final)
+
+#ERROR!
+Discharge labs:
+___ 08:15AM BLOOD WBC-10.7* RBC-4.15* Hgb-13.2* Hct-40.5 
+MCV-98 MCH-31.8 MCHC-32.6 RDW-13.1 RDWSD-47.0* Plt ___
+___ 08:15AM BLOOD Glucose-258* UreaN-21* Creat-0.6 Na-139 
+K-3.9 Cl-100 HCO3-32 AnGap-11
+___ 08:15AM BLOOD Mg-1.___ year old male with a history of COPD ___ O2 at baseline), 
+OSA on CPAP, CAD, new atrial fibrillation, recent LUL infiltrate 
+who p/w acute exacerbation of HFpEF and agitation. 
+
+ACUTE ISSUES
+#ERROR!
+# Acute on chronic diastolic heart failure: TTE on ___ LVEF 
+55%. Presented with elevated BNP, weight gain and signs of mild 
+pulmonary edema. Troponins negative and EKG without ischemia. 
+Diuresed with 40mg IV furosemide once with -3L on ___ with 
+improved volume exam and resolution of AFib RVR.  He continued 
+to require IV diuresis for persistent volume overload.  Daily 
+weights were checked and I/Os monitored. Weight at discharge was 
+65.27kg. He will be discharged on Lasix 10mg PO daily.  He 
+should have standing weights checked daily and his PCP should be 
+contacted if his weight increases by more than 3 lbs.
+
+# Left upper lobe opacity: attributed to pneumonia during last 
+admission and treated for CAP with ceftriaxone/azithromycin with 
+improvement.  There have also been concern for malignancy with 
+previous plans for PET scan interrupted by need for steroids 
+which caused hyperglycemia preventing PET-CT. On admission, 
+started on empiric HCAP treatment with vancomycin/cefepime by 
+ICU team given recent hospitalization and increasing sizeof the 
+LUL opacity. Fungal studies were sent and were negative or 
+contaminated. Given the absence of fever, chills, leukocytosis 
+above recent discharge level, cough above baseline, or new areas 
+on CT scan concerning for PNA, and alternate plausible 
+explanation for the patient's presentation (acute exacerbation 
+of HFpEF), empiric abx were discontinued on ___ and the patient 
+was monitored for worsening clinical status. and there was none. 
+
+
+* Concern for malignancy - He will need PET after infection 
+adequately treated; on admission, CT chest findings were felt by 
+the ICU/Pulmonary service to be consistent with pneumonia with 
+no discrete nodule to biopsy; risks of "blind" bronch/biopsy 
+felt to outweigh benefits with severe lung disease, risk for 
+intubation and higher concern for infection on admission given 
+rapid interval increase in size.  His PCP, ___ is aware of 
+these issues and is planning to arrange PET-CT after discharge.
+
+# Acute on chronic toxic metabolic encephalopathy: Thorough 
+work-up including Neurology consultation for his anxiety, 
+agitation, and hallucinations during last admission revealed no 
+specific etiology. Differential included early ___, REM 
+sleep behavioral disorder and chronic ischemic cerebrovascular 
+disease. Discharged on Seroquel. Given 5 mg IV olanzapine twice 
+in the ED. Pneumonia suspected as a cause for acute worsening; 
+no other significant metabolic derangements to indicate cause. 
+Continued on home Seroquel. Paraneoplastic panel sent given 
+concern for possible lung cancer and fungal studies (B glucan, 
+galactomannan, histoplasma antigen) sent to rule out indolent 
+mycoses. Prazosin started per previous Psychiatric 
+recommendations with significant improvement in overnight 
+behavior.
+
+# Insomnia: severe. Had been initiated on seroquel QHS and 
+prazosin QHS during most recent admission, and insomnia had 
+improved modestly, but upon transfer from ICU to the floor, the 
+patient continued to complain of severe insomnia.  The causes 
+for his insomnia seem to be multifactorial.  Prior to recent 
+hospitalizations, he had reportedly been taking ambien and 
+increasing doses of benzodiazepines to help with sleep 
+(prescribed in ___.  Furthermore, he reportedly has central 
+sleep apnea, which results in him awakening with hypopnea/apnea, 
+and for which at this point he is not on significant therapy (he 
+did not tolerate CPAP). Given he is on multiple QTc prolonging 
+meds, QTc was checked and was 454, so after discussion with 
+patient's PCP, we increased Seroquel from 25 mg to 50 mg QHS but 
+he had visual hallucination on this and he was see by Pallitive 
+care. He was started on trazadone 50mg PO QHS and 25mg QHS PRN 
+in addition to low dose morphine. His sleep continued to be an 
+issue. The patient continually requested unsafe combination of 
+medications (Ambien, Xanax and Benadryl) for sedation. He might 
+also benefit from treatment with melatonin and this was added 
+following discharge. He may benefit from ramelteon but is not on 
+formulary at ___.
+
+# Atrial fibrillation: rapid ventricular response in ED likely 
+secondary to agitation and volume overload given elevated BNP 
+and weight gain. On esmolol gtt in ED given concern for sepsis 
+which was weaned quickly in setting of successful diuresis, but 
+then required IV metoprolol 5mg x1 with reversion of NSR. 
+Continued on home apixaban for anticoagulation and transitioned 
+to home metoprolol (started at 50mg q6 then decreased to 37.5mg 
+in the setting of hypotension). His rates were well controlled. 
+
+CHRONIC ISSUES
+#ERROR!
+# Chronic obstructive pulmonary disease, stage IV: On ___ NC at 
+home (stable during admission). No wheezing and good air 
+movement arguing against COPD exacerbation. Continued O2 via NC 
+goal O2 >88%, fluticasone-salmterol 500/50 BID, ipratropium neb 
+Q6H. Held Tudorza Pressair (aclidinium bromide), Incruse Ellipta 
+(umeclidinium), Breo Ellipta (fluticasone-vilanterol) as 
+non-formulary.  On transfer to the floor, he continued to 
+require O2 on the higher end of his normal (6 L by NC) and did 
+report intermittent severe dyspnea.  However, lung exam was not 
+clearly consistent with COPD exacerbation (no wheezing or 
+rhonchi).  We considered risks/benefits of initiating steroid 
+therapy for possible COPD flare, but felt risks of increasing 
+agitation/psychosis + aggravating insomnia outweighed potential 
+benefits at this time, given his overall positive response to IV 
+diuresis for HFpEF exacerbation. He was seen by palliative care 
+and given his significant disease he was started on low dose 
+morphine (2.5mg PO Q6 hours PRN) with positive effect. Long 
+conversation about goals of care and he determined that he would 
+be a DNR/DNI. His ambulatory O2 saturations were in the low ___ 
+and high ___ but recover quickly with rest. 
+
+# Central or mixed sleep apnea: Based on report of sleep study 
+from ___.  Needs formal sleep lab evaluation and potential 
+titration of CPAP or other intervention.  We did not give 
+ambien, benzos, or narcotics as these all could potentially 
+worsen central sleep apnea.  For sleep, his head of bed should 
+be elevated, and he should be on supplemental O2.
+
+# Hypertension: on metoprolol at home for atrial fibrillation 
+rate control with normal blood pressures during admission
+
+# Hyperlipidemia: continued home atorvastatin 40mg daily.  
+
+# Coronary artery disease: continued home atorvastatin 40 mg 
+daily. Recently discontinued aspirin when started on apixaban 
+(last admission).
+
+# Gastroesophageal reflux disease: continued home PPI
+
+TRANSITIONAL ISSUES: 
+#ERROR!
+[ ] Daily standing weights
+[ ] PET/lung malignancy workup
+[ ] Central vs. mixed sleep apnea work-up (needs Sleep Lab 
+evaluation)
+
+Greater than 30 minutes was spent in care coordination and 
+counseling on the day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Apixaban 5 mg PO BID 
+2. Atorvastatin 40 mg PO QPM 
+3. Centrum (multivit-iron-min-folic 
+acid;<br>multivit-mins-ferrous gluconat) 3,500-18-0.4 unit-mg-mg 
+oral DAILY 
+4. Nicotine Patch 21 mg TD DAILY 
+5. Tamsulosin 0.4 mg PO QHS 
+6. QUEtiapine Fumarate 25 mg PO QHS 
+7. NexIUM (esomeprazole magnesium) 40 mg oral BID 
+8. Tudorza Pressair (aclidinium bromide) 400 mcg/actuation 
+inhalation BID 
+9. Incruse Ellipta (umeclidinium) 62.5 mcg/actuation inhalation 
+DAILY 
+10. Breo Ellipta (fluticasone-vilanterol) 100-25 mcg/dose 
+inhalation DAILY 
+11. glimepiride unknown  ORAL Frequency is Unknown 
+12. Metoprolol Tartrate 75 mg PO TID 
+
+ 
+Discharge Medications:
+1. Apixaban 5 mg PO BID 
+2. Metoprolol Tartrate 37.5 mg PO Q6H 
+3. Atorvastatin 40 mg PO QPM 
+4. Breo Ellipta (fluticasone-vilanterol) 100-25 mcg/dose 
+inhalation DAILY 
+5. Centrum (multivit-iron-min-folic 
+acid;<br>multivit-mins-ferrous gluconat) 3,500-18-0.4 unit-mg-mg 
+oral DAILY 
+6. Tamsulosin 0.4 mg PO QHS 
+7. Tudorza Pressair (aclidinium bromide) 400 mcg/actuation 
+inhalation BID 
+8. NexIUM (esomeprazole magnesium) 40 mg oral BID 
+9. Incruse Ellipta (umeclidinium) 62.5 mcg/actuation inhalation 
+DAILY 
+10. TraZODone 50 mg PO QHS 
+11. TraZODone 25 mg PO QHS:PRN insomnia 
+12. Prazosin 2 mg PO QHS 
+13. Furosemide 10 mg PO DAILY 
+14. Morphine Sulfate (Oral Solution) 2 mg/mL 2.5 mg PO Q6H:PRN 
+SOB/Anxiety 
+RX *morphine 10 mg/5 mL 2.5 mg by mouth Every 6 hours Refills:*0
+15. melatonin 3 mg oral QHS 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute on chronic diastolic CHF
+Chronic hypoxic respiratory failure
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr ___,
+
+You were admitted to the hospital with increased swelling and 
+found to be in a heart failure exacerbation. You were admitted 
+to the hospital and diuresed with medication. Your volume status 
+improved and you returned to your baseline. You were seen by ___ 
+who recommended rehab. 
+
+You were seen by palliative care and medications were started to 
+help your symptoms. Please follow up with your PCP, 
+___, and Palliative care going forward. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,315 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+Chest Tube Placement ___
+Chest Tube Removal ___
+
+ 
+History of Present Illness:
+This is a ___ yo F with a recent diagnosis of stage 4b 
+endometrial cancer s/p debulking in ___ who presents 
+with worsening shortness of breath. She was slightly tachycardic 
+and tachypnic. O2 sat was slightly low, but normalized with NC. 
+She was found to have an enlarging right pleural effusion. She 
+underwent diagnostic and therapeutic thoracentesis in the ED. It 
+is thought that her effusion is likely malignant, however, 
+cytology is pending (peritoneal fluid was positive for 
+malignancy). After drainage, the patient feels less dyspnic and 
+only has some pain around the site of the catheter. About 2L of 
+serosanguinous fluid has drained out so far.  
+
+REVIEW OF SYSTEMS:  
+A complete 10-point review of systems was performed and was 
+negative unless otherwise noted in the HPI.  
+ 
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:  
+
+She presented with abdominal pain and constipation. CT A/P on 
+___ revealed a 5.7 x 6.5 x 5.4 cm heterogeneous mass or 
+fluid collection in the body of the uterus in addition to 
+omental thickening in the pelvis and a small amount of free 
+fluid. CA-125 was 99. A Chest CT on ___ showed no evidence 
+of metastatic disease. Endometrial biopsy on ___ showed 
+scant fragments of inactive endometrium and benign endocervical 
+epithelium.  
+
+Follow-up imaging with pelvic US on ___ showed a 8.5 x 5.8 x 
+6.5 cm uterus with a markedly distended endometrial cavity with 
+a polypoid mass measuring 8.7 x 5.4 x 7 cm with internal cystic 
+spaces and vascularity. The ovaries were not visualized and 
+there was a small amount of free fluid. Repeat endometrial 
+biopsy of ___ showed clusters of highly atypical epithelial 
+cells in a background of atrophic endometrium.  
+
+On ___, she underwent a total abdominal hysterectomy, 
+bilateral salpingo-oophorectomy, omentectomy, anterior pelvic 
+peritonectomy, appendectomy, and resection of peritoneal 
+nodules. Intra-operatively, there was an enlarged uterus with 
+scant surface nodularity. The bilateral fallopian tubes and 
+ovaries appeared normal. There was a 23 x 32 cm omental cake 
+that was densely adherent to the anterior abdominal wall as well 
+as multiple bowel adhesions to the omentum and sidewalls. The 
+distal tip of the appendix was dilated and tortuous, adherent to 
+tumor nodules of the sigmoid epliploica. There was fine 
+nodularity on the right diaphragm, all <0.5 cm in size. At the 
+conclusion of the surgery, there was no gross residual disease.  
+
+
+Final pathology was notable for a grade 3 serous adenocarcinoma 
+of the endometrium with tumor localized in an endometrial polyp 
+without myometrial invasion or LVI and unremarkable fallopian 
+tubes. ___ tumors were noted in the bilateral ovaries. The 
+omentum, posterior cul-de-sac nodule, anterior bladder 
+peritoneum, sigmoid epiploica, and appendix serosa showed 
+evidence of metastatic serous carcinoma.  
+ 
+PAST MEDICAL HISTORY:  
+ Type 2 diabetes  
+ Hypertension  
+ Hyperlipidemia  
+ Thyroid nodules  
+ Uterine fibroids  
+ Endometrial serous adenocarcinoma  
+ 
+Social History:
+___
+Family History:
+Denies any history of breast, ovarian, uterine or colon cancers. 
+Notes her father had a history of diabetes and high blood 
+pressure.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals: 98.8PO 122 / 74 R Lying ___ 4L NC  
+GENERAL: AOx3, on NC but comfortable  
+HEENT: aniceteric sclera  
+NECK: JVD not elevated  
+LUNGS: chest tube on right, skin intact, decreased breath sounds 
+right posterior mid-lower lung fields  
+CV: sinus tachycardia  
+ABD: distended, tympanitic, TTP after abd surgery, scar site CDI 
+ 
+EXT: no edema  
+SKIN: intact  
+NEURO: nonfocal  
+ACCESS: PIV  
+
+DISCHARGE PHYSICAL EXAM
+=======================
+VS: 98.8, PO 100 / 40 98 20 92 RA  
+GEN: well appearing, no acute distress 
+HEENT: Sclera anicteric, MMM
+Cards: RRR, nl S1/S2, no murmurs/rubs/gallops
+Pulm: decreased breath sounds w/crackles on LLL, dressing in 
+place overlying site of chest tube c/d/I, nontender
+Abd: soft, NT, ND, NABS 
+Skin: No concerning lesions 
+Neuro: AAOx3, CN II-XII grossly intact
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+
+___ 04:00PM BLOOD WBC-11.6* RBC-4.38 Hgb-11.8 Hct-38.4 
+MCV-88 MCH-26.9 MCHC-30.7* RDW-14.0 RDWSD-45.1 Plt ___
+___ 04:00PM BLOOD Neuts-71.9* Lymphs-11.6* Monos-15.2* 
+Eos-0.4* Baso-0.3 Im ___ AbsNeut-8.31* AbsLymp-1.34 
+AbsMono-1.76* AbsEos-0.05 AbsBaso-0.04
+___ 04:00PM BLOOD ___ PTT-25.9 ___
+___ 04:00PM BLOOD Plt ___
+___ 04:00PM BLOOD Glucose-193* UreaN-16 Creat-0.5 Na-139 
+K-4.3 Cl-100 HCO3-22 AnGap-21*
+___ 04:00PM BLOOD LD(LDH)-195
+___ 04:00PM BLOOD TotProt-6.2*
+___ 04:21PM BLOOD Lactate-3.1*
+
+MICRO
+=====
+Pleural fluid (___): negative
+Blood culture (___): NGTD
+Urine culture (___): negative 
+
+IMAGES
+======
+
+CT Chest (___)
+1.  Right chest tube terminating in the inferior right 
+subpleural space. Moderate to large residual right and small to 
+moderate left pleural effusions. 
+2.  Consolidations involving the right middle, right lower, and 
+left lower lobes demonstrate air bronchograms and are worrisome 
+for partial atelectasis with superimposed pneumonia. 
+3.  Subacute rib fractures involving the lateral aspects of the 
+right eighth and ninth ribs. 
+
+CXR (___)
+Comparison to ___.  The right pigtail catheter was 
+removed.  The extent and severity of the known right pleural 
+effusion is stable.  No 
+pneumothorax.  Minimal left pleural effusion.  Mild cardiomegaly 
+without 
+pulmonary edema. 
+
+DISCHARGE LABS
+===============
+___ 07:33AM BLOOD WBC-6.1 RBC-4.06 Hgb-11.0* Hct-35.2 
+MCV-87 MCH-27.1 MCHC-31.3* RDW-14.1 RDWSD-44.8 Plt ___
+___ 07:33AM BLOOD Plt ___
+___ 07:33AM BLOOD Glucose-164* UreaN-11 Creat-0.5 Na-140 
+K-4.6 Cl-102 HCO3-29 AnGap-14
+___ 07:33AM BLOOD Calcium-8.4 Phos-3.2 Mg-1.___ with PMH of HHTN, T2DM, HLD, and stage 4b metastatic 
+endometrial cancer with worsening shortness of breath from 
+likely malignant pleural effusion s/p drainage with chest tube 
+with improved breathing after CT removal. 
+
+# Dysnea: Patient was admitted with symptoms of dyspnea and new 
+oxygen requirement of 4L. SOB was thought secondary to bilateral 
+pleural effusions and there were no clinical or imaging findings 
+suggestive of pneumonia. IP was consulted, with CT Chest 
+concerning for trapped lung. A chest tube was placed on ___ and 
+subsequently removed on ___. Repeat imaging did not demonstrate 
+a pneumothorax. Oxygen requirement resolved and patient was >95% 
+saturation at rest and with ambulation at the time of discharge. 
+She has follow up with IP planned in the outpatient setting for 
+consideration of pleurex catheter for more frequent outpatient 
+drainage of likely malignant pleural effusions. 
+
+# Stage 4b Metastatic Endometrial Cancer: With plan for likely 
+palliative chemotherapy as outpatient. She was continued on 
+Lovenox in patient and set up with oncology follow up within 1 
+week of discharge.
+
+CHRONIC ISSUES
+============== 
+
+# Hypertension: Home olmesartan-hydrochlorothiazide was held on 
+admission and discharge given blood pressure controlled. She was 
+continued on metoprolol and amlodipine during admission and on 
+discharge. 
+
+# DM: Home janument was held, pt was kept on ISS while in house. 
+
+
+TRANSITIONAL ISSUES
+===================
+
+- O2 saturation: 95RA and with ambulation
+- F/u with IP on ___ for ongoing discussions re: pleural 
+fluid accumulation/possible need for pleurex placement if 
+indicated
+- Cytology from pleural fluid sampling pending at the time of 
+discharge
+- Patient will have f/u with outpatient oncologist ___. Will 
+need outpatient CT A/P with PO and IV contrast for staging to be 
+done in the outpatient setting. 
+- Discharged on 40mg SQ Lovenox to be continued for 8 days until 
+___, for a total of 28 days following surgery on ___. 
+Further anticoagulation to be determined in outpatient oncology 
+follow up. 
+- HTN. Home Benicar HCT (olmesartan-hydrochlorothiazide) held 
+during admission and held on discharge in the setting of 
+normotension. Recommend re-evaluation of BP in the outpatient 
+setting for need to resume anti-HTN medications 
+
+CODE: Full (presumed) 
+EMERGENCY CONTACT HCP: ___ (daughter) ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. Jentadueto (linagliptin-metformin) 2.5-1,000 mg oral DAILY 
+4. Metoprolol Succinate XL 100 mg PO DAILY 
+5. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+6. Benicar HCT (olmesartan-hydrochlorothiazide) ___ mg oral 
+DAILY 
+7. Zolpidem Tartrate 10 mg PO QHS 
+8. Docusate Sodium 100 mg PO BID 
+9. lubiprostone 24 mcg oral DAILY 
+10. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 40 mg SC DAILY Duration: 8 Days 
+To finish on ___ 
+RX *enoxaparin 40 mg/0.4 mL 40 mg subcutaneous daily Disp #*8 
+Syringe Refills:*0 
+2.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+RX *tramadol 50 mg 1 tablet(s) by mouth every 12 hours as needed 
+for pain Disp #*6 Tablet Refills:*0 
+3.  Zolpidem Tartrate 5 mg PO QHS 
+Please only take 5mg given new dosing recommendation for women   
+
+4.  amLODIPine 5 mg PO DAILY  
+5.  Atorvastatin 20 mg PO QPM  
+6.  Docusate Sodium 100 mg PO BID  
+7.  Jentadueto (linagliptin-metformin) 2.5-1,000 mg oral DAILY  
+8.  lubiprostone 24 mcg oral DAILY  
+9.  Metoprolol Succinate XL 100 mg PO DAILY  
+10.  Multivitamins 1 TAB PO DAILY  
+11.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Malignant ascites
+Endometrial Cancer
+
+SECONDARY DIAGNOSIS:
+Hypertension
+DM
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to be part of your care at ___. 
+
+You were admitted to the hospital because you were having 
+difficulty breathing. You were found to have a collection of 
+fluid in your lungs which was likely causing your difficulty 
+breathing. The fluid was drained and your breathing improved. 
+
+This fluid is related to your malignancy and as such it might 
+recur. You will follow up with in the interventional pulmonology 
+clinic to evaluate whether you will need a longer-term drain for 
+this issue. 
+
+If your breathing worsens, if you develop any fevers or cough, 
+then please contact your doctor. 
+
+We wish you the best,
+Your ___ Team 
+ 
+Followup Instructions:
+___

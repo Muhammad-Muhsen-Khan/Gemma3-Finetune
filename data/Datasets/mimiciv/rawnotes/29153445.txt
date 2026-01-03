@@ -1,0 +1,271 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left hemidiaphragm paralysis
+ 
+Major Surgical or Invasive Procedure:
+___ ROBOTIC VIDEO ASSISTED THORASCOPIC LEFT DIAPHRAGM 
+PLICATION
+ 
+History of Present Illness:
+___ with hx asthma, seasonal rhinitis, and OSA, referred with
+paralysis of left hemi-diaphragm.  
+
+In the ___, he had a low-grade fever. Work-up failed to 
+reveal
+a cause. Then in ___, he spiked a temp of 104.8 and was
+hospitalized for 3 days at ___ with a presumed 
+viral
+infection. CT Chest noted new elevation of the left
+hemidiaphragm. SNIFF test done ___ demonstrated paralysis of
+the left hemidiaphragm. ECHO ___: normal; EF 55% He is
+referred for surgical eval/mgt.
+
+Since ___, he reports significant DOE with activities such as
+walking upstairs and running. At baseline, he could run 2.5
+miles, but now becomes SOB/light-headed after running for a
+minute and a half. His DOE improves with rest. There have been 
+no
+change in his symptoms since ___. No F/C currently. Does have
+some L sided rib-pain with exertion. 
+ 
+ 
+Past Medical History:
+Sleep apnea, uses Bipap
+Asthma - mild, rarely has needed inhaler
+Anxiety
+Rosacea
+Hypertension
+Hyperlipidemia
+Low testosterone
+Hand eczema since childhood
+
+ 
+Social History:
+___
+Family History:
+Father: ___, diabetes, history of tuberculosis
+Mother: Living at age ___
+Brother: Healthy
+Grandfather died of colorectal cancer
+ 
+Physical Exam:
+Initial: 
+PE:Vital Signs sheet entries for ___: 
+BP: 135/78. Heart Rate: 104. O2 Saturation%: 98. Weight: 230.3
+(With Clothes; With Shoes). BMI: 33.5. Temperature: 98.4. Resp.
+Rate: 16. Pain Score: 0. Distress Score: 0.
+Gen:NAD
+Chest:Clear to ausc
+Cor:RRR
+Extrem:No CCE
+
+Discharge:
+24 HR Data (last updated ___ @ 753)
+    Temp: 98.0 (Tm 98.5), BP: 122/81 (122-168/66-102), HR: 80
+(80-101), RR: 18 (___), O2 sat: 97% (91-97), O2 delivery: Ra
+___: BMI: 32.3
+Fluid Balance (last updated ___ @ 754)
+  Last 8 hours  Total cumulative -1560ml
+    IN: Total 240ml,  PO amount 240ml
+    OUT:  Total 1800ml, Urine amount 1800ml
+  Last 24 hours  Total cumulative -2140ml
+    IN: Total 580ml,  PO amount 580ml
+    OUT:  Total 2720ml, Urine amount 2700ml, Emesis 20ml
+
+Gen: [x] NAD, [x] AAOx3
+CV: [x] RRR, [] murmur
+Resp: [x] breaths unlabored, [x] CTAB, [] wheezing, [] rales
+Abdomen: [x] soft, [] distended, [] tender, [] rebound/guarding
+Wound: [x] incisions clean, dry, intact
+Ext: [x] warm, [] tender, [] edema
+ 
+Pertinent Results:
+CXR ___
+IMPRESSION: 
+ 
+No discrete pneumothorax identified.  A chest tube projects over 
+the left lung
+base.
+ 
+Elevation of the right hemidiaphragm likely secondary to right 
+lower lobe
+volume loss.
+ 
+CXR ___
+IMPRESSION: 
+ 
+Overall, no significant interval change in the appearance of the 
+chest
+compared to the exam performed 16 hours prior.  There has been 
+interval
+extubation of the ETT.
+
+CXR ___
+IMPRESSION: 
+ 
+Comparison to ___.  Mildly increasing retrocardiac 
+and right
+basal atelectasis.  Stable air collection in the left-sided soft 
+tissues. 
+Stable appearance of the ribs and of the moderately enlarged 
+cardiac
+silhouette.  The lateral radiograph documents the areas of 
+atelectasis but
+does not show evidence of effusions.
+ 
+
+KUB ___
+IMPRESSION: 
+ 
+Moderate stool burden without signs of obstruction.
+
+CXR ___
+
+IMPRESSION: 
+ 
+Heart size is top-normal, unchanged.  Elevated right 
+hemidiaphragm is
+unchanged.  Minimal small left pleural effusion is unchanged. 
+There is no
+appreciable pneumothorax or new consolidations.
+ 
+ 
+Brief Hospital Course:
+Patient underwent left VATS diaphragm plication on ___.  
+Initially postoperatively, he had significant pain but his pain 
+was able to be controlled in the PACU, he had no dyspnea.  
+Postoperative chest x-ray showed his left hemidiaphragm was 
+significantly lower than his preoperative chest x-ray, without 
+pneumothorax.  Overnight, he had some difficulty with pain 
+control and tachycardia believed secondary to pain and anxiety.  
+He failed to void, requiring straight catheterization.  His 
+chest tube remained without air leak during the day of ___ 
+his chest tube was removed without postpull pneumothorax.  He 
+failed to void, requiring replacement of a Foley catheter and he 
+was started on Flomax.  That evening, he had increasing 
+abdominal pain and distention.  Serial abdominal exams remained 
+benign.  The morning of ___ he reported that his pain had 
+improved following a bowel movement and passage of flatus.  His 
+Foley catheter was removed to allow another voiding trial, which 
+he failed requiring replacement of Foley catheter.  That 
+evening, he had increasing abdominal pain and a KUB showed 
+moderate stool burden and nonspecific bowel gas pattern.  He is 
+given a suppository which helped his pain.  On ___, his 
+Foley was removed and he ultimately was able to void 
+spontaneously multiple times.  He was discharged home with his 
+pain well controlled, no dyspnea and and comfortably ambulating 
+on room air, no nausea/vomiting, and voiding spontaneously.  He 
+will follow-up in clinic with Dr. ___ in 2 weeks.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Testosterone Gel 1% 50 mg TP DAILY 
+2. Lisinopril 10 mg PO QHS 
+3. BusPIRone 15 mg PO BID 
+4. LORazepam 0.5 mg PO Q8H:PRN anxiety 
+5. Fluocinonide 0.05% Cream 1 Appl TP DAILY 
+6. Hydrocortisone (Rectal) 2.5% Cream ___AILY 
+7. tadalafil 5 mg oral DAILY:PRN ED 
+8. albuterol sulfate 90 mcg/actuation inhalation QID:PRN 
+wheezing 
+9. PARoxetine 30 mg PO DAILY 
+10. TraZODone 100 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  OxyCODONE (Immediate Release) 5 mg PO Q3H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*25 Tablet Refills:*0 
+2.  albuterol sulfate 90 mcg/actuation inhalation QID:PRN 
+wheezing  
+3.  BusPIRone 15 mg PO BID  
+4.  Fluocinonide 0.05% Cream 1 Appl TP DAILY  
+5.  Hydrocortisone (Rectal) 2.5% Cream ___AILY  
+6.  Lisinopril 10 mg PO QHS  
+7.  LORazepam 0.5 mg PO Q8H:PRN anxiety  
+8.  PARoxetine 30 mg PO DAILY  
+9.  tadalafil 5 mg oral DAILY:PRN ED  
+10.  Testosterone Gel 1% 50 mg TP DAILY  
+11.  TraZODone 100 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Left hemidiaphragm paralysis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+* You were admitted to the hospital for lung surgery and you've 
+recovered well. You are now ready for discharge. 
+
+* Continue to use your incentive spirometer 10 times an hour 
+while awake.
+
+* Check your incisions daily and report any increased redness or 
+drainage.   Cover the area with a gauze pad if it is draining.
+
+* Your chest tube dressing may be removed in 48 hours.  If it 
+starts to drain, cover it with a clean dry dressing and change 
+it  as needed to keep site clean and dry.
+
+* You may need pain medication once you are home but you can 
+wean it over the next week as the discomfort resolves.  Make 
+sure that you have regular bowel movements while on narcotic 
+pain medications as they are constipating which can cause more 
+problems.  Use a stool softener or gentle laxative to stay 
+regular.
+
+* No driving while taking narcotic pain medication.
+
+* Take Tylenol on a standing basis to avoid more opiod use.
+
+* Continue to stay well hydrated and eat well to heal your 
+incisions
+
+* No heavy lifting > 10 lbs for 4 weeks.
+
+* Shower daily. Wash incision with mild soap & water, rinse, pat 
+dry
+  * No tub bathing, swimming or hot tubs until incision healed
+  * No lotions or creams to incision site
+
+* Walk ___ times a day and gradually increase your activity as 
+you can tolerate.
+
+ Call Dr. ___, Dr. ___, Dr. ___, Dr. ___ 
+___ if you experience:
+  -Fevers > 101 or chills
+  -Increased shortness of breath, chest pain or any other 
+symptoms that concern you.
+
+** If pathology specimens were sent at the time of surgery, the 
+reports will be reviewed with you in detail at your follow up 
+appointment. This will give both you and your doctor time to 
+understand the pathology, its implications and discuss options 
+going forward.**
+
+ 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,226 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain/pressure
+ 
+Major Surgical or Invasive Procedure:
+___ Coronary Artery Bypass Grafting
+
+ 
+History of Present Illness:
+___ year old male who presented to ___ with chest 
+pain/pressure. Per report he had multiple hours of chest pain on 
+___ which eventually self resolved, but re developed the 
+following afternoon which prompted his presentation to the ___. 
+Associating symptoms include headache, neck and back pain, and 
+belching. Pt associated the belching to a meal he had eaten for 
+which he took Tums. He denied nausea, vomiting, dizziness, or 
+visual changes. He denies any previous chest pain/pressure, but 
+does report occasional shortness of breath with climbing stairs. 
+He has traveled to ___ multiple times over the past year. 
+Denies leg swelling or calf pain.
+
+Per report EKG showed SR with borderline inferior ST elevations. 
+D dimer was negative, CTA showed no dissection, but possible 
+esophagitis for which he was started on PPI. CTA neck showed 2mm 
+sacular aneurysm of the left internal carotid artery, no 
+stenosis or occlusion.  
+
+Pt received Nitro x2 in ___, Effient, and a Heparin gtt was 
+started. Pt had a cardiac cath ___ at ___ 
+which showed 3V disease. He was transferred to ___ for 
+surgical evaluation. Currently chest pain free.
+
+ 
+Past Medical History:
+Coronary Artery disease
+s/p tonsillectomy/adenoidectomy
+
+ 
+Social History:
+___
+Family History:
+Brother ___ in his ___, 
+Father ___ in his ___,
+Mother CVA in her ___
+
+ 
+Physical Exam:
+PREOPERATIVE EXAM
+
+97.9 PO 131/81 82 20 97 Ra 
+Height: 207 lbs    Weight: 67 in
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______ 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++[x]
+Extremities: Warm [x], well-perfused [x]  Edema [] _____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:   Left:
+DP           Right: + Left:+
+___           Right: + Left:+
+Radial       Right: + Left:+
+Carotid Bruit: Right:-    Left:-
+.
+DSICHARGE EXAM - PENDING
+General: NAD [x]  
+Neurological: A/O x3 [x] Moves all extremities [x] Follows
+commands [x]
+HEENT:  PEERLA [] 
+Cardiovascular: RRR [x] + Rub  
+Respiratory: CTA [x]  No resp distress [x] Diminished at bases 
+GI/Abdomen: Bowel sounds present [x] Soft [x] ND [x] NT [x]
+Extremities: 
+Right Upper extremity   Warm [x]  Edema tr  
+Left Upper extremity    Warm [x]  Edema tr 
+Right Lower extremity   Warm [x]  Edema tr 
+Left Lower extremity    Warm [x]  Edema tr 
+Skin/Wounds: Dry [x] intact [x] Left groin ecchymosis 
+Sternal: CDI [x] no erythema or drainage [x]
+                 Sternum stable [] Prevena []
+Lower extremity: Right [x] Left []  CDI [x]
+
+98.6, 113/73, 102 bpm, 16, 95% RA
+
+ 
+Pertinent Results:
+___ 09:03PM BLOOD WBC-6.0 RBC-4.96 Hgb-15.7 Hct-44.1 MCV-89 
+MCH-31.7 MCHC-35.6 RDW-12.7 RDWSD-40.9 Plt ___
+___ 09:03PM BLOOD ___ PTT-28.7 ___
+___ 09:03PM BLOOD Glucose-88 UreaN-14 Creat-0.9 Na-141 
+K-3.9 Cl-106 HCO3-22 AnGap-13
+___ 09:03PM BLOOD ALT-26 AST-36 LD(LDH)-359* AlkPhos-39* 
+TotBili-1.0
+___ 09:03PM BLOOD Albumin-3.8 Calcium-8.7 Phos-3.0 Mg-2.0
+___ 09:03PM BLOOD %HbA1c-5.2 eAG-103
+
+___ PA and Lateral:
+The right IJ line has been removed in the interim.  Lungs are 
+low volume with
+bibasilar atelectasis.  There are small bilateral effusions. 
+Cardiomediastinal silhouette is stable.  No pneumothorax is seen
+
+___ 04:56AM BLOOD WBC-5.0 RBC-2.41* Hgb-7.4* Hct-22.1* 
+MCV-92 MCH-30.7 MCHC-33.5 RDW-13.0 RDWSD-42.2 Plt ___
+___ 04:56AM BLOOD Plt ___
+___ 04:56AM BLOOD Glucose-114* UreaN-21* Creat-0.9 Na-139 
+K-4.0 Cl-102 HCO3-26 AnGap-11
+___ 04:56AM BLOOD Calcium-8.1* Phos-2.5* Mg-2.2
+ 
+Brief Hospital Course:
+The patient was brought to the Operating Room on ___ where 
+the patient underwent Coronary artery bypass grafting x 4 with 
+left internal mammary artery to left anterior descending artery 
+and reverse saphenous vein graft to the right coronary artery, 
+obtuse marginal artery and the first diagonal artery.  Overall 
+the patient tolerated the procedure well and post-operatively 
+was transferred to the CVICU in stable condition for recovery 
+and invasive monitoring.  
+
+ POD 1 found the patient extubated, alert and oriented and 
+breathing comfortably.  The patient was neurologically intact 
+and hemodynamically stable.  Beta blocker was initiated and the 
+patient was gently diuresed toward the preoperative weight.  The 
+patient was transferred to the telemetry floor for further 
+recovery.  Chest tubes and pacing wires were discontinued 
+without complication.  The patient was evaluated by the Physical 
+Therapy service for assistance with strength and mobility.  By 
+the time of discharge on POD 4 the patient was ambulating 
+freely, the wound was healing and pain was controlled with oral 
+analgesics.  The patient was discharged to home in good 
+condition with appropriate follow up instructions.
+ 
+Medications on Admission:
+NoneThe Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Aspirin EC 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*1 
+3.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*1 
+4.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*30 Tablet Refills:*0 
+5.  Furosemide 20 mg PO DAILY Duration: 7 Days 
+RX *furosemide 20 mg 1 tablet(s) by mouth once a day Disp #*7 
+Tablet Refills:*0 
+6.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+RX *hydromorphone [Dilaudid] 2 mg 1 tablet(s) by mouth every 
+four (4) hours Disp #*40 Tablet Refills:*0 
+7.  Metoprolol Tartrate 50 mg PO TID 
+RX *metoprolol tartrate 50 mg 1 tablet(s) by mouth three times a 
+day Disp #*90 Tablet Refills:*1 
+8.  Potassium Chloride 20 mEq PO DAILY Duration: 7 Days 
+RX *potassium chloride 20 mEq 1 tablet(s) by mouth once a day 
+Disp #*7 Tablet Refills:*0 
+9.  Ranitidine 150 mg PO BID Duration: 30 Days 
+RX *ranitidine HCl 150 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+10.  Senna 17.2 mg PO BID:PRN Constipation - Second Line 
+RX *sennosides [senna] 8.6 mg 2 tablets by mouth twice a day 
+Disp #*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary Artery Disease CABG x 4(LIMA- LAD, SVG- OM,- PDA,-diag 
+___
+ 
+Discharge Condition:
+Alert and oriented x3, non-focal
+ Ambulating, gait steady
+ Sternal pain managed with oral analgesics
+ Sternal Incision - healing well, no erythema or drainage
+ Edema-trace
+
+ 
+Discharge Instructions:
+Please shower daily -wash incisions gently with mild soap, no 
+baths or swimming, look at your incisions daily
+ Please - NO lotion, cream, powder or ointment to incisions
+ Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+ No driving for approximately one month and while taking 
+narcotics
+
+Clearance to drive will be discussed at follow up appointment 
+with surgeon
+ No lifting more than 10 pounds for 10 weeks
+
+Encourage full shoulder range of motion, unless otherwise 
+specified
+ **Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+ 
+Followup Instructions:
+___

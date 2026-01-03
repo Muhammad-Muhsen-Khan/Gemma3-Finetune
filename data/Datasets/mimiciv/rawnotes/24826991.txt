@@ -1,0 +1,412 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+diplopia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The pt is a ___  year-old M w/ no previously reported PMH who
+presents from OSH with gait instability and mild R sided 
+weakness
+and imaging suggestive of significant cerebrovascular disease. 
+Hx
+obtained from pt at bedside and OSH chart.
+
+Pt presented to ___ on ___, due to
+difficulties with ambulation and subjective R sided weakness for
+1 month. Pt also had experienced binocular horizontal diplopia
+starting that previous ___. Upon admission, patient was
+evaluated for potential stroke and was seen to have undiagnosed
+Atrial Fibrillation, Hypertension, and Diabetes Mellitus. He was
+seen to have subacute stroke in L PCA territory as well as
+multiple small infarcts suggestive of microemboli as well as
+microbleeds concerning for amyloid angiopathy. Due to persistent
+elevated blood pressures, pt was started on BP regimen with
+Amlodipine, Lisinopril, HCTZ, and Labetalol. He was also started
+on Atorvastatin and insulin therapy for diabetes. Of note, on
+___ pt was reported to have headache and develop n/v as well 
+as
+new onset facial droop (note that pt only endorses headache and
+denies these other symptoms). F/u CT showed no significant
+changes. Due to these new onset sx and the consideration for
+anticoagulant therapy, pt was transferred to ___ for further
+evaluation and management.
+
+Pt denies any previous hx of strokes, TIAs, or other neurologic
+disorders. Denies previous hx of smoking. No family history of
+stroke/TIAs.
+
+Neuro and general ROS negative except as noted above 
+
+ 
+Past Medical History:
+None previous, although newly diagnosed Afib, HTN, and DM
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION: 
+==============
+Vitals: T: 99.4 BP; 177/109 HR: 75 RR: 18 O2sat: 97% RA
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Alert, oriented to person, place, time,
+situation. Able to relate history although vague. Attentive, 
+able
+to name ___ backward without difficulty. Language is fluent with
+intact repetition and comprehension. Normal prosody. There were
+no paraphasic errors. Pt was able to name both high and low
+frequency objects.  Able to read without difficulty. Speech was
+not dysarthric. Able to follow both midline and appendicular
+commands. There was no evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 4 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. Mild R pronator drift.
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___   ___  5   5    5  5     5     5   5
+R  5-   ___-  ___  5   5    5  5     5     5   5
+
+-Sensory: No deficits to light touch, pinprick, cold. Decreased
+proprioception in distal toes b/l, intact more proximally at
+ankles. No extinction to DSS.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    2   1
+R  2  2    2    2   1
+Plantar response was mute bilaterally.
+
+-Coordination: Mild ataxia on FNF and HTS, mild
+dysdiadochokinesia. No intention tremor.
+
+-Gait: Ataxic gait w/ broad base, unable to walk in tandem
+effectively. Romberg positive. 
+
+======================================
+DISCHARGE PHYSICAL EXAMINATION: 
+General: unremarkable. 
+Neuro: MS normal, CN nl, Motor with 5- at R deltoid, tricep, 
+WrE, FEx. No pronator drift. Orbits around R arm. Decreased 
+proprioception R>L UE and at b/l toes. dysmetria with FTN and 
+HTS R>L. Gait wide-based, unable to tandem. 
+ 
+Pertinent Results:
+___ 01:14PM BLOOD WBC-8.9 RBC-5.03 Hgb-14.7 Hct-45.0 MCV-90 
+MCH-29.2 MCHC-32.7 RDW-12.0 RDWSD-39.2 Plt ___
+___ 01:15PM BLOOD WBC-6.7 RBC-4.21* Hgb-12.1* Hct-38.9* 
+MCV-92 MCH-28.7 MCHC-31.1* RDW-14.8 RDWSD-48.6* Plt ___
+___ 01:14PM BLOOD ___ PTT-33.0 ___
+___ 01:14PM BLOOD Glucose-143* UreaN-25* Creat-0.9 Na-137 
+K-3.6 Cl-98 HCO3-27 AnGap-16
+___ 01:15PM BLOOD Glucose-191* UreaN-8 Creat-0.5 Na-138 
+K-3.1* Cl-102 HCO3-21* AnGap-18
+___ 01:14PM BLOOD ALT-15 AST-21 AlkPhos-97 TotBili-1.0
+___ 01:15PM BLOOD CRP-25.4*
+___ 01:15PM BLOOD SED RATE-58     
+___ 05:00AM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-4* pH-5.5 Leuks-NEG
+___ 05:00AM URINE RBC-1 WBC-9* Bacteri-NONE Yeast-NONE 
+Epi-0
+
+Imaging: 
+___ MRI brain: 1. Again seen are multiple scattered foci of
+diffusion abnormality, as described above, suggestive of acute 
+to
+subacute stroke, which may be embolic in origin. 
+2. Multiple new focal diffusion abnormality are seen within the
+right 
+temporoparietal lobe, suggestive of superimposed acute
+infarction. 
+3. Stable numerous small foci of hemosiderin, particularly 
+within
+the basal ganglia and pons.  This may be microhemorrhage related
+to hypertension or possibly amyloidosis. 
+4. Stable additional foci of susceptibility artifact
+corresponding to the diffusion abnormality in the left frontal
+lobe, right parietal lobe and basal ganglia; finding is likely
+related to background small foci of microhemorrhage and amyloid
+angiopathy.  However, possibility of hemorrhagic conversion of
+known infarction is difficult to entirely exclude. 
+
+CXR ___: No previous images.  Low lung volumes accentuate the
+transverse diameter of the cardiac silhouette.  No evidence of
+vascular congestion, pleural effusion, or acute focal pneumonia. 
+
+ 
+OSH Non-Contrast CT of Head:
+Semiacute L PCA territory infarct and multiple bilateral, small,
+old, basal ganglia lacunes, an old L centrum semiovale white
+matter infarct, and an old small R cerebellar infarct. 
+
+OSH MRI Brain w/o contrast:
+1. Small foci of restricted diffusion in the right thalamus, 
+right frontal white matter tracts, right posterior centrum
+semiovale and subcortical mid right parietal lobe consistent 
+with
+small embolic shower. Extensive fluid images suggesting amyloid
+angiopathy.
+
+OSH Echo: 
+EF 40 %,mild LVH,mod MR,PAP 48 mg, AI
+
+___ MRI head w/wo contrast: 1. Evolution of multiple small 
+infarctions seen on the prior examination with enhancement of 2 
+right temporal lobe foci. 
+2. Unchanged appearance of extensive chronic hemorrhage 
+suggesting amyloid 
+angiopathy. 
+3. No other areas of abnormal enhancement 
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted after presenting to OSH with new 
+diplopia and one month of difficulty using his R side. At OSH he 
+was found to have new diagnoses of HTN, HLD, T2DM. OSH imaging 
+showed multiple scattered embolic-appearing infarcts and 
+scattered microhemorrhages, and he was transferred for further 
+management. 
+He was admitted to the stroke service. 
+Due to lack of insurance, he remained inpatient until he 
+rehabbed enough with ___ that he was able to safely be 
+discharged home. 
+
+#Multiple scattered infarcts in multiple vascular territories 
+and numerous microhemorrhages: Given new diagnosis of atrial 
+fibrillation, there was high concern for cardioembolic etiology 
+of these infarcts. Risk/benefit of anticoagulation was 
+deliberated and discussed with patient, and he was started on 
+apixaban 5 mg bid. He tolerated this well thoughout his 
+admission without e/o bleeding. Etiology of the microhemorrhages 
+was felt to be amyloid angiopathy given characteristic 
+appearance. Later in his admission this pattern was reevaluated 
+and the possibility of amyloid angiitis as etiology of some 
+infarcts as well as the hemorrhages was raised. Therefore he 
+underwent MRI brain to evaluate for leptomeningeal enhancement, 
+which is quite specific for amyloid angiitis rather than amyloid 
+angiopathy. Patient was not interested in pursuing brain biopsy 
+to definitively answer this question. 
+
+#HTN: His BP was initially quite refractory, requiring maximal 
+doses of three antihypertensives and therapeutic (but not 
+maximal) dose of a fourth. He was eventually stabilized on 
+amlodipine 10 mg daily, HCTZ 25, lisinopril 40, and labetalol 
+200 bid. The labetalol was later discontinued in the setting of 
+orthostatic hypotension (see below). He was discharged on the 
+other three medications. 
+
+#HLD: He was maintained on atorvastatin 80 mg qpm without any 
+e/o myalgias or other AE. 
+
+#T2DM: ___ diabetes was consulted, and followed throughout 
+his admission. he was initially on metformin, which was 
+gradually uptitrated to 1000mg bid. He was also initially on 
+lantus at OSH, prior to starting metformin, but this was stopped 
+in favor of oral therapy. He was then started on glipizide along 
+with the metformin, initially at 5 mg daily. However he 
+continued to intermittently skip meals while inpatient, and had 
+several episodes of hyperglycemia. This was downtitrated to 2.5 
+mg daily and eventually stopped and he was stabilized on 
+metformin alone prior to discharge. He was given diabetes 
+teaching by the ___ team. 
+
+#Hospital Issues: Mr. ___ was noted to frequently not ask 
+for drinks, though would drink things that were brought to him. 
+This led to several mild episodes of prerenal azotemia and 
+orthostatic hypotension during his admission, all of which 
+resolved with IVF. Regimens were instituted to bring him liquids 
+on a scheduled basis between meal trays as he continually did 
+not ask for them. 
+Mr. ___ initially told staff members that he had no family 
+members whom we could contact, and 10 days into his admission, 
+family members found him by calling around to different 
+hospitals. His sister and brother and sister-in-law were 
+subsequently involved in his care and discharge planning. ___ 
+supervision was recommended by ___ on discharge, however 
+patient adamantly refused this, but did concede frequent 
+(multiple times per day) check-ins from family members and 
+family members setting up pill box for him. 
+His ambulation improved to the point of  being safe for 
+discharge home, and he was discharged to home on ___
+
+=======================================
+Transitional Issues: 
+[ ] reinforce medication compliance
+[ ] reinforce agreement with family check-ins
+[ ] monitor BP and consider adding fourth agent as needed. 
+
+===========================================
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack  
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed _x0096_ () No  
+2. DVT Prophylaxis administered? (x) Yes - () No  
+3. Antithrombotic therapy administered by end of hospital day 2? 
+() Yes - () No  
+4. LDL documented? (x) Yes (LDL = 135 at OSH) - () No  
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 100) (x) Yes - () No [if 
+LDL >100, reason not given: ]  
+6. Smoking cessation counseling given? (x) Yes - () No [reason 
+() non-smoker - () unable to participate]  
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No  
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No  
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >100, 
+reason not given: ]  
+10. Discharged on antithrombotic therapy? (x) Yes [Type: () 
+Antiplatelet - (x) Anticoagulation] - () No  
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? (x) Yes - () No - () N/A  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  amLODIPine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*11 
+2.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice daily 
+Disp #*60 Tablet Refills:*11 
+3.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth nightly Disp #*30 
+Tablet Refills:*11 
+4.  Hydrochlorothiazide 25 mg PO DAILY 
+RX *hydrochlorothiazide 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*11 
+5.  Lisinopril 40 mg PO DAILY 
+RX *lisinopril 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*11 
+6.  MetFORMIN (Glucophage) 1000 mg PO BID 
+RX *metformin 1,000 mg 1 tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*11 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute Ischemic Stroke
+Chronic intracerebral microhemorrhages
+Diabetes, type 2
+Hypertension, refractory
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+You were hospitalized due to symptoms of right-sided weakness 
+and double vision resulting from an ACUTE ISCHEMIC STROKE, a 
+condition where a blood vessel providing oxygen and nutrients to 
+the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms.  
+You also have numerous small areas of bleeding in the brain, 
+from a condition called amyloid angiopathy, which means that the 
+blood vessels in your brain are weakened and more likely to 
+bleed. 
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+High blood pressure
+High cholesterol
+Diabetes
+Atrial fibrillation
+Amyloid angiopathy
+ 
+We are changing your medications as follows:  
+Start several blood pressure medications
+Start diabetes medicines
+Start a blood thinner called apixaban
+Please take your other medications as prescribed.  
+
+Please followup with Neurology and your primary care physician 
+as listed below.  
+
+Check your blood sugar at least twice a day. Call your Primary 
+Care Physician if your blood sugar is <70 or more than 300. 
+
+You are going home with two weeks of your medications. Call 
+financial counseling at ___ after you go home to 
+discuss continuing to get free 14 day supplies of your 
+medications though ___ Free Care pharmacy. They will continue to 
+supply you with a 14 day courtesy fill until you're approved for 
+coverage through mass health. 
+
+Monitor your mail for an approval letter from Mass Health, and 
+if/when you receive it, follow the instructions on that letter. 
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+- Sudden partial or complete loss of vision  
+- Sudden loss of the ability to speak words from your mouth  
+- Sudden loss of the ability to understand others speaking to 
+you  
+- Sudden weakness of one side of the body  
+- Sudden drooping of one side of the face  
+- Sudden loss of sensation of one side of the body  
+
+Sincerely, 
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

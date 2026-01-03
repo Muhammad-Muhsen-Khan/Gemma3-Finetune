@@ -1,0 +1,224 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea
+ 
+Major Surgical or Invasive Procedure:
+Temporary HD Line Placement ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with h/o HTN and recently diagnosed 
+metastatic renal cell carcinoma (liver mets, tumor thrombus 
+extending up into IVC on warfarin, and pulmonary mets) who 
+presents with worsening dyspnea, jaundice and fatigue. 
+
+Patient reports that prior to his recent symptoms, he has not 
+seen a doctor in > ___ years. He has not had any issues with his 
+health previously. He believes his issues became when he 
+developed constipation and decreased urine output in ___. He 
+went to Urgent Care where he was diagnosed with a UTI and took a 
+course of antibiotics, which helped his symptoms. He then 
+established care with his current PCP. On ___, he 
+developed some urgent and then urinated a very large blood clot. 
+He presented to the ED where he had an ultrasound of his kidneys 
+and then a CT scan, which showed metastatic cancer. He then 
+established care with his oncologist, Dr. ___ from 
+___. He had a biopsy of liver on ___ that showed 
+cancer. He was started on low dose warfarin for his IVC 
+thrombus. Dr. ___ him to an oncologic surgery at 
+___ but unfortunately the patient ran into some insurance 
+issues and so he was referred to Dr. ___ at ___. He 
+was supposed to see Dr. ___ today in clinic but had worsening 
+fatigue, dyspnea, and pain and was thus referred to the ED.
+
+Patient reports his dyspnea is present on exertion only. He can 
+climb 1 flight of stairs prior to developing dyspnea. He denies 
+any orthopnea. He also reports some epigastric abdominal pain. 
+He was taking tramadol at home every 6 hours but this was not 
+working well for him and causing him significant constipation 
+that was uncomfortable so he stopped taking it on ___. He did 
+try some OTC Miralax, but did not feel as though that helped his 
+constipation. He has also been taking Tylenol for the pain, 
+which has not been helpful. He denies any fevers or chills or 
+cough. He has had some swelling of his legs, but has not paid 
+too much attention. He endorses significant decrease in appetite 
+recently and nothing has been appealing. 
+
+In the ED, initial vitals were normal. Labs notable for lactate 
+of 4, cr of 1.3, Na of 129, INR of 2.5. Lactate improved to 3.3 
+with 2L IVF. CTA chest and CT of the abd/pelvis significant for 
+no PE, new Right sided pleural effusion, increase in pulmonary 
+and liver mets, and stable tumor thrombus in the IVC. He was 
+given 2L NS, 2mg IV morphine, and 4mg Zofran and admitted for 
+further care.
+
+On the floor, patient reports that his symptoms already feel 
+better. His pain is improved after the morphine. He also feels 
+like the IVF gave him a little more energy as he was feeling so 
+tired before.
+ 
+Past Medical History:
+recently diagnosed metastatic renal cell carcinoma with mets to 
+the lung, liver, and tumor invasion into IVC
+HTN
+ 
+Social History:
+___
+Family History:
+Mother passed away from CHF at age ___. Father passed away from 
+ACS at age ___. Older sister had breast cancer in her early ___ 
+and passed away from it. 
+ 
+Physical Exam:
+Admission exam:
+vitals: 98.9 134/67 98 18 94% RA
+General: tired appearing elderly man no acute distress
+HEENT: PERRL, EOMI, orpharynx is clear without any lesions
+Neck: supple, no cervical or supraclavicular lymphadenopathy
+CV: r/r/r, soft systolic murmur
+Lungs: decreased breath sounds on the right, otherwise clear 
+bilaterally
+Abd: soft, nontender throughout, nomoractive bowel sounds
+Ext: wwp, there is 1+ pitting edema of the right lower 
+extremity, LLE is without edema
+Neuro: alert and oriented, no facial droop, speech fluent
+Psych: mood and affect appropriate
+
+Discharge exam: 
+Patient was pronounced dead on ___ at 2340. 
+
+ 
+Pertinent Results:
+Admission labs:
+___ 04:28PM BLOOD WBC-8.4 RBC-5.30 Hgb-13.4* Hct-41.7 
+MCV-79* MCH-25.3* MCHC-32.1 RDW-17.8* RDWSD-46.2 Plt ___
+___ 04:28PM BLOOD Neuts-86* Bands-0 Lymphs-8* Monos-6 Eos-0 
+Baso-0 ___ Myelos-0 AbsNeut-7.22* AbsLymp-0.67* 
+AbsMono-0.50 AbsEos-0.00* AbsBaso-0.00*
+___ 04:28PM BLOOD ___ PTT-48.6* ___
+___ 04:28PM BLOOD Glucose-106* UreaN-29* Creat-1.3* Na-129* 
+K-5.0 Cl-92* HCO3-23 AnGap-19
+___ 04:28PM BLOOD ALT-238* AST-740* AlkPhos-602* 
+TotBili-8.6*
+___ 04:28PM BLOOD Albumin-2.5*
+___ 04:37PM BLOOD Lactate-4.0*
+___ 07:27PM BLOOD Lactate-3.3*
+
+Imaging:
+___ CTA torso
+IMPRESSION: 
+1. No evidence of pulmonary embolism to the segmental level or 
+acute aortic abnormality. 
+2. Innumerable pulmonary metastases are increased from the prior 
+examination. A moderate right pleural effusion and compressive 
+atelectasis of the right lower lobe are new from the comparison 
+study on ___. 
+3. Large right renal tumor is overall grossly stable in size 
+from the 
+comparison examination with extension into the right renal vein 
+and IVC 
+appearing similar in extent. Multiple dilated venous collaterals 
+adjacent to the right kidney are re-demonstrated. 
+4. Hepatic metastases are increased from the prior examination, 
+particularly involving the right lobe. 
+5. Increased size of bilateral adrenal metastases. 
+6. Persistent retroperitoneal lymphadenopathy. 
+
+Final Labs:
+___ 09:58AM BLOOD WBC-10.4* RBC-4.36* Hgb-11.2* Hct-33.4* 
+MCV-77* MCH-25.7* MCHC-33.5 RDW-19.9* RDWSD-47.1* Plt Ct-99*
+___ 05:46AM BLOOD ___ PTT-35.4 ___
+___ 05:46AM BLOOD Glucose-77 UreaN-111* Creat-5.0*# Na-126* 
+K-6.4* Cl-83* HCO3-16* AnGap-33*
+___ 05:46AM BLOOD ALT-269* AST-1572* LD(LDH)-8106* 
+AlkPhos-462* TotBili-14.1* DirBili-13.2* IndBili-0.9
+___ 05:46AM BLOOD Calcium-7.9* Phos-8.7* Mg-3.5*
+ 
+Brief Hospital Course:
+___ recent diagnosis of metastatic renal cell carcinoma was 
+referred for dyspnea, fatigue and jaundice, found to be in 
+progressive renal and liver failure, trialed on palliative 
+chemotherapy Sutent and received two sessions of hemodialysis 
+without change in his clinical or biochemical trajectory 
+(particularly with progressive encephalopathy from liver 
+failure, with extensive tumor invasion of this organ), 
+transitioned to comfort measures only by family/HCP on ___, 
+deceased later that evening at 2340.
+
+# Metastatic Renal Cell Carcinoma
+# Decopmensated Liver Failure with Lactic Acidosis and 
+Coagulopathy
+# Renal Failure with Hyperkalemia, Hyponatremia and Volume 
+Overload
+Admission imaging showed metastatic spread of tumor through the 
+lungs, liver, adrenals, and retroperitoneum. Given tumor burden, 
+as well as acute biochemical disturbances, he was not thought to 
+be a candidate for debulking therapy. Given rapidly worsening 
+renal and liver function tests, palliative/salvage chemotherapy 
+with Sutent was attempted; simultaneously, given progressive 
+hyponatremia, volume overload, and hyperkalemia, he was started 
+on HD for two sessions. Despite these measures, his electrolyte 
+disturbances rapidly recurred after HD, and his liver functions 
+continued to worsen and he developed encephalopathy. Serial 
+discussions were had with the patient and family by Oncology, 
+Nephrology, Palliative Care, and primary team to discuss these 
+findings and his prognosis; patient and his family were very 
+realistic, attempting to buy some time for him to settle his 
+affairs before he passed. This was successfully done with the 
+assistance of Social Work; given progressive symptoms, 
+discomfort, and later impairment, he was transitioned by 
+family/HCP to CMO status ___ and passed away comfortably later 
+that evening.
+
+# IVC Thrombus 
+Was on Coumadin until prior to admission, stopped here for 
+auto-anticoagulation from liver failure as above. INR 
+temporarily reversed to facilitate HD line placement, but was 
+uptrending again before patient made CMO and further lab checks 
+were discontinued. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 10 mg PO DAILY 
+___  MD to order daily dose PO DAILY16 
+
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Metastatic renal cell carcinoma
+Acute kidney failure
+Acute liver failure
+IVC thrombus
+
+ 
+Discharge Condition:
+Deceased. 
+
+ 
+Discharge Instructions:
+Mr. ___ was admitted to the hospital for jaundice, fatigue, 
+and weakness. He was found to be in progressive liver and renal 
+failure. Palliative oral chemotherapy was trailed as was 
+hemodialysis, but his liver function continued to worsen. He was 
+transitioned to CMO on ___ by his family and HCP, and passed 
+away later that evening.
+ 
+Followup Instructions:
+___

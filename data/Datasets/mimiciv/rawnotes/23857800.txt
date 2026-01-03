@@ -1,0 +1,318 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Iodine / Codeine / Reglan / Ketorolac / Hydromorphone Hcl / 
+Peanut / Zofran / Prochlorperazine / etodolac
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic cholecystectomy
+
+ 
+History of Present Illness:
+___ years old woman with past medical history of afib on eliquis, 
+DM, asthma, obesity, GERD, OSA and multiple abdominal surgeries 
+presents to the ED complaining of abdominal pain.
+
+Patient refers she has been having severe, intermittent, right 
+upper quadrant abdominal pain for the past few months but has 
+been getting worse in the past week. She refers pain is 
+associated with meals and associated with nausea, but no 
+vomiting and intermittent diarrhea. 
+
+In the ED she looks uncomfortable in pain and is tender to 
+palpation in the RUQ but the rest of her abdomen is soft, non 
+tender and distended. WBC is within normal limits. Off note, the 
+patient had a RUQ US done yesterday that shows cholelithiasis 
+but no signs of acute cholecystitis.
+
+Otherwise patients denies chest pain, palpitations, shortness of
+breath or urinary symptoms. Rest of the ROS is negative except
+per HPI.
+
+ 
+Past Medical History:
+1. Asthma  
+2. Diabetes, type II  
+3. Hypertension  
+4. Hyperlipidemia  
+5. GERD s/p Nissen fundoplication  
+6. Morbid obesity  
+7. Depression (patient denies)  
+8. CVA in ___ with residual left hemiplegia (although she gives  
+this history, and that she had these in ___, but was unable  
+
+to confirm the hospital they occured in, and an MRI in ___ done 
+ 
+here shows no evidence of CVA)  
+9. Spinal stenosis  
+10. Bipolar disorder  
+11. OSA  
+12. History of Pulmonary embolism (___)  
+13. Ganglion cystectomy  
+14. Vertigo  
+ 
+Social History:
+___
+Family History:
+Family history of "blood clots." Maternal grandmother and father 
+with history of CAD. Father also had asthma. Maternal 
+grandmother had diabetes and also maternal aunts and sister. 
+Brother and others with HTN. Mother with h/o low BP and DVT. 
+Maternal aunt with "mitral" problem.
+
+ 
+Physical Exam:
+Admission Physical Exam:
+General: alert and oriented x3, no acute distress
+HEENT: ___
+Neck: soft, no LAD
+Pulmonary: clear to auscultation bilaterally
+Cardiovascular: irregularly irregular heart rate, no murmurs,
+rubs or gallops
+Abdomen: obese, soft, mildly distended, tenderness to palpation
+in RUQ, ___ sign
+Extremities: warm and well perfused, good pulses DP and ___
+present
+Neuro: normal sensation, strength ___
+
+Discharge Physical Exam:
+VS: 98.0 PO 147 / 98 70 17 99 Ra 
+HEENT: PERRL, ___. nares patent. Mucus membranes pink/moist.
+CT: RRR
+PULM: Clear to auscultation bilaterally
+ABD: Soft, tender incisionally as anticipated, mildly distended. 
+Active bowel sounds. Laparoscopic incisions CDI with tegaderm 
+and DSD. Umbilical port site with some ecchymosis.
+EXT: Warm and dry. ___ pulses. 
+NEURO: A&Ox3. Follows commands and moves all extremities equal 
+and strong. Speech is clear and fluent. 
+ 
+Pertinent Results:
+___ 03:32PM BLOOD WBC-6.0 RBC-3.91 Hgb-11.6 Hct-35.8 MCV-92 
+MCH-29.7 MCHC-32.4 RDW-13.0 RDWSD-43.5 Plt ___
+___ 03:32PM BLOOD Glucose-70 UreaN-14 Creat-0.8 Na-142 
+K-4.6 Cl-104 HCO3-26 AnGap-12
+___ 03:32PM BLOOD ALT-30 AST-24 AlkPhos-76 TotBili-<0.2
+___ 03:32PM BLOOD Albumin-3.9
+___ 03:32PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 04:21PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 04:21PM URINE Color-Yellow Appear-Clear Sp ___
+
+RUQ US (___):
+1. Cholelithiasis.  CBD and intrahepatic biliary tree within 
+normal limits. Normal sonographic appearance of the liver. 
+2. Non-obstructing 4 mm left lower pole renal calculus. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo F with history of atrial fibrillation on 
+eliquis, status post Rou-en-Y gastric bypass in ___ who 
+presented to the emergency department on ___ with abdominal 
+pain. Ultrasound obtained with a positive ___ sign as well 
+as evidence of inflammation. Informed consent was obtained, and 
+the patient underwent laparoscopic cholecystectomy on ___. 
+Please see operative resport for details. Patient was extubated 
+and taken to the PACU in stable condition. Once recovered from 
+anesthesia, she was transferred to the surgical floor for 
+ongoing post operative management. 
+
+Pain was well controlled on oral medication regimen. Diet was 
+progressively advanced to a regular diet with good tolerability. 
+The patient voided without problem. During this hospitalization, 
+the patient ambulated early and frequently, was adherent with 
+respiratory toilet and incentive spirometry, and actively 
+participated in the plan of care. The patient received 
+subcutaneous heparin and venodyne boots were used during this 
+stay.
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs. The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient was discharged home without services. 
+The patient received discharge teaching and follow-up 
+instructions with understanding verbalized and agreement with 
+the discharge plan.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Escitalopram Oxalate 10 mg PO DAILY 
+2. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q4H:PRN wheezing 
+3. Cetirizine 10 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. Apixaban 5 mg PO BID 
+6. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral BID 
+7. Omeprazole 20 mg PO BID 
+8. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+9. Multivitamins 1 TAB PO DAILY 
+10. Montelukast 10 mg PO DAILY 
+11. Atorvastatin 80 mg PO QPM 
+12. Ranitidine 300 mg PO DAILY:PRN abdominal pain 
+13. Docusate Sodium 100 mg PO BID 
+14. Metoprolol Succinate XL 25 mg PO DAILY 
+15. Fish Oil (Omega 3) 1000 mg PO DAILY 
+16. Meclizine 12.5 mg PO TID:PRN nausea 
+17. Gabapentin 600 mg PO TID 
+18. Losartan Potassium 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: DC IV  
+2.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*25 Tablet Refills:*0 
+3.  Senna 8.6 mg PO BID:PRN Constipation - First Line  
+4.  Apixaban 5 mg PO BID  
+5.  Atorvastatin 80 mg PO QPM  
+6.  Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral BID  
+7.  Cetirizine 10 mg PO DAILY  
+8.  Docusate Sodium 100 mg PO BID  
+9.  Escitalopram Oxalate 10 mg PO DAILY  
+10.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+11.  Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID  
+12.  Gabapentin 600 mg PO TID  
+13.  Losartan Potassium 25 mg PO DAILY  
+14.  Meclizine 12.5 mg PO TID:PRN nausea  
+15.  Metoprolol Succinate XL 25 mg PO DAILY  
+16.  Montelukast 10 mg PO DAILY  
+17.  Multivitamins 1 TAB PO DAILY  
+18.  Omeprazole 20 mg PO BID  
+19.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q4H:PRN wheezing  
+20.  Ranitidine 300 mg PO DAILY:PRN abdominal pain  
+21. HELD- Aspirin 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin until cleared by primary care provider.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute cholecystitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the Acute Care Surgery Service on ___ 
+with abdominal pain and found to have an infection in your 
+gallbladder. You were taken to the operating room and had your 
+gallbladder removed laparoscopically. You tolerated the 
+procedure well and are now ready to be discharged to home to 
+continue your recovery from surgery.
+
+Please note the following discharge instructions:
+
+ACTIVITY:
+ 
+o Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.
+o You may climb stairs. 
+o  You may go outside, but avoid traveling long distances until 
+you see your surgeon at your next visit.
+o  Don't lift more than ___ lbs for 4 weeks. (This is about 
+the weight of a briefcase or a bag of groceries.) This applies 
+to lifting children, but they may sit on your lap.
+o You may start some light exercise when you feel comfortable.
+o You will need to stay out of bathtubs or swimming pools for a 
+time while your incision is healing. Ask your doctor when you 
+can resume tub baths or swimming.
+ 
+HOW YOU MAY FEEL: 
+o  You may feel weak or "washed out" for a couple of weeks. You 
+might want to nap often. Simple tasks may exhaust you.
+o  You may have a sore throat because of a tube that was in your 
+throat during surgery.
+o  You might have trouble concentrating or difficulty sleeping. 
+You might feel somewhat depressed.
+o  You could have a poor appetite for a while. Food may seem 
+unappealing.
+o  All of these feelings and reactions are normal and should go 
+away in a short time.  If they do not, tell your surgeon.
+ 
+YOUR INCISION:
+o Tomorrow you may shower and remove the gauzes over your 
+incisions. Under these dressing you have small plastic bandages 
+called steri-strips. Do not remove steri-strips for 2 weeks. 
+(These are the thin paper strips that might be on your 
+incision.) But if they fall off before that that's okay).
+o Your incisions may be slightly red around the stitches. This 
+is normal.
+o You may gently wash away dried material around your incision.
+o Avoid direct sun exposure to the incision area.
+o Do not use any ointments on the incision unless you were told 
+otherwise.
+o You may see a small amount of clear or light red fluid 
+staining your dressing or clothes. If the staining is severe, 
+please call your surgeon.
+o You may shower. As noted above, ask your doctor when you may 
+resume tub baths or swimming.
+ 
+YOUR BOWELS:
+o Constipation is a common side effect of narcotic pain 
+medications. If needed, you may take a stool softener (such as 
+Colace, one capsule) or gentle laxative (such as milk of 
+magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription.
+o If you go 48 hours without a bowel movement, or have pain 
+moving the bowels, call your surgeon. 
+ 
+PAIN MANAGEMENT:
+o It is normal to feel some discomfort/pain following abdominal 
+surgery. This pain is often described as "soreness". 
+o Your pain should get better day by day. If you find the pain 
+is getting worse instead of better, please contact your surgeon.
+o You will receive a prescription for pain medicine to take by 
+mouth. It is important to take this medicine as directed. o Do 
+not take it more frequently than prescribed. Do not take more 
+medicine at one time than prescribed.
+o Your pain medicine will work better if you take it before your 
+pain gets too severe.
+o Talk with your surgeon about how long you will need to take 
+prescription pain medicine. Please don't take any other pain 
+medicine, including non-prescription pain medicine, unless your 
+surgeon has said its okay.
+o If you are experiencing no pain, it is okay to skip a dose of 
+pain medicine.
+o Remember to use your "cough pillow" for splinting when you 
+cough or when you are doing your deep breathing exercises.
+If you experience any of the following, please contact your 
+surgeon:
+- sharp pain or any severe pain that lasts several hours
+- pain that is getting worse over time
+- pain accompanied by fever of more than 101
+- a drastic change in nature or quality of your pain
+ 
+MEDICATIONS:
+Take all the medicines you were on before the operation just as 
+you did before, unless you have been told differently.
+If you have any questions about what medicine to take or not to 
+take, please call your surgeon.
+
+ 
+Followup Instructions:
+___

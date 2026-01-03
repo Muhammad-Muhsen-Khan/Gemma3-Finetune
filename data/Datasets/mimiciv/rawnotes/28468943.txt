@@ -1,0 +1,324 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Bradycardia w/ heart block  
+ 
+Major Surgical or Invasive Procedure:
+___ - Implant of dual chamber permanent pacemaker
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ lady with HTN, CHF (EF %), factor V leiden w/ 
+DVTs on coumadin, h/o breast cancer, and h/o pancreatic cancer 
+who p/w nausea and fatigue to ___ transferred to ___ 
+for heart block.  
+ Patient felt unwell ___ night with nausea w/o vomiting and 
+fatigue. Family member noted HR 30 so went to ___ 
+___ found to have HR ___ with possible 3rd degree AV block 
+so transferred to ___ for further evaluation. During 
+transportation to ___, patient converted to NSR.  
+No f/c, SOB, CP, palpitations, syncope, ___ edema, diarrhea, 
+dysuria, rash.  
+
+In the ED initial vitals were: 98.1, HR 80, 156/68, RR 20, 98% 
+RA  
+EKG in ___: NSR  
+Labs/studies notable for: Hgb 9.6, K5/Ca9.3/Mg2.3, Cr 1.8, Trop 
+negative, INR 1.8  
+Patient was given: 1L NS, tylenol ___, and lisinopril 2.5mg  
+Vitals on transfer: 73, 147/47, 17, 99% on RA  
+
+On the floor patient is feeling well.  
+ROS:  As above  
+ 
+Past Medical History:
+Oncologic history:
+- Breast cancer: Right-sided ER positive breast cancer status 
+post lumpectomy and radiation in ___, on Arimidex
+- Pancreatic cancer: ___ presented with abdominal pain, 
+weight loss, dysphagia, weight loss. CT and MRCP showed a 
+pancreatic mass. ___: ___'s pancreaticoduodenectomy. 
+Pathology showed a 
+pT3N1b pancreatic ductal adenocarcinoma; ___ lymph nodes were  
+involved. Margins were negative, although within 1 mm. 
+Perineural invasion was seen; lymphovascular invasion was not  
+seen. ___: started adjuvant Gemcitabine, received 2  
+cycles. ___: adjuvant radiation with concurrent 
+Capecitabine. ___: resumed Gemcitabine for cycle 3.
+
+Non-oncologic PMH:
+- hypertension
+- Type 2 diabetes mellitus.  
+- Hypercholesterolemia.  
+- History of factor V Leiden with two prior lower extremity DVTs 
+on chronic anticoagulation, s/p IVC filter ___. 
+ 
+Social History:
+___
+Family History:
+Mother: ___ Cancer
+Father: CAD
+Sister: ___ Cancer
+Sister: ___ Cancer
+Sister: b/l Breast Cancer
+Brother: Died@___ of CAD
+ 
+Physical Exam:
+====================
+EXAM ON ADMISSION
+====================
+73, 147/47, 17, 99% on RA  
+GENERAL: WDWN white elderly female in NAD.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  
+
+NECK: Supple with JVP of 7cm. No carotid bruits  
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. No 
+thrills, lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND.  
+EXTREMITIES: No c/c/e.  
+NEURO: AOx3, CNII-XII, moving all extremities  
+SKIN: No stasis dermatitis or ulcers  
+PULSES: Distal pulses palpable and symmetric  
+
+====================
+EXAM ON DISCHARGE
+====================
+Vitals:  98.4, 135/87, 68, 18, 99% RA
+Last 24 hours I/O: not recorded
+Weight on admission: 60kg
+Today's weight: 62.9kg
+
+General: A+O in NAD  
+HEENT: JVP not elevated
+Chest: L subclavian entry site for PPM c/d/I with no erythemia 
+or hematoma (bandaged, c/d/I, so exam limited)
+Lungs:  CTAB, no rales, rhonchi, or wheezing
+CV: rrr, no murmurs 
+Abdomen: soft, nontender, nondistended
+Ext:  no edema
+ 
+Pertinent Results:
+========================
+LABS ON ADMISSION
+========================
+___ 09:30PM BLOOD WBC-7.7 RBC-3.57* Hgb-9.6* Hct-30.9* 
+MCV-87 MCH-26.9 MCHC-31.1* RDW-12.6 RDWSD-39.4 Plt ___
+___ 09:30PM BLOOD Neuts-86.6* Lymphs-8.7* Monos-3.4* 
+Eos-0.4* Baso-0.5 Im ___ AbsNeut-6.63* AbsLymp-0.67* 
+AbsMono-0.26 AbsEos-0.03* AbsBaso-0.04
+___ 09:30PM BLOOD ___ PTT-28.7 ___
+___ 09:30PM BLOOD Glucose-271* UreaN-38* Creat-1.8* Na-134 
+K-5.0 Cl-98 HCO3-22 AnGap-19
+___ 09:30PM BLOOD ALT-24 AST-30 AlkPhos-110* TotBili-0.2
+___ 09:30PM BLOOD Lipase-9
+___ 09:30PM BLOOD cTropnT-0.01
+___ 07:40AM BLOOD cTropnT-<0.01
+___ 09:30PM BLOOD Albumin-3.8 Calcium-9.3 Phos-4.0 Mg-2.3
+
+========================
+INTERVAL PERTINENT LABS
+========================
+___ 07:40AM BLOOD calTIBC-243* Ferritn-424* TRF-187*
+
+========================
+LABS ON DISCHARGE
+========================
+___ 06:20AM BLOOD WBC-6.4 RBC-3.52* Hgb-9.5* Hct-30.2* 
+MCV-86 MCH-27.0 MCHC-31.5* RDW-12.6 RDWSD-38.6 Plt ___
+___ 06:20AM BLOOD ___ PTT-28.9 ___
+___ 06:20AM BLOOD Glucose-137* UreaN-23* Creat-1.5* Na-135 
+K-4.1 Cl-101 HCO3-24 AnGap-14
+___ 06:20AM BLOOD Calcium-9.0 Phos-3.5 Mg-2.2
+
+========================
+MICROBIOLOGY
+========================
+none
+
+========================
+IMAGING
+========================
+___ CXR - There is a new left-sided dual lead pacemaker with 
+distal lead tips in the right atrium and right ventricle.  Heart 
+size is prominent but unchanged. Lungs are grossly clear.  There 
+are no pneumothoraces.
+
+___ CXR - There is a dual lead left -sided pacemaker with 
+intact leads.  Heart size is upper limits of normal but stable.  
+Lungs are grossly clear.  There are no pneumothoraces.
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ lady with HTN, CHF (EF %), factor V leiden w/ 
+DVTs on coumadin, h/o breast cancer, and h/o pancreatic cancer 
+who p/w nausea and fatigue to ___ transferred to ___ 
+for heart block.  
+
+# At ___, the patient was found to be 
+bradycardic with high degree heart block: strips from OSH 
+demonstrated bradycardia w/ complete heart block. The patient 
+spontaneously converted to sinus prior to her arrival at ___. 
+In the hospital she was found to be symptomatic. The EP service 
+was consulted, and a dual-chamber pacemaker was placed on ___. 
+The patient tolerated the procedure well. She received three 
+days of post-procedure antibiotics with cefazolin, and was 
+discharged home on keflex, to be complete on ___. Plan for EP 
+followup in 1 week. 
+
+#HFpEF:  Continued home torsemide 10mg. 
+
+#Factor V Leiden: The patient was initially placed on a heparin 
+gtt, and her home coumadin was held. However, per discussion 
+with patient, her outpatient heme/onc provider, and the EP 
+service, it was decided to continue her home warfarin without 
+bridging. 
+
+Chronic
+==================  
+#HTN: The patient's labetolol was held due to her heart block. 
+Her lisinopril was increased to 5mg daily.
+
+#h/o Breast Cancer: continued on home anastrozole.  
+
+#s/p whipple: continued on home creon  
+
+#GERD: continued on home protonix  
+
+#DM: Continued home ISS.
+
+#Anemia: Continued home iron supplements. 
+
+===============
+TRANSITIONAL ISSUES
+===============
+- Discharge INR: 1.6 - please follow up to have INR drawn within 
+2 days of discharge (have results faxed to Dr. ___ at 
+___
+- The patient was discharged on a 2 day course of antibiotics, 
+to be completed on ___.
+- The patient's labetolol was held due to her heart block. The 
+patient's blood pressure was found to be persistently elevated 
+in the hospital (180s/90s). Her lisinopril was increased to 5mg 
+daily, and will likely need to be increased in the outpatient 
+setting.
+- The patient should have follow up with EP, cardiology, and her 
+primary care doctor.
+# CODE: Full 
+# CONTACT: ___ (daughter) ___ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 2.5 mg PO DAILY 
+2. Anastrozole 1 mg PO DAILY 
+3. Labetalol 100 mg PO BID 
+4. Warfarin 2.5 mg PO 6X/WEEK (___) 
+5. Creon 12 1 CAP PO TID W/MEALS 
+6. Lactobacillus rhamnosus GG 10 billion cell oral BID 
+7. Ferrous Sulfate 325 mg PO DAILY 
+8. Pantoprazole 40 mg PO Q24H 
+9. OxycoDONE (Immediate Release)  5 mg PO Frequency is Unknown 
+10. Torsemide 5 mg PO DAILY 
+11. NPH 8 Units Breakfast
+NPH 8 Units Dinner
+12. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1. Anastrozole 1 mg PO DAILY 
+2. Creon 12 1 CAP PO TID W/MEALS 
+3. Ferrous Sulfate 325 mg PO DAILY 
+4. NPH 8 Units Breakfast
+NPH 8 Units Dinner
+5. Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+6. OxycoDONE (Immediate Release)  5 mg PO BID:PRN pain 
+7. Pantoprazole 40 mg PO Q24H 
+8. Torsemide 5 mg PO DAILY 
+9. Warfarin 2.5 mg PO 6X/WEEK (___) 
+10. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+11. Lactobacillus rhamnosus GG 10 billion cell oral BID 
+12. Cephalexin 500 mg PO Q8H Duration: 2 Days 
+Please take one pill three times a day until your pills run out. 
+
+RX *cephalexin 500 mg 1 capsule(s) by mouth every 8 hours Disp 
+#*4 Capsule Refills:*0
+13. Outpatient Lab Work
+Please have INR drawn on ___. Please have results faxed to 
+Dr. ___ at ___. ICD 10 code ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+- Complete heart block
+
+Secondary Diagnoses:
+- Chronic systolic heart failure 
+- Diabetes type 2
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure being a part of your care team at ___ 
+___. You were admitted because you were not 
+feeling well and were found to have a slow heart beat. We were 
+concerned about this slow beat, and so you underwent an 
+operation where we placed a pacemaker. You will need to follow 
+up with the heart electricity doctors (___). They 
+will call you next week to schedule this appointment. However, 
+if you do not hear from them by ___, please call 
+___ to schedule this appointment. You should also 
+follow up with your primary care doctor and with a cardiologist.
+
+Because of the procedure where a pacemaker was placed, you need 
+to take an antibiotic so that it does not get infected. Please 
+take all of your Keflex as prescribed, until you run out of 
+pills.
+
+We made a few changes to your medications. You should stop 
+taking labetolol for your high blood pressure because it can 
+slow down your heart rhythm. We have increased your dose of 
+lisinopril to help with your blood pressure instead. You can 
+discuss this further with your doctor.
+
+Because of your heart failure, please weigh yourself every 
+morning, and call your primary care doctor at ___ if 
+your weight goes up more than 3 lbs.
+
+It was very nice to meet you, and we wish you all the best.
+Sincerely,
+Your ___ Team
+ 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,240 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Ampicillin / Sulfa (Sulfonamide Antibiotics) / Flonase / 
+Trileptal / CeraVe
+ 
+Attending: ___.
+ 
+Chief Complaint:
+AED medication titration
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+AED trials include:
+1. Carbamazepine - abnormal LFTs and hypogammaglobulenemia
+2. Phenobarbital - ineffective
+3. Phenytoin - ineffective, cognitive side effects
+4. Valproate - ineffective, severe cognitive side effects
+5. Lamotrigine - worked well, but abnormal LFTs
+6. Levetiracetam - worked, but caused diarrhea and weight gain
+7. Gabapentin - worked well, but abnormal LFTs
+8. Topiramate - worked well, but breathing and immune problems
+9. Tiagabine - behavioral and cognitive side effects
+10 Oxcarbazepine - severe cognitive side effects, hyponatremia
+11. VNS ___ - great reduction in seizure frequency by 60-70%
+
+Prior Diagnostics:
+Multiple prior EEGs and LTMs with seizures onsetting in R
+frontotemporal region and may secondarily generalize
+Last EEG ___ was normal. 
+
+___ Brain MRI: Brain MRI showed markedly enlarged lateral third
+and fourth ventricles, type 1 ___ malformation, and
+usual skull
+shape, area of susceptibility in the posterior aspect of the
+right lateral temporal lobe, adjacent to an area of a breech in
+the skull which was likely related to previous skull surgery.
+
+Interval History:
+Patient reports feeling tired on tegretol and has onset of
+hypogammaglobulinemia around the time of onset of tegretol
+monotherapy in ___ with frequent illnesses. She endorses having
+dizziness that is especially worse when getting up or moving her
+head on the bed, and she has been told she has BPPV. She 
+endorses
+dysphagia, which is worse with solid foods, sometimes she 
+chokes,
+otherwise liquids are fine and has a history of achalasia  but
+had a normal swallow study in the past per records. She has a
+long standing history of word finding problems. She has some 
+gait
+problems, and sometimes walks into walls, which she attributes 
+to
+her intermittent dizziness. She denies any headaches, fainting,
+blackouts, blurry vision, double vision, dysarthria, hearing
+difficulties, tinnitus, weakness, numbness, tingling, or
+incontinence.
+
+On general ROS, she denies any fevers, chills, night sweats,
+weight loss or weight gain, palpitations, nausea, vomiting. She
+endorses having a panic attack today before coming into the
+hospital, but was happy she was able to make it. She also
+endorses constipation and abdominal pain. She endorses pain in
+her knees that hurts when going up and down stairs. Denies any
+new skin rash. She is pending repeat sleep study for
+sleep-disordered breathing. 
+
+ 
+Past Medical History:
+Crouzon syndrome s/p multiple skull surgeries, hysterectomy,
+constipation, epilepsy, hemochromatosis, hypogammaglobulinemia,
+solitary kidney, hypothyroidism, sleep disorder and hyponatremia 
+
+ 
+Social History:
+___
+Family History:
+Both parents had HTN, HLD
+Father had supranuclear cerebral palsy
+Father's side has strong history of hemochromatosis, breast
+cancer
+Both her brothers have HLD
+
+ 
+Physical Exam:
+ADMISSION EXAM
+
+Physical Exam:
+ General: Healthy appearing woman, who looks her age, active,
+interactive with examiner, and very friendly
+ HEENT: no scleral icterus, mucous membranes moist, no lesions
+noted on oropharnyx
+ Neck: supple, no carotid bruits 
+ Pulmonary: 
+ Cardiac: Regular rate and rhythm, systolic murmur present
+ Abdomen: soft, NT/ND, +BS
+ Skin: dry skin 
+
+ Neurologic:
+
+ -Mental Status: 
+Pt alert, awake, and oriented to ___, year, month, day,
+name, DOB. Attentive, able to name ___ backwards. Language is
+fluent, no paraphasic errors, intact repetition and
+comprehension. Pt able to name both high and low frequency
+objects. Speech not dysarthric. Able to follow simple and 
+complex
+commands. Able to register ___ words, recall after 5 min = ___,
+category cues = ___. No evidence of neglect.
+
+ -Cranial Nerves:
+CN I: Not tested
+II, III, IV, VI: PERRL 4 ->2, and brisk. EOM intact, with
+sustained horizontal jerk nystagmus on lateral gaze bilaterally
+and does have decreased upgaze in the R eye though her R eye is
+downslanted at the lateral palpebral fissure which is likely
+chronic and ___ multiple cranial surgeries.  
+V: Normal facial sensation 
+VII: No facial droop, able to smile symmetrically 
+VIII: Intact to finger rub bilaterally 
+IX, X: Palate elevate symmetrically, pt with bifid uvula
+XI: ___ strength in trapezi, and SCM bilaterally
+XII: Tongues protrudes in midline
+
+ -Motor: Normal bulk and tone. No pronator drift
+
+   Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___ 
+ L  5    ___  ___  5 5    ___      5   
+ R  5    ___  ___  5 5    ___      5   
+
+ -Sensory: 
+No deficits to light touch 
+
+ -DTRs:
+   Bi ___ Pat Ach
+ L  3+  3+  3+  2+
+ R  3+  3+  3+ 2+
+L more hyperreflexic than L throughout, +adductors present
+bilaterally, no crossed adductors
+
+ Plantar response downgoing bilaterally
+
+ -Coordination: 
+normal FNF with dysmetria, normal finger tapping bilaterally 
+
+ -Gait: 
+Normal gait, no Romberg sign
+
+DISCHARGE EXAM
+
+Unchange
+ 
+Pertinent Results:
+___ 09:15PM   CARBAMZPN-9.0
+___ 09:15PM   WBC-4.0 RBC-3.78* HGB-11.6 HCT-33.4* MCV-88 
+MCH-30.7 MCHC-34.7 RDW-12.5 RDWSD-40.1
+___ 09:15PM   NEUTS-49.2 ___ MONOS-12.1 EOS-1.3 
+BASOS-0.5 IM ___ AbsNeut-1.95 AbsLymp-1.45 AbsMono-0.48 
+AbsEos-0.05 AbsBaso-0.02
+___ 09:15PM   PLT COUNT-184
+___ 09:15PM   ___ PTT-30.3 ___
+___ 04:45AM BLOOD Triglyc-54 HDL-134 CHOL/HD-2.2 
+LDLcalc-150*
+
+EKG upon admission and discharge with PR 174
+
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the epilepsy service for medication 
+titration and EEG monitoring. Her tegretol was decreased from 
+600mg BID to off by decreasing 200mg BID daily. Additionally she 
+was started on vimpat uptitrated to 200mg BID. EKG was obtained 
+after goal dose of vimpat obtained which PR interval 174. She 
+experienced no side effects -- no dizziness, no increased 
+nystagumus, and was ambulating well. 
+
+Her EEG was monitored which revealed no seizures, final read 
+pending. She had no events. 
+
+Of note, she also had a lipid panel drawn which revealed LDL 150 
+and can be followed by PCP.
+
+TRANSITIONAL ISSUES:
+1. Continue vimpat 200mg BID monotherapy
+2. Follow-up LDL level 150 by PCP
+
+ 
+___ on ___:
+The Preadmission Medication list is accurate and complete.
+1. Multivitamins 1 TAB PO DAILY 
+2. Carbamazepine (Extended-Release) 600 mg PO BID 
+3. Escitalopram Oxalate 20 mg PO MORNING 
+4. Levothyroxine Sodium 88 mcg PO MORNING 
+5. Zolpidem Tartrate 5 mg PO QHS:PRN insomnia 
+6. Vitamin D 4000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Levothyroxine Sodium 88 mcg PO QAM 
+2. Escitalopram Oxalate 20 mg PO QAM 
+3. Multivitamins 1 TAB PO DAILY 
+4. Vitamin D 4000 UNIT PO DAILY 
+5. LACOSamide 200 mg PO BID 
+RX *lacosamide [Vimpat] 200 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*1
+6. LORazepam 0.5 mg PO DAILY PRN seizure aura 
+7. Zolpidem Tartrate 5 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Epilepsy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to monitor you while your seizure medication 
+was changed. Your tegretol was discontinued and vimpat 
+initiated. You will be discharged to home on vimpat 200mg twice 
+daily only. 
+ 
+Followup Instructions:
+___

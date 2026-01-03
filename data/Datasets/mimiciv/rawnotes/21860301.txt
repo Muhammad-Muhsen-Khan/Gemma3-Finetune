@@ -1,0 +1,227 @@
+Notes
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ electively admitted for planned right craniotomy for ACA 
+clipping
+ 
+Major Surgical or Invasive Procedure:
+___: right craniotomy for ACA clipping
+
+ 
+History of Present Illness:
+___ electively admitted for planned right craniotomy for ACA 
+clipping
+ 
+Past Medical History:
+Significant for rheumatoid arthritis, menorrhagia, acute 
+cystitis, high cholesterol, endometrial polyp, dysmenorrhea, 
+kidney stones, hypothyroidism, hypertension.
+ 
+Social History:
+___
+Family History:
+There is no family history of aneurysms or strokes.  Her mother 
+died from colon cancer and her father died from an MI.
+ 
+Physical Exam:
+AT DISCHARGE: 
+#ERROR!
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  Right      3-2mm            Left  3-2mm
+
+EOM: [x]Full [ ]Restricted  Lateral nystagmus bilaterally 
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift: [ ]Yes [x]No    Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact: [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[x]Sensation intact to light touch
+
+Wound frontal crani: 
+- sutures, OTA
+
+ 
+Pertinent Results:
+Please refer to OMR for relevant imaging and lab results. 
+ 
+Brief Hospital Course:
+#ACA Aneurysm:
+The patient was taken to the OR on ___ and underwent a 
+right craniotomy for ACA clipping with Dr. ___. Please see 
+separately dictated operative report for complete details of the 
+procedure. She tolerated the procedure well and recovered in the 
+PACU. She was transferred to the NIMU for close monitoring. Her 
+pain remained well controlled, and she was tolerating PO diet. 
+She was mobilized out of bed and was voiding without difficulty. 
+Her dressing was removed on POD2. Sutures are intact and open to 
+air without drainage or signs of infection. She was discharged 
+to home with her daughter and instructions for ___ for 
+suture removal in the clinic. She was cleared to resume ASA 81mg 
+on POD3. 
+
+#Tachycardia
+Post-operatively she was tachycardic after receiving hydralazine 
+PRN. She was given an IV fluid bolus with minimal improvement. 
+EKG showed sinus tachycardia. She was given an additional 500cc 
+fluid bolus. TSH was normal at 2.1. Her electrolytes were 
+repleted. Orthostatic vital sings were negative for hypotension. 
+On discharge her heart rate was normal and she was asymptomatic. 
+She was advised to see her PCP for ___ if she experiences 
+rapid heart rate or palpitations after discharge. 
+ 
+Medications on Admission:
+hydrochlorothiazide 25 mg daily 
+hydroxychloroquine 400 mg daily  
+levothyroxine 50 mcg daily 
+quinapril 5 mg daily
+venlafaxine ER 37.5 mg qPM 
+Adult 81 mg daily
+ferrous sulfate 
+multivitamin daily 
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN fever or pain 
+Do not exceed 4GM acetaminophen in 24 hours   
+2.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+Do not drive while taking this medication. Hold for sedation.  
+RX *oxycodone 5 mg ___ tablet(s) by mouth q6h PRN Disp #*40 
+Tablet Refills:*0 
+3.  Ferrous Sulfate 325 mg PO DAILY  
+4.  Hydrochlorothiazide 25 mg PO DAILY  
+5.  Hydroxychloroquine Sulfate 400 mg PO DAILY  
+6.  Levothyroxine Sodium 50 mcg PO DAILY  
+7.  Quinapril 5 mg PO DAILY  
+8.  Venlafaxine XR 37.5 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ACA aneurysm 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Call your neurosurgeon_x0092_s office and speak to the Nurse 
+Practitioner if you experience:
+
+-Any neurological issues, such as change in vision, speech or 
+movement
+
+-Swelling, drainage, or redness of your incision
+
+-Any problems with medications, such as nausea vomiting or 
+lethargy
+
+-Fever greater than 101.5 degrees Fahrenheit
+
+-Headaches not relieved with prescribed medications
+
+Activity:
+
+-       You may resume Aspirin 81mg on ___. 
+
+-Start to resume all activities as you tolerate _x0096_ but start 
+slowly and increase at your own pace.
+
+-Do not operate any motorized vehicle for at least 10 days 
+after your surgery _x0096_ your Nurse Practitioner can give you more 
+detail at the time of your suture removal.  
+
+Incision Care:
+
+-Keep your wound clean and dry.
+
+-Do not use shampoo until your sutures are removed. 
+
+-When you are allowed to shampoo your hair, let the shampoo run 
+off the incision line.  Gently pad the incision with a towel to 
+dry.
+
+-Do not rub, scrub, scratch, or pick at any scabs on the 
+incision line.
+
+-You need your sutures removed 7 to 10 days after surgery
+
+Post-Operative Experiences: Physical
+
+-Jaw pain on the same side as your surgery; this goes away 
+after about a month
+
+-You may experience constipation.  Constipation can be 
+prevented by:
+
+oDrinking plenty of fluids
+oIncreasing fiber in your diet by eating vegetables, prunes, 
+fiber rich breads and cereals, or fiber supplements
+oExercising
+oUsing over-the-counter bowel stimulants or laxatives as 
+needed, stopping usage if you experience loose bowel movements 
+or diarrhea
+
+-Fatigue which will slowly resolve over time
+
+-Numbness or tingling in the area of the incision; this can 
+take weeks or months to fully resolve
+
+-Muffled hearing in the ear near the incision area
+
+-Low back pain or shooting pain down the leg which can resolve 
+with increased activity
+
+Post-Operative Experiences: Emotional
+
+-You may experience depression.  Symptoms of depression can 
+include
+
+oFeeling _x0093_down_x0094_ or sad
+oIrritability, frustration, and confusion
+oDistractibility
+oLower Self-Esteem/Relationship Challenges
+oInsomnia
+oLoneliness
+
+-If you experience these symptoms, you can contact your Primary 
+Care Provider who can make a referral to a Psychologist or 
+Psychiatrist
+
+-You can also seek out a local Brain Aneurysm Support Group in 
+your area through the Brain Aneurysm Foundation
+
+oMore information can be found at ___
+
+ 
+Followup Instructions:
+___

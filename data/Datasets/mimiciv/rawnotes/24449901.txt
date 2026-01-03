@@ -1,0 +1,298 @@
+Notes
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hyperkalemia and ___
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is an ___ yo ___ speaking M with history of 
+diabetes, hypertension, dyslipidemia, gout, and BPH, who was 
+referred from primary care clinic for ___ and hyperkalemia. 
+History was obtained in the presence of the wife, who helped in 
+the translation.
+
+Mr. ___ presented started experiencing right toe redness, 
+tenderness, and swelling on ___ in the absence of any foot 
+trauma. ___ attributed his symptoms to gout and did not initially 
+seek medical attention. Due to the persistence of his symptoms, 
+___ presented to ___ ED on ___. There, ___ had an US that showed 
+fluid collection formation in the location of inflamed bunion, 
+so ___ underwent joint aspiration for culture, and was discharged 
+home on Keflex and Bactrim. Since initiation of antibiotics, his 
+right foot pain slowly improved.
+On his PCP ___ appointment on ___, the toe and forefoot 
+were found to be slightly improved, with persistent redness but 
+minimal pain in the affected area. Culture from ___ returned and 
+were notable for staph infection that was sensitive to both 
+antibiotics, so plan was to stop Bactrim and extend Keflex for 3 
+additional days for a total of 10 days. During this visit, PCP 
+ordered routine labs as well as ESR and CRP. Labs from this 
+visit were notable for a rise in Creatinine to 2.3 (baseline is 
+1.2) and potassium to 5.8 so patient was referred to the ED.
+ 
+Past Medical History:
+#Past Medical History:  
+Chest pain 
+Carpel tunnel syndrome 
+Hypercholesterolemia 
+Hypertension, essential 
+Colonic polyps
+Hemorrhoids 
+Pseudoexfoliation syndrome 
+Anisocoria 
+Macular drusen 
+Diabetes mellitus type 2 
+BPH w urinary obs/LUTS 
+Microalbuminuria 
+BPH (benign prostatic hypertrophy) 
+Subclinical hypothyroidism 
+MCI (mild cognitive impairment)
+Gout
+
+#Past Surgical History:
+Cataract extract - phacoemulsification
+ 
+Social History:
+___
+Family History:
+The patient's father died of a myocardial infarction at age ___.
+The patient's mother died of unspecified heart disease at age 
+___. 
+ 
+Physical Exam:
+PHYSICAL EXAMINATION ON ADMISSION:
+#ERROR!
+Vitals:  Tmax: 98.4 Tc: 98.3  BP: 140-160/40-50 P: 40-50s RR: 
+___ O2: ___ on RA
+General:  AOx3. Well appearing in no acute distress.
+HEENT: Normocephalic, no trauma
+Lungs:  Clear bilaterally to ausculation
+CV:  Bradycardic. Normal rhythm. No MRG. 
+Abdomen:   Soft, non distended, non tender.
+Back: No CVA tenderness
+Extremities: WWP. 2+ radial and dorsal pulse bilaterally. Right 
+MCP on Big toe is swollen but no redness, warmth, or tenderness. 
+No edema.
+
+PHYSICAL EXAMINATION ON DISCHARGE:
+#ERROR!
+Vitals: 98 46 120/100 18 93% RA  
+General:  AOx3. Well appearing in no acute distress.
+HEENT: Normocephalic, no trauma
+Lungs:  Clear bilaterally to ausculation
+CV:  Bradycardic. Normal rhythm. No MRG. 
+Abdomen:   Soft, non distended, non tender.
+Back: No CVA tenderness
+Extremities: WWP. 2+ radial and dorsal pulse bilaterally. Right 
+MCP on Big toe is swollen but no redness, warmth, or tenderness. 
+No edema.
+
+ 
+Pertinent Results:
+Labs:
+CHEM 7
+___ 06:56AM BLOOD Glucose-97 UreaN-25* Creat-1.3* Na-137 
+K-4.6 Cl-107 HCO3-23 AnGap-12
+___ 06:56AM BLOOD Calcium-8.8 Phos-3.3 Mg-2.3
+___ 08:54PM BLOOD UricAcd-4.9
+___ 05:07PM BLOOD Calcium-8.8 Phos-3.7 Mg-2.6
+___ 03:44PM BLOOD K-5.7*
+___ 08:54PM BLOOD Na-138 K-5.5* Cl-109*
+___ 05:07PM BLOOD Glucose-135* UreaN-25* Creat-1.5* Na-139 
+K-6.0* Cl-110* HCO3-19* AnGap-16
+___ 03:28PM BLOOD Glucose-129* UreaN-24* Creat-1.5* Na-138 
+K-5.6* Cl-110* HCO3-20* AnGap-14
+___ 11:26AM BLOOD Glucose-191* UreaN-26* Creat-1.7* Na-136 
+K-5.9* Cl-108 HCO3-21* AnGap-13
+___ 06:05AM BLOOD Glucose-92 UreaN-28* Creat-1.6* Na-136 
+K-5.5* Cl-109* HCO3-18* AnGap-15
+___ 05:28PM BLOOD Glucose-138* UreaN-41* Creat-2.1* Na-136 
+K-5.7* Cl-106 HCO3-20* AnGap-16
+___ 05:37PM   K+-5.6*
+
+CBC
+___ 06:56AM BLOOD WBC-6.4 RBC-3.54* Hgb-10.6* Hct-32.3* 
+MCV-91 MCH-29.9 MCHC-32.8 RDW-12.1 RDWSD-41.1 Plt ___
+___ 06:56AM BLOOD Plt ___
+___ 05:28PM   WBC-5.3 RBC-3.75* HGB-11.1* HCT-34.4* MCV-92 
+MCH-29.6 MCHC-32.3# RDW-12.4 RDWSD-41.6
+___ 05:28PM   NEUTS-76.3* LYMPHS-13.9* MONOS-8.1 EOS-0.7* 
+BASOS-0.6 IM ___ AbsNeut-4.08 AbsLymp-0.74* AbsMono-0.43 
+AbsEos-0.04 AbsBaso-0.03
+___ 05:28PM   PLT COUNT-219
+
+URINE
+___ 08:30PM URINE  HOURS-RANDOM UREA N-787 CREAT-87 
+SODIUM-93 POTASSIUM-38 CHLORIDE-67
+___ 08:30PM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 08:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 08:30PM URINE  RBC-1 WBC-1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 08:30PM URINE  HYALINE-3*
+___ 08:30PM URINE  URIC ACID-FEW
+___ 08:30PM URINE  MUCOUS-RARE
+
+Imaging:
+___ CXR:
+No acute cardiopulmonary process.
+
+___ PELVIS ULTRASOUND:
+1. Normal kidneys. 
+2. Numerous large bladder diverticula. 
+3. Patient unable to void accounting for large 291 cc residual. 
+4. Massively enlarged prostate. 
+
+EKG:
+___ at 20:09. Sinus bradycardia at rate in ___. PR is not 
+prolonged but QRS is borderline prolonged. no peaked T waves
+
+___: Regular sinus rhythm, at a rate of 40's, PR and QRS 
+interval are borderline prolonged, no peaked T waves
+
+ 
+Brief Hospital Course:
+___ yo M with history of diabetes, hypertension, dyslipidemia, 
+gout, and BPH, who was referred from Primary Care clinic for ___ 
+and hyperkalemia.
+
+ACTIVE ISSUES:
+___: Patient was found to have elevation in Creatinine to 2.1 
+from a baseline of 1.2, in context of recent Bactrim treatment. 
+Pelvic ultrasound showed massively enlarged prostate, but 
+patient denied any new urinary retention or changes in urinary 
+frequency or quantity to explain a post-obstructive etiology of 
+___ was likely drug-induced secondary to Bactrim. Bactrim 
+was stopped and patient received IVF, with subsequent decrease 
+in Creatinine to 1.3 on ___.
+
+#Hyperkalemia: Ppatient had elevated potassium up to 6 without 
+any symptoms or ECG changes. ___ received kayexalate and Lasix 10 
+mg IV, with subsequent decrease in potassium to 4.6 on ___. We 
+also held enalapril.
+
+#Infected Bursitis: Patient had a resolving inflamed bunion due 
+to infection with  pansensitive staph. We continued Keflex until 
+___ for a total duration of 10 days, as directed by his PCP.
+
+CHRONIC ISSUES
+#Diabetes: Diabetes is managed with diet and exercise at home. 
+We placed patient on ISS. 
+
+#Hypertension: We continued home amlodipine 10 mg daily.
+
+#CAD primary prevention: We continued home aspirin once per day 
+instead of twice daily..
+
+#BPH: We continued home finasteride 5 mg tab/day and terazosin 2 
+mg capsule.
+
+***TRANSITIONAL ISSUES:***
+- Check Creatinine and ensure resolution ___ (baseline 
+Creatinine around 1.2)
+- Check potassium and ensure resolution of hyperkalemia
+- We stopped enalapril due to hyperkalemia, consider restarting 
+it
+- Consider switching simvastatin to another type of statin, due 
+to interaction between simvastatin and amlodipine leading to 
+increased risk of myopathy
+- Patient was found to have massively enlarges prostate on 
+ultrasound in the absence of change in urinary habits, consider 
+up-titrating BPH medications
+- Patient should continue taking Keflex for infected bursitis 
+for one more day in order to complete a 10 day course of 
+antibiotics (end ___
+- Patient's heart rate was ranging between ___, likely sinus 
+bradycardia, asymptomatic
+- We changed the frequency of aspirin 81 mg (for CAD primary 
+prevention) from twice daily to once daily.
+# Code Status: Full (confirmed)
+# Emergency Contact/HCP: ___ ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cephalexin 500 mg PO Q8H 
+2. Finasteride 5 mg PO DAILY 
+3. Enalapril Maleate 20 mg PO BID 
+4. Terazosin 2 mg PO QHS 
+5. Iron Polysaccharides Complex ___ mg PO DAILY 
+6. Aspirin 81 mg PO BID 
+7. Simvastatin 40 mg PO QPM 
+8. Amlodipine 10 mg PO DAILY 
+9. LORazepam 0.5 mg PO QHS:PRN anxiety 
+10. artificial tears(hypromellose) 0.3 % ophthalmic QHS 
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Cephalexin 500 mg PO Q8H 
+4. Finasteride 5 mg PO DAILY 
+5. LORazepam 0.5 mg PO QHS:PRN anxiety 
+6. Terazosin 2 mg PO QHS 
+7. artificial tears(hypromellose) 0.3 % ophthalmic QHS 
+8. Simvastatin 40 mg PO QPM 
+9. Iron Polysaccharides Complex ___ mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+Acute kidney injury
+Hyperkalemia
+
+SECONDARY DIAGNOSES:
+Infected bursitis
+BPH
+Diabetes
+Hypertension
+Dyslipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___. You came to the hospital because you were found 
+to have kidney injury and elevated level of potassium in your 
+blood. The kidney injury is likely a side effect of one of the 
+antibiotics you were taking (Bactrim). We stopped Bactrim and 
+gave you fluids and your kidney function improved. Also, we 
+monitored your blood levels of potassium and gave you 
+medications to help excrete the potassium off your system. Your 
+potassium level was back to normal. 
+
+We stopped the medication Enalapril because it might elevate the 
+level of potassium in your blood; please discuss restarting this 
+medication with your primary care physician. Make sure to follow 
+up with your doctors as ___.
+
+Best regards,
+Your ___ team
+ 
+Followup Instructions:
+___

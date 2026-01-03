@@ -1,0 +1,201 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Scheduled Chemotherapy
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ yo male with a history of Hodgkin's Lymphoma who is admitted
+for scheduled chemotherapy with IGEV cycle 1. The patient states
+since his last admission for ___ he has been feeling well. He 
+was
+seen in clinic and started on magnesium but denies any other
+medication changes. He denies any fevers, shortness of breath,
+nausea, diarrhea, dysuria, or rashes.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per OMR):
+Stage III/IV classical Hodgkin's lymphoma, mixed cellularity 
+type
+- ___ Developed reflux. Started on PPI without good effect. 
+- ___ Developed post prandial abdominal pain. 
+- ___ Developed unintentional weight loss, dark urine, pale
+stools, and jaundice. 
+- ___ Presented to ___. Labs notable for Tbili 6.0. RUQ
+US showed a solid mass head of the pancreas causing obstruction
+of the common duct, dilated intrahepatic ducts, and distended
+___ and ___ gallbladder. Echogenic foci in 
+the
+liver, although possibly representing hemangiomata, given the
+solid pancreatic mass highly suspicious for tumor, metastatic
+disease must be strongly considered. EUS and ERCP showed a 4 cm
+pancreatic head mass. Cytology positive for "epithelioid
+malignancy."
+- ___ CTA pancreas showed a 6.1 cm mass is identified in
+the pancreatic head.  Multiple enlarged retroperitoneal lymph
+nodes are suspicious for nodal metastasis. Tumor comes in 
+contact
+celiac axis, common hepatic artery, main portal vein, SMV, and
+encases GDA. Numerous hypodense liver lesions, some of which may
+reflect cysts or hemangioma. Few of them are more suspicious for
+potential metastasis.  Small amount of ascites.
+- ___ - CT guided retroperitoneal node biopsy confirmed
+diagnosis of classical Hodgkin lymphoma, mixed cellularity type.
+- ___ - PET/CT reveals ___ adenopathy with at least
+Stage III disease along with diffuse marrow activation raising
+possibility of disease involvement
+- ___ - C1D1 ABVD
+- ___ - C2D1 ABVD
+- ___ - admission for febrile neutropenia, no clear
+infectious source identified, recovered uneventfully after
+empiric IV antibiotics; incidentally found to have PE, started 
+on
+lovenox therapy. received C2D15 ___
+- ___ - admission for L shoulder pain in setting of LBBB
+on EKG without prior for comparison; cardiac ___ negative.
+pain attributed to ___ etiology; also found elevated
+transaminases with subsequent positive HCV serology and viral
+load
+- ___ - C3D1 ABVD
+- ___ - C4D1 ABVD
+- ___ - PET/CT Interval improvement in size and FDG 
+avidity
+of mediastinal and retroperitoneal lymphadenopathy, however with
+significant persistent residual ___ disease. also with
+infectious vs inflammatory pulmonary opacity and cervical node,
+clinically with mild viral respiratory symptoms. treated with
+azithromycin and prednisone course, decision made to stop
+bleomycin and start brentuximab + AVD
+- ___ - C5D1 AVD (bleo omitted as above)
+- ___- - C5D15 AVD, initiation of brentuximab 1.2mg/kg every 
+2
+weeks
+- ___ - C6D1 AVD + brentuximab
+- ___ - C6D15 AVD + brentuximab
+- ___ - Admitted for fever and neutropenia.  Noted hypoxia
+with PE and GGO's.  Restarted Lovenox.  Treated for PCP and 
+___.
+Continues on Bactrim.
+- ___ - C1 ___, received Rituxan on ___
+- ___ - received neulasta
+PAST MEDICAL HISTORY:
+Hep C
+hx of PE ___
+ 
+Social History:
+___
+Family History:
+- None reported.
+ 
+Physical Exam:
+General:  NAD
+VITAL SIGNS: T 98.1 BP 106/66 HR 100 RR 18 O2 99%RA
+HEENT:  MMM, no OP lesions
+CV:  RR, NL S1S2
+PULM:  CTAB
+ABD:  Soft, NTND, no masses or hepatosplenomegaly
+LIMBS:  No edema, clubbing, tremors, or asterixis
+SKIN:  No rashes or skin breakdown
+NEURO: Alert and oriented, no focal deficits.
+ 
+Pertinent Results:
+___ 12:00AM BLOOD ___ 
+___ Plt ___
+___ 10:30AM BLOOD ___ ___
+___ 12:00AM BLOOD ___ 
+___
+___ 12:00AM BLOOD ___
+___ 12:00AM BLOOD ___
+ 
+Brief Hospital Course:
+___ yo male with a history of Hodgkin's Lymphoma who was admitted 
+for scheduled chemotherapy with IGEV cycle 1.
+
+Hodgkin's Lymphoma
+- Received Cycle 1 IGEV: Ifosfamide, Gemcitabine, Navelbine, 
+Mesna, and
+Prednisone per protocol. He also received IV fluids and 
+antiemetics per protocol. He tolerated the chemotherapy well. 
+His home allopurinol was continued. He will get neulasta 
+tomorrow in the outpatient clinic. He will follow up with his 
+primary oncologist as an outpatient.
+
+Pneumonitis/? PCP ___ home at___ was continued. His home prednisone was 
+held while inpatient due to getting steroids with chemotherapy 
+and it was resumed on discharge.
+
+Herpes Labials
+- His home valcyclovir was switched to acyclovir while inpatient 
+and valcyclovir was resumed upon discharge.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atovaquone Suspension 1500 mg PO DAILY 
+2. Docusate Sodium 100 mg PO BID 
+3. FoLIC Acid 1 mg PO DAILY 
+4. LORazepam ___ mg PO Q8H:PRN nausea anxiety insomnia 
+5. Ondansetron 8 mg PO Q8H:PRN nausea 
+6. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+7. OxyCODONE SR (OxyconTIN) 20 mg PO Q12H 
+8. Pantoprazole 40 mg PO Q12H 
+9. PredniSONE 10 mg PO DAILY 
+10. Promethazine 25 mg PO Q6H:PRN nausea 
+11. Senna 8.6 mg PO BID 
+12. ValACYclovir 500 mg PO Q12H 
+13. Metoprolol Succinate XL 50 mg PO DAILY 
+14. Allopurinol ___ mg PO DAILY 
+15. Dronabinol 2.5 mg PO BID 
+16. Magnesium Oxide 400 mg PO BID 
+
+ 
+Discharge Medications:
+1. Allopurinol ___ mg PO DAILY 
+2. Atovaquone Suspension 1500 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Dronabinol 2.5 mg PO BID 
+5. FoLIC Acid 1 mg PO DAILY 
+6. LORazepam ___ mg PO Q8H:PRN nausea anxiety insomnia 
+7. Magnesium Oxide 400 mg PO BID 
+8. Metoprolol Succinate XL 50 mg PO DAILY 
+9. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+10. OxyCODONE SR (OxyconTIN) 20 mg PO Q12H 
+11. Pantoprazole 40 mg PO Q12H 
+12. Senna 8.6 mg PO BID 
+13. Promethazine 25 mg PO Q6H:PRN nausea 
+14. ValACYclovir 500 mg PO Q12H 
+15. PredniSONE 10 mg PO DAILY 
+16. Ondansetron 8 mg PO Q8H:PRN nausea 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hodgkin's Lymphoma
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for scheduled chemotherapy which you tolerated 
+well.
+ 
+Followup Instructions:
+___

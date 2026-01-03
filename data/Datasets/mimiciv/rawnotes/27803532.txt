@@ -1,0 +1,239 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Crohn's disease
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic ileocecectomy
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with a history of Crohn's 
+disease. She started on Stelara and was feeling well with 
+occasional bloating. She underwent a scope and had a scan that 
+demonstrated two tight ileal strictures and was seen by Dr. 
+___ surgical evaluation. 
+
+ 
+Past Medical History:
+PMH:
+Crohn's disease
+
+PSH:
+None
+ 
+Social History:
+___
+Family History:
+Father with atrial fibrillation and HTN. Mother with HTN. No GI 
+disease in family.
+ 
+Physical Exam:
+Discharge Physical Exam:
+
+98.4, 108/73, 91, 18, 99%/RA
+GEN: NAD
+HEENT: NCAT, EOMI, anicteric
+CV: hemodynamically stable
+PULM: normal excursion, no respiratory distress
+ABD: soft, appropriately tender around incisions, incisions 
+c/d/i
+EXT: WWP, no CCE, 2+ B/L radial
+NEURO: A&Ox3, no focal neurologic deficits
+PSYCH: normal judgment/insight, normal memory, normal 
+mood/affect
+ 
+Pertinent Results:
+___ 07:04AM BLOOD WBC-14.0* RBC-3.37* Hgb-9.7* Hct-29.8* 
+MCV-88 MCH-28.8 MCHC-32.6 RDW-12.0 RDWSD-38.5 Plt ___
+___ 07:04AM BLOOD Glucose-127* UreaN-8 Creat-0.5 Na-137 
+K-4.0 Cl-103 HCO3-23 AnGap-11
+___ 07:04AM BLOOD Calcium-8.0* Phos-3.5 Mg-1.8
+___ 07:04AM BLOOD CRP-34.2*
+ 
+Brief Hospital Course:
+Ms. ___ presented to ___ holding at ___ on ___ for 
+a laparoscopic ileocecectomy. She tolerated the procedure well 
+without complications (Please see operative note for further 
+details). After a brief and uneventful stay in the PACU, the 
+patient was transferred to the floor for further post-operative 
+management.
+Neuro: Pain was well controlled on Tylenol and tramadol for 
+breakthrough pain.
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+Pulm: The patient remained stable from a pulmonary standpoint; 
+oxygen saturation was routinely monitored. She had good 
+pulmonary toileting, as early ambulation and incentive 
+spirometry were encouraged throughout hospitalization.
+GI: The patient was initially kept NPO after the procedure. The 
+patient was advanced to and tolerated a regular diet. Patient's 
+intake and output were closely monitored.
+GU: The patient was initially voiding small amounts of urine 
+with reports of feeling she did not completely empty her 
+bladder. She was started on Flomax and was bladder scanned for 
+greater than 600cc and straight cathed for 800cc urine. A 
+urinalysis was sent which was noncontributory. Post 
+catheterization, the patient was able to void without any 
+difficulty or complaints. Urine output was monitored as 
+indicated.
+ID: The patient was closely monitored for signs and symptoms of 
+infection and fever, of which there was none.
+Heme: The patient received subcutaneous heparin and ___ dyne 
+boots during this stay. She was encouraged to get up and 
+ambulate as early as possible. The patient was having bloody 
+bowel movements so lovenox was held. Her bloody bowel movements 
+decreased and the patient was instructed to resume lovenox on 
+___. 
+On ___, the patient was discharged to home. At discharge, 
+she was tolerating a regular diet, passing flatus, voiding, and 
+ambulating independently. She will follow-up in the clinic in 
+___ weeks. This information was communicated to the patient 
+directly prior to discharge.
+Post-Surgical Complications During Inpatient Admission:
+ [ ] Post-Operative Ileus resolving w/o NGT
+ [ ] Post-Operative Ileus requiring management with NGT
+ [ ] UTI
+ [ ] Wound Infection
+ [ ] Anastomotic Leak
+ [ ] Staple Line Bleed
+ [ ] Congestive Heart failure
+ [ ] ARF
+ [ ] Acute Urinary retention, failure to void after Foley D/C'd
+ [ ] Acute Urinary Retention requiring discharge with Foley 
+Catheter
+ [ ] DVT
+ [ ] Pneumonia
+ [ ] Abscess
+ [x] None
+Social Issues Causing a Delay in Discharge:
+ [ ] Delay in organization of ___ services
+ [ ] Difficulty finding appropriate rehab hospital disposition.
+ [ ] Lack of insurance coverage for ___ services
+ [ ] Lack of insurance coverage for prescribed medications.
+ [ ] Family not agreeable to discharge plan.
+ [ ] Patient knowledge deficit related to ileostomy delaying 
+dispo
+ [x] No social factors contributing in delay of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Budesonide 3 mg PO DAILY 
+2. Ustekinumab 90 mg IV ONCE every seven weeks 
+3. Vitamin D 5000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Enoxaparin Sodium 40 mg SC DAILY 
+Do not start using until ___ 
+RX *enoxaparin 40 mg/0.4 mL 40 mg SC once a day Disp #*28 
+Syringe Refills:*0 
+3.  TraMADol 50-100 mg PO Q6H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Do not drive or drive while taking 
+RX *tramadol 50 mg ___ tablet(s) by mouth every six (6) hours 
+Disp #*18 Tablet Refills:*0 
+4.  Budesonide 3 mg PO DAILY  
+5.  Ustekinumab 90 mg IV ONCE every seven weeks  
+6.  Vitamin D 5000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Crohn's disease of small bowel with obstruction 
+Multifocal strictures  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to the hospital after a laparoscopic 
+ileocecectomy for surgical management of your Crohn's disease. 
+You have recovered from this procedure and you are now ready to 
+return home.  
+ 
+Please monitor your bowel function closely. You may or may not 
+have had a bowel movement prior to discharge which is 
+acceptable; however it is important that you have a bowel 
+movement in the next ___ days. After anesthesia it is not 
+uncommon for patients to have some decrease in bowel function 
+but you should not have prolonged constipation. However, you may 
+have loose stool and passing of small amounts of dark, old 
+appearing blood. If you notice that you are passing bright red 
+blood with bowel movements or having large amounts of loose 
+stool without improvement please call the office or go to the 
+emergency room. While taking narcotic pain medications you are 
+at risk for constipation, please take an over the counter stool 
+softener such as Colace.
+ 
+You have ___ laparoscopic surgical incisions on your abdomen 
+which are closed with internal sutures.  It is important that 
+you monitor these areas for signs and symptoms of infection 
+including: increasing redness of the incision lines, 
+white/green/yellow/foul smelling drainage, increased pain at the 
+incision, increased warmth of the skin at the incision, or 
+swelling of the area. You may shower; pat the incisions dry with 
+a towel, do not rub.  If you have steri-strips (the small white 
+strips), they will fall off over time, please do not remove 
+them. Please do not take a bath or swim until cleared by the 
+surgical team.
+ 
+Pain is expected after surgery. This will gradually improve over 
+the first week or so you are home.  You should continue to take 
+2 Extra Strength Tylenol (___) for pain every 8 hours around 
+the clock. Please do not take more than 3000mg of Tylenol in 24 
+hours or any other medications that contain Tylenol such as cold 
+medication. Do not drink alcohol while taking Tylenol.  You may 
+also take Advil (Ibuprofen) 600mg every 8 hours for 7 days. 
+Please take Advil with food. If these medications are not 
+controlling your pain to a point where you can ambulate and 
+perform minor tasks, you should take a dose of the narcotic pain 
+medication tramadol.  Please do not take sedating medications, 
+drink alcohol, or drive while taking the narcotic pain 
+medication. 
+
+You are being discharged home on Lovenox injections to prevent 
+blood clots after surgery. Please start taking this medication 
+on ___. You will take this medication for a total of 30 
+days (including doses in hospital), please finish the entire 
+prescription. Please monitor for any signs of bleeding: fast 
+heart rate, bloody bowel movements, abdominal pain, bruising, 
+feeling faint or weak. If you have any of these symptoms please 
+call our office or seek medical attention immediately. Please 
+avoid any contact activity and take extra caution to avoid 
+falling while taking Lovenox. 
+ 
+You may feel weak or "washed out" for up to 6 weeks after 
+surgery. Do not lift greater than a gallon of milk for 3 weeks. 
+At your post op appointment, your surgical team will clear you 
+for heavier exercise.  In the meantime, you may climb stairs and 
+go outside and walk.  Please avoid traveling long distances 
+until you speak with your surgical team at your post-op visit.   
+
+ 
+Thank you for allowing us to participate in your care, we wish 
+you all the best! 
+ 
+Followup Instructions:
+___

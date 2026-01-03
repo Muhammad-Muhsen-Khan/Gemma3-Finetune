@@ -1,0 +1,295 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+adhesive tape
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath and cough
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ ___ PMH asthma and tobacco use, h/o Cdiff, 
+hypertension, hypothyroidism, and very significant psychiatric 
+comorbidities including depression with chronic anger, 
+borderline PD, mood disorder, eating disorder, anxiety, and 
+numerous psychiatric admissions with history of self injurious 
+behaviors and suicide attempts/assaultive behaviors presenting 
+with worsening cough and SOB.  Patient initially was seen by PCP 
+on ___ and was diagnosed with RML PNA, and started on 
+Augmentin.  However, her symptoms have been worsening along 
+fevers and development of diarrhea started today with more than 
+4 BM's.  
+
+Denied headache, photo/phonophobia, neck rigidity, n/v, chest 
+pain, palpitations, dizziness, orthopnea or orthostasis, 
+melena/hematochezia, dysuria/hematuria.
+ 
+Past Medical History:
+# asthma
+# tobacco use
+# h/o Cdiff
+# hypertension
+# hypothyroidism
+# hemorrhoids
+# herpes
+# eczema
+# very significant psychiatric comorbidities including 
+   -depression with chronic anger
+   -borderline PD
+   -mood disorder
+   -eating disorder
+   -anxiety
+   -tardive dyskinesia
+   -numerous psychiatric admissions with history of self 
+injurious behaviors and suicide attempts/assaultive behaviors
+
+ 
+Social History:
+___
+Family History:
+- father (pt does not have a relationship with him) with 
+alcoholism. 
+- Sister with bipolar. 
+- Twin brother with "mental issues" (has spent much of his life 
+incarcerated, currently released). 
+- Maternal grandmother with schizophrenia
+- No family h/o suicides
+ 
+Physical Exam:
+ADMISSION EXAM
+===================
+GEN: NAD, alert, pleasant
+HEENT: AT/NC, anicteric sclera, OP clear, moist MMM, no JVD/LAD
+CV: RRR w/o murmurs
+RESP: LCTA on left with coarse BS and rhonchi on right
+GI: s, ND, NTTP 
+GU: no foley in place
+INTEGUMENT: no rashes
+NEURO: grossly intact without focal deficits
+PSYCH: normal affect and mentation
+
+DISCHARGE EXAM
+==================
+VITALS: 98.2, 109/75, 77, 18, 95 RA
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, no conjunctival injection, pupils equally round
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear bilaterally with good air movement.  Breathing 
+is non-labored
+GI: Abdomen soft, non-tender in all quadrants, non-distended.  
+No rebound or guarding.
+EXT: Warm and well perfused. No ___ edema.
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs
+PSYCH: pleasant, appropriate mood and affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+=================
+___ 10:10PM BLOOD WBC-11.4* RBC-4.59 Hgb-11.8 Hct-36.8 
+MCV-80* MCH-25.7* MCHC-32.1 RDW-15.9* RDWSD-45.9 Plt ___
+___ 10:10PM BLOOD Neuts-74.4* Lymphs-15.7* Monos-6.8 
+Eos-2.3 Baso-0.3 Im ___ AbsNeut-8.47*# AbsLymp-1.79 
+AbsMono-0.78 AbsEos-0.26 AbsBaso-0.03
+___ 10:10PM BLOOD Glucose-147* UreaN-11 Creat-0.7 Na-140 
+K-3.3 Cl-98 HCO3-30 AnGap-12
+___ 05:50AM BLOOD ALT-29 AST-28 AlkPhos-108* TotBili-0.3
+___ 05:50AM BLOOD Albumin-3.6 Calcium-9.1 Phos-3.6 Mg-2.3
+___ 10:10PM BLOOD Lactate-1.2
+
+DISCHARGE LABS:
+=================
+___ 06:40AM BLOOD WBC-8.5 RBC-4.76 Hgb-12.5 Hct-40.0 MCV-84 
+MCH-26.3 MCHC-31.3* RDW-16.3* RDWSD-49.3* Plt ___
+___ 06:40AM BLOOD Glucose-78 UreaN-13 Creat-0.7 Na-147 
+K-4.4 Cl-99 HCO3-33* AnGap-15
+___ 06:40AM BLOOD Calcium-9.3 Phos-2.6* Mg-2.2
+
+MICROBIOLOGY:
+=================
+___ 10:09 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+                            **FINAL REPORT ___
+   C. difficile DNA amplification assay (Final ___: 
+      Reported to and read back by ___. ___ AT 14:40 
+___. 
+      CLOSTRIDIUM DIFFICILE. 
+         Positive for toxigenic C difficile by the Cepheid 
+nucleic
+         amplification assay.  
+
+STUDIES:
+=================
+___ CXR
+FINDINGS: 
+PA and lateral views of the chest provided.  Airspace 
+consolidation is
+increased in the lower lungs, consistent with worsening 
+pneumonia.  No large
+effusion or pneumothorax.  Cardiomediastinal silhouette appears 
+normal.  Bony structures are intact.
+
+IMPRESSION: 
+Worsening pneumonia, now involving both right and left lung 
+base.
+ 
+Brief Hospital Course:
+___ yo F smoker with asthma, h/o cdiff, and mood disorder who was 
+admitted with community acquired PNA failing outpatient oral 
+antibiotics and found to have C. diff infection.
+
+# Community acquired PNA
+Did not improve with Augmentin as an outpatient. Started 
+CTX/azithromycin on admission. Flu negative. Legionella 
+negative. Transitioned to levofloxacin for CAP (QTc normal on 
+___ and course completed on day of discharge.
+
+# Recurrent C. diff
+# Diarrhea
+- Started PO vancomycin, will plan for course to extend 14 days 
+past completion of antibiotics. Rx was filled and delivered to 
+the bedside before discharge.
+- ___ need outpatient GI referral given multiple occurrences of 
+C. diff
+
+# HTN
+- continue home metoprolol
+- held HCTZ given relative hypotension
+
+Otherwise no changes were made to her other medications. She 
+requested an Rx for nebulizer and albuterol which was provided.
+
+TRANSITIONAL ISSUES:
+[ ] F/U BP to restart HCTZ if needed
+[ ] Consider GI referral for multiple episodes of C. diff
+[ ] Careful medication reconciliation with patient - multiple 
+old medications are listed in OMR that do not appear to have 
+been filled recently and patient is unaware of what she takes 
+(she has both blister pack and bottles of pills)
+
+**The patient was seen and examined today and is stable for 
+discharge. Greater than 30 minutes were spent in discharge 
+planning and coordination.**
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Carbamazepine (Extended-Release) 100 mg PO BID 
+2. Gabapentin 600 mg PO BID 
+3. RisperiDONE 0.5 mg PO DAILY 
+4. LORazepam 0.5 mg PO BID 
+5. Metoprolol Succinate XL 50 mg PO DAILY 
+6. Fluticasone Propionate NASAL 1 SPRY NU BID 
+7. Baclofen 10 mg PO TID:PRN Muscle Spasms 
+8. Ferrous Sulfate 325 mg PO BID 
+9. Montelukast 10 mg PO DAILY 
+10. Lidocaine Viscous 2% 15 mL PO TID:PRN throat pain 
+11. mineral oil-hydrophil petrolat small dab topical BID:PRN 
+12. Multivitamins W/minerals 1 TAB PO DAILY 
+13. OxyCODONE (Immediate Release) ___ mg PO Q4-6H as needed for 
+pain 
+14. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+15. melatonin 3 mg oral QHS 
+16. Pantoprazole 20 mg PO Q12H 
+17. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral BID 
+18. Aspirin 325 mg PO DAILY 
+19. Cetirizine 10 mg PO DAILY 
+20. Loratadine 10 mg PO DAILY 
+21. DULoxetine 40 mg PO DAILY 
+22. albuterol sulfate 90 mcg/actuation inhalation ___ puffs q6h 
+as needed for wheezing 
+23. Hydrochlorothiazide 25 mg PO DAILY 
+24. cod liver oil 1 capsule oral DAILY 
+
+ 
+Discharge Medications:
+1.  Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN wheeze 
+RX *albuterol sulfate 2.5 mg/3 mL (0.083 %) 1 NEB INH every four 
+(4) hours Disp #*30 Vial Refills:*0 
+2.  Benzonatate 100 mg PO TID 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*21 Capsule Refills:*0 
+3.  vancomycin 125 mg oral QID 
+RX *vancomycin 125 mg 1 capsule(s) by mouth four times a day 
+Disp #*56 Capsule Refills:*0 
+4.  Aspirin 325 mg PO DAILY  
+5.  Baclofen 10 mg PO TID:PRN Muscle Spasms  
+6.  Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral BID  
+7.  Carbamazepine (Extended-Release) 100 mg PO BID  
+8.  Cetirizine 10 mg PO DAILY  
+9.  cod liver oil 1 capsule oral DAILY  
+10.  DULoxetine 40 mg PO DAILY  
+11.  Ferrous Sulfate 325 mg PO BID  
+12.  Fluticasone Propionate NASAL 1 SPRY NU BID  
+13.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+14.  Gabapentin 600 mg PO BID  
+15.  Lidocaine Viscous 2% 15 mL PO TID:PRN throat pain  
+16.  Loratadine 10 mg PO DAILY  
+17.  LORazepam 0.5 mg PO BID  
+18.  melatonin 3 mg oral QHS  
+19.  Metoprolol Succinate XL 50 mg PO DAILY  
+20.  mineral oil-hydrophil petrolat 1 unit topical BID:PRN skin  
+
+21.  Montelukast 10 mg PO DAILY  
+22.  Multivitamins W/minerals 1 TAB PO DAILY  
+23.  OxyCODONE (Immediate Release) ___ mg PO Q4-6H as needed 
+for pain  
+24.  Pantoprazole 20 mg PO Q12H  
+25.  RisperiDONE 0.5 mg PO DAILY  
+26. HELD- Hydrochlorothiazide 25 mg PO DAILY  This medication 
+was held. Do not restart Hydrochlorothiazide until you see your 
+primary care doctor and have your blood pressure checked.
+27.Medical Equipment
+Please provide a nebulizer for albuterol.
+ICD-___: ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+community acquired pneumonia
+C. diff colitis and diarrhea
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital with pneumonia and found to 
+have a diarrheal infection (called C. diff). We treated you with 
+antibiotics for your pneumonia, which finished before you left 
+the hospital. We also started you on another antibiotic (called 
+VANCOMYCIN) for your C. diff diarrheal infection. You should 
+take this antibiotic four times per day for 2 weeks.
+
+Your other medications are detailed in your discharge medication 
+list. You should review this carefully and take it with you to 
+any follow up appointments.
+
+Your follow up appointments are listed below.
+
+It was a pleasure taking care of you.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

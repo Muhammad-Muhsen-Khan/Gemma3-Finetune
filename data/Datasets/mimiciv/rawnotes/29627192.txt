@@ -1,0 +1,342 @@
+Name:  ___.             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain, back pain, lightheadedness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ F with PMH CAD (s/p BMS in ___, LCx 
+Cypher ___, RCA ___, ISR RCA ___, ___ ISR ___, HTN, 
+HLD, T2DM, Carotid stenosis, fibromyalgia, depression, and 
+sarcoidosis who presents from home with chest and back pain of 2 
+days and light headedness. Two days ago developed gradual onset 
+mid/left chest pressure and upper back pain that came on at 
+rest, while sitting. Has been constant for 2 days. Associated 
+with some light headedness and
+general malaise, but no syncope. Denies orthostatic symptoms. 
+Light headedness comes on without provocation. Has a 
+non-productive cough x4 days, no fevers, chills. Non-pleuritic. 
+Took two tabs of SL nitro without relief. Of note ___ previous
+angina symptoms involve jaw pain.
+ 
+Past Medical History:
+-CAD s/p extensive PCI: reportedly BMS in ___, LCx Cypher
+___, RCA ___, ISR RCA ___, ___ ISR ___, last cath
+___ without intervention. Reports typical angina = jaw pain
+-HTN 
+-HLD
+-DM2
+-Carotid stenosis s/p stents 98, 05. LICA<40% stenosis (___)
+-Morbid obesity; BMI 54.6
+-Depression/Anxiety
+-Former heavy smoker
+-?Pulm sarcoidosis: reports remote biopsy positive, treated
+with steroids, currently on hydroxychloroquine 
+ 
+Social History:
+___
+Family History:
+Father passed away in a ___ accident.
+Mother with arthritis.
+Two brothers with lung cancer.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS:  99.3  173 / 68 61 18 95 RA  
+GENERAL: No acute distress, well nourished, well appearing 
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: JVP not elevated; no carotid bruits
+CARDIAC: RRR, S1, S2, distant heart sounds
+LUNGS: LCAB 
+ABDOMEN: s, nt, nd
+EXTREMITIES: no peripheral edema
+SKIN: no obvious rashes in face, chest, back, or extremities;
+PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE PHYSICAL EXAM:
+VITALS: 97.9 124/73 59 18 96%RA 
+GENERAL: No acute distress, well nourished, well appearing 
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no
+pallor or cyanosis of the oral mucosa. No xanthelasma. 
+NECK: JVP not elevated; no carotid bruits
+CARDIAC: RRR, S1, S2, ___ systolic murmur
+LUNGS: Lung sounds clear bilat, no resp distress 
+ABDOMEN: soft, nontender, nondistended, +bowel sounds
+EXTREMITIES: no peripheral edema
+SKIN: no obvious rashes in face, chest, back, or extremities;
+PULSES: Distal pulses palpable and symmetric 
+TELEMETRY: Sinus bradycardia, HR 50's-60's. 
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:57PM BLOOD WBC-11.3* RBC-3.89* Hgb-11.4 Hct-35.5 
+MCV-91 MCH-29.3 MCHC-32.1 RDW-13.8 RDWSD-46.0 Plt ___
+___ 01:57PM BLOOD Neuts-69.3 Lymphs-18.9* Monos-8.2 Eos-2.1 
+Baso-0.7 Im ___ AbsNeut-7.84* AbsLymp-2.14 AbsMono-0.93* 
+AbsEos-0.24 AbsBaso-0.08
+___ 01:57PM BLOOD ___ PTT-29.5 ___
+___ 01:57PM BLOOD Glucose-167* UreaN-39* Creat-1.0 Na-138 
+K-5.9* Cl-98 HCO3-24 AnGap-16
+___ 01:57PM BLOOD cTropnT-<0.01
+___ 01:57PM BLOOD Calcium-9.5 Phos-3.6 Mg-1.9
+___ 01:57PM BLOOD TSH-3.9
+___ 03:40PM BLOOD K-5.3*
+___ 06:34PM URINE Color-Yellow Appear-Hazy* Sp ___
+___ 06:34PM URINE Blood-NEG Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-7.5 Leuks-TR*
+___ 06:34PM URINE RBC-4* WBC-4 Bacteri-FEW* Yeast-NONE 
+Epi-8
+___ 06:34PM URINE Mucous-RARE*
+
+DISCHARGE LABS:
+___ 06:40AM BLOOD WBC-6.4 RBC-3.69* Hgb-10.6* Hct-33.8* 
+MCV-92 MCH-28.7 MCHC-31.4* RDW-13.9 RDWSD-46.8* Plt ___
+___ 06:40AM BLOOD Neuts-55.9 ___ Monos-9.2 Eos-3.4 
+Baso-0.8 Im ___ AbsNeut-3.57 AbsLymp-1.93 AbsMono-0.59 
+AbsEos-0.22 AbsBaso-0.05
+___ 06:40AM BLOOD Glucose-111* UreaN-34* Creat-0.7 Na-143 
+K-4.5 Cl-105 HCO3-28 AnGap-10
+___ 06:40AM BLOOD cTropnT-<0.01
+___ 06:40AM BLOOD Calcium-9.4 Phos-4.0 Mg-1.9
+
+OTHER DIAGNOSTICS:
+ECG ___: 
+Accelerated junctional rhythm at 44 bpm with occasional sinus 
+beats which are conducted. No ischemic changes.
+
+CHEST X-RAY ___:
+FINDINGS:  
+AP portable upright view of the chest.  Lungs are clear. There 
+is no focal 
+consolidation, effusion, or pneumothorax.  A coronary stent 
+projects over the 
+right heart.  The cardiomediastinal silhouette is normal. Imaged 
+osseous 
+structures are intact.  
+IMPRESSION:    
+No acute intrathoracic process 
+
+CHEST CTA ___:
+FINDINGS:  
+HEART AND VASCULATURE: Pulmonary vasculature is well opacified 
+to the 
+subsegmental level without filling defect to indicate a 
+pulmonary embolus. No evidence of aortic dissection is seen.  
+Atherosclerotic calcifications are seen along the aorta.  There 
+are extensive coronary artery calcifications.  
+Cardiomegaly is mild.  Aortic valve calcifications are also 
+seen.  The 
+superior portion of the aortic arch and origins of the arch 
+vessels are not well evaluated due to streak artifact.  No 
+pericardial effusion is seen. 
+AXILLA, HILA, AND MEDIASTINUM: No axillary, mediastinal, or 
+hilar 
+lymphadenopathy is present.  No mediastinal mass. 
+PLEURAL SPACES: No pleural effusion or pneumothorax. 
+LUNGS/AIRWAYS: The lungs and small airways are not well 
+evaluated due to 
+expiratory phase imaging.  Relative ground-glass opacity 
+bilaterally may 
+relate to expiratory phase of scan.  No definite focal 
+consolidation.  The 
+airways are patent to the level of the segmental bronchi 
+bilaterally.   
+ABDOMEN: Partially imaged is 3.5 x 4.2 cm left adrenal nodule, 
+which measured 
+3.4 x 4.3 cm on ___ and previously characterized as 
+an adenoma. Included portion of the upper abdomen is otherwise 
+unremarkable focus of arterial enhancement in the liver on 
+series 2, image 84 is nonspecific, may be vascular, flash 
+filling hemangioma, or perfusion anomaly, and was also present 
+___.  A small to moderate hiatal hernia is noted. 
+BONES: No suspicious osseous abnormality is seen.? There is no 
+acute fracture. 
+IMPRESSION:    
+No evidence of pulmonary embolism or aortic dissection.  
+Relative bilateral pulmonary ground-glass opacity may relate to 
+expiratory 
+phase of scan.  No definite focal consolidation.  
+Atherosclerotic changes including aortic, aortic valve, and 
+coronary artery calcifications. 
+
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN: 
+___ with history of CAD (s/p extensive PCI, LCx ___, RCA ___ 
+w/
+ISR RCA ___, ___ ___, HTN, DM2, HLD, carotid stenosis,
+sarcoidosis, p/w 2 days of chest pain, back pain, light
+headedness, found to have bradycardia and accelerated junctional
+escape rhythm.
+
+# Symptomatic bradycardia
+# Accelerated junctional escape rhythm: Has 2 days of 
+intermittent light headedness that come on without provocation, 
+found to be brady to high ___ in ED. Likely has age 
+related sinus node dysfunction exacerbated by double nodal 
+blockade. Resolved and returned to ___ with HR 50's-___s. EP 
+consulted and signed off.
+- Stop diltiazem
+- Continue carvedilol 25 mg BID
+
+# Chest pressure: Now resolved. Possibly secondary to ___ 
+etiology from coughing. Less likely ACS given 2 days of constant 
+pain, and not consistent with prior angina which was jaw pain. 
+A/w back pain but CTA negative for dissection and PE. Troponins 
+negative x 2. 
+
+# Leukocytosis: Now resolved with WBC 6.4. Likely stress 
+response to above. Has cough, but no infiltrate on CXR, and no 
+other signs of symptoms of infection. UA with bacteria but no 
+nitrates, culture pending.
+- No treatment for UA as she is asymptomatic, follow urine 
+culture as outpatient. 
+
+# Hyperkalemia: K 5.9 on arrival, now 4.5 after holding 
+losartan.
+- Reduce losartan to 50 mg daily
+
+# Microscopic hematuria:
+- Should get further evaluation with PCP as outpatient
+
+# Hypertension: BP 120's-140's/___-______s today. Patient has home 
+BP monitor, concern for worsening hypertension with reducing 
+losartan and stopping diltiazem. 
+- Med changes as noted above
+- Patient instructed to check BP daily at home and bring log of 
+results and monitor to follow up appointment. 
+
+# DISPO: Discharge home today with ___ for medication teaching 
+and management.
+ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Carvedilol 25 mg PO BID 
+3. Diltiazem Extended-Release 300 mg PO DAILY 
+4. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+5. Omeprazole 40 mg PO DAILY 
+6. Rosuvastatin Calcium 40 mg PO QPM 
+7. Venlafaxine XR 225 mg PO DAILY 
+8. Clopidogrel 75 mg PO DAILY 
+9. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+10. Hydroxychloroquine Sulfate 400 mg PO DAILY 
+11. Gabapentin 100-200 mg PO BID:PRN pain 
+12. Gabapentin 200 mg PO QHS 
+13. BusPIRone 5 mg PO BID 
+14. Hyzaar (losartan-hydrochlorothiazide) 100-25 mg oral DAILY 
+15. MetFORMIN (Glucophage) 500 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q24H 
+Take in the morning.  
+2.  Hydrochlorothiazide 25 mg PO DAILY 
+Take in the afternoon.  
+3.  Losartan Potassium 50 mg PO QHS 
+Take at bedtime.  
+4.  Aspirin 81 mg PO DAILY 
+Take in the morning.  
+5.  BusPIRone 5 mg PO BID 
+Take in the morning and at bedtime.  
+6.  Carvedilol 25 mg PO BID 
+Take in the morning and at bedtime.  
+7.  Clopidogrel 75 mg PO DAILY 
+Take in the morning.  
+8.  Gabapentin 100-200 mg PO BID:PRN pain  
+9.  Gabapentin 200 mg PO QHS 
+Take at bedtime.  
+10.  Hydroxychloroquine Sulfate 400 mg PO DAILY 
+Take in the morning.  
+11.  Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+Take in the morning.  
+12.  MetFORMIN (Glucophage) 500 mg PO DAILY 
+Take in the morning.   
+13.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+14.  Rosuvastatin Calcium 40 mg PO QPM 
+Take at bedtime.  
+15.  Venlafaxine XR 225 mg PO DAILY 
+Take in the morning.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Bradycardia
+Accelerated junctional rhythm
+Atypical chest pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent. 
+Level of Consciousness: Alert and interactive. 
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane). 
+ 
+PHYSICAL EXAM: 
+VITALS: 97.9 124/73 59 18 96%RA  
+GENERAL: No acute distress, well nourished, well appearing  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no 
+
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: JVP not elevated; no carotid bruits 
+CARDIAC: RRR, S1, S2, ___ systolic murmur 
+LUNGS: Lung sounds clear bilat, no resp distress  
+ABDOMEN: soft, nontender, nondistended, +bowel sounds 
+EXTREMITIES: no peripheral edema 
+SKIN: no obvious rashes in face, chest, back, or extremities; 
+PULSES: Distal pulses palpable and symmetric  
+TELEMETRY: Sinus bradycardia, HR 50's-60's.  
+
+ 
+Discharge Instructions:
+    You were admitted to ___ after an evaluation of your 
+symptoms of chest pain and lightheadedness revealed an abnormal 
+slow heart rhythm. You did not have a heart attack. This rhythm 
+resolved after stopping your diltiazem. Your symptoms may have 
+been related to how you were taking your medications at home. 
+Taking them on a more organized schedule throughout the day may 
+help you feel better and avoid unwanted side-effects. Please 
+refer to the list in this paperwork for any changes that were 
+made to your medications and continue to take your medications 
+as directed.
+
+    Since we decreased some blood pressure medications, please 
+check your blood pressure and heart rate once a day and keep a 
+log of this information. Bring your log and blood pressure 
+machine to your follow up appointment. You should follow up with 
+Dr. ___ ___ weeks.
+
+    If you have any urgent questions or concerns related to this 
+admission and you can't reach your primary cardiologist, you can 
+call the ___ HEARTLINE ___ at ___ to speak to a 
+cardiac nurse practitioner or cardiologist. 
+
+    It has been a pleasure to participate in your care and we 
+wish you the best with your health.
+
+ -Your ___ Cardiac Care Team
+ 
+Followup Instructions:
+___

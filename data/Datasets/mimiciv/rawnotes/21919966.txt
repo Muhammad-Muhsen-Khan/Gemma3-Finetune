@@ -1,0 +1,280 @@
+Notes
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / egg / ceftriaxone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Lethargy
+ 
+Major Surgical or Invasive Procedure:
+right femoral central venous line, right femoral arterial line
+ 
+History of Present Illness:
+___ w/ PMH of dementia, HLD, pernicious anemia (Jehovah's 
+Witness), HTN, presenting from nursing home for lethargy. Was 
+found to be unresponsive with O2 sat in ___ on RA. Placed on non 
+rebreather, in EMS. In ED patient is ___ on ___. Patient is 
+demented, unable to obtain any history. Pt was last admitted to 
+___ in ___ with severe sepsis ___ to multifocal PNA, 
+treated with vancomycin/meropenem/levofloxacin. Baseline mental 
+status, does not follow commands.  
+
+ In the ED, initial vital signs were: 102.4 121 ___ 89%  
+ - Exam notable for lethargy, tachycardia, decreased breath 
+sounds L>R. soft, extremities warm and well-perfused with 1+ DP 
+pulses.
+ - Labs notable for WBC 20.6 with 8% bandemia, Hb 9.3 g/dL with 
+MCV of 101, PLT 222. Na 153, Cl 116, HCO3 21, Cr 1.2. ABG: 
+7.46/34/289/25. UA with pyuria and bacteruria. Lactate 2.4.  
+ - Studies performed include CXR w/ left mid and lower lung 
+pneumonia  
+ - Patient was given 2L IVF, levofloxacin 750mg, vancomycin 
+1000mg, meropenem 500mg  
+  
+On arrival to the MICU,  pt is shivering and non-verbal. Does 
+not follow commands. Opens eyes to voice. On levophed, 
+tachycardic to 130s with MAPs in ___.
+ 
+Review of systems:  
+cannot assess given patient's mental status 
+
+ 
+Past Medical History:
+- dementia  
+- hyperlipidemia  
+- pernicious anemia  
+
+ 
+Social History:
+___
+Family History:
+Father with HTN  
+Mother with DM  
+Brother with DM  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+#ERROR!
+Vitals:  HR 135, BP 151/74, RR 20, SpO2 69%/2L NC
+HEENT: AT/NC, dry mucus memebranes, edentulous
+NECK: no JVD  
+CARDIAC: tachycardic, regular rhythm, S1/S2, no murmurs, 
+gallops, or rubs  
+LUNG: tachypnea, diminished breath sounds at bases. No crackles, 
+wheezes, or ronchi appreciated
+ABDOMEN: flat, taut. +BS.
+EXTREMITIES: no cyanosis, clubbing or edema, warm, dry
+PULSES: 2+ DP pulses bilaterally  
+NEURO: somnolent
+
+DISCHARGE PHYSICAL EXAM
+#ERROR!
+HEENT: AT/NC, dry mucus memebranes, edentulous
+NECK: no JVD  
+CARDIAC: tachycardic, regular rhythm, S1/S2, no murmurs, 
+gallops, or rubs  
+LUNG: tachypnea, diminished breath sounds at bases. No crackles, 
+wheezes, or rhonchi appreciated
+ABDOMEN: flat, taut. +BS.
+EXTREMITIES: no cyanosis, clubbing or edema, warm, dry
+PULSES: 2+ DP pulses bilaterally  
+NEURO: eyes open but not interactive
+
+ 
+Pertinent Results:
+ADMISSION LABS
+#ERROR!
+___ 09:22AM   WBC-19.5*# RBC-3.60* HGB-11.1* HCT-37.1* 
+MCV-103* MCH-30.8 MCHC-29.9* RDW-15.1 RDWSD-55.3*
+___ 09:22AM   NEUTS-87* BANDS-8* LYMPHS-2* MONOS-3* EOS-0 
+BASOS-0 ___ MYELOS-0 AbsNeut-18.53* AbsLymp-0.39* 
+AbsMono-0.59 AbsEos-0.00* AbsBaso-0.00*
+___ 09:22AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL 
+MACROCYT-2+ MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-1+ 
+SCHISTOCY-OCCASIONAL BURR-1+ TEARDROP-1+
+___ 09:22AM   PLT SMR-NORMAL PLT COUNT-254
+___ 09:28AM   GLUCOSE-89 LACTATE-2.4* NA+-148* K+-4.3 
+CL--111*
+___ 09:28AM   ___ PO2-32* PCO2-43 PH-7.40 TOTAL CO2-28 
+BASE XS-0
+___ 09:55AM URINE  RBC-5* WBC->182* BACTERIA-MANY 
+YEAST-NONE EPI-0
+___ 09:55AM URINE  BLOOD-MOD NITRITE-POS PROTEIN-100 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-4* PH-6.0 LEUK-LG
+___ 09:55AM   ___ PTT-29.5 ___
+
+PERTINENT LABS/MICROBIOLOGY
+#ERROR!
+URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R
+CEFTAZIDIME-----------    16 R
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+DISCHARGE LABS
+#ERROR!
+___ 05:23AM BLOOD WBC-16.5* RBC-2.65* Hgb-7.9* Hct-25.5* 
+MCV-96 MCH-29.8 MCHC-31.0* RDW-14.4 RDWSD-50.4* Plt ___
+___ 05:23AM BLOOD Glucose-88 UreaN-11 Creat-0.7 Na-141 
+K-3.8 Cl-115* HCO3-19* AnGap-11
+___ 05:23AM BLOOD Calcium-7.8* Phos-2.6* Mg-2.0
+
+IMAGING
+#ERROR!
+___ CXR
+New left mid and lower lung opacities concerning for pneumonic 
+infiltrates.
+
+___ CXR
+Worsening multifocal pneumonia. Right PICC line terminates at 
+the cavoatrial junction. 
+
+ 
+Brief Hospital Course:
+___ Jehovah's Witness with dementia, HTN, pernicious anemia 
+presented from nursing home with fatigue, found to have sepsis 
+with pulmonary and urinary sources. He was started on 
+vancomycin, meropenem, and levofloxacin for empiric treatment of 
+HCAP and UTI on ___, and Levofloxacin was stopped on ___. 
+Urine culture was positive for E. coli resistant to 
+ciprofloxacin, ceftriaxone and sensitive to meropenem. He was 
+continued on Vanc & ___ via a PICC. Patient also met with 
+palliative care; he and his family decided to transition to 
+Hospice Care after hospital discharge.
+
+# SEPTIC SHOCK
+# Pneumonia
+# Complicated UTI
+Initially presented with hypotension, tachycardia, leukocytosis 
+with bandemia and elevated lactated with left middle and lower 
+lobe opacities and urine culture growing E. coli sensitive to 
+meropenem. He was started on vancomycin, meropenem, and 
+levofloxacin for empiric treatment of HCAP and UTI on ___. 
+He was fluid resuscitated and blood pressure was supported 
+temporarily with norepinephrine. Levofloxacin was discontinued 
+on ___. Blood cultures remained negative to date. Legionella 
+urine antigen was negative. Urine culture was positive for E. 
+coli resistant to ciprofloxacin, ceftriaxone and sensitive to 
+meropenem. He was continued on vancomycin & meropenem for an 14 
+day course to complete ___.
+ 
+#TACHYCARDIA: Etiology could be secondary to hypovolemia, pain, 
+anemia, or increased sympathetic activity from beta blocker 
+withdrawal (takes Metoprolol Succinate XL 50 mg daily). EKG 
+consistent with sinus tachycardia, narrow complex. Patient was 
+given standing IV Tylenol for pain control. Metoprolol was held 
+in setting of septic shock. 
+
+#HYPERNATREMIA: Patient was hypernatremic to 153 on admission. 
+Patient was given ___ bolus and D5W after initial fluid 
+resuscitation that normalized sodium. 
+
+#HYPOGLYCEMIA: likely due to poor nutritional reserve in the 
+setting of prolonged decreased PO. Family declined feeding tube 
+and patient failed S&S. 
+
+#ANEMIA: Not on medication for PA. Pt refuses blood products as 
+Jehovah's Witness. No evidence of acute bleeding. Macrocytosis 
+is consistent with PA. Vitamin B12 level at 790. He was started 
+on cyanocobalamin 1000mcg IM weekly, first dose ___.
+
+TRANSITIONAL ISSUES:
+# ANTIBIOTICS: Patient should continue 10-day course of 
+Vancomycin & Meropenem through ___
+# DIET: Patient failed speech & swallow evaluation, and is 
+currently NPO. If it is within his goals of care to eat for 
+comfort in the future, please discuss this with the family.
+# GOALS OF CARE: Patient is DNR/DNI, please refer to MOLST form 
+# HOSPICE: Case manager at ___ is arranging for outpatient 
+hospice at his facility  
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Polyethylene Glycol 17 g PO DAILY 
+2. Senna 8.6 mg PO BID 
+3. Docusate Sodium 100 mg PO BID 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Meropenem 500 mg IV Q6H 
+RX *meropenem 500 mg 500 mg IV q6 hours Disp #*24 Vial 
+Refills:*0 
+2.  Sodium Chloride 0.9%  Flush ___ mL IV DAILY and PRN, line 
+flush  
+3.  Vancomycin 1000 mg IV Q 12H 
+RX *vancomycin 1 gram 1 g IV q12 hours Disp #*12 Vial Refills:*0 
+
+4.  Docusate Sodium 100 mg PO BID  
+5.  Polyethylene Glycol 17 g PO DAILY  
+6.  Senna 8.6 mg PO BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# SEPTIC SHOCK SECONDARY TO PNEUMONIA
+# URINARY TRACT INFECTION
+# HYPERNATREMIA
+# HYPERTENSION
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you. You were admitted to ___ 
+for shortness of breath and low oxygen. While you were here, you 
+were treated with antibiotics, and you got medicines to help 
+support your blood pressure. You met with our palliative care 
+team, and you and your family decided to transition your care to 
+hospice. We will also continue treating your infection when you 
+leave the hospital.
+
+We wish you all the best in the future.
+
+Sincerely,
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

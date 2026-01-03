@@ -1,0 +1,542 @@
+Notes
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ and altered mental status
+ 
+Major Surgical or Invasive Procedure:
+___ placement ___
+
+ 
+History of Present Illness:
+___ is a ___ year-old man with
+a history of tachy-brady syndrome s/p BiV pacemaker, CAD s/p
+CABG, HFpEF (45%), a fib on warfarin, T2DM, CKD (baseline Cr
+1.9), and TIA, with recent admission for subgaleal hematoma in
+the setting of a supratherapeutic INR, ___, and MSSA bacteremia
+now getting cefazolin, who presents from rehab with acute kidney
+injury and altered mental status.
+
+History was obtained primarily via the patient's daughter and
+partner, as patient was oriented to person only. He reportedly
+started becoming more confused at rehab and having 
+hallucinations
+of dancing people in the air beginning the day prior to
+admission. He was also noted to be having shaking movements of
+hands. He initially showed signs of oliguria so Foley was placed
+with immediate output of 650cc. The patient does not report
+fevers, chills, shortness of breath, cough, abdominal pain,
+nausea, vomiting, diarrhea, and constipation. Unclear if any
+falls recently.
+
+In the ED, initial VS were: T 98.6, HR 99, BP 123/65, RR 18, O2
+sat 98% RA
+
+Exam notable for:
+Exam: unable to obtain much due to lack of pt cooperation
+CV: RRR nl s1/s2
+Lungs: anterior fields auscultated, unable to appreciate
+crackles, however pt not cooperating
+Abd: soft, ND, possible diffuse tenderness
+Extr: no edema over BLE
+Neuro: AOx person only
+
+ECG: V-paced rhythm, regular rate
+
+Labs showed: WBC 9.3, Hgb 8.9, CK 23, BUN 57, Cr 5.0 (baseline
+1.9), INR 5.0, proBNP 23,136, trop 0.13
+
+UA- moderate leukesterase, large blood, 160 RBCs, 83 WBCs, few
+bacteria, few yeast
+
+Imaging showed: CXR- Mild pulmonary edema with small left 
+pleural
+effusion and patchy bibasilar atelectasis. 
+
+Renal US- 1. Limited visualization of the left kidney and 
+bladder
+is discussed above. Unchanged appearance of right kidney with no
+evidence of hydronephrosis.
+2. Study can be repeated when the patient is more cooperative.
+
+NCHCT- No acute intracranial process.
+
+Consults: Nephrology-
+- ___ could be cardiorenal (high BNP, CXR with congestion),
+pre-renal or AIN from cefazolin
+- send urine lytes, UA. Agree with checking CK
+- unsure if AMS is related to ___. ID reckons AMS is partly
+related to Cefazolin being overdosed for his CrCl.
+- No acute indication for HD
+- if volume overloaded - please give IV diuretics. ECHO
+
+Patient received:
+IV Ceftriaxone 1 g
+IV CeFAZolin 1 g 
+
+Transfer VS were: T 99.2, HR 88, BP 122/68, RR 18, O2 sat 97% RA 
+
+
+On arrival to the floor, the patient was only minimally able to
+participate in the medical interview. He states that he is not 
+in
+any pain, but was otherwise unable to answer further questions.
+
+REVIEW OF SYSTEMS: 10 point ROS unable to be completed.
+ 
+Past Medical History:
+ALLERGIC RHINITIS                                               
+ATRIAL FIBRILLATION                                             
+CORONARY ARTERY DISEASE                                         
+DIABETES TYPE II                                                
+GASTROESOPHAGEAL REFLUX                                         
+HYPERCHOLESTEROLEMIA                                            
+HYPERTENSION                                                    
+INSOMNIA                                                        
+PACEMAKER                                                       
+PROSTATISM                                                      
+OSTEOARTHRITIS                                                  
+TRANSIENT ISCHEMIC ATTACK                                       
+DNR/DNI                                                         
+ADVANCE CARE PLANNING                                           
+ECZEMATOUS DERMATITIS                                           
+PRURIGO NODULARIS                                               
+H/O PHLEBITIS    
+
+ 
+Social History:
+___
+Family History:
+Mother deceased ___- CAD, DM
+Father deceased ___- CAD, DM
+2 brothers and 3 sister deceased- CAD, DM
+Sister with dementia 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+#ERROR!
+VS: 98.8 PO 127 / 58 60 18 99 RA 
+GENERAL: NAD, pleasant, comfortable
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, nl S1/S2, no murmurs, gallops, or rubs
+PULM: unable to be assessed ___ poor patient cooperation
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: A&Ox1 (self, unable to answer further questions), moving
+all 4 extremities with purpose, face symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+
+DISCHARGE PHYSICAL EXAM:
+#ERROR!
+VS: 97.8F, BP 127/62, HR 61, RR 20, SpO2 96% RA
+GENERAL: NAD, pleasant
+HEENT: NCAT, anicteric sclera, dry MM.
+CV: loud systolic murmur best heard at RUSB.
+PULM: clear to auscultation anteriorly.
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding.
+EXTREMITIES: no cyanosis, clubbing, or edema. No rash 
+visualized.
+NEURO: awake, alert, oriented to person but not place or time.
+often answers questions inappropriately, but on persistent
+probing will eventually get to the answer. moving all 
+extremities
+spontaneously.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+#ERROR!
+___ 07:05PM BLOOD WBC-9.3 RBC-3.03* Hgb-8.9* Hct-29.6* 
+MCV-98 MCH-29.4 MCHC-30.1* RDW-14.5 RDWSD-51.7* Plt ___
+___ 07:05PM BLOOD Neuts-73.5* Lymphs-16.1* Monos-7.6 
+Eos-1.8 Baso-0.5 Im ___ AbsNeut-6.85* AbsLymp-1.50 
+AbsMono-0.71 AbsEos-0.17 AbsBaso-0.05
+___ 07:25PM BLOOD ___ PTT-41.1* ___
+___ 07:05PM BLOOD Glucose-136* UreaN-57* Creat-5.0*# Na-137 
+K-4.3 Cl-93* HCO3-28 AnGap-16
+
+___ 07:05PM BLOOD CK(CPK)-23*
+___ 07:25PM BLOOD ___
+___ 07:25PM BLOOD cTropnT-0.13*
+___ 05:58AM BLOOD CK-MB-1 cTropnT-0.16*
+___ 07:17PM BLOOD CK-MB-1 cTropnT-0.16*
+
+PERTINENT LABS/MICRO/IMAGING:
+#ERROR!
+___ 06:11AM BLOOD ALT-<5 AST-25 LD(LDH)-238 CK(CPK)-26* 
+AlkPhos-134* TotBili-0.2
+___ 04:27AM BLOOD C3-132 C4-50*
+
+___ 07:20PM URINE Color-Yellow Appear-Clear Sp ___
+___ 07:20PM URINE Blood-LG* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-MOD*
+___ 07:20PM URINE RBC-160* WBC-83* Bacteri-FEW* Yeast-FEW* 
+Epi-<1
+___ 07:20PM URINE Hours-RANDOM UreaN-489 Creat-85 Na-27
+___ 06:57AM URINE Hours-RANDOM Creat-71 Na-48 Phos-18.8
+
+Micro:
+--------
+___ 7:20 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+___ 8:50 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+___ 8:55 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH.
+
+Imaging:
+----------
+Renal US ___. Limited study with nonvisualization of the left kidney and 
+bladder as the 
+patient became uncooperative.  Study can be repeated when the 
+patient is more 
+cooperative. 
+2. Unchanged appearance of right kidney with no evidence of 
+hydronephrosis.  
+Simple right renal cyst. 
+
+CXR ___
+Mild pulmonary edema with small left pleural effusion and patchy 
+bibasilar 
+atelectasis. 
+
+CT head ___. No acute intracranial process.  No acute fracture. 
+2. Mild soft tissue swelling overlying the right frontal and 
+parietal bones. 
+
+CXR ___.  Right-sided PICC tip terminates in the distal SVC.
+2.  Interval improvement of interstitial pulmonary edema.
+
+DISCHARGE LABS:
+#ERROR!
+___ 06:54AM BLOOD WBC-8.5 RBC-2.64* Hgb-8.0* Hct-25.3* 
+MCV-96 MCH-30.3 MCHC-31.6* RDW-15.4 RDWSD-52.9* Plt ___
+___ 06:54AM BLOOD Neuts-64.8 ___ Monos-7.8 Eos-2.9 
+Baso-0.5 Im ___ AbsNeut-5.50 AbsLymp-1.97 AbsMono-0.66 
+AbsEos-0.25 AbsBaso-0.04
+___ 06:54AM BLOOD ___
+___ 06:54AM BLOOD Glucose-92 UreaN-47* Creat-3.7* Na-142 
+K-3.9 Cl-100 HCO3-27 AnGap-15
+___ 06:54AM BLOOD Calcium-8.1* Phos-3.5 Mg-2.3
+
+___ 06:54AM BLOOD CK(CPK)-35*
+ 
+Brief Hospital Course:
+PATIENT SUMMARY:
+#ERROR!
+___ with PMH of tachy-brady syndrome s/p BiV pacemaker, CAD s/p 
+CABG, HFrEF (40-45%), afib on warfarin, T2DM, CKD (baseline Cr 
+1.9), and TIA, with recent admission for subgaleal hematoma in 
+the setting of a supratherapeutic INR, ___, and MSSA bacteremia, 
+who presented from rehab with acute kidney injury and altered 
+mental status. He has AIN thought to be due to cefzolin and 
+omeprazole. He received prednisone 50mg PO daily for three days 
+and renal function beginning to improve. He was switched to 
+daptomycin for MSSA bacteremia. He did have a rash thought to be 
+from ?AIN, cefazolin, or daptomycin but improved with steroid 
+cream. Diuresis was held given his renal function but concern 
+remains that he will accumulate fluid.
+
+ACUTE ISSUES:
+#ERROR!
+# ___ on CKD: 
+Likely AIN vs. cardiorenal in setting of volume overload. CXR 
+shows some evidence of congestion and a small pleural effusion 
+and he had a significantly elevated BNP, which could point 
+towards volume overload, however patient did not appear volume 
+overloaded on exam otherwise. AIN seems most likely given acute 
+worsening without worsening volume overload in the setting of 
+recent cefazolin and PPI. Per family, HD not within GOC. After 
+discussions with infectious disease and nephrology the patient 
+completed a 3 day course of 50mg of prednisone. His Cr continues 
+to improve without any diuresis or IVF.
+
+# Toxic metabolic encephalopathy:
+# Delirium:
+# Sterile pyuria: 
+Per the patient's family, he has some degree of baseline 
+dementia, but this is significantly off of his baseline, but 
+close to where he has been after his prior hospitalization. The 
+patient has bacteriuria, but it is unlikely this is a true UTI 
+as he has been on antibiotics, s/p 1 dose of CTX in the ED. The 
+patient's encephalopathy is likely secondary to uremia and may 
+be worsened by steroids among other causes. Also large element 
+of delirium with sundowning. Would be cognizant of constipation 
+as contributing to delirium. He was calm with stable mental 
+status at the time of discharge.
+
+#HFrEF EF 40-45%:
+#Heart failure exacerbation:
+#Troponinemia:
+BNP elevated to >23K, likely due to renal disease. Ddx includes 
+___, MI, valve dysfunction, arrhythmia. CXR did not show 
+consolidation. Troponin elevated to 0.16, but flat MB makes new 
+ischemic disease less likely. Appears euvolemic on exam so held 
+diuresis. Can consider diuresis prn weight gain at rehab if 
+renal function continue to improve. Continued carvedilol. Held 
+irbesartan in setting of ___.
+
+# MSSA bacteremia: 
+The patient was being treated for MSSA bacteremia of unclear 
+source during his recent admission. TEE was not within goals of 
+care and patient was unable to cooperate with spine imaging. 
+Plan was for cefazolin for 6 week course to finish on ___. 
+However, there is now concern for AIN from cefazolin. Patient 
+has allergy to penicillins. Last dose of cefazolin given in ED 
+on evening of ___. Therefore, patient switched to daptomycin 
+(course to be completed ___ but developed a rash concerning 
+for drug eruption ___. Although patient has rash this is likely 
+not the cause of his AIN and therefore symptomatically treated 
+the rash with hydrocortisone cream and continued daptomycin. He 
+had initial PICC placed that patient self-removed, re-placed 
+___.
+
+# Coagulopathy: 
+Patient had a significantly elevated INR, likely in the setting 
+of his antibiotic use and possibly underlying infection, along 
+with ___. There were no signs of active bleeding, so patient no 
+actively reversed. Warfarin was held on admission, and once INR 
+became therapeutic, warfarin was restarted and titrated. Of 
+note, PATIENT MISSED A DOSE OF WARFARIN on ___, so will need 
+daily INR checks at least for the next few days to titrate 
+warfarin.
+
+# Goals of care:
+Daughter and HCP ___ reiterated patient's preference to be 
+DNR/DNI. Has MOLST in chart. Daughter declined dialysis even if 
+___ were to get worse. She was informed that ___ is very 
+sick. Given the improvement in his renal function, the decision 
+was made for discharge to rehab rather than hospice. However, 
+recommend continuous assessment of health status and ongoing 
+goals of care discussions. 
+
+# Papular rash, resolved:
+Patient with erythematous papular rash on extremities. Greatest 
+concern for drug eruption. Rash began on ___ after the 
+initiation of daptomycin. The patient's LFTs were normal making 
+DRESS less likely. The patient rash improved considerably and 
+resolved while on topical hydrocortisone as well as prednisone 
+systemically to treat his AIN.
+
+CHRONIC ISSUES:
+#ERROR!
+# Subgaleal hematoma: 
+During previous hospitalization, CT head showed a right frontal 
+subgaleal hematoma (without fracture) in the setting of 
+significantly elevated INR during last admission. Appears stable 
+on current NCHCT.
+
+# Atrial fibrillation: CHADS 3
+The patient had a history of paroxysmal atrial fibrillation, 
+currently rate-controlled with carvedilol. Warfarin was 
+initially held in setting of supratherapeutic INR but was 
+restarted and retitrated. See comment re: warfarin above in 
+"Coagulopathy."
+
+# CAD s/p CABG:
+Held home rosuvastatin while on daptomycin for concern of 
+rhabdo.
+
+# Hypertension: 
+Continued home carvedilol. Held irbesartan in setting of ___. 
+
+# Chronic anemia:
+Currently at baseline in the ___.
+
+TRANSITIONAL ISSUES:
+#ERROR!
+DISCHARGE Cr: 3.7
+DISCHARGE INR: 2.1
+
+Renal:
+[ ] Close monitoring of renal function.
+[ ] Patient to follow up with nephrology (appointment ___.
+
+ID:
+[ ] Daptomycin through ___. WEEKLY labs to be faxed to ___ 
+___ (___): CBC with diff, BUN, Cr, CPK. Please 
+draw first set ___.
+
+Cardiac:
+[ ] Home torsemide (10mg qd) held during hospitalization with 
+stable respiratory status and improvement in renal function. 
+Please monitor respiratory status and weight closely and restart 
+diuretics accordingly.
+[ ] Holding irbesartan in setting of ___. Please monitor blood 
+pressure closely and adjust regimen accordingly. 
+[ ] Holding rosuvastatin in setting of dapto therapy for c/f 
+rhabdo.
+[ ] Warfarin: has been receiving home dose 2mg daily for the 
+past few days (Of note, did not receive Warfarin on ___. 
+Please check INR daily for the next few days then every ___ 
+days, starting ___, and titrate warfarin for INR ___.
+
+Neuro:
+[ ] Concern for delirium with sundowning. Please continue 
+delirium precautions including prevention / treatment of 
+constipation. 
+
+GOC:
+[ ] Continue goals of care discussion at rehab and as an 
+outpatient. ___ want to set up palliative care clinic visit.
+
+#CODE: DNR/DNI
+#CONTACT: Name of health care proxy: ___ 
+Relationship: daughter 
+Phone number: ___ 
+Cell phone: ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. Rosuvastatin Calcium 40 mg PO QPM 
+3. Vitamin D ___ UNIT PO DAILY 
+4. Bisacodyl ___AILY:PRN Constipation - Second Line 
+5. Calcium Acetate 1334 mg PO TID W/MEALS 
+6. CeFAZolin 2 g IV Q12H 
+7. Senna 8.6 mg PO BID:PRN Constipation - First Line 
+8. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+9. irbesartan 75 mg oral BID 
+10. Carvedilol 12.5 mg PO BID 
+11. Ferrous Sulfate 325 mg PO DAILY 
+12. dutasteride 0.5 mg oral DAILY 
+13. Warfarin 2 mg PO DAILY16 
+14. Torsemide 10 mg PO DAILY 
+15. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+16. Milk of Magnesia 30 mL PO DAILY:PRN Constipation - First 
+Line 
+17. Fleet Enema (Mineral Oil) ___AILY:PRN constipation 
+
+ 
+Discharge Medications:
+1.  Daptomycin 500 mg IV Q48H 
+RX *daptomycin 500 mg 1 vial IV Q48H Disp #*9 Vial Refills:*0 
+2.  Tamsulosin 0.4 mg PO QHS  
+3.  Torsemide 10 mg PO DAILY:PRN weight gain 
+Take daily if weight up 3 lbs in a day or 5 lbs in a week. Take 
+until weight back to normal.  
+4.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+5.  Bisacodyl ___AILY:PRN Constipation - Second Line  
+6.  Calcium Acetate 1334 mg PO TID W/MEALS  
+7.  Carvedilol 12.5 mg PO BID  
+8.  dutasteride 0.5 mg oral DAILY  
+9.  Ferrous Sulfate 325 mg PO DAILY  
+10.  Fleet Enema (Mineral Oil) ___AILY:PRN constipation 
+ 
+11.  Milk of Magnesia 30 mL PO DAILY:PRN Constipation - First 
+Line  
+12.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+13.  Senna 8.6 mg PO BID:PRN Constipation - First Line  
+14.  Vitamin D ___ UNIT PO DAILY  
+15.  Warfarin 2 mg PO DAILY16  
+16. HELD- irbesartan 75 mg oral BID  This medication was held. 
+Do not restart irbesartan until you speak with your doctor.
+17. HELD- Omeprazole 20 mg PO DAILY  This medication was held. 
+Do not restart Omeprazole until you speak with your doctor.
+18. HELD- Rosuvastatin Calcium 40 mg PO QPM  This medication was 
+held. Do not restart Rosuvastatin Calcium until you speak with 
+your doctor.
+19.Outpatient Lab Work
+ICD-10: ___
+Fax to: ___ ___
+WEEKLY labs, draw first set ___:
+CBC with diff, BUN, Cr, CPK
+
+20.Outpatient Lab Work
+ICD-10: I48.0
+To be followed by rehab.
+Labs: ___
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+PRIMARY:
+-Acute kidney injury on chronic kidney disease
+-Delirium
+
+SECONDARY:
+-Heart failure with reduced ejection fraction
+-MSSA bacteremia
+-Atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Confused - always. Oriented to person but not 
+place or time.
+Level of Consciousness: Waxes and wanes between awake/alert and 
+lethargic but arousable to voice.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you at ___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+You were admitted because you were more confused than normal, 
+and your kidneys were not functioning like they normally do.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- Your antibiotics were switched, because there was concern that 
+the antibiotics that you were discharged on last time may have 
+made your kidney function worse. You were given a few days of 
+steroids to help improve you kidney function. Later during your 
+hospitalization, your kidney function improved.
+- You developed a rash, likely due to the new antibiotics, but 
+this improved with a steroid cream.
+- You pulled out your PICC line, so a new PICC line was put in 
+on ___. This will allow the rehab to give you IV antibiotics.
+
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL? 
+- Continue to take all medications as prescribed.
+- Please attend all ___ clinic appointments.
+- Please weigh yourself every morning, and call your heart 
+doctor ___ ___ if you gain more than 3 lbs in a 
+day or 5 lbs in a week. If this happens, you should also take 
+10mg torsemide until you are back down to your normal weight.
+- Your blood will be drawn at rehab so that your warfarin can be 
+adjusted as needed. You will also have labs sent to the 
+infectious disease doctors ___ are on antibiotics.
+
+We wish you all the best,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

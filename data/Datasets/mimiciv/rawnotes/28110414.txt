@@ -1,0 +1,418 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+DOE, Fatigue, L thigh pain; Hypotension 
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr. ___ is an ___ year old male, s/p TAVR on ___, HTN, 
+sinus bradycardia s/p ppm, left thoracotomy for fibrous lesions, 
+and BPH s/p TURP, who presented to ED with hypotension. Patient 
+had TAVR performed on ___, since that time he has had volatile 
+blood pressures. He was initiated on amlodipine for 
+hypertension, recently discontinued amlodipine for low BP's in 
+80's, then
+resumed due to high BP's up to 170's. This morning with blood 
+pressure of 88/47 with associated shortness of breath, unable to 
+walk down the street, presyncope. 
+No falls or headstrike. 
+He denies chest pain associated with symptoms. Denies changes in 
+vision or hearing. No new rashes, lesions, wounds. He does note 
+right and left lateral thigh pain, reports he had bilateral 
+femoral punctures for TAVR procedure. No fevers or chills. No 
+cough. 
+
+ 
+Past Medical History:
+HTN
+dyslipidemia
+spondylosis without myelopathy lumbar
+BPH TURP
+interepithelial neoplasia 
+aortic stenosis s/p TAVR ___
+sinus bradycardia s/p DDD ___ 
+mild cognitive impairment
+left thoracotomy for fibrous lesions ___
+ 
+Social History:
+___
+Family History:
+Mother: stroke
+ 
+Physical ___:
+Admission:
+VS: Temp: 97.4 PO BP: 157/70 L Lying HR: 65 RR: 22 O2 sat: 99%
+O2 delivery: RA  
+EKG: rate 61, a paced
+Tele: ___, SR, first degree av block, a paced, av paced 
+Gen: Pleasant, calm. No acute distress
+Neuro: Alert, oriented to person, place and time. Pleasant. Able
+to follow commands. Speech clear, appropriate and 
+comprehensible.
+Tongue midline, smile symmetric. 
+HEENT: Neck supple, JVP not distended
+CV: RRR, Nl S1S2. Distant heart sounds. ___ SEM at ___  
+LUNGS: CTAB. Diminished in left base. No rales, rhonchi or
+wheezes
+Abdomen: soft, ___
+PV: WWP, No edema, erythema or hematoma noted to B/L ___ and
+thighs.
+Access sites for TAVR: Both femoral sites healed without
+ecchymosis, hematoma or bruit. Bilateral ___ palpable. 
+
+Discharge:
+VS: Temp: 98.0 PO BP: 153/77 L Lying HR: 60 RR: 20 O2 sat: 94% 
+O2 delivery: RA 
+Tele: ___, a paced, v paced, av paced, SR with first degree av 
+block
+Weight: 75.8 kg/167 lbs
+GEN: Lying in bed, NAD
+NEURO: A&O x 3, pleasant and conversant, no focal deficits  
+HEENT:  normocephalic, MMM, supple, trachea midline, JVP not 
+distended
+CV: RRR, S1S2, ___ SEM at ___
+PULM: LS CTA. No rales, rhonchi or wheeze. NO respiratory 
+distress
+ABD: soft, nontender, BS x4
+EXT: No edema bilaterally, 2+ ___, DP
+SKIN: warm, dry, intact, no open lesions, No edema. No erythema
+or hematoma noted to B/L ___ and thighs.
+ACCESS SITE: Both femoral sites healed without
+ecchymosis, hematoma or bruit. Bilateral ___ palpable.
+GU: Voiding independently
+ 
+Pertinent Results:
+Admission:
+----------
+___ 02:35PM BLOOD ___ 
+___ Plt ___
+___ 02:35PM BLOOD ___ 
+___ Im ___ 
+___
+___ 02:35PM BLOOD ___ ___
+___ 02:35PM BLOOD ___ CK(CPK)-38* ___ 
+___
+___ 02:35PM BLOOD ___
+___ 02:35PM BLOOD cTropnT-<0.01
+___ 02:35PM BLOOD ___
+
+Discharge Labs:
+---------------
+___ 06:30AM BLOOD ___ 
+___ Plt ___
+___ 06:30AM BLOOD ___ ___
+___ 06:30AM BLOOD ___ 
+___
+___ 06:30AM BLOOD ___
+
+___ Transthoracic echo:
+The left atrial volume index is normal. The estimated right 
+atrial pressure is ___ mmHg. There is mild symmetric left 
+ventricular hypertrophy with a normal cavity size. There is 
+normal regional and global left
+ventricular systolic function. Quantitative biplane left 
+ventricular ejection fraction is 61 % (normal ___. Left 
+ventricular cardiac index is normal (>2.5 L/min/m2). There is 
+indeterminate diastolic function.
+Normal right ventricular cavity size with normal free wall 
+motion. Tricuspid annular plane systolic excursion (TAPSE) is 
+normal. The aortic sinus diameter is normal for gender with 
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal. A Lotus Edge aortic valve bioprosthesis is 
+present. The prosthesis is well seated with HIGH gradient. The 
+effective orifice area index is moderately reduced ___ 
+cm2/m2). There is a paravalvular jet of trace aortic 
+regurgitation. The mitral valve leaflets are mildly thickened 
+with no mitral valve prolapse. There is moderate mitral annular 
+calcification. There is trivial mitral regurgitation. Due to 
+acoustic shadowing, the severity of mitral regurgitation could 
+be UNDERestimated. The pulmonic valve leaflets are normal. The 
+tricuspid valve leaflets appear structurally normal. There is 
+trivial tricuspid regurgitation. There is mild pulmonary artery 
+systolic hypertension. There is a trivial pericardial effusion.
+IMPRESSION: 1) Well seated, normal functioning Lotus TAVR with 
+high gradient (moderate patient prosthesis mismatch) and trace 
+paravalvular aortic regurgitation.
+Compared with the prior TTE ___ , the findings are 
+similar. The peak aortic velocity has increased
+from 2.5 to 2.8 m/s.
+
+___ Bilat groin Ultrasound
+
+TECHNIQUE:  Grayscale ultrasound images were obtained of the 
+superficial 
+tissues of the bilateral groin areas. 
+  
+COMPARISON:  None 
+  
+FINDINGS:  
+Transverse and sagittal images were obtained of the superficial 
+tissues of the bilateral carotid areas.  The common femoral 
+vasculature demonstrated 
+bilaterally.  No pseudoaneurysms are seen. 
+  
+IMPRESSION:  
+  
+No pseudoaneurysm. 
+
+___ Bilat venous ultrasound
+
+Final Report 
+EXAMINATION:  ___ DUP EXTEXT BIL (MAP/DVT) 
+  
+FINDINGS:  
+There is normal compressibility, color flow, and spectral 
+doppler of the 
+bilateral common femoral, femoral, and popliteal veins. Normal 
+color flow and compressibility are demonstrated in the posterior 
+tibial and peroneal veins. Slow flow is noted within the left 
+popliteal vein. There is normal respiratory variation in the 
+common femoral veins bilaterally. No evidence of medial 
+popliteal fossa (___) cyst. 
+  
+IMPRESSION:  
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins. 
+
+___ CXR PA/LAT
+EXAMINATION:  CHEST (PA AND LAT) 
+FINDINGS:  
+___ pacer with leads in the right atrium and right 
+ventricle is 
+___.  Heart size is normal.  Mediastinal contour is 
+unchanged with a large hiatal hernia again noted.  Calcified 
+mediastinal lymph nodes are compatible with prior granulomatous 
+disease.  Pulmonary vasculature is not engorged.  Linear 
+atelectasis is seen in the lung bases.  No focal 
+consolidation.  Chain sutures are demonstrated in the left upper 
+lobe.  Linear scarring in the right apex is noted.  No acute 
+osseous abnormality. 
+  
+IMPRESSION:  
+No acute cardiopulmonary abnormality. Large hiatal hernia. 
+Scarring in the right apex and linear atelectasis in the lung 
+bases. 
+
+TTE ___:
+CONCLUSION:
+Overall left ventricular systolic function is normal. The
+visually estimated left ventricular ejection fraction is >=60%.
+Left ventricular cardiac index is normal (>2.5 L/min/m2). There
+is a mild (peak 15 mmHg) resting left ventricular outflow tract
+gradient. A Lotus Edge aortic valve bioprosthesis is present. 
+The
+prosthesis is well seated. The effective orifice area index is
+normal (>=0.85 cm2/m2). There is no aortic regurgitation. The
+mitral valve leaflets are mildly thickened. There is moderate
+mitral annular calcification. There is physiologic mitral
+regurgitation. Due to acoustic shadowing, the severity of mitral
+regurgitation could be UNDERestimated. The pulmonic valve
+leaflets are not well seen. The tricuspid valve leaflets appear
+structurally normal. There is trivial tricuspid regurgitation.
+The estimated pulmonary artery systolic pressure is
+normal. 
+Compared with the prior TTE (images reviewed) of ___ ,
+gradients lower and estimated valve area higher largely driven 
+by
+higher LVOT VTI. LVOT also measured at 2.0m on both (eAVA
+slightly UNDERmeasured on prior using LVOT 1.9cm).
+ 
+Brief Hospital Course:
+Summary:
+=========
+___ s/p recent TAVR on ___ presented to ED
+on ___ with dyspnea, fatigue, presyncopal symptoms with
+labile/low blood pressures at home and left lateral thigh pain.
+ 
+# Presyncope/SOB: 
+# Increased gradients on TTE, ?valvular thrombus.  
+# SOB Acute on chronic HFPEF with AS s/p TAVR 
+s/p 27mm Lotus valve placement. TTE of poor quality reflecting
+elevated gradients, unclear if thrombus versus valve mismatch. 
+Unable to obtain CTA given elevated creatinine. PE is likely but 
+unable to get CT due to ___. B/L ___ US negative for DVT. Repeat 
+TTE yesterday after INR therapeutic showed improving gradients. 
+Will continue to treat empirically for thrombus with coumadin. 
+INR 2.7 today.
+Received iv diuresis with Lasix bolus on ___ and ___. 
+Patient appears euvolemic. No signs of volume overload. JVP not 
+distended. Lungs clear. No ___ edema.
+- Start Lasix 20 mg po prn for weight gain, dyspnea
+- Coumadin 4 mg daily (per pharmacist recs), INR check tomorrow 
+with PCP
+- PCP/cardiologist Dr. ___ to manage AC, updated clinic. Will 
+send discharge summary
+- ___ consulted for mobilization; cleared to go home with ___
+- F/U with structural heart team in ___ weeks with concurrent 
+echo, requested 
+
+# Thigh pain: Post TAVR patient felt well. Started having pain 
+in
+right thigh few days prior to admission followed by left thigh. 
+No history of
+falls. On exam, no hematoma or ecchymosis to both thighs. Both
+groins without bruit. Both legs without erythema or edema. ___
+venous US negative for DVT b/l. B/L groin US negative for PSA.
+
+# ___: Creat 2.2 today, down trending from 2.8. Baseline 
+___. 
+- Hold losartan due to ___, resume when creat 1.9
+- Monitor renal function in 1 week, requisition given
+- Avoid nephrotoxins
+- Renally dose medications- allopurinol reduced to 50 mg daily
+for GFR~30
+
+# Hypertension: Hypertensive during last admission. Started on
+amlodipine 2.5 mg daily. Recently held amlodipine at home due to 
+low BP's
+to 80's and then restarted due to HTN to 170's per PCP's office. 
+Now BP's
+___ on the floor. Orthostatics unremarkable.
+- Continue amlodipine at 5 mg daily 
+- Hold ___ as above, resume when creat ~1.9
+ 
+# Hyperlipidemia: Currently not on statin. No current lipid 
+panel on record.   
+
+# Bradycardia s/p PPM implant: s/p DDD st ___. stable
+
+# BPH: 
+- continue finasteride
+
+# Mild cognitive impairment: 
+- Continue donepezil and memantine ER 
+  
+# DISPO: Discharge home with ___ today
+ 
+# Transitional issues: PCP/cardiologist Dr. ___ to 
+follow AC as outpatient. Clinic updated. Will send discharge 
+summary.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Finasteride 5 mg PO DAILY 
+2. Losartan Potassium 50 mg PO DAILY 
+3. Magnesium Oxide 500 mg PO DAILY 
+4. Allopurinol ___ mg PO DAILY 
+5. amLODIPine 2.5 mg PO DAILY 
+6. Donepezil 10 mg PO QHS 
+7. Clopidogrel 75 mg PO DAILY 
+8. Aspirin 81 mg PO DAILY 
+9. FoLIC Acid 0.4 mg PO DAILY 
+10. Vitamin D 1000 UNIT PO DAILY 
+11. MEMAntine 28 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Warfarin 4 mg PO DAILY16  
+2.  Allopurinol 50 mg PO DAILY  
+3.  amLODIPine 5 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  Donepezil 10 mg PO QHS  
+6.  Finasteride 5 mg PO DAILY  
+7.  FoLIC Acid 0.4 mg PO DAILY  
+8.  Magnesium Oxide 500 mg PO DAILY  
+9.  MEMAntine 28 mg oral DAILY  
+10.  Vitamin D 1000 UNIT PO DAILY  
+11. HELD- Losartan Potassium 50 mg PO DAILY  This medication was 
+held. Do not restart Losartan Potassium until creatinine is down 
+to 1.9
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Aortic Stenosis
+AV Thrombus
+HFpEF
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+ Dear Mr. ___,
+  
+It was a pleasure taking care of you at the ___ 
+___.  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You presented to hospital with shortness of breath, fatigue 
+and low blood pressure.
+ 
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+ - You had an echocardiogram that showed slightly higher 
+pressures across the new valve which indicates blood clot on the 
+new valve.
+ - You had an ultrasound of both legs and it was negative for 
+clots.
+ - You had an ultrasound of both groins and we did not find any 
+bleeding or abnormalities that explain your thigh pain. 
+ - You will go home on a new blood thinner called coumadin 
+(warfarin). Your PCP ___ be managing coumadin 
+treatment.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Take all of your medications as prescribed (listed below).  
+- Follow up with your doctors as listed below 
+ 
+It is very important to take all of your heart healthy 
+medications. In particular, you are now taking Aspirin and 
+coumadin (warfarin). Please do not stop taking Aspirin or 
+coumadin without taking to your heart doctor, even if another 
+doctor tells you to stop the medications.  
+
+You will need prophylactic antibiotics prior to any dental 
+procedure. Please inform your dentist about your recent cardiac 
+procedure, and obtain a prescription from your doctor before any 
+procedure.  
+
+Please weigh yourself every day in the morning after you go to 
+the bathroom and before you get dressed. If your weight goes up 
+by more than 3 lbs in 1 day or more than 5 lbs in 3 days, please 
+call your heart doctor or your primary care doctor and alert 
+them to this change. Your weight at discharge is 167 lbs.  
+
+If you were given any prescriptions on discharge, any future 
+refills will need to be authorized by your outpatient providers, 
+primary care or cardiologist. 
+
+It was a pleasure participating in your care.  
+
+If you have any urgent questions that are related to your 
+recovery from your hospitalization or are experiencing any 
+symptoms that are concerning to you and you think you may need 
+to return to the hospital, please call the ___ HeartLine at 
+___ to speak to a cardiologist or cardiac nurse 
+practitioner.  
+
+-Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

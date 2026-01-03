@@ -1,0 +1,417 @@
+Notes
+ 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right carotid artery stenosis
+ 
+Major Surgical or Invasive Procedure:
+Right carotid endarterectomy 
+ 
+History of Present Illness:
+On ___ patient presented to ___ with
+two days of transient LUE numbness and tingling. She was in her
+usual state of health when she felt acute onset of left hand
+numbness primarily in the medial 3 fingers. The sensation
+resolved after ___ minutes. The next day, she had numbness of
+the LUE extending from her hand to her distal forearm which then
+went away, and then on the day of admission had transient
+numbness extending to her proximal left arm and left side of
+face. She denies any changes in vision, dizziness/headaches,
+difficulty with speech/comprehension, weakness of any extremity,
+or neck pain throughout this time. At ___, she had
+an MRI demonstrating multifocal infarcts in the right MCA
+distribution, both combination of new and subacute findings. 
+Last
+numbness was ___ morning, no episodes since then. 
+
+Her cryptogenic stroke history is as follows: in ___, she 
+was
+admitted for LUE weakness/numbness/tingling and found to have
+scattered infarcts in the right frontal lobe, right frontal
+gyrus, right inferior temporal gyrus. She underwent an extensive
+workup at that time which revealed less than 50% stenosis of
+bilateral ICA. Holter monitor demonstrated no atrial
+fibrillation. TCDs did not show any sign of emboli.  TEE showed
+right to left shunting at the atrial level consistent with 
+patent
+foreman ovale.  She underwent a lower extremity ultrasound which
+demonstrated no DVTs. An MRV of the pelvis was performed which
+demonstrated no DVT.  She was recommended to either start 
+empiric
+apixaban versus an implantable recorder, she chose the former. 
+She has been taking her apixaban as instructed as an outpatient,
+and she was started on atorvastatin as well as aspirin and
+Plavix, the latter for 30 days after the ___ stroke. 
+
+Currently she denies fevers/chills, chest pain/SOB, abdominal
+pain. Of note, her blood pressure is very labile at baseline and
+she was both hypotensive to SBP ___ and hypertensive to SBP 200s
+over the past few days. On physical exam, patient is
+neurologically intact. Full strength and sensation bilaterally 
+in
+upper and lower extremities, no evidence of facial droop or
+slurred speech. 
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:
+- HTN
+  - reports home sBP usually 130-140s, but occasionally 160s
+  -episodes of post-prandial hypotension 
+  - has tried multiple meds (metoprolol, amlodipine,
+HCTZ-lisinopril) but has had difficulties with symptomatic
+hypotension
+- CKD
+- HLD
+- asthma
+- osteopenia
+- L knee arthroscopic surgery
+- gout
+
+ 
+Social History:
+___
+Family History:
+Mother - deceased at age ___ CAD, COPD, colon Ca, HLD, TB
+Father - deceased at age ___ lung Ca + tobacco
+Brother - HLD
+Sister - HLD
+ 
+Physical Exam:
+Admission Vascular Surgery Physical 
+PHYSICAL EXAM
+Vital Signs: Temp: 98.4 RR: 20 Pulse: 89 BP: 117/75  
+Neuro/Psych: Oriented x3, Affect Normal, NAD. 
+Neck: No masses, Trachea midline, Thyroid normal size,
+non-tender, no masses or nodules, No right carotid bruit, No 
+left
+carotid bruit. 
+Nodes: No clavicular/cervical adenopathy, No inguinal 
+adenopathy.
+Skin: No atypical lesions. 
+Heart: Regular rate and rhythm. 
+Lungs: Clear, Normal respiratory effort. 
+Gastrointestinal: Non distended, No masses, Guarding or rebound,
+No hepatosplenomegally, No hernia, No AAA. 
+Extremities: No popiteal aneurysm, No femoral bruit/thrill, No
+RLE edema, No LLE Edema, No varicosities, No skin changes,
+Cyanosis. 
+ 
+Pulse Exam (P=Palpation, D=Dopplerable, N=None)
+RUE Radial: P. 
+___ Radial: P. 
+RLE Femoral: P. 
+LLE Femoral: P. 
+
+Discharge Physical Exam 
+PHYSICAL EXAM 
+Neuro/Psych: Oriented x3, Affect Normal, NAD. No gross or focal 
+motor deficits. CN II-XII grossly intact. 
+Neck: R neck dressing taken down, staples taken out, replaced 
+with steri strips. Mild neck swelling, no palplable 
+hematoma/fluid collection. 
+Heart: Regular rate and rhythm. 
+Lungs: Normal respiratory effort. 
+Gastrointestinal: Non distended, No masses, Guarding or rebound,
+Extremities: Warm, well perfused, motor function intact
+Pulse Exam (P=Palpation, D=Dopplerable, N=None)
+RUE Radial: P. 
+___ Radial: P. 
+RLE Femoral: P. 
+LLE Femoral: P. 
+
+ 
+Pertinent Results:
+Admission Lab
+___ 10:03PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 05:15AM BLOOD %HbA1c-5.7 eAG-117
+___ 10:03PM BLOOD Albumin-3.7 Calcium-8.8 Phos-3.5 Mg-2.1
+___ 10:03PM BLOOD cTropnT-<0.01
+___ 05:15AM BLOOD CK-MB-<1 cTropnT-<0.01
+___ 03:11PM BLOOD CK-MB-4 cTropnT-0.01
+___ 10:03PM BLOOD ALT-15 AST-13 AlkPhos-72 TotBili-0.2
+___ 10:03PM BLOOD Glucose-104* UreaN-18 Creat-0.9 Na-148* 
+K-3.7 Cl-108 HCO3-27 AnGap-13
+___ 10:03PM BLOOD ___ PTT-30.7 ___
+___ 05:15AM BLOOD Lupus-NEG
+___ 10:03PM BLOOD Neuts-67.3 ___ Monos-7.1 Eos-0.0* 
+Baso-0.3 Im ___ AbsNeut-4.26 AbsLymp-1.59 AbsMono-0.45 
+AbsEos-0.00* AbsBaso-0.02
+___ 10:03PM BLOOD WBC-6.3 RBC-3.58* Hgb-12.4 Hct-35.5 
+MCV-99* MCH-34.6* MCHC-34.9 RDW-11.9 RDWSD-42.7 Plt ___
+___ 10:03PM BLOOD WBC-6.3 RBC-3.58* Hgb-12.4 Hct-35.5 
+MCV-99* MCH-34.6* MCHC-34.9 RDW-11.9 RDWSD-42.7 Plt ___. Redemonstrated few small right frontal hypodensities likely 
+representing 
+acute to subacute infarcts better evaluated on the recent MRI 
+head study. 
+2. Evidence of a 2 mm penetrating atherosclerotic ulcer arising 
+from the 
+posterior aspect of the proximal right ICA.  Approximately 50% 
+narrowing of 
+the proximal right internal carotid artery. 
+3. No CTA evidence of arterial dissection, aneurysm or 
+high-grade stenosis. 
+
+Carotid Duplex Neck
+RIGHT: 
+The right carotid vasculature has minimal heterogeneous 
+atherosclerotic 
+plaque. 
+The peak systolic velocity in the right common carotid artery is 
+61 cm/sec. 
+The peak systolic velocities in the proximal, mid, and distal 
+right internal 
+carotid artery are 75, 83, and 70 cm/sec, respectively. 
+The peak end diastolic velocity in the right internal carotid 
+artery is 27 
+cm/sec. 
+The ICA/CCA ratio is 1.3. 
+The external carotid artery has peak systolic velocity of 78 
+cm/sec. 
+The vertebral artery is patent with antegrade flow. 
+  
+LEFT: 
+The left carotid vasculature has minimal 
+heterogeneousatherosclerotic plaque. 
+The peak systolic velocity in the left common carotid artery is 
+84 cm/sec. 
+The peak systolic velocities in the proximal, mid, and distal 
+left internal 
+carotid artery are 69, 69, and 52 cm/sec, respectively. 
+The peak end diastolic velocity in the left internal carotid 
+artery is 27 
+cm/sec. 
+The ICA/CCA ratio is 0.82. 
+The external carotid artery has peak systolic velocity of 59 
+cm/sec. 
+The vertebral artery is patent with antegrade flow. 
+  
+IMPRESSION:  
+  
+Right ICA <40% stenosis. 
+Left ICA <40% stenosis. 
+  
+Discharge Labs 
+___ 02:50AM BLOOD Hct-35.3
+___ 05:15AM BLOOD WBC-6.9 RBC-3.86* Hgb-13.0 Hct-38.4 
+MCV-100* MCH-33.7* MCHC-33.9 RDW-12.1 RDWSD-43.8 Plt ___
+___ 05:15AM BLOOD ___ PTT-29.2 ___
+___ 02:50AM BLOOD Creat-0.8 K-4.1
+___ 05:15AM BLOOD Glucose-102* UreaN-17 Creat-0.7 Na-148* 
+K-3.8 Cl-108 HCO3-26 AnGap-14
+___ 03:11PM BLOOD CK-MB-4 cTropnT-0.01
+ 
+Brief Hospital Course:
+Ms. ___ presented initally to ___ on ___ in 
+the setting of two recent, transient episodes of LUE 
+numbness/weakness. At ___, she had an MRI 
+demonstrating multifocal infarcts in the right MCA distribution, 
+a combination of new and subacute findings. In the setting of 
+these multifocal infarcts and a complex medical history (recent 
+history of cryptogenic stroke (___), known R ICA stenosis 
+(50%), known PFO on AC (apixaban)), Ms. ___ was transferred 
+to ___ for further care. 
+
+She was admitted to the neurology service and began stroke 
+workup. She was completely neurologically intact on 
+presentation. CTA head/neck showed 2mm penetrating 
+atherosclerotic ulcer in her R ICA, and approximately 50% 
+narrowing of the proximal right internal carotid artery. 
+Comparison with prior CTA (___) demonstrated a possible small 
+break in prior R ICA thrombus. Venous duplex was negative for 
+DVT, TTE was negative for intra-cardiac thrombus. 
+Hypercoaguability workup was grossly negative, some pending 
+results at time of discharge (cardiolipin pending, anti-thrombin 
+negative, B2-glycoprotein negative). She was transiently started 
+on Coumadin before being transitioned to a heparin drip for 
+anticoagulation. She was evaluated by our team (vascular 
+surgery) on ___, and felt to be a good candidate for right 
+carotid endarterectomy. Given her negative TTE, negative ___ 
+venous duplex, and possible interval changes in appearance of 
+the thrombus in her R ICA, concern was high for carotid etiology 
+for her symptoms. She was taken to the OR on ___ for right 
+carotid endarterectomy. Surgery was uncomplicated. A hemorrhagic 
+plaque was removed from the right ICA. See op note for full 
+details. Given the gross appearance of the plaque, it seems very 
+likely her symptoms were related to her R ICA disease. Post-op, 
+Ms. ___ was neurologically intact (no gross, focal, or 
+cranial nerve deficits). She recovered in the post-operative 
+care unit for several hours before being transferred to the 
+floor for continued monitoring. 
+
+Her post-op course was largely uncomplicated. She had a mild 
+headache on the morning of post-op day 1, and complained of mild 
+nausea in the setting of having taken morning medications prior 
+to eating. Her headache and nausea resolved over the course of 
+the morning. Given her nausea in the setting of recent procedure 
+under general anesthesia, troponins were sent to rule out MI. 
+Troponins were negative (Troponin T <0.01). Her nausea had 
+resolved by mid-morning. Ms. ___ had an episode of 
+asymptomatic hypertension to SBP 150-160s on post-op day 1, for 
+which she was given metoprolol x1 with good response. Ms. 
+___ was normotensive (SBP 120s-130s) at time of discharge. 
+Prior to discharge, staples were removed from her R neck 
+incision and were replaced with steri-strips. Her steri-strip 
+dressed incision was clean/dry/intact at the time of discharge.
+
+Ms. ___ was discharge on the evening of post-op 1 with 
+instructions to follow up in clinic with Dr. ___ in 1 
+month, with repeat carotid duplex. She was discharged on Plavix 
+(new medication, 75mg QD), off anticoagulation.  
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN COPD/asthma 
+2. Allopurinol ___ mg PO DAILY 
+3. Apixaban 5 mg PO BID 
+4. Atorvastatin 80 mg PO QPM 
+5. Clopidogrel 75 mg PO DAILY 
+6. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+7. Furosemide 20 mg PO DAILY 
+8. Aspirin 81 mg PO DAILY 
+9. Docusate Sodium 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN COPD/asthma 
+2. Allopurinol ___ mg PO DAILY 
+3. Clopiogrel 75mg PO QD (ongoing until f/u with neurology)
+4. Atorvastatin 80 mg PO QPM 
+5. Clopidogrel 75 mg PO DAILY 
+6. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+7. Furosemide 20 mg PO DAILY 
+8. Aspirin 81 mg PO DAILY 
+9. Docusate Sodium 100 mg PO DAILY 
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right carotid stenosis, right middle
+cerebral artery territory stroke.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you at ___ 
+___.  You were admitted to the hospital after a 
+carotid endarterectomy.  This surgery was done to restore proper 
+blood flow to your brain.  To perform this procedure, an 
+incision was made in your neck.  You tolerated the procedure 
+well and are now ready to be discharged from the hospital.   
+Please follow the recommendations below to ensure a speedy and 
+uneventful recovery.
+
+ WHAT TO EXPECT:
+ Bruising, tenderness, mild swelling, numbness and/or a firm 
+ridge at the incision site is normal.  This will improve 
+gradually in the next 2 weeks.
+ You may have a sore throat and or mild hoarseness.  Warm tea, 
+throat lozenges, or cool drinks usually help.
+ It is normal to feel tired for ___ weeks after your surgery.
+ MEDICATION INSTRUCTIONS:
+
+ Before you leave the hospital, you will be given a list of all 
+the medicine you should take at home.  If a medication that you 
+normally take is not on the list or a medication that you do not 
+take is on the list please discuss it with the team!
+
+ It is very important that you take Aspirin every day!  You 
+should never stop this medication before checking with your 
+surgeon.
+
+ You should require less pain medication each day.   You should 
+take Tylenol ___ every 6 hours, as needed for neck pain.  
+.Tylenol is used as an ingredient in some other over-the-counter 
+and prescription medications.  Be aware of how much total 
+Tylenol you are taking in a day.  Do not take more than a daily 
+total of 3000mg of Tylenol.  If Tylenol is not enough, take your 
+prescription pain medication very sparingly.  You should never 
+drive or operate machinery while on narcotics.
+
+ Narcotic pain medication can be very constipating.  If you take 
+narcotics,  please also take a stool softener such as Colace.   
+If constipation becomes a problem, your pharmacist can suggest 
+an additional over the counter laxative.
+
+ CARE OF YOUR NECK INCISION:
+ You may shower 48 hours after your procedure.  Avoid direct 
+shower spray to the incision.  Let soapy water run over the 
+incision, then rinse and gently pat the area dry.  Do not scrub 
+the incision.
+
+ Your neck incision may be left open to air and uncovered unless 
+you have a small amount of drainage at the site.  If drainage is 
+present, place a small sterile gauze over the incision and 
+change the gauze daily.
+ Do not take a bath or go swimming for 2 weeks.
+ ACTIVITY:
+ Do not drive for one week after your procedure.  Do not ever 
+drive after taking narcotic pain medication.
+ You should not push, pull, lift or carry anything heavier than 
+5 pounds for the next 2 weeks.
+
+ After 2 weeks, you may return to your regular activities 
+including exercise, sexual activitiy and work.
+ DIET:
+ It is normal to have a decreased appetite.  Your appetite will 
+return over time.  Follow a well-balanced, heart healthy diet, 
+with moderate restriction of salt and fat.
+ SMOKING:
+ If you smoke, it is very important for you to stop.  Research 
+has shown that smoking makes vascular disease worse.  Talk to 
+your primary care provider about ways to quit smoking.
+ The ___ Smokers' Helpline is a FREE and confidential 
+way to get support and information to help you quit smoking.  
+Call ___
+ CALLING FOR HELP
+ If you need help, please call us at ___.  If you call 
+during non-business hours, you will reach someone who can help 
+you reach the vascular surgeon on call.
+
+ To get help right away, call ___.
+ Call the surgeon right away for:
+_x0095_             headache that is not controlled with pain 
+medication or headache that is getting worse
+_x0095_             fever of 101 degrees or more
+_x0095_             bleeding from the incision, or drainage the is new 
+or increased, or drainage that is white yellow or green
+_x0095_             pain that is not relieved with medication, or pain 
+that is getting worse instead of better
+ If you notice any of the following signs of stroke, call ___ to 
+get help right away.
+_x0095_             sudden numbness or weakness of the face, arm or 
+leg (especially on one side of the body)
+_x0095_             sudden confusion, trouble speaking or trouble 
+understanding speech
+_x0095_             trouble seeing in one or both eyes
+_x0095_             sudden trouble walking, dizziness, loss of balance 
+or coordination
+_x0095_             sudden severe headache with no known cause
+
+ 
+Followup Instructions:
+___

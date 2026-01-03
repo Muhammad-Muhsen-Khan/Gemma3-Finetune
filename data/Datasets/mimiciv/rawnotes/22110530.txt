@@ -1,0 +1,318 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin / Sulfa (Sulfonamide Antibiotics) / Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+N/A
+ 
+History of Present Illness:
+___ presented to ED ___ via ambulance after developing 
+significant SOB after breakfast. She did not have a chance to 
+take her AM meds, and was found to be hypertensive to 260/210 
+with tachypnea, RR 40. In the ED she was given 40mg IV lasix, 
+placed on Bipap and a nitro drip with improvement over the next 
+several hours. Later in the day she received her home 
+anti-hypertensives as well as a dose of IV Ceftriaxone for noted 
+UTI. She was transitioned off bipap to O2 via Nasal Cannula and 
+was able to tolerate this well, she was also transitioned off 
+the nitro drip. Of note, she was recently admitted to ___ 
+(___) in the setting of hypertensive urgency leading to acute 
+on chronic diastolic heart failure exacerbation. She was dc'd 
+with the new addition of hydralazine for hypertension. Her 
+hospital course was complicated by ___ on CKD in setting of 
+aggressive diuresis and uptitration of anti-HTN medications.  
+
+ 
+Past Medical History:
+- Diastolic congestive heart failure
+- Coronary artery disease s/p PCI to RCA in ___, LCx in ___
+- Type 2 diabetes mellitus
+- Hypertension
+- Hypercholesterolemia
+- Chronic kidney disease
+- Hyperlipidemia
+- MGUS
+- Colonic polyps
+- Coronary artery disease status post stenting, ___ and ___
+- melanoma, basal cell, multiple excisions
+ 
+Social History:
+___
+Family History:
+No significant history of early CAD.
+ 
+Physical Exam:
+ADMISSION PE:
+VS - 98.4, 189/69, 72, 20, 99% 4L 
+Weight 89.3kg 
+(Discharge weight ___ was 87.4kg)  
+Gen: Alert, no acute distress 
+Neuro: Oriented x 3 
+CV: Regular rate/rhythm 
+Chest: LS diminished with crackles ___ way up bilaterally 
+ABD: Soft, non-tender, +BS  
+Extr: BLE warm/well-perfused, +dependent edema noted in BLE 
+Skin: Warm and dry 
+
+DISCHARGE PE:
+I/O: 24H 1480/500; 8H 240/300
+Tele: NSR with LBBB, no ectopy
+ECG: None today
+___: 268, 216
+VS: T 97.4, HR 75, BP 111/51, RR 18, 02 SAT 96% on RA
+
+Physical Exam:  
+Gen: Lying in bed, in NAD 
+Neuro: Alert and oriented x3, follows commands, answers 
+questions appropriately, no focal deficits. Hx of melanoma with 
+rt sided facial droop related to removal on lt sided melanoma. 
+Forgetful at times asking same questions but patient knows she 
+has some short-term impairments at times
+Neck/JVP: No JVD appreciated
+CV: RRR, S1/S2, ___ LUSB systolic murmur
+Chest: LS CTA throughout, no accessory use, no wheezes or 
+crackles
+ABD: Obese, soft NT/ND with +BS throughout
+Extr: ___: 1+ trace pitting edema left ankle, trace-1+ pitting 
+edema right ankle. Extremities are warm and well perfused. 
+Skin: Intact. No rashes or lesions, warm/dry
+Access sites: PIV
+
+ADMIT WT: 89.3 kg
+DISCHARGE WT: 87.3 kg
+ 
+Pertinent Results:
+___ 09:35AM BLOOD WBC-8.4 RBC-3.30* Hgb-10.4* Hct-31.6* 
+MCV-96 MCH-31.5 MCHC-32.9 RDW-13.0 RDWSD-45.3 Plt ___
+___ 07:00AM BLOOD WBC-10.7* RBC-3.38* Hgb-10.5* Hct-32.1* 
+MCV-95 MCH-31.1 MCHC-32.7 RDW-13.0 RDWSD-44.7 Plt ___
+___ 09:00AM BLOOD WBC-12.6*# RBC-3.59* Hgb-11.5 Hct-35.4 
+MCV-99* MCH-32.0 MCHC-32.5 RDW-13.2 RDWSD-47.2* Plt ___
+___ 09:00AM BLOOD Neuts-65.8 ___ Monos-8.1 Eos-3.8 
+Baso-0.7 Im ___ AbsNeut-8.32* AbsLymp-2.66 AbsMono-1.02* 
+AbsEos-0.48 AbsBaso-0.09*
+___ 09:35AM BLOOD Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 09:00AM BLOOD Plt ___
+___ 09:00AM BLOOD ___ PTT-26.0 ___
+___ 09:35AM BLOOD Glucose-255* UreaN-40* Creat-1.7* Na-131* 
+K-3.8 Cl-92* HCO3-27 AnGap-16
+___ 07:30PM BLOOD Glucose-158* UreaN-35* Creat-1.5* Na-133 
+K-4.1 Cl-94* HCO3-27 AnGap-16
+___ 07:00AM BLOOD Glucose-86 UreaN-29* Creat-1.0 Na-136 
+K-4.0 Cl-98 HCO3-25 AnGap-17
+___ 05:00PM BLOOD Glucose-242* UreaN-35* Creat-1.2* Na-135 
+K-4.7 Cl-99 HCO3-23 AnGap-18
+___ 09:00AM BLOOD Glucose-301* UreaN-35* Creat-1.2* Na-127* 
+K-7.7* Cl-95* HCO3-16* AnGap-24*
+___ 09:00AM BLOOD cTropnT-<0.01
+___ 09:00AM BLOOD proBNP-2199*
+___ 09:35AM BLOOD Calcium-8.9 Phos-4.4 Mg-2.1
+___ 09:00AM BLOOD Calcium-9.2 Phos-4.9* Mg-1.9
+___ 07:00AM BLOOD %HbA1c-9.2* eAG-217*
+___ 05:12PM BLOOD ___ pO2-40* pCO2-41 pH-7.41 
+calTCO2-27 Base XS-0
+___ 09:14AM BLOOD ___ pO2-41* pCO2-55* pH-7.24* 
+calTCO2-25 Base XS--4
+___ 09:14AM BLOOD Lactate-2.4* K-5.0
+___ 09:14AM BLOOD O2 Sat-68
+___ 09:35AM BLOOD WBC-8.4 RBC-3.30* Hgb-10.4* Hct-31.6* 
+MCV-96 MCH-31.5 MCHC-32.9 RDW-13.0 RDWSD-45.3 Plt ___
+___ 09:35AM BLOOD Plt ___
+___ 05:13AM BLOOD Glucose-138* UreaN-55* Creat-1.9* Na-132* 
+K-4.3 Cl-96 HCO3-23 AnGap-17
+___ 05:25AM BLOOD Glucose-234* UreaN-50* Creat-2.3* Na-133 
+K-4.7 Cl-93* HCO3-21* AnGap-24*
+___ 09:35AM BLOOD Glucose-255* UreaN-40* Creat-1.7* Na-131* 
+K-3.8 Cl-92* HCO3-27 AnGap-16
+___ 07:30PM BLOOD Glucose-158* UreaN-35* Creat-1.5* Na-133 
+K-4.1 Cl-94* HCO3-27 AnGap-16
+___ 07:00AM BLOOD Glucose-86 UreaN-29* Creat-1.0 Na-136 
+K-4.0 Cl-98 HCO3-25 AnGap-17
+___ 05:13AM BLOOD Mg-2.1
+
+CHEST XRAY ___
+COMPARISON:  ___. 
+
+FINDINGS:  
+The lungs are well inflated.  There is mild pulmonary edema.  No 
+focal 
+consolidation or large effusion.  Cardiac silhouette is within 
+normal limits. Atherosclerotic calcifications seen at the aortic 
+arch. 
+  
+IMPRESSION:  
+  
+Mild edema without focal consolidation. 
+
+ 
+Brief Hospital Course:
+Patient was admitted for heart failure after experiencing 
+increasing shortness of breath at home. Patient was placed on 
+bipap and short term nitroglycerin. Diuresed patient with Lasix 
+over several days and able to remove oxygen, placed on room air. 
+Consequently patient found to have UTI and treated with IV 
+Ceftriaxone. Sensitivities back for klebsiella and sensitive to 
+Ciprofloxacin and patient was changed. Creatinine level 
+increased to high of 2.3 secondary to diuresis and monitored. 
+Down to 1.9 on discharge. Patient received bolus to help improve 
+renal function. Consults were placed for physical therapy and it 
+was recommended that due to unsteadiness and overall weakness, 
+short term rehab appropriate. SW and OT consulted to help with 
+medication and compliance issues at home. Patient sees 
+gerontology and will assist patient with blister-packing 
+medications. Patient discharged on room air, no evidence of 
+heart failure. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 20 mg PO QPM 
+4. Calcitriol 0.25 mcg PO EVERY OTHER DAY 
+5. Clonidine Patch 0.3 mg/24 hr 1 PTCH TD QSAT 
+6. Metoprolol Succinate XL 50 mg PO DAILY 
+7. Torsemide 10 mg PO DAILY 
+8. HydrALAZINE 75 mg PO Q8H 
+9. GlipiZIDE XL 20 mg PO QPM 
+10. Januvia (sitaGLIPtin) 50 mg oral QAM 
+11. Valsartan 160 mg PO DAILY 
+12. Toujeo SoloStar (insulin glargine) 60 units  subcutaneous 
+QAM 
+
+ 
+Discharge Medications:
+1.  Carvedilol 12.5 mg PO BID  
+2.  Ciprofloxacin HCl 250 mg PO Q24H Duration: 4 Doses  
+3.  Docusate Sodium 100 mg PO BID  
+4.  Toujeo SoloStar (insulin glargine) 50 daily subcutaneous 
+DAILY  
+5.  Amlodipine 10 mg PO DAILY  
+6.  Aspirin 81 mg PO DAILY  
+7.  Atorvastatin 20 mg PO QPM  
+8.  Calcitriol 0.25 mcg PO EVERY OTHER DAY  
+9.  Clonidine Patch 0.3 mg/24 hr 1 PTCH TD QSAT  
+10.  GlipiZIDE XL 20 mg PO QPM  
+11.  HydrALAZINE 75 mg PO Q8H  
+12.  Januvia (sitaGLIPtin) 25 mg oral QAM  
+13.  Torsemide 10 mg PO DAILY  
+14.  Valsartan 160 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute on chronic diastolic heart failure
+Urinary Tract Infection
+Diabetes Mellitus
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Assessment/Plan: ___ admitted with exacerbation of acute on 
+chronic diastolic heart failure and urinary tract infection.
+
+ # Acute on Chronic Diastolic Heart Failure, LS clear, no JVD, 
+edema to BLE improved to 1+, on room air
+- Creatinine down to 1.9 holding Valsartan and Torsemide until 
+tomorrow (___)
+- Carvedilol at 12.5mg BID
+- Continue Hydralazine 75mg TID and Clonidine patch
+- Daily weights, low sodium diet, monitor I/O 
+- Nutrition consulted, patient has delivered meal once daily and 
+cooks other 2 meals. Elder services notified and will help 
+address meal delivery
+- SW consult for help with meals, medication management.
+- OT consulted to help with medication management on discharge. 
+- Pt followed by Gerontology in the ___ Building. They said 
+they could blister pack her medications, and will arrange to do 
+so after her follow up appointment on ___. Pt is not followed 
+in the PACT program. Also tried to call pt's friend ___, ___ 
+to see what his role is in helping the pt. He was not home. Name 
+and number left under contacts. Attempted again today ___ and 
+not answering.
+
+ # Urinary Tract Infection : Klebsiella
+- Ceftriaxone 1g daily. Has had 3 doses.
+- Changed to renally dosed Ciprofloxacin for 4 more days
+
+ # Coronary artery disease s/p PCI to RCA in ___, ___ in ___
+- Continue ASA, statin 
+
+ # Type 2 diabetes mellitus: On Toujeo and Januvia at home, 
+patients goal A1C 9.0 per ___ consult
+- Stopped oral Glypizide
+- SSI with Humalog for coverage, Lantus 
+- A1C 9.2 this admission
+- ___ consulted. Recs today are to continue Lantus 50 units 
+and discharge on pt's home ___ 50 units (not 60 units)
+
+ # Hypertension: improved
+- Metoprolol changed to Carvedilol 
+- Continue Amlodipine, Hydralazine
+- Valsartan on hold ___ renal function
+- Monitor renal function with labs to be drawn 
+
+ # Chronic kidney disease: CR 1.2 on admission, peaked at 2.3 
+secondary to diuresis, downtrending to 1.9.
+- Valsartan, Torsemide on hold until ___
+- Continue to monitor
+- Renally dosed Ciprofloxacin to complete abx course for UTI
+
+# Hypercholesterolemia: continue Atorvastatin 
+
+ 
+Discharge Instructions:
+You were admitted for shortness of breath and heart failure. We 
+removed the extra fluid with diuretics. You also had a urinary 
+tract infection and we treated you with intravenous and oral 
+antibiotics.
+
+We gave you Lasix over several days to remove fluid.  While you 
+were here you had an increase in your creatinine level which is 
+the lab we use to monitor your renal function. You will have 
+labs drawn ___ to make sure your kidney function is 
+returning to normal.
+
+You became deconditioned after this hospitalization and it is 
+recommended you go to a ___ rehabilitation for strength 
+and mobility. 
+
+You have an appointment scheduled with your gerontologist. It is 
+important for you to keep this appointment as we are working 
+with them to blister-pack your medications given the changes we 
+have made while you were admitted.
+
+Continue your home medications with the following changes: 
+  STOP Metoprolol Succinate 50 mg daily
+  START Carvedilol 12.5 mg twice daily
+  
+You need to continue to weigh yourself daily and if your weight 
+goes up 3 pounds in two days or 5 pounds in three days, you need 
+to call your primary care physician.
+
+It was our pleasure taking care of you while at ___!
+
+ 
+Followup Instructions:
+___

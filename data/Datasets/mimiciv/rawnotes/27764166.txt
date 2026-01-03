@@ -1,0 +1,568 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypercarbic respiratory failure
+ 
+Major Surgical or Invasive Procedure:
+None 
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with a history of severe 
+COPD (FEV1/FVC 40% ___ CHFpEF ___ LVEF 55-60%), with 
+a recent admission ___ for mixed hypercarbic/hypercapnic 
+respiratory failure due to volume overload treated with IV 
+diuresis, who presents with dyspnea, cough, and fatigue. 
+
+History obtained from daughter at bedside, Ms. ___ as above, 
+and chart review. Ms. ___ has experienced progressive severe 
+dyspnea, fatigue, weakness, and non-productive cough since 
+___, accompanied by subjective fevers and anorexia. No 
+new headache, congestion, chest pain, abdominal pain, or 
+nausea/vomiting/diarrhea. Has been sitting sleeping upright with 
+frequent nighttime awakenings (with cough) x5 days, with some 
+mild bilateral ankle edema. Her daughter also expressed concerns 
+about delirium in setting of subjective fevers ___ ___. 
+
+Ms ___ continues to take her inhalers and Lasix as prescribed 
+(daughter and other family provide ___ care and supervise med 
+administration), but inhalers/nebulizer has not provided 
+sufficient relief. She takes Advair 230, 2 puffs twice daily, 
+Spiriva 2.5 Respimat, 2 inhalations daily, albuterol 2 puffs ___ 
+times daily, and prednisone 20 mg daily.  
+
+Family confirmed no prior intubations for COPD, though endorses  
+>2 COPD exacerbations in past year. Is up-to-date on 
+vaccinations. No close sick contacts or recent travel. Prior 
+smoker (in her ___ but no current smoking. On home O2 5L ___ 
+this past week, but at baseline usually uses NC O2 during 
+exertion. Family called EMS due to severely worsening cough and 
+severe fatigue.
+
+EMS was called to home, 89% on RA, improved to ___ with 2L NC. 
+
+In the ED,  HR 120s-140s and desat to ___ on RA with increased 
+work of breathing RR 30. 
+- Initial Vitals:  Temp 97.8F, HR 108, RR 20, BP 90/71, SpO2 
+100% on RA
+- Exam:  Sitting upright, speaking in ___ word sentences, 
+expiratory wheezing, rhonchorous cough, no crackles.
+- Labs:  
+VBG pH 7.29, pCO2 84, pO2 28, HCO3 42
+WBC 8.9, Hgb 12.2, plt 214
+Trop-T < 0.01 
+Lactate 1.4
+LFTs normal, lipase 25 
+Glucose 175, HCO3 35, Extended electrolytes normal 
+INR 1.0 
+FluA PCR - positive 
+FluB PCR - negative 
+Blood cultures x2 pending
+BNP pending
+
+- Imaging:  
+___ EKG - Sinus tachycardia, enlarged P waves likely consistent 
+with her history of COPD, no significant ST changes
+
+___ CXR: no evidence of effusion or acute fluid overload, no 
+focal consolidation, hyperinflated lungs likely consistent with 
+COPD 
+
+- Consults:  None 
+- Interventions: Transitioned to NC -> BiPap -> Non-rebreather. 
+Duo-nebs x1, IV methylpred 80 mgx1.
+
+In ICU, on Bi-bap, resumed duo-nebs, had 1 episode coughing with 
+tachycardia to 140s without hypoxia, resolved w/ duo-nebs and 
+Bi-Pap repositioning.
+
+ROS: Positives as per HPI; otherwise negative.  
+ 
+Past Medical History:
+- HFpEF - last seen ___ ___ clinic. Admitted ___, 40 
+lbs above dry wt, BNP > 4000, was ruled out for PE and MI, tx 
+with IV lasix to discharge weight of 135 lb, attributed to 
+dietary and med noncompliace. 
+Type of HF: HF with recovered LVEF (takotsubo CMP)
+Devices: none
+___ Class: II
+ACC/AHA Stage: C
+Dry weight: 130 lb
+- Severe COPD - CT ___ moderate centrilobular emphysema. Per  
+___ COPD f/u Dr. ___: FEV1 and vital capacity 0.3 
+and 0.75 (15 and 30% predicted respectively).  FEV1 to vital 
+capacity ratio is 40% (53% predicted), consistent with prior.
+- Hyperlipidemia
+- GERD
+- Osteoarthritis of shoulder, neck, back, knees
+- Stage IIIA Colon Cancer s/p resection
+- Anxiety, depression
+- Hypertension
+- Coronary artery disease: Has moderate OM and PDA disease
+- Venous statsis 
+ 
+Social History:
+___
+Family History:
+Per OMR, no family history of early MI,, arrhthymia, 
+cardiomyopathies, or sudden cardiac death. 
+Daughter with HTN. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL: 
+==================
+VS: Reviewed in Metavision 
+GEN: thin, tearful, coughing  
+EYES: anicteric  
+HENNT: moist mucus membranes  
+CV: tachycardic, distant s1 and s2, soft systolic murmur, no JVD 
+
+RESP: coarse breath sounds b/l, no wheezing or stridor but
+decreased air movement and prolonged expiratory phase  
+GI: +BS, soft, non-tender, non-distended  
+MSK: warm extremities, no peripheral edema of UE, trace pedal
+edema  
+SKIN: chronic venous stasis changes BLE  
+NEURO: A&O to name, place, reason for admission, moves all limbs
+equally and spontaneously  
+PSYCH: appears anxious   
+
+DISCHARGE PHYSICAL:
+==================
+24 HR Data (last updated ___ @ 1345)
+    Temp: 97.8 (Tm 98.0), BP: 111/61 (111-159/61-77), HR: 112
+(107-125), RR: 22 (___), O2 sat: 94% (93-100), O2 delivery: 2L 
+
+
+GEN: sitting up in bed, labored breaths, speaks in full 
+sentences
+CV: tachycardic, irregular rhythm, normal s1 and s2
+RESP: mild expiratory wheezes bilaterally
+GI: Soft, nontender, nondistended
+EXTREMITIES: No ___ edema, warm
+SKIN: Chronic venous stasis changes BLE
+NEURO: A&Ox3, moves all extremities, normal speech
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 09:14AM BLOOD WBC-8.9 RBC-4.52 Hgb-12.2 Hct-43.6 MCV-97 
+MCH-27.0 MCHC-28.0* RDW-15.6* RDWSD-55.3* Plt ___
+___ 09:14AM BLOOD Neuts-75.6* Lymphs-15.5* Monos-8.3 
+Eos-0.0* Baso-0.2 NRBC-0.2* Im ___ AbsNeut-6.73* 
+AbsLymp-1.38 AbsMono-0.74 AbsEos-0.00* AbsBaso-0.02
+___ 09:14AM BLOOD ___ PTT-25.2 ___
+___ 09:14AM BLOOD Glucose-175* UreaN-15 Creat-0.9 Na-140 
+K-4.0 Cl-93* HCO3-35* AnGap-12
+___ 09:14AM BLOOD ALT-12 AST-19 AlkPhos-68 TotBili-0.5
+___ 09:14AM BLOOD Lipase-25
+___ 09:14AM BLOOD proBNP-723*
+___ 09:14AM BLOOD cTropnT-<0.01
+___ 09:14AM BLOOD Albumin-3.9 Calcium-9.1 Phos-3.2 Mg-2.0
+___ 09:27AM BLOOD ___ pO2-28* pCO2-84* pH-7.29* 
+calTCO2-42* Base XS-9
+___ 09:27AM BLOOD Lactate-1.4
+
+INTERIM LABS:
+==============
+___ 03:45AM BLOOD WBC-8.6 RBC-4.45 Hgb-11.9 Hct-42.2 MCV-95 
+MCH-26.7 MCHC-28.2* RDW-15.6* RDWSD-53.8* Plt ___
+___ 03:57AM BLOOD WBC-9.3 RBC-4.17 Hgb-11.3 Hct-39.7 MCV-95 
+MCH-27.1 MCHC-28.5* RDW-15.5 RDWSD-53.2* Plt ___
+___ 03:57AM BLOOD ___ PTT-22.5* ___
+___ 03:45AM BLOOD ___ PTT-27.3 ___
+___ 03:57AM BLOOD Glucose-99 UreaN-14 Creat-0.7 Na-141 
+K-4.3 Cl-99 HCO3-34* AnGap-8*
+___ 03:45AM BLOOD Glucose-109* UreaN-14 Creat-0.7 Na-140 
+K-4.3 Cl-97 HCO3-32 AnGap-11
+___ 03:57AM BLOOD Calcium-8.6 Phos-3.2 Mg-2.0
+___ 03:45AM BLOOD Calcium-8.8 Phos-2.4* Mg-2.1
+___ 04:01AM BLOOD ___ pO2-43* pCO2-69* pH-7.34* 
+calTCO2-39* Base XS-7
+___ 03:59PM BLOOD ___ pO2-31* pCO2-57* pH-7.42 
+calTCO2-38* Base XS-9
+___ 08:09PM BLOOD ___ pO2-31* pCO2-63* pH-7.38 
+calTCO2-39* Base XS-8
+___ 11:42PM BLOOD ___ pO2-37* pCO2-65* pH-7.36 
+calTCO2-38* Base XS-7
+___ 03:51AM BLOOD ___ pO2-35* pCO2-72* pH-7.35 
+calTCO2-41* Base XS-10
+___ 05:58AM BLOOD ___ FiO2- pO2-23* pCO2-70* pH-7.38 
+calTCO2-43* Base XS-11
+___ 10:41AM BLOOD ___ pO2-36* pCO2-67* pH-7.39 
+calTCO2-42* Base XS-11
+
+PERTINENT STUDIES
+___ CHEST XRAY
+FINDINGS: 
+ 
+Lungs are well expanded.  Cardiomediastinal silhouette and hilar 
+contours are
+unchanged.  There has been interval development of new opacities 
+in the
+bibasilar lobes.  The right-sided PICC terminates at the 
+cavoatrial junction.
+ 
+IMPRESSION: 
+ 
+Numerous new opacities within the bibasilar lobes concerning for 
+multifocal
+pneumonia.
+
+___ CTA CHEST
+FINDINGS: 
+ 
+CT ANGIOGRAM: The pulmonary embolism study is of good diagnostic 
+quality. 
+There are no filling defects in the pulmonary artery and 
+segmental
+subsegmental branches to suggest pulmonary embolism.  The aorta 
+is
+unremarkable.  There is evidence of atherosclerotic 
+calcification involving
+the wall of aorta.  Moderate coronary artery calcification.
+ 
+THORACIC INLET: Thyroid is unremarkable.  There are no enlarged
+supraclavicular lymph nodes
+ 
+BREAST AND AXILLA  : There are no enlarged axillary lymph nodes.
+ 
+MEDIASTINUM: There are no enlarged mediastinal hilar lymph 
+nodes.  Heart size
+is normal.  There is no pericardial effusion.  The aorta and 
+pulmonary
+arteries are normal in caliber.
+ 
+ 
+PLEURA: There is no pleural effusion.  Previously visualized 
+bilateral
+effusions have resolved
+ 
+LUNG: There is severe diffuse centrilobular emphysema.  The 9 mm 
+right lower
+lobe pulmonary nodule (301, 128) may have been obscured by 
+previously
+visualized effusions.  The lingular nodule has resolved there is
+bronchiectasis with peribronchial thickening and bronchus 
+centric opacities in
+both lower lobes which could be related to aspiration.  The 
+lingular nodule
+measures 9.8 mm it previously measured 6 mm (2, 84) no new 
+pulmonary nodules
+ 
+BONES AND CHEST WALL : Review of bones shows degenerative 
+changes involving
+the thoracic spine
+ 
+UPPER ABDOMEN: Limited sections through the upper abdomen are 
+unremarkable
+ 
+IMPRESSION: 
+ 
+No evidence of pulmonary embolism.
+ 
+Severe diffuse centrilobular emphysema.
+ 
+The right lower lobe is a spiculated nodule is concerning for 
+primary lung
+cancer.  This nodule measured 4 mm in ___ and was 
+obscured on the
+prior study by the effusion and atelectasis.
+ 
+The lingular nodule is also increased in size and now measures 
+9.8 mm it
+previously measured 6 mm.
+
+DISCHARGE LABS: 
+==============
+
+___ 04:48AM BLOOD WBC-8.1 RBC-3.98 Hgb-10.7* Hct-37.9 
+MCV-95 MCH-26.9 MCHC-28.2* RDW-15.4 RDWSD-53.3* Plt ___
+___ 04:48AM BLOOD Glucose-159* UreaN-23* Creat-0.7 Na-140 
+K-4.9 Cl-94* HCO3-37* AnGap-9*
+___ 04:48AM BLOOD Calcium-9.1 Phos-3.1 Mg-2.3
+___ 04:48AM BLOOD LD(LDH)-202
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT:
+====================
+Ms. ___ is a ___ woman with a history of severe COPD 
+(FEV1/FVC 40% ___ CHFpEF ___ LVEF 55-60%), with a 
+recent admission ___ for mixed hypercarbic/hypercapnic 
+respiratory failure due to volume overload treated with IV 
+diuresis, who presented with dyspnea, cough, and fatigue, and 
+who was admitted to MICU on ___ for COPD exacerbation and 
+Influenza A requiring Bipap for less than 24 hours in the ICU. 
+She also received IV steroids and a 5 day course of azithromycin 
+as well as scheduled nebulizers for COPD exacerbation. Given her 
+severe COPD and baseline dyspnea, she was initiated on morphine 
+for symptom control. She was transferred to the medicine floor 
+after transitioning to nasal cannula. A CXR showed concern for 
+multifocal pneumonia so empiric treatment with vancomycin and 
+ceftazidime was initiated; patient did not have significant 
+symptoms of pneumonia nor leukocytosis, however in the setting 
+of her poor pulmonary reserve she completed a 7d course of 
+ceftazidime (vanc discontinued after negative MRSA swab). She 
+was evaluated by rehabilitative services and recommended 
+discharge home with appropriate services.
+
+ACTIVE ISSUES:
+==============
+#COPD exacerbation secondary to influenza
+Known history of severe COPD (FEV1/FVC 40% ___, followed 
+closely by Dr. ___ at ___ picture of 1 week of 
+progressive cough, dyspnea, and increased O2 requirements was 
+found to be consistent with COPD exacerbation. Accompanying 
+cough, fatigue/weakness, and subjective fever with positive Flu 
+A PCR supported influenza as exacerbation trigger. CXR on 
+admission without focal consolidation, excluding PNA. Absence of 
+volume overload on exam, CXR without pulmonary edema, and mildly 
+elevated BNP (723) on admission excluded HFpEF as cause of 
+exacerbation.
+
+Trop-T <0.01 on admission and EKG without acute changes excluded 
+ACS. Blood cultures x2 from the ED ___ showed no growth.
+
+Her COPD exacerbation was treated with intermittent Bi-Pap, 80mg 
+IV methylprednisolone daily ___ with plan for 5-day 
+course), Azithromycin 500 mg IV ___ with plan for 5-day 
+course), standing duo-nebs and albuterol PRN. She was treated 
+with oseltamivir 75 mg PO/NG BID (5-day course, ___. 
+Palliative care was consulted for assistance with morphine 
+titration for air hunger, with ___ PO Morphine elixir q4PRN 
+started ___ with good effect.
+
+She was discharged on a prednisone taper (see transitional 
+issues)
+
+#Primary lung malignancy
+On ___ CTA of the chest was performed to rule out pulmonary 
+embolism is contributing to patient's symptoms. This showed a 
+progression of 2 lung nodules, one in the right lower lobe now 
+measuring 9 mm and one in the lingula measuring 10 mm since last 
+chest CT in ___. Patient was initially concerned about these 
+findings but was reassured upon being informed that this was not 
+likely to affect her quality of life or affect her given her 
+severe underlying pulmonary disease. Will be followed by Dr. 
+___ recommended ___ CT in 4 months if patient 
+desires to follow these lung nodules.
+
+#Goals of care
+Given patient's severe underlying COPD and significant dyspnea 
+even at rest palliative care was consulted for symptom 
+management and goals of care discussion. Patient valued being at 
+home and spending time at home and also decided to change code 
+status to DNR/DNI. Initiated morphine as noted above which 
+patient tolerated well; she had mild metabolic alkalosis which 
+was initially concerning for respiratory acidosis but pH was 
+normal.
+
+#Hospital-acquired pneumonia
+Chest x-ray on ___ was concerning for possible multifocal 
+pneumonia. Though the patient did not have symptoms consistent 
+with pneumonia and did not express a leukocytosis, given her 
+poor pulmonary reserve she was initiated on empiric course of 
+antibiotics for hospital-acquired pneumonia with vancomycin and 
+ceftazidime. Vancomycin was discontinued after MRSA swab 
+resulted negative and ceftazidime was completed for 7-day 
+course.
+
+#HFpEF
+HF with recovered LVEF (takotsubo CMP), stable over past month 
+on Lasix 20mg PO. NYHA Class: II. ACC/AHA Stage: C. No evidence 
+of volume overload on exam, CXR without pulmonary edema, and BNP 
+723 (mildly elevated). Do not suspect HF contributory to current 
+presentation. She was continued on IV equivalent of her home 
+Lasix and transitioned to her home dose of Lasix 20mg PO on 
+___. Creatinine and electrolytes were trended daily and 
+remained normal.
+Admission weight: 120 lbs
+Discharge weight: 115.7 lbs
+Dry weight: 130 lb per outpatient records 
+
+CHRONIC ISSUES 
+=============== 
+#HTN
+Initially held home antihypertensives in the setting of possible 
+infection/pneumonia, restarted amlodipine prior to discharge and 
+lisinopril restarted on discharge.
+
+#HLD
+Continue home atorvastatin.
+
+#CAD
+Continued home aspirin 81 
+
+#DEPRESSION, ANXIETY
+Continued home buspirone 7.5 mg PO BID 
+Continued home mirtazapine 15 mg PO/NG QHS
+
+#GERD
+Continued home omeprazole 40 mg PO DAILY
+
+TRANSITIONAL ISSUES:
+====================
+[ ] Per Dr. ___ repeat CT scan in 4 months 
+(___) to follow lung nodules
+
+[ ] Plan for prednisone taper: 4 days (___) at 60 mg daily, 
+4d (___) at 40 mg daily, 4d (___) at 30 mg daily, 
+ongoing therapy at 20 mg daily thereafter/defer to Dr. 
+___
+
+[ ] Patient has care connection with palliative care pending for 
+ongoing symptom management and goals of care.
+
+[ ] Code status changed this admission to DNR/DNI with MOLST in 
+chart 
+
+CONTACT:
+Name of health care proxy: ___ 
+Phone number: ___ 
+CODE STATUS: DNR/DNI
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen ___ mg PO Q8H:PRN Pain - Mild/Fever 
+2. amLODIPine 5 mg PO DAILY 
+3. Artificial Tears ___ DROP BOTH EYES PRN dry eye 
+4. Aspirin 81 mg PO DAILY 
+5. Atorvastatin 40 mg PO QPM 
+6. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES Q8H 
+7. BusPIRone 7.5 mg PO BID 
+8. Ferrous Sulfate 325 mg PO BID 
+9. Lisinopril 10 mg PO DAILY 
+10. Mirtazapine 15 mg PO QHS 
+11. PredniSONE 20 mg PO DAILY 
+12. Advair HFA (fluticasone-salmeterol) 230-21 mcg/actuation 
+inhalation BID 
+13. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN dyspnea, wheeze 
+14. Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea, wheeze 
+15. Calcium Citrate + D (calcium citrate-vitamin D3) 315-200 
+mg-unit oral DAILY 
+16. Furosemide 20 mg PO DAILY 
+17. mometasone 0.1 % topical BID 
+18. Omeprazole 40 mg PO DAILY 
+19. Spiriva Respimat (tiotropium bromide) 2.5 mcg/actuation 
+inhalation DAILY 
+
+ 
+Discharge Medications:
+1.  Morphine Sulfate (Oral Solution) 2 mg/mL ___ mg PO Q6H:PRN 
+air hunger 
+RX *morphine 10 mg/5 mL ___ ml by mouth every eight (8) hours 
+Disp ___ Milliliter Milliliter Refills:*0 
+2.  PredniSONE 60 mg PO DAILY Duration: 3 Doses 
+___ 
+This is dose # 1 of 3 tapered doses
+Tapered dose - DOWN 
+RX *prednisone 10 mg ___ tablet(s) by mouth once a day Disp #*56 
+Tablet Refills:*0 
+3.  PredniSONE 40 mg PO DAILY Duration: 4 Doses 
+___ 
+This is dose # 2 of 3 tapered doses 
+4.  PredniSONE 30 mg PO DAILY Duration: 4 Doses 
+___ 
+This is dose # 3 of 3 tapered doses 
+5.  Acetaminophen ___ mg PO Q8H:PRN Pain - Mild/Fever  
+6.  Advair HFA (fluticasone-salmeterol) 230-21 mcg/actuation 
+inhalation BID  
+7.  Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN dyspnea, wheeze  
+8.  Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea, wheeze  
+9.  amLODIPine 5 mg PO DAILY  
+10.  Artificial Tears ___ DROP BOTH EYES PRN dry eye  
+11.  Aspirin 81 mg PO DAILY  
+12.  Atorvastatin 40 mg PO QPM  
+13.  Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES Q8H  
+14.  BusPIRone 7.5 mg PO BID  
+15.  Calcium Citrate + D (calcium citrate-vitamin D3) 315-200 
+mg-unit oral DAILY  
+16.  Ferrous Sulfate 325 mg PO BID  
+17.  Furosemide 20 mg PO DAILY  
+18.  Lisinopril 10 mg PO DAILY  
+19.  Mirtazapine 15 mg PO QHS  
+20.  mometasone 0.1 % topical BID  
+21.  Omeprazole 40 mg PO DAILY  
+22.  Spiriva Respimat (tiotropium bromide) 2.5 mcg/actuation 
+inhalation DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+Acute hypoxemic hypercapnic respiratory failure
+___ acquired pneumonia
+Severe chronic obstructive pulmonary disease
+Concern for primary malignancy of lung
+
+SECONDARY DIAGNOSES:
+Chronic heart failure with preserved ejection fraction
+Hypertension
+Coronary artery disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+- You were admitted for respiratory failure.
+
+What was done for me while I was in the hospital?  
+- In the hospital, you were diagnosed with a flare of your COPD 
+in the setting of a flu infection.
+
+- You were treated for the flu and you were given extra oxygen 
+with BiPAP and supplemental oxygen.
+
+- You were treated for a possible pneumonia.
+
+- You had a CT scan which ruled out a blood clot in your lung, 
+but identified two slowly growing, very small (approximately 1 
+cm ) nodules in your lung. These are concerning for cancer, but 
+given how small and slow growing they are, they are not likely 
+to affect your quality of life.
+
+What should I do when I leave the hospital?  
+- Please attend all of your appointments and take all your 
+medications listed below.
+
+- If you desire, you may have a ___ CT of your chest in 4 
+months to track the lung nodules.
+
+- You are discharged on a steroid taper. Be sure to take your 
+prednisone exactly as prescribed.
+
+Prednisone course:
+Plan for prednisone taper: 4 days (___) at 60 mg daily, 4d 
+(___) at 40 mg daily, 4d (___) at 30 mg daily, ongoing 
+therapy at 20 mg daily thereafter/defer to Dr. ___
+ 
+___,  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

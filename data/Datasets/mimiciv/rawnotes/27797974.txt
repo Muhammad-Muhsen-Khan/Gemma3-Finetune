@@ -1,0 +1,201 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Neosporin AF / tobramycin
+ 
+Attending: ___
+ 
+___ Complaint:
+Cancer of the proximal transverse colon.
+
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic right colectomy with wedge biopsy of the liver.
+
+ 
+Past Medical History:
+PMH:  
+ - HTN  
+ - macular degeneration  
+ - cataracts  
+ PSH:  
+ - appendectomy (___)  
+ - dermoid cyst removal (1960s)  
+ - breast cyst removal (1970s)  
+
+ 
+Social History:
+lives alone near ___
+two sons, one lives locally, involved
+ 
+Physical Exam:
+General: Doing well, tolerating a regular diet, pain controlled 
+with oral medications
+VSS
+Neuro: A&OX3
+Cardio/Pulm: no chest pain or shortness of breath
+Abd: lap sites closed with dermabond and intact without signs of 
+infection, abdomen soft and nondistended 
+___: No lower extremity edema
+ 
+Pertinent Results:
+___ 07:00AM BLOOD WBC-12.7* RBC-4.36 Hgb-10.3* Hct-32.9* 
+MCV-76* MCH-23.6* MCHC-31.3* RDW-16.6* RDWSD-45.1 Plt ___
+___ 06:42AM BLOOD WBC-10.5* RBC-4.30 Hgb-10.3* Hct-32.3* 
+MCV-75* MCH-24.0* MCHC-31.9* RDW-16.0* RDWSD-43.5 Plt ___
+___ 07:40PM BLOOD WBC-12.0*# RBC-4.83 Hgb-11.6 Hct-36.4 
+MCV-75* MCH-24.0* MCHC-31.9* RDW-16.1* RDWSD-43.3 Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 06:42AM BLOOD Plt ___
+___ 07:00AM BLOOD Glucose-88 UreaN-9 Creat-0.6 Na-139 K-4.0 
+Cl-104 HCO3-25 AnGap-14
+___ 06:42AM BLOOD Glucose-144* UreaN-15 Creat-0.6 Na-138 
+K-4.9 Cl-102 HCO3-26 AnGap-15
+___ 07:40PM BLOOD Glucose-224* UreaN-19 Creat-0.8 Na-136 
+K-3.2* Cl-98 HCO3-26 AnGap-15
+___ 07:00AM BLOOD Calcium-9.3 Phos-2.5* Mg-2.2
+___ 06:42AM BLOOD Calcium-9.1 Phos-4.1 Mg-2.1
+___ 07:40PM BLOOD Calcium-9.1 Phos-3.7 Mg-2.2
+ 
+Brief Hospital Course:
+Mrs. ___ did very well after her surgery. Post-operatively 
+she was advanced to clear liquids on post-op day one which she 
+tolerated well. All postoperative laboratory values were stable. 
+She ambulated without issue. Pain medications were transitioned 
+to pain medications by mouth. She passed flatus into 
+post-operative day two and tolerated two regular meals. She was 
+discharged home with appropriate follow-up. She was offered home 
+services however she refused. 
+ 
+Medications on Admission:
+- Aflibercept  
+ - Areds  
+ - Citracal  
+ - Flex gel  
+ - hydrochlorothiazide 25 2x/wk [has not taken for months]  
+ - Vitamin D3 1,000 qid  
+ - Flaxseed oil  
+ - Centrum silver  
+ - Ocuvite eye+multi 200-15-150 qid  
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q4H:PRN Pain - Mild 
+do not take more than 3000mg of Tylenol in 24 hours or drink 
+alcohol while taking 
+RX *acetaminophen 325 mg ___ tablet(s) by mouth every eight (8) 
+hours Disp #*50 Tablet Refills:*0 
+2.  aflibercept home dose  Other other 
+please resume home regimen  
+3.  Centrum Silver 
+(multivit-min-FA-lycopen-lutein;<br>mv-min-folic acid-lutein) 
+home dose  oral DAILY  
+4.  flaxseed oil home dose  oral DAILY  
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+do not drink alcohol or drive a car while taking this medication 
+
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*35 Tablet Refills:*0 
+6.  Vitamin D 1000 UNIT PO QID  
+7.home meds
+Citracal
+Flex gel
+Ocuvite
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Cancer of the proximal transverse colon.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital after a Laparoscopic Colectomy 
+for surgical management of your Cancer of the proximal 
+transverse colon. You have recovered from this procedure well 
+and you are now ready to return home. Samples from your colon 
+were taken and this tissue has been sent to the pathology 
+department for analysis. You will receive these pathology 
+results at your follow-up appointment. If there is an urgent 
+need for the surgeon to contact you regarding these results they 
+will contact you before this time. You have tolerated a regular 
+diet, are passing gas and your pain is controlled with pain 
+medications by mouth. You may return home to finish your 
+recovery.  
+ 
+Please monitor your bowel function closely. You may or may not 
+have had a bowel movement prior to your discharge which is 
+acceptable, however it is important that you have a bowel 
+movement in the next ___ days. After anesthesia it is not 
+uncommon for patient_x0092_s to have some decrease in bowel function 
+but you should not have prolonged constipation. Some loose stool 
+and passing of small amounts of dark, old appearing blood are 
+expected. However, if you notice that you are passing bright red 
+blood with bowel movements or having loose stool without 
+improvement please call the office or go to the emergency room 
+if the symptoms are severe. If you are taking narcotic pain 
+medications there is a risk that you will have some 
+constipation. Please take an over the counter stool softener 
+such as Colace, and if the symptoms do not improve call the 
+office. If you have any of the following symptoms please call 
+the office for advice or go to the emergency room if severe: 
+increasing abdominal distension, increasing abdominal pain, 
+nausea, vomiting, inability to tolerate food or liquids, 
+prolonged loose stool, or extended constipation.  
+ 
+You have ___ laparoscopic surgical incisions on your abdomen 
+which are closed with internal sutures and a skin glue called 
+Dermabond. These are healing well however it is important that 
+you monitor these areas for signs and symptoms of infection 
+including: increasing redness of the incision lines, 
+white/green/yellow/malodorous drainage, increased pain at the 
+incision, increased warmth of the skin at the incision, or 
+swelling of the area. Please call the office if you develop any 
+of these symptoms or a fever. You may go to the emergency room 
+if your symptoms are severe.  
+
+You may shower; pat the incisions dry with a towel, do not rub. 
+The small incisions may be left open to the air. If closed with 
+steri-strips (little white adhesive strips) instead of 
+Dermabond, these will fall off over time, please do not remove 
+them. Please no baths or swimming for 6 weeks after surgery 
+unless told otherwise by your surgical team.
+ 
+You will be prescribed narcotic pain medication Oxycodone. This 
+medication should be taken when you have pain and as needed as 
+written on the bottle. This is not a standing medication. You 
+should continue to take Tylenol for pain around the clock and 
+you can also take Advil. Please do not take more than 3000mg of 
+Tylenol in 24 hours. Do not drink alcohol while taking narcotic 
+pain medication or Tylenol. Please do not drive a car while 
+taking narcotic pain medication.
+  
+No heavy lifting greater than 6 lbs for until your first 
+post-operative visit after surgery. Please no strenuous activity 
+until this time unless instructed otherwise by Dr. ___, Dr. 
+___ Dr. ___.  
+ 
+Thank you for allowing us to participate in your care! Our hope 
+is that you will have a quick return to your life and usual 
+activities. 
+
+Good luck!  
+ 
+
+ 
+Followup Instructions:
+___

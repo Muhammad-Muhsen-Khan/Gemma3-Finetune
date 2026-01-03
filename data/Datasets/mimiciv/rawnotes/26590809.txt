@@ -1,0 +1,164 @@
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Nausea, vomiting
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms ___ presents for subacute nausea and vomiting.
+
+She states her symptoms began more than a month ago, beginning 
+with cough that she attributed to an upper respiratory infection 
+that "spread through her family."   Thereafter, she developed 
+nausea and vomiting and low appetite.  Nausea and vomiting is 
+usually during the day.   Over the past month, she's lost her 
+taste for food and says she's been unable to keep anything down, 
+although emesis has been only intermittent (not a daily 
+occurrence).   Nevertheless, she's lost 30 lbs over this period. 
+  She denies feeling depressed, or having constipation, 
+diarrhea.   No fevers, chills, weight loss, or other systemic 
+symptoms.  No prior recurrence of similar symptoms.   No chest 
+pain, shortness of breath, headache, visual changes, 12 pt ROS 
+otherwise negative.  
+
+She is up to date with mammographies but has not had a screening 
+colonoscopy.
+
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+Mother with heart disease.  
+ 
+Physical Exam:
+Vitals:  T 98.5 P 93 BP 180 / 96  RR 17  SaO2 98% RA 
+GEN: Black female, NAD, comfortable appearing  
+HEENT: ncat anicteric MMM  
+NECK: no lymphadenopathy, regularly circumscribed mole on left 
+side of neck
+CV: s1s2 rr no m/r/g  
+RESP: b/l ae no w/c/r  
+ABD: +bs, soft, NT, ND, no guarding or rebound  
+EXTR:no c/c/e 2+pulses  
+DERM: no rash  
+PSYCH: calm, cooperative  
+
+ 
+Pertinent Results:
+___ 03:45AM URINE  HOURS-RANDOM
+___ 03:45AM URINE  HOURS-RANDOM
+___ 03:45AM URINE  UHOLD-HOLD
+___ 03:45AM URINE  GR HOLD-HOLD
+___ 03:45AM URINE  COLOR-DkAmb APPEAR-Hazy SP ___
+___ 03:45AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-40 BILIRUBIN-SM  UROBILNGN->12 PH-6.0 
+LEUK-MOD
+___ 03:45AM URINE  RBC-9* WBC-15* BACTERIA-FEW YEAST-NONE 
+EPI-12 TRANS EPI-1
+___ 03:45AM URINE  HYALINE-5*
+___ 03:45AM URINE  MUCOUS-MANY
+___ 10:56PM   GLUCOSE-100 UREA N-10 CREAT-0.6 SODIUM-139 
+POTASSIUM-2.8* CHLORIDE-89* TOTAL CO2-31 ANION GAP-22*
+___ 10:56PM   estGFR-Using this
+___ 10:56PM   ALT(SGPT)-18 AST(SGOT)-49* ALK PHOS-45 TOT 
+BILI-1.8*
+___ 10:56PM   LIPASE-59
+___ 10:56PM   ALBUMIN-3.8 MAGNESIUM-1.2*
+___ 10:56PM   WBC-9.6 RBC-3.28* HGB-11.2 HCT-32.0* MCV-98 
+MCH-34.1* MCHC-35.0 RDW-13.1 RDWSD-46.6*
+___ 10:56PM   NEUTS-74.7* LYMPHS-15.1* MONOS-8.0 EOS-0.9* 
+BASOS-0.3 IM ___ AbsNeut-7.17* AbsLymp-1.45 AbsMono-0.77 
+AbsEos-0.09 AbsBaso-0.03
+___ 10:56PM   PLT COUNT-363
+================
+ 
+Brief Hospital Course:
+___ year old female presenting with 1 month of nausea, vomiting, 
+poor PO intake and weight loss.  We felt her symptoms were 
+secondary to a resolving gastroenteritis.  To treat this, we 
+started her on IV K+ and Mg+ as her electrolytes were depleted.  
+ We also performed a CT scan with IV contrast (no PO contrast 
+because she was not initially tolerating) with no signs of 
+obstruction or other process.  Total bilirubin was elevated to 
+2.0 with direct bilirubin at 1.3, however right upper quadrant 
+ultrasound revealed no obstruction or biliary pathology.   CT 
+scan did reveal hepatic steatosis which may represent fatty 
+liver disease; lipid profile was checked with was within normal 
+limits.  HbA1c was not checked.  No alcohol history.   She was 
+found to be hypertensive with BPs in the 160s-180s/100s - she 
+was started on lisinopril with significant improvement.   This 
+may represent underlying metabolic syndrome which may contribute 
+to fatty liver.  
+
+Her symptoms improved with IVFs and Zofran as needed.   
+Nutrition was consulted who recommended small, frequent meals.  
+She is due to see her PCP next week.   If her symptoms persist, 
+she may need further workup, including barium swallow and/or 
+endoscopy, or CT scan with oral contrast.      
+
+Calcifications in the left breast were noted on CT scan which 
+will require follow up mammogram.  
+
+She is also due for follow up colonoscopy and HbA1c.  
+
+ 
+Discharge Medications:
+1. Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+2. Potassium Chloride (Powder) 20 mEq PO DAILY 
+Mix with 8 ounces of water and take daily. 
+RX *potassium chloride [Klor-Con] 20 mEq 1 packet(s) by mouth 
+daily Disp #*5 Packet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Resolving gastroenteritis
+Hypokalemia and hypomagnesemia
+Hypertension 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+You were admitted for decreased nutritional intake.   To treat 
+you, we performed a CT scan and ultrasound and did not find any 
+abnormalities.   We think your symptoms are from a resolving 
+prior infection.  We gave you fluids to replete your potassium 
+and magnesium, which were very low.   We also had you meet with 
+a nutritionist to discuss your future diet.   Please take 
+potassium and magnesium tablets daily until you see your primary 
+care physician (see prescriptions).   We also noted that your 
+blood pressure was very high and we started you on a blood 
+pressure pill (lisinopril) which you should take daily.  
+
+We also noted an area on the CT scan in your left breast with 
+calcifications - this requires follow up with a mammogram.  
+Please discuss this with your PCP on follow up.  You are also 
+due for a colonoscopy. 
+ 
+Followup Instructions:
+___

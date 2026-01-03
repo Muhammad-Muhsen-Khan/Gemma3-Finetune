@@ -1,0 +1,502 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Hyponatremia
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ y/o M w/ a history of metastatic small cell lung cancer with 
+mets to brain, liver, and bone, who has had ___ 
+and ___ with resultant chest wall pain, and is presenting 
+today with increased pain. Wife reports that over the last two 
+weeks he has had intermittent confusion. He also says he has 
+felt more unsteady over the last several weeks, and has been 
+more confused as well. Has also had increased headaches over 
+this same time interval as well, predominantly bilateral and 
+frontal. Denies head/neck trauma with the falls. Had a one time 
+episode of small volume hemoptysis yesterday, but nothing since. 
+Some shoulder/chest pain on inspiration, none at rest, and no 
+dyspnea; he attributes this chest pain to his falls. Blind on 
+his left visual field from metastatic cancer. H/o A-Fib on 
+metoprolol.
+
+In the ED, VS: 98.3, 78, 99/55, 20, 100% RA on admission
+Triggered on arrival for SBP 70-80's. Improved to 130's during 
+ED course.
+Notable labs: Initial sodium 111, improved to 116 over ED 
+course. Pancytopenic.
+Imaging:
+CT head - WNL, no acute bleed, minor post-op changes from recent 
+craniotomy
+CTA chest - new bronchopneumonia and new lung nodules
+
+He was given 250cc NS, 3 salt tabs that the pt brought with him 
+from home, and was started on Vancomycin and Cefepime.
+
+On arrival to the FICU, he feels "better." His current 
+complaints are headache, which is frontal and has been for about 
+1 week, as well as cough for the past week with green sputum. 
+Denies fever/chills. He also endorses hallucinations.
+ 
+Past Medical History:
+- ___: Hemoptysis while on anti-coagulation for AFib, for
+which he was referred to a pulmonologist. CT chest showed ground
+glass opacities in the right upper lobe and a pleural-based
+density in the lingula, as well as a 2-3 mm right upper lobe
+nodule. 
+- ___: Bronchoscopy negative for malignancy. 
+- ___: Chest CT shows 6 mm right upper lobe nodule and
+near-resolution of previous ground glass opacities. 
+- ___: Repeat chest CT shows right upper lobe nodule
+increased to 8 mm in size.
+- ___: PET-CT shows FDG uptake in a 9 mm right upper lobe
+nodule, concerning for malignancy. 
+- ___: VATS with RUL wedge resection, followed by right 
+upper
+lobectomy by Dr. ___. Pathology showed 1.4 cm,
+undifferentiated, small cell lung cancer with negative margins.
+Lymph nodes positive at stations 10R, 11R, and 12R, and negative
+at 2R, 4R, and 7. pT1aN1Mx, limited stage. 
+- ___: MRI brain with no evidence of metastatic disease.  
+- ___: Initial medical oncology visit
+- ___: CT chest with mediastinal lymph node enlargement
+(could be post-operative enlargement, but remains suspicious). 
+- ___: C1D1 cisplatin/etoposide 
+- ___: C2D1 cisplatin/etoposide and start of XRT to right
+hilum and mediastinum. 
+- ___: C3D1 cisplatin/etoposide. 
+- ___: MRI brain normal. 
+- ___: C4D1 cisplatin/etoposide.
+- ___: Completes radiotherapy.
+- ___: Admitted to ___ with
+orthostasis, ___, and neutropenia without fever. 
+- ___: Orthostatic with ___, given IVF and metoprolol dosage
+decreased. 
+- ___: Continued orthostasis and ___, given 
+further
+IVF. 
+- ___: PET scan shows mild uptake in multiple mediastinal 
+and
+hilar lymph nodes, which have decreased in size. 
+- ___: Undergoes prophylactic cranial irradiation. 
+- ___: PET scan shows FDG-avid consolidative opacities in
+the right lower lobe and paramediastinal aspect of the right
+middle lobe (likely post-radiation pneumonitis and/or 
+infection),
+less extensive opacities in the anterointerior aspect of the
+right middle lobe with low level FDG-avidity (likely
+post-radiation), and no significant change in FDG-avid right
+hilar lymphadenopathy (possibly reactive).
+- ___: Bronchoscopy (performed because of hemoptysis while 
+INR
+was 4.0) shows no airway lesions. Slight bleeding was identified
+at the takeoff of the left mainstem bronchus just proximal to 
+the
+main carina. Electrocautery was performed at the site and the
+bleeding resolved. 
+- ___: MRI brain shows no evidence of metastatic disease. 
+- ___: CT chest shows no evidence of local recurrence, with
+smaller mediastinal lymph nodes since ___ and minimal 
+interval
+increase of the right pleural effusion. 
+- ___: CT torso shows new soft tissue right paratracheal
+station or non-opacified azygous vein, stable right lung
+radiation fibrosis, stable small right pleural effusion, mild
+cardiomegaly  with predominantly biatrial enlargement, and no
+evidence of metastatic disease within the abdomen or pelvis. 
+- ___: Surveillance CT torso shows that the 
+previously-noted
+soft tissue along the right lower paratracheal station was due 
+to
+a non-opacified portion of the azygos vein, with decrease in 
+size
+of a small right pleural effusion. A new 3 mm left upper lobe
+pulmonary nodule was noted. Asymmetric soft tissue involving the
+lateral right wall of the rectum with increased vascularity was
+noted, for which direct visualization was recommended. 
+- ___: Surveillance CT chest reveals evidence of disease
+progression, with new lytic osseous lesions of the right 
+anterior
+fourth rib with associated pleural and intramuscular invasion,
+multiple new hypodensities in the liver consistent with multiple
+liver metastases, and new 6 mm pulmonary nodules in the left
+lower lobe. 
+- ___: Bone scan shows an area of increased uptake in the
+right fourth rib, as well as a second area of increased uptake 
+in
+the right fifth rib and L4 vertebral body. MRI head demonstrates
+a new 8 mm ring-enhancing right parietal/occipital lobe lesion,
+highly concerning for metastatic small cell lung cancer. 
+- ___: Liver biopsy demonstrates metastatic undifferentiated
+small cell carcinoma, morphologically similar to the previous
+lung tumor resection. 
+- ___: Admitted to ___ with left arm pain and weakness, as
+well as severe hyponatremia (119 initially at ___. Evaluation of hyponatremia reveals SiADH, likely
+secondary to recurrent small cell lung cancer, for which free
+water restriction was instituted. 
+- ___: C1D1 carboplatin (AUC 5)/etoposide (100 mg/m2 on days
+___ with pegfilgrastim. 
+- ___: MRI of the cervical spine shows lesions at C6 and T1,
+likely reflecting metastatic disease, with no evidence of cord
+compression.
+- ___: Discharged to home with Na 123. 
+- ___: Na 135 at follow-up visit. 
+- ___: Na 139; administered 1L IV fluids because of
+hypotension and tachycardia, with subsequent normalization of BP
+and HR. 
+- ___: C2D1 carboplatin (AUC 5)/etoposide (80 mg/m2 on days
+___ with pegfilgrastim. Etoposide dose-reduced because of
+thrombocytopenia with C1. 
+- ___: MRI brain shows decrease in size of right
+parieto-occipital mass. 
+- ___: CT torso shows decrease in chest soft tissue and 
+liver
+metastatic lesions. 
+- ___: C3D1 carboplatin (AUC 5)/etoposide (80 mg/m2 on days
+___ with pegfilgrastim and zoledronic acid. Etoposide
+dose-reduced because of thrombocytopenia with C1.
+- ___: Diagnosed with pulmonary embolism in the setting of
+new dyspnea on exertion. Treated with heparin gtt, transitioned
+to enoxaparin. 
+- ___: Discharged to home on enoxaparin 80 mg SC bid. 
+- ___: C1D1 cisplatin 75 mg/m2/etoposide 80 mg/m2, with
+pegfilgrastim. 
+- ___: MRI brain parieto-occipital lobe mass decreased in
+size to 1x1mm
+- ___: C2D1 cisplatin 75 mg/m2/etoposide 80 mg/m2, with
+pegfilgrastim.
+- ___: C6D1 carboplatin/etoposide, with neulesta. Changed
+back to carboplatin given subjective hearing loss. Dose 
+reduction
+of carboplatin to an AUC of 4. 
+- ___: CT Torso with decreased size of liver lesions,
+decrease in number of lytic lesions, no new thoracic lesions
+- ___: C7D1 ___ (AUC 4)/etoposide
+ 
+Social History:
+___
+Family History:
+- Mother: alive, may have dementia, reports her 'becoming nasty'
+and confused
+- Father: died at ___ of colon cancer
+- Malignancies: colon cancer in uncle
+ 
+Physical ___:
+ADMISSION
+=================
+Vitals: T: 97.5, BP: 134/83, P: 82, R: 16, O2: 100% RA  
+GENERAL: Alert, oriented x3, NAD, appears older than stated age
+HEENT: PERRLA, left homonymous hemianopnia, sclera anicteric
+NECK:  No adenopathy or JVD
+LUNGS: Scattered rhonchi ___, normal resp effort
+CV: Irreg irreg, no m/r/g
+ABD:  Nontender, nondistended, ecchymoses evident 
+periumbilically at sites of lovenox injections
+EXT: Warm, perfused, no edema
+
+DISCHARGE
+=================
+VITALS T 36.6 BP 134/87 HR 92 RR 21 99% RA
+Gen: Caucasian male in NAD
+HEENT: EOMI grossly intact, alopecia, anicteric sclera, MMM
+Cor: irregular rhythm, no MRG
+Pulm: non-labored, CTAB
+Abd: soft NT ND
+Ext: wwp, Rt foot brace
+Neuro: Alert, speaking in full sentences
+
+ 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==========================
+___ 12:01PM BLOOD WBC-3.9* RBC-3.06* Hgb-10.5* Hct-28.7* 
+MCV-94# MCH-34.3* MCHC-36.6 RDW-13.2 RDWSD-44.8 Plt ___
+___ 12:01PM BLOOD Neuts-68.7 Lymphs-18.2* Monos-11.5 
+Eos-0.5* Baso-0.3 Im ___ AbsNeut-2.69 AbsLymp-0.71* 
+AbsMono-0.45 AbsEos-0.02* AbsBaso-0.01
+___ 12:01PM BLOOD ___ PTT-36.8* ___
+___ 12:01PM BLOOD Plt ___
+___ 12:01PM BLOOD Glucose-135* UreaN-18 Creat-0.6 Na-111* 
+K-6.7* Cl-84* HCO3-25 AnGap-9
+___ 06:36PM BLOOD Glucose-96 UreaN-14 Creat-0.5 Na-117* 
+K-4.0 Cl-85* HCO3-22 AnGap-14
+___ 12:01PM BLOOD ALT-34 AST-104* AlkPhos-47 TotBili-0.7
+___ 06:36PM BLOOD Calcium-8.5 Phos-1.0*# Mg-1.5* 
+UricAcd-2.7*
+___ 06:36PM BLOOD Osmolal-240*
+___ 06:36PM BLOOD TSH-1.0
+___ 12:25PM URINE Color-Yellow Appear-Clear Sp ___
+___ 12:25PM URINE Blood-SM  Nitrite-NEG Protein-30 
+Glucose-100 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 12:25PM URINE RBC-15* WBC-1 Bacteri-FEW Yeast-NONE 
+Epi-<1
+___ 12:25PM URINE Mucous-RARE
+___ 01:29AM URINE Hours-RANDOM Na-109 K-31 Cl-130
+___ 01:29AM URINE Osmolal-656
+
+PERTINENT LABS
+==========================
+___ 03:39AM BLOOD ALT-29 AST-25 AlkPhos-59 TotBili-0.9
+___ 06:36PM BLOOD Calcium-8.5 Phos-1.0*# Mg-1.5* 
+UricAcd-2.7*
+___ 01:45PM BLOOD Na-113* K-6.7*
+___ 02:32PM BLOOD Na-116* K-4.0
+___ 10:06PM BLOOD Na-116*
+___ 03:02AM BLOOD Na-117*
+___ 04:44AM BLOOD Na-117*
+___ 06:02AM BLOOD Na-123*
+___ 08:59AM BLOOD Na-118*
+___ 10:26AM BLOOD Na-118*
+___ 12:11PM BLOOD Na-120*
+___ 02:03PM BLOOD Na-118*
+___ 04:06PM BLOOD Na-121*
+___ 06:12PM BLOOD Na-121*
+___ 08:51PM BLOOD Na-122*
+___ 11:17PM BLOOD Na-126*
+___ 02:13AM BLOOD Na-123*
+___ 06:09AM BLOOD Na-126*
+___ 08:16AM BLOOD Na-125*
+___ 12:40PM BLOOD Na-123*
+___ 05:45PM BLOOD Na-125*
+___ 08:33PM BLOOD Na-126*
+___ 02:37AM BLOOD Na-126*
+___ 09:41AM BLOOD Na-128*
+___ 01:30PM BLOOD Na-127*
+___ 10:13PM BLOOD Na-130*
+
+MICROBIOLOGY
+=======================
+___ 12:25 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    <10,000 organisms/ml.
+
+___ 12:05 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+___ 6:36 pm MRSA SCREEN      Source: Nasal swab. 
+
+                            **FINAL REPORT ___
+
+   MRSA SCREEN (Final ___:    No MRSA isolated. 
+
+IMAGING/STUDIES
+======================== 
+ECG Study Date of ___  10:27:44 AM 
+ 
+Atrial fibrillation with a controlled ventricular response. 
+Ventricular ectopy versus aberrant conduction. Incomplete right 
+bundle-branch block. Possible right ventricular hypertrophy. 
+Compared to the previous tracing of ___ there is no 
+significant change.  
+
+ECG Study Date of ___  12:01:22 ___ 
+ 
+Atrial fibrillation. Incomplete right bundle-branch block. Low 
+voltage in the precordial leads. Compared to the previous 
+tracing of ___ ventricular ectopy versus aberrant 
+conduction is no longer present. 
+ 
+CT HEAD W/O CONTRAST ___
+ 
+1. No acute hemorrhage or new mass effect. 
+2. Multiple subcentimeter enhancing lesion seen on the ___ MRI are not appreciated on the present 
+noncontrast CT. 
+
+CTA CHEST W&W/O C&RECONS, NON-CORONARY  ___
+1.  No pulmonary embolus or acute aortic abnormality. 
+2.  Left lower lobe mucous impaction with associated 
+atelectasis, correlation for superimposed infection is 
+recommended. 
+3.  New 0.7 cm right middle lobe pulmonary nodule with increased 
+density of known 0.8 cm right lower lobe pulmonary nodule. 
+4.  Diffuse osseous metastatic disease, unchanged since prior 
+exam.  No 
+pathologic fracture. 
+5.  Moderate nonhemorrhagic pericardial effusion, slightly 
+increased since 
+prior examination. 
+
+DISCHARGE LABS
+=======================
+___ 01:43AM BLOOD WBC-2.8* RBC-2.51* Hgb-8.9* Hct-24.9* 
+MCV-99* MCH-35.5* MCHC-35.7 RDW-12.9 RDWSD-46.5* Plt Ct-53*
+___ 01:43AM BLOOD Glucose-97 UreaN-6 Creat-0.5 Na-128* 
+K-4.1 Cl-96 HCO3-23 AnGap-13
+___ 01:43AM BLOOD Calcium-8.0* Phos-1.8* Mg-1.___ y/o M with a h/o metastatic small cell lung ___, h/o PE on 
+lovenox, SIADH presenting with hyponatremia, confusion and 
+hemoptysis/cough concerning for pneumonia. 
+
+# Hyponatremia ___ SIADH
+The patient presented with an Na of 111, an acute drop from 
+recent baseline of 120s-130s. This was thought likely consistent 
+with SIADH due to his small cell lung cancer vs. pneumonia as 
+below given the elevated urine osm to 656 and urine sodium of 
+109. His TSH was found to be normal.  He was admitted to the ICU 
+for management. His sodium was slowly corrected with fluid 
+restriction, hypertonic saline gtt, and salt tabs with good 
+effect. His hypertonic saline was slowly tapered and he was 
+transitioned to salt tabs 2g TID on discharge. His confusion 
+improved but he still had nighttime delirium as further 
+described below despite improvement in his sodium. His sodium 
+was 128 on discharge. 
+
+#Small Cell Lung Cancer/ Goals of Care discussion
+The patient has advanced small cell lung cancer with mets to the 
+brain, liver and bone. He has undergone RUL lobectomy, 7 cycles 
+of ___, as well as 15x2 Gy of whole brain radiation, 
+resection and SRS of the left occipital lobe lesion, and 
+cyberknife therapy. In the ED a CTA was notable for anew 
+pulmonary nodule as well as interval increase in the size of 
+another nodule. He was seen by his oncology team while in the 
+ICU. After a goals of care discussion with his oncology and ICU 
+team, the patient and his family elected to be discharged home 
+from the ICU with home hospice.   
+
+# Altered mental status, delirium/hallucinations, recent falls
+Patient admitted with two recent falls in the week preceeding 
+the admission in the setting of feeling unsteady on his feet as 
+well as increased confusion and headaches. In the ED he had a CT 
+head which was negative for any new abdnormality. His altered 
+mental status was thought predominately due to hyponatremia 
+superimposed on brain mets/XRT. There was possibly an additional 
+component from his pneumonia. However he continued to have 
+delirium as well as hallucinations worse at night throughout the 
+admission despite correction of his hyponatremia and treatment 
+of his PNA. He was treated with Haldol, Seroquel and trazodone 
+for his delirium and hallucination while in the ICU. He will 
+continue on these medications when he returns home with hospice. 
+He had some anterior chest wall pain that was thought to be 
+likely due to musculoskeletal pain from the fall vs. pain from 
+his pneumonia that resolved. There was no indication for home ___ 
+on discharge.
+
+# HCAP/Hemoptysis
+The patient presented with one episode of hemoptysis the day 
+prior to admission, as well as a cough that he had had for a 
+week. The hemoptysis resolved. He underwent a CTA chest which 
+was negative for PE but notable for a left lower lobe mucous 
+impaction with associated atelectasis concerning for pneumonia. 
+The hemoptysis was thought to be due to his infection vs. 
+malignancy. There were no signs of PE on CTA. He was started on 
+Vanc/Cefepime in the ED and transitioned to levofloxacin to 
+complete an 8 day course. He remained afebrile and 
+hemodynamically stable. He was continued on lovenox given lack 
+of continued bleeding or evidence of hemodynamically significant 
+bleed.
+
+# Atrial fibrillation
+He was continued on metoprolol tartrate BID and lovenox. He 
+continued these medications on discharge.
+
+# H/o PE
+Patient continued lovenox as above.
+
+TRANSITIONAL ISSUES
+=====================
+NEW MEDS
+- Salt tabs 2 mg TID
+- Seroquel ___ mg QHS bedtime
+- Trazodone 50 mg PRN
+- Haldol ___ mg Q4HR PRN
+- Morphine comfort script for pain regimen and benzodiazepine 
+needs
+- Anti nausea medications PRN
+- 3 more days of levofloxacin 750 mg daily for 8 day course 
+(___)
+
+-Pt discharged home with hospice
+-DNR/DNI
+-HCP: Wife ___ ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Tartrate 50 mg PO BID 
+2. Enoxaparin Sodium 80 mg SC BID 
+3. Zolpidem Tartrate 10 mg PO QHS:PRN insomnia 
+4. Atorvastatin 20 mg PO QPM 
+5. Sodium Chloride 1 gm PO BID 
+
+ 
+Discharge Medications:
+1. Enoxaparin Sodium 80 mg SC Q12H 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+2. Metoprolol Tartrate 50 mg PO BID 
+3. Sodium Chloride 2 gm PO TID 
+4. Acetaminophen 650 mg PO Q6H:PRN pain, fever 
+5. Docusate Sodium 100 mg PO BID 
+6. Levofloxacin 750 mg PO DAILY 
+7. QUEtiapine Fumarate ___ mg PO QHS:PRN agitation 
+8. Senna 8.6 mg PO BID:PRN constipation 
+9. TraZODone 50 mg PO QHS:PRN pain 
+10. Haloperidol ___ mg PO Q4H:PRN agitation 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses
+==================
+Hyponatremia 
+Health Care Associated Pneumonia
+Encephalopathy
+Small Cell Lung Cancer
+Atrial Fibrillation
+Hemoptysis
+History of PE
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you during your stay at ___. You 
+were admitted to the hospital for low sodium levels due to your 
+lung cancer. You were given high salt fluids as well as salt 
+tabs to help control your salt level. You will continue to take 
+salt tabs after you leave the hospital to help keep your salt 
+level up.
+
+You also had evidence of an infection in your lungs. You 
+received antibiotics while you were here which you will need to 
+continue when you leave the hospital for three more days.
+
+After discussions with your oncologist and ICU team you decided 
+that you wanted to leave the hospital to be able to spend your 
+time at home with your family. You will have visiting nurses 
+come to your home to help you and your family with all of your 
+needs.
+
+We Wish You the Best!
+-Your ___ Care Team
+ 
+Followup Instructions:
+___
