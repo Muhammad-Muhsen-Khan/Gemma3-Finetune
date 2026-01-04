@@ -22,7 +22,7 @@ deepspeed src/train/train_sft.py \
     --bf16 True \
     --output_dir output/md_symptoms \
     --num_train_epochs 5 \
-    --per_device_train_batch_size 32 \
+    --per_device_train_batch_size 4 \
     --gradient_accumulation_steps 1 \
     --learning_rate 1e-5 \
     --projector_lr 1e-5 \
