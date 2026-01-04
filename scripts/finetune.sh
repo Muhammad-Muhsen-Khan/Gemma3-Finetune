@@ -12,7 +12,7 @@ deepspeed src/train/train_sft.py \
     --use_liger True \
     --deepspeed scripts/zero3.json \
     --model_id $MODEL_NAME \
-    --data_path data/train_reuters_sft.json \
+    --data_path data/train_mimiciv_sft.json \
     --image_folder /path/to/your/image/folder \
     --disable_flash_attn2 True \
     --lora_enable False \
@@ -20,9 +20,9 @@ deepspeed src/train/train_sft.py \
     --freeze_vision_tower False \
     --freeze_llm False \
     --bf16 True \
-    --output_dir output/reuters \
+    --output_dir output/mimic \
     --num_train_epochs 5 \
-    --per_device_train_batch_size 4 \
+    --per_device_train_batch_size 1 \
     --gradient_accumulation_steps 1 \
     --learning_rate 1e-5 \
     --projector_lr 1e-5 \
