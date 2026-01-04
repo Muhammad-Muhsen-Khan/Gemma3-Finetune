@@ -141,87 +141,88 @@ def make_sft_example(
         ],
     }
 
-# Load label mapping
-with open('Datasets/MD_sl/label_mapping.json', 'r') as file:
-    label_mapping = json.load(file)
+if __name__ == "__main__":
+    # Load label mapping
+    with open('Datasets/MD_sl/label_mapping.json', 'r') as file:
+        label_mapping = json.load(file)
 
-# Test datasets
-data_path = ['Datasets/MD_sl/UpdatedSingletonTrainValEntries_102k.csv']
-dataset_wout_level_0 = PatientEntriesDataset(data_path, label_mapping=label_mapping)
+    # Test datasets
+    data_path = ['Datasets/MD_sl/UpdatedSingletonTrainValEntries_102k.csv']
+    dataset_wout_level_0 = PatientEntriesDataset(data_path, label_mapping=label_mapping)
 
-labels_to_idx = dataset_wout_level_0.labels_to_idx
-idx_to_labels = dataset_wout_level_0.idx_to_labels
-n_classes = len(labels_to_idx)
+    labels_to_idx = dataset_wout_level_0.labels_to_idx
+    idx_to_labels = dataset_wout_level_0.idx_to_labels
+    n_classes = len(labels_to_idx)
 
-MD_sl_test = PatientEntriesDataset(
-    ['Datasets/MD_sl/SingletonTestEntries_10k.csv'], 
-    label_mapping=label_mapping, 
-    labels_to_idx=labels_to_idx)
+    MD_sl_test = PatientEntriesDataset(
+        ['Datasets/MD_sl/SingletonTestEntries_10k.csv'], 
+        label_mapping=label_mapping, 
+        labels_to_idx=labels_to_idx)
 
-MD_ml_test = MD_ml_Dataset('Datasets/MD_ml/new_multi_label_test_data.csv', 
-                            label_mapping, labels_to_idx=labels_to_idx, 
-                            data_split="test", train_size=6000, test_size=2000, val_size=302)
+    MD_ml_test = MD_ml_Dataset('Datasets/MD_ml/new_multi_label_test_data.csv', 
+                                label_mapping, labels_to_idx=labels_to_idx, 
+                                data_split="test", train_size=6000, test_size=2000, val_size=302)
 
-print(f"Test Datasets: \n\tMD_sl: {len(MD_sl_test)}\n\tMD_ml: {len(MD_ml_test)}")
+    print(f"Test Datasets: \n\tMD_sl: {len(MD_sl_test)}\n\tMD_ml: {len(MD_ml_test)}")
 
-# Training datasets
-data_path = 'Datasets/MD_ml/new_multi_label_test_data.csv'
-md_ml_train_dataset = MD_ml_Dataset(data_path, label_mapping, labels_to_idx=labels_to_idx, 
-                                    data_split="train", train_size=6000, test_size=2000, val_size=302)
-md_ml_val_dataset = MD_ml_Dataset(data_path, label_mapping, labels_to_idx=labels_to_idx, 
-                                    data_split="val", train_size=6000, test_size=2000, val_size=302)
+    # Training datasets
+    data_path = 'Datasets/MD_ml/new_multi_label_test_data.csv'
+    md_ml_train_dataset = MD_ml_Dataset(data_path, label_mapping, labels_to_idx=labels_to_idx, 
+                                        data_split="train", train_size=6000, test_size=2000, val_size=302)
+    md_ml_val_dataset = MD_ml_Dataset(data_path, label_mapping, labels_to_idx=labels_to_idx, 
+                                        data_split="val", train_size=6000, test_size=2000, val_size=302)
 
-MD_ml_labels = np.stack([dataset[idx][1] for dataset in [md_ml_train_dataset, md_ml_val_dataset] 
-                        for idx in range(len(dataset))])
-MD_ml_data = [dataset.data[idx][-1] for dataset in [md_ml_train_dataset, md_ml_val_dataset] 
-                for idx in range(len(dataset))]
+    MD_ml_labels = np.stack([dataset[idx][1] for dataset in [md_ml_train_dataset, md_ml_val_dataset] 
+                            for idx in range(len(dataset))])
+    MD_ml_data = [dataset.data[idx][-1] for dataset in [md_ml_train_dataset, md_ml_val_dataset] 
+                    for idx in range(len(dataset))]
 
-# Sample from MD_sl train & combine with MD_ml for balanced dataset
-MD_sl_dataset = pd.concat([dataset_wout_level_0.df, dataset_wout_level_0.L0])
-MD_sl_labels = MD_sl_dataset['Label'].to_numpy()
-MD_sl_data = MD_sl_dataset['Entry'].to_numpy().tolist()
+    # Sample from MD_sl train & combine with MD_ml for balanced dataset
+    MD_sl_dataset = pd.concat([dataset_wout_level_0.df, dataset_wout_level_0.L0])
+    MD_sl_labels = MD_sl_dataset['Label'].to_numpy()
+    MD_sl_data = MD_sl_dataset['Entry'].to_numpy().tolist()
 
-MD_sl_multi_label = np.zeros((len(MD_sl_labels), MD_ml_labels.shape[1]))
-for idx, label in enumerate(MD_sl_labels):
-    MD_sl_multi_label[idx, label] = 1
+    MD_sl_multi_label = np.zeros((len(MD_sl_labels), MD_ml_labels.shape[1]))
+    for idx, label in enumerate(MD_sl_labels):
+        MD_sl_multi_label[idx, label] = 1
 
-# Use Python list concatenation to avoid numpy dtype coercion for text
-all_data = list(MD_ml_data) + list(MD_sl_data)
-all_labels = np.vstack([MD_ml_labels, MD_sl_multi_label])
-# all_data = MD_sl_data
-# all_labels = MD_sl_multi_label
+    # Use Python list concatenation to avoid numpy dtype coercion for text
+    all_data = list(MD_ml_data) + list(MD_sl_data)
+    all_labels = np.vstack([MD_ml_labels, MD_sl_multi_label])
+    # all_data = MD_sl_data
+    # all_labels = MD_sl_multi_label
 
-# Create final train dataset (ONLY; this script is for generating training SFT data)
-train_dataset = MD_balanced_Dataset(
-    '',
-    texts=all_data,
-    labels=all_labels,
-    data_split="train",
-    train_size=0.95,
-)
+    # Create final train dataset (ONLY; this script is for generating training SFT data)
+    train_dataset = MD_balanced_Dataset(
+        '',
+        texts=all_data,
+        labels=all_labels,
+        data_split="train",
+        train_size=0.95,
+    )
 
-print(f"Datasets:\n\tTrain: {len(train_dataset)}\n\tn_classes: {n_classes}")
+    print(f"Datasets:\n\tTrain: {len(train_dataset)}\n\tn_classes: {n_classes}")
 
-# ============================================================================
-# Convert training dataset to SFT JSON format and save
-# ============================================================================
-script_dir = Path(__file__).parent
-output_path = script_dir / "train_md_symptoms_sft.json"
+    # ============================================================================
+    # Convert training dataset to SFT JSON format and save
+    # ============================================================================
+    script_dir = Path(__file__).parent
+    output_path = script_dir / "train_md_symptoms_sft.json"
 
-print("\nConverting training dataset to SFT JSON format...")
-sft_data: list[dict] = []
+    print("\nConverting training dataset to SFT JSON format...")
+    sft_data: list[dict] = []
 
-symptoms_list = [idx_to_labels[i] for i in range(len(idx_to_labels))]
-inputs_schema_json, outputs_schema_json = build_io_schemas_json()
-few_shot_input, few_shot_output = make_few_shot_examples(train_dataset, idx_to_labels, k=5, seed=42)
-system_prompt = make_system_prompt(symptoms_list, inputs_schema_json, outputs_schema_json, few_shot_input, few_shot_output)
+    symptoms_list = [idx_to_labels[i] for i in range(len(idx_to_labels))]
+    inputs_schema_json, outputs_schema_json = build_io_schemas_json()
+    few_shot_input, few_shot_output = make_few_shot_examples(train_dataset, idx_to_labels, k=5, seed=42)
+    system_prompt = make_system_prompt(symptoms_list, inputs_schema_json, outputs_schema_json, few_shot_input, few_shot_output)
 
-for i in range(len(train_dataset)):
-    text, y = train_dataset[i]
-    label_names = labels_vector_to_names(np.asarray(y), idx_to_labels)
-    sft_data.append(make_sft_example(i, text, label_names, system_prompt))
+    for i in range(len(train_dataset)):
+        text, y = train_dataset[i]
+        label_names = labels_vector_to_names(np.asarray(y), idx_to_labels)
+        sft_data.append(make_sft_example(i, text, label_names, system_prompt))
 
-with open(output_path, "w") as f:
-    json.dump(sft_data, f, indent=2)
+    with open(output_path, "w") as f:
+        json.dump(sft_data, f, indent=2)
 
-print(f"Saved SFT training data to: {output_path}")
+    print(f"Saved SFT training data to: {output_path}")
