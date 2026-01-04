@@ -12,7 +12,7 @@ deepspeed src/train/train_sft.py \
     --use_liger True \
     --deepspeed scripts/zero3.json \
     --model_id $MODEL_NAME \
-    --data_path data/train_md_symptoms_sft.json \
+    --data_path data/train_reuters_sft.json \
     --image_folder /path/to/your/image/folder \
     --disable_flash_attn2 True \
     --lora_enable False \
@@ -20,7 +20,7 @@ deepspeed src/train/train_sft.py \
     --freeze_vision_tower False \
     --freeze_llm False \
     --bf16 True \
-    --output_dir output/md_symptoms \
+    --output_dir output/reuters \
     --num_train_epochs 5 \
     --per_device_train_batch_size 4 \
     --gradient_accumulation_steps 1 \
