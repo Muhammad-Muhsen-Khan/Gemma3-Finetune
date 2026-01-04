@@ -143,11 +143,11 @@ def make_sft_example(
 
 if __name__ == "__main__":
     # Load label mapping
-    with open('Datasets/MD_sl/label_mapping.json', 'r') as file:
+    with open('/root/Gemma3-Finetune/data/Datasets/MD_sl/label_mapping.json', 'r') as file:
         label_mapping = json.load(file)
 
     # Test datasets
-    data_path = ['Datasets/MD_sl/UpdatedSingletonTrainValEntries_102k.csv']
+    data_path = ['/root/Gemma3-Finetune/data/Datasets/MD_sl/UpdatedSingletonTrainValEntries_102k.csv']
     dataset_wout_level_0 = PatientEntriesDataset(data_path, label_mapping=label_mapping)
 
     labels_to_idx = dataset_wout_level_0.labels_to_idx
@@ -155,18 +155,18 @@ if __name__ == "__main__":
     n_classes = len(labels_to_idx)
 
     MD_sl_test = PatientEntriesDataset(
-        ['Datasets/MD_sl/SingletonTestEntries_10k.csv'], 
+        ['/root/Gemma3-Finetune/data/Datasets/MD_sl/SingletonTestEntries_10k.csv'], 
         label_mapping=label_mapping, 
         labels_to_idx=labels_to_idx)
 
-    MD_ml_test = MD_ml_Dataset('Datasets/MD_ml/new_multi_label_test_data.csv', 
+    MD_ml_test = MD_ml_Dataset('/root/Gemma3-Finetune/data/Datasets/MD_ml/new_multi_label_test_data.csv', 
                                 label_mapping, labels_to_idx=labels_to_idx, 
                                 data_split="test", train_size=6000, test_size=2000, val_size=302)
 
     print(f"Test Datasets: \n\tMD_sl: {len(MD_sl_test)}\n\tMD_ml: {len(MD_ml_test)}")
 
     # Training datasets
-    data_path = 'Datasets/MD_ml/new_multi_label_test_data.csv'
+    data_path = '/root/Gemma3-Finetune/data/Datasets/MD_ml/new_multi_label_test_data.csv'
     md_ml_train_dataset = MD_ml_Dataset(data_path, label_mapping, labels_to_idx=labels_to_idx, 
                                         data_split="train", train_size=6000, test_size=2000, val_size=302)
     md_ml_val_dataset = MD_ml_Dataset(data_path, label_mapping, labels_to_idx=labels_to_idx, 
@@ -207,7 +207,7 @@ if __name__ == "__main__":
     # Convert training dataset to SFT JSON format and save
     # ============================================================================
     script_dir = Path(__file__).parent
-    output_path = script_dir / "train_md_symptoms_sft.json"
+    output_path = script_dir / "/root/Gemma3-Finetune/data/train_md_symptoms_sft.json"
 
     print("\nConverting training dataset to SFT JSON format...")
     sft_data: list[dict] = []
