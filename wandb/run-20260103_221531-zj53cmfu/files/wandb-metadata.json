@@ -1,0 +1,141 @@
+{
+  "os": "Linux-5.15.0-164-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.13.11",
+  "startedAt": "2026-01-03T22:15:31.287841Z",
+  "args": [
+    "--local_rank=0",
+    "--use_liger",
+    "True",
+    "--deepspeed",
+    "scripts/zero3.json",
+    "--model_id",
+    "google/gemma-3-4b-it",
+    "--data_path",
+    "data/train_md_symptoms_sft.json",
+    "--image_folder",
+    "/path/to/your/image/folder",
+    "--disable_flash_attn2",
+    "True",
+    "--lora_enable",
+    "False",
+    "--freeze_projector",
+    "False",
+    "--freeze_vision_tower",
+    "False",
+    "--freeze_llm",
+    "False",
+    "--bf16",
+    "True",
+    "--output_dir",
+    "output/md_symptoms",
+    "--num_train_epochs",
+    "5",
+    "--per_device_train_batch_size",
+    "4",
+    "--gradient_accumulation_steps",
+    "1",
+    "--learning_rate",
+    "1e-5",
+    "--projector_lr",
+    "1e-5",
+    "--vision_lr",
+    "2e-6",
+    "--weight_decay",
+    "0.1",
+    "--warmup_ratio",
+    "0.03",
+    "--adam_beta2",
+    "0.95",
+    "--lr_scheduler_type",
+    "cosine",
+    "--logging_steps",
+    "1",
+    "--tf32",
+    "True",
+    "--gradient_checkpointing",
+    "True",
+    "--report_to",
+    "wandb",
+    "--lazy_preprocess",
+    "True",
+    "--save_strategy",
+    "epoch",
+    "--save_steps",
+    "1",
+    "--save_total_limit",
+    "10",
+    "--dataloader_num_workers",
+    "64"
+  ],
+  "program": "/root/Gemma3-Finetune/src/train/train_sft.py",
+  "codePath": "src/train/train_sft.py",
+  "git": {
+    "remote": "https://github.com/Muhammad-Muhsen-Khan/Gemma3-Finetune",
+    "commit": "e4d728b12376e8aa42c6d3b111e044dabadac049"
+  },
+  "email": "mmkhan.avey@gmail.com",
+  "root": "/root/Gemma3-Finetune",
+  "host": "meaty-hairy-camel",
+  "executable": "/root/Gemma3-Finetune/.venv/bin/python",
+  "codePathLocal": "src/train/train_sft.py",
+  "cpu_count": 240,
+  "cpu_count_logical": 240,
+  "gpu": "NVIDIA B200",
+  "gpu_count": 8,
+  "disk": {
+    "/": {
+      "total": "1664830308352",
+      "used": "36051550208"
+    }
+  },
+  "memory": {
+    "total": "1555235676160"
+  },
+  "cpu": {
+    "count": 240,
+    "countLogical": 240
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA B200",
+      "memoryTotal": "192265846784",
+      "cudaCores": 18944
+    },
+    {
+      "name": "NVIDIA B200",
+      "memoryTotal": "192265846784",
+      "cudaCores": 18944
+    },
+    {
+      "name": "NVIDIA B200",
+      "memoryTotal": "192265846784",
+      "cudaCores": 18944
+    },
+    {
+      "name": "NVIDIA B200",
+      "memoryTotal": "192265846784",
+      "cudaCores": 18944
+    },
+    {
+      "name": "NVIDIA B200",
+      "memoryTotal": "192265846784",
+      "cudaCores": 18944
+    },
+    {
+      "name": "NVIDIA B200",
+      "memoryTotal": "192265846784",
+      "cudaCores": 18944
+    },
+    {
+      "name": "NVIDIA B200",
+      "memoryTotal": "192265846784",
+      "cudaCores": 18944
+    },
+    {
+      "name": "NVIDIA B200",
+      "memoryTotal": "192265846784",
+      "cudaCores": 18944
+    }
+  ],
+  "cudaVersion": "13.0"
+}

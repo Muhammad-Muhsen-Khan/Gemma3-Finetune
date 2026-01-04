@@ -4,7 +4,7 @@ MODEL_NAME="google/gemma-3-4b-it"
 
 export PYTHONPATH=src:$PYTHONPATH
 export WANDB_API_KEY="804f99947d014002648b0e99ae3c09633161e7a0"
-export WANDB_PROJECT="gemma3-1b-finetune-MD"
+export WANDB_PROJECT="gemma"
 
 # It is strongly recommended to train Gemma3 models with the `eager` attention implementation instead of `flash_attention_2`
 
