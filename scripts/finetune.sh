@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MODEL_NAME="google/gemma-3-4b-it"
+MODEL_NAME="google/medgemma-4b-it"
 
 export PYTHONPATH=src:$PYTHONPATH
 export WANDB_API_KEY="804f99947d014002648b0e99ae3c09633161e7a0"
@@ -12,7 +12,7 @@ deepspeed src/train/train_sft.py \
     --use_liger True \
     --deepspeed scripts/zero3.json \
     --model_id $MODEL_NAME \
-    --data_path data/train_mimiciv_sft.json \
+    --data_path data/train_md_symptoms_sft.json \
     --image_folder /path/to/your/image/folder \
     --disable_flash_attn2 True \
     --lora_enable False \
@@ -20,9 +20,9 @@ deepspeed src/train/train_sft.py \
     --freeze_vision_tower False \
     --freeze_llm False \
     --bf16 True \
-    --output_dir output/mimic \
+    --output_dir output/md_symptoms \
     --num_train_epochs 5 \
-    --per_device_train_batch_size 1 \
+    --per_device_train_batch_size 32 \
     --gradient_accumulation_steps 1 \
     --learning_rate 1e-5 \
     --projector_lr 1e-5 \
