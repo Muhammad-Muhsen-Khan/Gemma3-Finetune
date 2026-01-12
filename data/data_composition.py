@@ -19,10 +19,9 @@ def build_io_schemas_json() -> tuple[str, str]:
                     "title": "EntryInput",
                     "type": "object",
                     "properties": {
-                        "entry_id": {"type": "integer"},
                         "entry": {"type": "string", "description": "patient clinical entry"},
                     },
-                    "required": ["entry_id", "entry"],
+                    "required": ["entry"],
                 },
             }
         },
@@ -38,11 +37,10 @@ def build_io_schemas_json() -> tuple[str, str]:
                     "title": "EntryOutput",
                     "type": "object",
                     "properties": {
-                        "entry_id": {"type": "integer"},
                         "sct_id": {"type": "string", "description": "SNOMED CT concept ID"},
                         "label": {"type": "string", "description": "SNOMED CT clinical finding or disorder label"},
                     },
-                    "required": ["entry_id", "sct_id", "label"],
+                    "required": ["sct_id", "label"],
                 },
             }
         },
@@ -66,14 +64,12 @@ def make_few_shot_examples(
 
     entries = []
     predictions = []
-    for entry_id, idx in enumerate(sample_indices):
+    for idx in sample_indices:
         row = df.iloc[idx]
         entries.append({
-            "entry_id": entry_id,
             "entry": str(row['entry']).strip()
         })
         predictions.append({
-            "entry_id": entry_id,
             "sct_id": str(row['sct_id']).strip(),
             "label": str(row['label']).strip()
         })
@@ -131,13 +127,11 @@ def make_sft_example(
     """
     input_obj = {
         "entries": [{
-            "entry_id": int(example_id),
             "entry": str(entry_text).strip()
         }]
     }
     output_obj = {
         "predictions": [{
-            "entry_id": int(example_id),
             "sct_id": str(sct_id).strip(),
             "label": str(label).strip()
         }]
@@ -157,7 +151,7 @@ def make_sft_example(
 if __name__ == "__main__":
     # Load the SNOMED findings dataset
     script_dir = Path(__file__).parent
-    dataset_path = script_dir / "datasets" / "sampled_snomed_findings_2000_labels_closest_to_60.csv"
+    dataset_path = script_dir / "datasets" / "sampled_snomed_findings_2000_labels_closest_to_60_train.csv"
     
     print(f"Loading dataset from: {dataset_path}")
     df = pd.read_csv(dataset_path, encoding='utf-8')
