@@ -1,27 +1,29 @@
 #!/bin/bash
 
-MODEL_NAME="google/gemma-3-4b-it"
+MODEL_NAME="output/checkpoint-447"
 
 export PYTHONPATH=src:$PYTHONPATH
+export WANDB_API_KEY="804f99947d014002648b0e99ae3c09633161e7a0"
+export WANDB_PROJECT="gemma"
 
 deepspeed src/train/train_grpo.py \
     --optim adamw_bnb_8bit \
-    --max_completion_length 256 \
-    --max_prompt_length 512 \
+    --max_completion_length 64 \
+    --max_prompt_length 1024 \
     --deepspeed scripts/zero3.json \
     --model_id $MODEL_NAME \
-    --data_path /path/to/your/training/data.json \
+    --data_path /root/Gemma3-Finetune/data/train_snomed_prediction_sft.json \
     --image_folder /path/to/your/image/folder \
     --disable_flash_attn2 True \
     --lora_enable False \
-    --freeze_projector False \
-    --freeze_vision_tower False \
+    --freeze_projector True \
+    --freeze_vision_tower True \
     --freeze_llm False \
     --bf16 True \
-    --output_dir output/test \
-    --num_train_epochs 1 \
+    --output_dir output/snomed_prediction_grpo \
+    --num_train_epochs 5 \
     --num_generations 2 \
-    --per_device_train_batch_size 1 \
+    --per_device_train_batch_size 4 \
     --gradient_accumulation_steps 1 \
     --learning_rate 1e-5 \
     --projector_lr 1e-5 \
@@ -32,9 +34,9 @@ deepspeed src/train/train_grpo.py \
     --logging_steps 1 \
     --tf32 True \
     --gradient_checkpointing True \
-    --report_to tensorboard \
+    --report_to wandb \
     --lazy_preprocess True \
     --save_strategy "steps" \
-    --save_steps 200 \
+    --save_steps 50 \
     --save_total_limit 10 \
-    --dataloader_num_workers 4
+    --dataloader_num_workers 64

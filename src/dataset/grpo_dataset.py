@@ -66,7 +66,7 @@ class GRPODataset(Dataset):
         gpt_response = conversations[1]
 
         text_content = {"type": "text", "text": user_input['content']}
-        contents = images + [text_content]
+        contents = [text_content]
 
         user_prompt = [{"role": "user", "content": contents}]
 

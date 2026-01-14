@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 import numpy as np
 import pandas as pd
+from transformers import AutoProcessor
 
 
 def build_io_schemas_json() -> tuple[str, str]:
@@ -182,21 +183,50 @@ if __name__ == "__main__":
     print("\nConverting dataset to SFT JSON format...")
     sft_data: list[dict] = []
     
+    # Load tokenizer for counting tokens
+    print("Loading tokenizer...")
+    model_id = "google/gemma-3-4b-it"
+    processor = AutoProcessor.from_pretrained(model_id)
+    tokenizer = processor.tokenizer
+    
     inputs_schema_json, outputs_schema_json = build_io_schemas_json()
     few_shot_input, few_shot_output = make_few_shot_examples(df, k=5, seed=42)
     system_prompt = make_system_prompt(inputs_schema_json, outputs_schema_json, few_shot_input, few_shot_output)
     
+    # Track maximum token counts
+    max_prompt_tokens = 0
+    max_response_tokens = 0
+    max_total_tokens = 0
+    
     for idx, row in df.iterrows():
-        sft_data.append(make_sft_example(
+        example = make_sft_example(
             idx,
             row['entry'],
             row['sct_id'],
             row['label'],
             system_prompt
-        ))
+        )
+        sft_data.append(example)
+        
+        # Tokenize prompt and response
+        prompt_text = example["conversations"][0]["value"]
+        response_text = example["conversations"][1]["value"]
+        
+        prompt_tokens = len(tokenizer.encode(prompt_text, add_special_tokens=False))
+        response_tokens = len(tokenizer.encode(response_text, add_special_tokens=False))
+        total_tokens = prompt_tokens + response_tokens
+        
+        # Update maximums
+        max_prompt_tokens = max(max_prompt_tokens, prompt_tokens)
+        max_response_tokens = max(max_response_tokens, response_tokens)
+        max_total_tokens = max(max_total_tokens, total_tokens)
     
     with open(output_path, "w", encoding='utf-8') as f:
         json.dump(sft_data, f, indent=2, ensure_ascii=False)
     
     print(f"Saved SFT training data to: {output_path}")
     print(f"Total examples: {len(sft_data)}")
+    print(f"\nToken Statistics:")
+    print(f"  Maximum prompt tokens: {max_prompt_tokens}")
+    print(f"  Maximum response tokens: {max_response_tokens}")
+    print(f"  Maximum total tokens (prompt + response): {max_total_tokens}")
