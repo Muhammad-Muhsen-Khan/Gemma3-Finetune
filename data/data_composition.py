@@ -188,7 +188,7 @@ def make_sft_example(
 if __name__ == "__main__":
     # Load the SNOMED findings dataset
     script_dir = Path(__file__).parent
-    dataset_path = script_dir / "datasets" / "snomed_synthesis_dataset.csv"
+    dataset_path = script_dir / "datasets" / "snomed_synthesis_dataset_train.csv"
     
     print(f"Loading dataset from: {dataset_path}")
     df = pd.read_csv(dataset_path, encoding='utf-8')

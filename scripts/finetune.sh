@@ -16,11 +16,11 @@ deepspeed src/train/train_sft.py \
     --image_folder /path/to/your/image/folder \
     --disable_flash_attn2 True \
     --lora_enable False \
-    --freeze_projector True \
+    --freeze_projector False \
     --freeze_vision_tower True \
     --freeze_llm False \
     --bf16 True \
-    --output_dir output/snomed_prediction \
+    --output_dir /workspace/snomed_prediction \
     --num_train_epochs 10 \
     --per_device_train_batch_size 32 \
     --gradient_accumulation_steps 1 \
