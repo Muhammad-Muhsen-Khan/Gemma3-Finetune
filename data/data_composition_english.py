@@ -18,7 +18,7 @@ def format_few_shot_example(entry: str, sct_id: str, label: str, reasoning: str 
     example = f"Patient entry: {entry}\n"
     if reasoning:
         example += f"Reasoning: {reasoning}\n"
-    example += f"The SCTID is {sct_id} and the SNOMED description is {label}."
+    example += f"SCTID: {sct_id}, SNOMED description: {label}."
     return example
 
 
@@ -110,9 +110,9 @@ def make_sft_example(
     
     # Create answer in plain English format
     if reasoning is not None and str(reasoning).strip():
-        answer = f"Reasoning: {reasoning}\nThe SCTID is {sct_id} and the SNOMED description is {label}."
+        answer = f"Reasoning: {reasoning}, SCTID: {sct_id}, SNOMED description: {label}."
     else:
-        answer = f"The SCTID is {sct_id} and the SNOMED description is {label}."
+        answer = f"SCTID: {sct_id}, SNOMED description: {label}."
     
     return {
         "id": f"{example_id:012d}",
