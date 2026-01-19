@@ -5,19 +5,21 @@ import pandas as pd
 from transformers import AutoProcessor
 
 
-def format_few_shot_example(entry: str, sct_id: str, label: str, reasoning: str | None = None) -> str:
+def format_few_shot_example(entry: str, sct_id: str, label: str, reasoning: str | None = None, include_reasoning: bool = False) -> str:
     """
     Format a few-shot example in plain English.
+    Note: Few-shot examples always use the simple format without reasoning tags,
+    even when reasoning is enabled (reasoning tags are only used in actual SFT examples).
     
     Args:
         entry: Patient clinical entry text
         sct_id: SNOMED CT concept ID
         label: SNOMED CT label
-        reasoning: Optional reasoning text
+        reasoning: Optional reasoning text (not used in few-shot examples)
+        include_reasoning: Whether reasoning is enabled (not used here, kept for API consistency)
     """
+    # Always use simple format for few-shot examples
     example = f"Patient entry: {entry}\n"
-    if reasoning:
-        example += f"Reasoning: {reasoning}\n"
     example += f"SCTID: {sct_id}, SNOMED description: {label}."
     return example
 
@@ -53,7 +55,7 @@ def make_few_shot_examples(
         if include_reasoning and 'reasoning' in row and pd.notna(row['reasoning']):
             reasoning = str(row['reasoning']).strip()
         
-        example = format_few_shot_example(entry, sct_id, label, reasoning)
+        example = format_few_shot_example(entry, sct_id, label, reasoning, include_reasoning=include_reasoning)
         examples.append(example)
     
     return "\n\n".join(examples)
@@ -61,11 +63,32 @@ def make_few_shot_examples(
 
 def make_system_prompt(
     few_shot_examples: str,
+    include_reasoning: bool = False,
 ) -> str:
     """
     Create system prompt for SNOMED code and label prediction task in plain English.
+    
+    Args:
+        few_shot_examples: Few-shot examples string
+        include_reasoning: If True, use the reasoning format with tags
     """
-    return f"""
+    if include_reasoning:
+        return f"""A conversation between User and Assistant. The user asks a question, and the Assistant solves it. The assistant first thinks about the reasoning process in the mind and then provides the user with the answer. The reasoning process and answer are enclosed within <think>...</think> and <answer>...</answer> tags, respectively, i.e., <think> reasoning process here </think> <answer> answer here </answer>.
+
+You are a medical coding assistant. Given a patient clinical entry, identify the corresponding SNOMED CT concept code and clinical finding or disorder description.
+
+Your task is to:
+1. Analyze the patient entry text
+2. Think through the reasoning process for identifying the medical finding or disorder
+3. Provide the SNOMED CT concept ID (SCTID) and the corresponding SNOMED description
+
+Here are some examples:
+
+{few_shot_examples}
+
+Now, analyze the following patient entry and provide your reasoning and answer in the required format.""".strip()
+    else:
+        return f"""
 You are a medical coding assistant. Given a patient clinical entry, identify the corresponding SNOMED CT concept code and clinical finding or disorder description.
 
 Your task is to:
@@ -88,6 +111,7 @@ def make_sft_example(
     label: str,
     system_prompt: str,
     reasoning: str | None = None,
+    include_reasoning: bool = False,
 ) -> dict:
     """
     Create an SFT example in the expected LLaVA-style JSON format:
@@ -100,32 +124,42 @@ def make_sft_example(
         label: SNOMED CT label
         system_prompt: The system prompt to use
         reasoning: Optional reasoning text (if None, not included in output)
+        include_reasoning: If True, format with reasoning tags
     """
     entry_text = str(entry_text).strip()
     sct_id = str(sct_id).strip()
     label = str(label).strip()
     
-    # Create prompt with patient entry
-    prompt = f"{system_prompt}\n\nPatient entry: {entry_text}"
-    
-    # Create answer in plain English format
-    if reasoning is not None and str(reasoning).strip():
-        answer = f"Reasoning: {reasoning}, SCTID: {sct_id}, SNOMED description: {label}."
+    if include_reasoning and reasoning is not None and str(reasoning).strip():
+        # Format with reasoning tags: system prompt + user message + assistant response with tags
+        user_message = f"User: {entry_text}"
+        answer_text = f"SCTID: {sct_id}, SNOMED description: {label}."
+        assistant_message = f"Assistant: <think> {reasoning} </think> <answer> {answer_text} </answer>"
+        
+        return {
+            "id": f"{example_id:012d}",
+            "conversations": [
+                {"from": "human", "value": f"{system_prompt}\n\n{user_message}"},
+                {"from": "gpt", "value": assistant_message},
+            ],
+        }
     else:
+        # Original format: system prompt with patient entry, then answer
+        prompt = f"{system_prompt}\n\nPatient entry: {entry_text}"
         answer = f"SCTID: {sct_id}, SNOMED description: {label}."
-    
-    return {
-        "id": f"{example_id:012d}",
-        "conversations": [
-            {"from": "human", "value": prompt},
-            {"from": "gpt", "value": answer},
-        ],
-    }
+        
+        return {
+            "id": f"{example_id:012d}",
+            "conversations": [
+                {"from": "human", "value": prompt},
+                {"from": "gpt", "value": answer},
+            ],
+        }
 
 
 if __name__ == "__main__":
     # Flag to control whether to include reasoning in outputs
-    include_reasoning = False
+    include_reasoning = True
     
     # Load the SNOMED findings dataset
     script_dir = Path(__file__).parent
@@ -182,7 +216,7 @@ if __name__ == "__main__":
         tokenizer = processor.tokenizer
     
     few_shot_examples = make_few_shot_examples(df, k=5, seed=42, include_reasoning=include_reasoning)
-    system_prompt = make_system_prompt(few_shot_examples)
+    system_prompt = make_system_prompt(few_shot_examples, include_reasoning=include_reasoning)
     
     # Track maximum token counts (only if counting tokens)
     max_prompt_tokens = 0
@@ -205,7 +239,8 @@ if __name__ == "__main__":
             row['sct_id'],
             row['label'],
             system_prompt,
-            reasoning=reasoning_value
+            reasoning=reasoning_value,
+            include_reasoning=include_reasoning
         )
         sft_data.append(example)
         
