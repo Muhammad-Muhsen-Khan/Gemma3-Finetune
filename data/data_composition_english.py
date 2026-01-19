@@ -132,9 +132,9 @@ def make_sft_example(
     
     if include_reasoning and reasoning is not None and str(reasoning).strip():
         # Format with reasoning tags: system prompt + user message + assistant response with tags
-        user_message = f"User: {entry_text}"
+        user_message = f"User: {entry_text}.\nAssistant: "
         answer_text = f"SCTID: {sct_id}, SNOMED description: {label}."
-        assistant_message = f"Assistant: <think> {reasoning} </think> <answer> {answer_text} </answer>"
+        assistant_message = f"<think> {reasoning} </think> <answer> {answer_text} </answer>"
         
         return {
             "id": f"{example_id:012d}",
