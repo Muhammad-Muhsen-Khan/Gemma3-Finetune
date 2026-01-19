@@ -20,7 +20,7 @@ deepspeed src/train/train_sft.py \
     --freeze_vision_tower True \
     --freeze_llm False \
     --bf16 True \
-    --output_dir /workspace/snomed_prediction \
+    --output_dir /outputs/snomed_4999_models \
     --num_train_epochs 10 \
     --per_device_train_batch_size 32 \
     --gradient_accumulation_steps 1 \
