@@ -170,3 +170,4 @@ logs/*.log
 testing.ipynb
 
 *_sft.json
+*_rl.json

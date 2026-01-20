@@ -1,18 +1,19 @@
 #!/bin/bash
 
-MODEL_NAME="output/checkpoint-447"
+MODEL_NAME="output/checkpoint-2976"
 
 export PYTHONPATH=src:$PYTHONPATH
 export WANDB_API_KEY="804f99947d014002648b0e99ae3c09633161e7a0"
 export WANDB_PROJECT="gemma"
 
 deepspeed src/train/train_grpo.py \
+    --loss_type "grpo" \
     --optim adamw_bnb_8bit \
-    --max_completion_length 64 \
-    --max_prompt_length 1024 \
+    --max_completion_length 512 \
+    --max_prompt_length 256 \
     --deepspeed scripts/zero3.json \
     --model_id $MODEL_NAME \
-    --data_path /root/Gemma3-Finetune/data/train_snomed_prediction_sft.json \
+    --data_path /root/Gemma3-Finetune/data/train_snomed_prediction_rl.json \
     --image_folder /path/to/your/image/folder \
     --disable_flash_attn2 True \
     --lora_enable False \
@@ -22,8 +23,8 @@ deepspeed src/train/train_grpo.py \
     --bf16 True \
     --output_dir output/snomed_prediction_grpo \
     --num_train_epochs 5 \
-    --num_generations 2 \
-    --per_device_train_batch_size 4 \
+    --num_generations 8 \
+    --per_device_train_batch_size 96 \
     --gradient_accumulation_steps 1 \
     --learning_rate 1e-5 \
     --projector_lr 1e-5 \
@@ -37,6 +38,6 @@ deepspeed src/train/train_grpo.py \
     --report_to wandb \
     --lazy_preprocess True \
     --save_strategy "steps" \
-    --save_steps 50 \
+    --save_steps 100 \
     --save_total_limit 10 \
     --dataloader_num_workers 64
