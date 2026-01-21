@@ -367,9 +367,14 @@ class GemmaGRPOTrainer(Trainer):
         # Processing class
         if processing_class is None:
             processing_class = AutoProcessor.from_pretrained(model_id)
-            pad_token_id = processing_class.tokenizer.pad_token_id
-            processing_class.pad_token_id = pad_token_id
-            processing_class.eos_token_id = processing_class.tokenizer.eos_token_id
+        
+        pad_token_id = processing_class.tokenizer.pad_token_id
+        processing_class.pad_token_id = pad_token_id
+        processing_class.eos_token_id = processing_class.tokenizer.eos_token_id
+
+        # Add support for <end_of_turn> token as well as the standard EOS token
+        from src.constants import DEFAULT_END_TOKEN
+        self.end_of_turn_token_id = processing_class.tokenizer.convert_tokens_to_ids(DEFAULT_END_TOKEN)
 
         # Reward functions
         if not isinstance(reward_funcs, list):
@@ -581,7 +586,7 @@ class GemmaGRPOTrainer(Trainer):
                 max_new_tokens=self.max_completion_length,
                 do_sample=True,
                 pad_token_id=processing_class.pad_token_id,
-                eos_token_id=processing_class.eos_token_id,
+                eos_token_id=[processing_class.eos_token_id, self.end_of_turn_token_id],
                 temperature=self.temperature,
                 top_p=self.top_p,
                 top_k=self.top_k,
@@ -893,7 +898,7 @@ class GemmaGRPOTrainer(Trainer):
             completion_ids = prompt_completion_ids[:, prompt_length:]
 
         # Mask everything after the first EOS token
-        is_eos = completion_ids == self.processing_class.eos_token_id
+        is_eos = (completion_ids == self.processing_class.eos_token_id) | (completion_ids == self.end_of_turn_token_id)
         eos_idx = torch.full((is_eos.size(0),), is_eos.size(1), dtype=torch.long, device=device)
         eos_idx[is_eos.any(dim=1)] = is_eos.int().argmax(dim=1)[is_eos.any(dim=1)]
         sequence_indices = torch.arange(is_eos.size(1), device=device).expand(is_eos.size(0), -1)
