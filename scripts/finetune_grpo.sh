@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MODEL_NAME="output/checkpoint-2976"
+MODEL_NAME="/workspace/output/checkpoint-2976"
 
 export PYTHONPATH=src:$PYTHONPATH
 export WANDB_API_KEY="804f99947d014002648b0e99ae3c09633161e7a0"
@@ -9,7 +9,7 @@ export WANDB_PROJECT="gemma"
 deepspeed src/train/train_grpo.py \
     --loss_type "grpo" \
     --optim adamw_bnb_8bit \
-    --max_completion_length 512 \
+    --max_completion_length 256 \
     --max_prompt_length 256 \
     --deepspeed scripts/zero3.json \
     --model_id $MODEL_NAME \
@@ -21,9 +21,9 @@ deepspeed src/train/train_grpo.py \
     --freeze_vision_tower True \
     --freeze_llm False \
     --bf16 True \
-    --output_dir output/snomed_prediction_grpo \
+    --output_dir /workspace/output/snomed_prediction_grpo \
     --num_train_epochs 5 \
-    --num_generations 8 \
+    --num_generations 4 \
     --per_device_train_batch_size 96 \
     --gradient_accumulation_steps 1 \
     --learning_rate 1e-5 \

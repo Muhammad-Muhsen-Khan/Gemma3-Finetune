@@ -59,14 +59,14 @@ def make_rl_example(
         "label": label
     }
     assistant_message = json.dumps(ground_truth, ensure_ascii=False)
-    
-    return {
-        "id": f"{example_id:012d}",
-        "conversations": [
+        
+        return {
+            "id": f"{example_id:012d}",
+            "conversations": [
             {"from": "human", "value": user_message},
-            {"from": "gpt", "value": assistant_message},
-        ],
-    }
+                {"from": "gpt", "value": assistant_message},
+            ],
+        }
 
 
 if __name__ == "__main__":
@@ -132,7 +132,7 @@ if __name__ == "__main__":
             reasoning=reasoning_value,
         )
         rl_data.append(example)
-    
+        
     # Save the dataset
     with open(output_path, "w", encoding='utf-8') as f:
         json.dump(rl_data, f, indent=2, ensure_ascii=False)

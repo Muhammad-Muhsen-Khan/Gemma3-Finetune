@@ -9,8 +9,14 @@ from datetime import datetime
 # GLOBAL TRACKING
 # ============================================================================
 
+# Configuration: Set the number of steps per epoch
+# This is used to calculate the current epoch from the step number
+STEPS_PER_EPOCH = 566  # Change this value to match your training setup
+
 # Global dictionary to track reasoning trajectories across training steps
 reasoning_dict = {"total_reasonings": 0}
+# Global step counter for tracking save intervals
+_step_counter = 0
 
 # ============================================================================
 # ORIGINAL IMPLEMENTATIONS (COMMENTED OUT - PRESERVED FOR REFERENCE)
@@ -71,12 +77,37 @@ reasoning_dict = {"total_reasonings": 0}
 # # NEW IMPLEMENTATIONS FOR JSON/SNOMED PREDICTION TASK
 # # ============================================================================
 
+def extract_snomed_codes(text):
+    """
+    Extract all SNOMED CT codes from a given piece of text.
+    SNOMED CT codes are typically numeric strings (6-18 digits).
+    Returns a list of unique SNOMED codes found in the text.
+    """
+    # First, try to extract from <answer> tags if present
+    answer_match = re.search(r"<answer>(.*?)</answer>", text, re.DOTALL)
+    search_text = answer_match.group(1).strip() if answer_match else text
+    
+    # Find all numeric sequences that could be SNOMED codes
+    # SNOMED CT codes are typically 6-18 digits long
+    # Pattern: sequences of digits, potentially with commas/spaces around them
+    snomed_pattern = r'\b\d{6,18}\b'
+    matches = re.findall(snomed_pattern, search_text)
+    
+    # Return unique codes (as strings)
+    return list(set(matches))
+
+
 def snomed_sctid_reward(completions, assistant, **kwargs):
     """
     Reward function for SNOMED SCTID prediction.
-    - +1.0 reward if the ground truth SCTID is found anywhere in the output.
-    - -1.0 reward if the ground truth SCTID is missing.
-    - Logs reasoning processes (<think> tags) only if the SCTID prediction is correct.
+    - Extracts all SNOMED codes from the output (preferring <answer> tags if present).
+    - +1.0 reward if the correct SCTID is found in the extracted codes.
+    - -1.0 reward for each wrong SCTID found in the extracted codes.
+    - Defaults to -1.0 reward if no <answer> tags are present.
+    - Always logs raw content when the answer is correct.
+    - Increments think counter only when <think> tags are found.
+    - Saves reasoning dictionary every 50 steps in epoch-specific folders:
+      /log/epoch_{epoch}/step_{step:05d}_snomed_reasoning_tracking.json
     """
     global reasoning_dict
     
@@ -92,54 +123,93 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
             gt_data = json.loads(asst['content'])
             target_sctid = str(gt_data.get('sct_id', '')).strip()
             entry_id = str(gt_data.get('id', '')).strip()
-        except (json.JSONDecodeError, KeyError, TypeError):
+        except (json.JSONDecodeError, KeyError, TypeError) as e:
             rewards.append(0.0)
             warnings.warn(f"[REWARD LOG] Failed to parse ground truth: {e}")
             continue
+        
+        # Check if <answer> tags are present
+        has_answer_tags = bool(re.search(r"<answer>.*?</answer>", content, re.DOTALL))
+        
+        # Extract SNOMED codes from the content
+        extracted_codes = extract_snomed_codes(content)
+        
+        # Initialize reward
+        reward = 0.0
+        correct_found = False
+        
+        # If no answer tags, default to -1
+        if not has_answer_tags:
+            reward = -1.0
+        else:
+            # Check if target SCTID is in the extracted codes
+            if target_sctid in extracted_codes:
+                reward += 1.0
+                correct_found = True
             
-        # 1. SCTID Reward Logic: Check if target SCTID is anywhere in the output
-        if target_sctid and target_sctid in content:
-            reward = 1.0
+            # Penalize for each wrong SCTID found
+            for code in extracted_codes:
+                if code != target_sctid:
+                    reward -= 1.0
+        
+        # Always log raw content when answer is correct
+        if correct_found:
+            if entry_id not in reasoning_dict:
+                reasoning_dict[entry_id] = []
+            reasoning_dict[entry_id].append(content)
             
-            # 2. Reasoning Tracking Logic (Only if the prediction is correct)
+            # Increment think counter only if <think> tags are found
             think_match = re.search(r"<think>(.*?)</think>", content, re.DOTALL)
             if think_match:
                 reasoning_str = think_match.group(1).strip()
                 if reasoning_str:
-                    # Increment global counter
                     reasoning_dict["total_reasonings"] += 1
-                    
-                    # Store reasoning per unique entry ID
-                    if entry_id not in reasoning_dict:
-                        reasoning_dict[entry_id] = []
-                    reasoning_dict[entry_id].append(content)
-        else:
-            reward = -1.0
             
         rewards.append(reward)
 
-    # 3. Persistence: Save to /log/ and time the operation
-    save_start = time.time()
-    log_dir = "/log"
+    # 3. Persistence: Save to /log/ every 50 steps in epoch-specific folders
+    global _step_counter
     
-    # Attempt to use /log/ as requested, fallback to ./log/ if permission denied
-    try:
-        if not os.path.exists(log_dir):
-            os.makedirs(log_dir, exist_ok=True)
-    except OSError:
-        log_dir = os.path.join(os.getcwd(), "log")
-        os.makedirs(log_dir, exist_ok=True)
-            
-    log_file = os.path.join(log_dir, "snomed_reasoning_tracking.json")
+    # Get step number from kwargs if available, otherwise use global counter
+    current_step = kwargs.get('step', _step_counter)
+    _step_counter = current_step + 1
     
-    try:
-        with open(log_file, "w", encoding='utf-8') as f:
-            json.dump(reasoning_dict, f, ensure_ascii=False, indent=2)
+    # Calculate current epoch from step number
+    current_epoch = current_step // STEPS_PER_EPOCH
+    
+    # Only save every 50 steps
+    if current_step % 50 == 0:
+        save_start = time.time()
+        base_log_dir = "/log"
         
-        save_duration = time.time() - save_start
-        # Print terminal warning with save duration
-        print(f"[REWARD LOG] Reasoning dictionary saved to {log_file} in {save_duration:.4f} seconds. Total reasonings: {reasoning_dict['total_reasonings']}")
-    except Exception as e:
-        print(f"[REWARD LOG] Failed to save reasoning log: {e}")
+        # Attempt to use /log/ as requested, fallback to ./log/ if permission denied
+        try:
+            if not os.path.exists(base_log_dir):
+                os.makedirs(base_log_dir, exist_ok=True)
+        except OSError:
+            base_log_dir = os.path.join(os.getcwd(), "log")
+            os.makedirs(base_log_dir, exist_ok=True)
+        
+        # Create epoch-specific folder
+        epoch_log_dir = os.path.join(base_log_dir, f"epoch_{current_epoch}")
+        try:
+            if not os.path.exists(epoch_log_dir):
+                os.makedirs(epoch_log_dir, exist_ok=True)
+        except OSError as e:
+            print(f"[REWARD LOG] Failed to create epoch directory {epoch_log_dir}: {e}")
+            return rewards
+        
+        # Include step number in filename: step_00050_snomed_reasoning_tracking.json
+        log_file = os.path.join(epoch_log_dir, f"step_{current_step:05d}_snomed_reasoning_tracking.json")
+        
+        try:
+            with open(log_file, "w", encoding='utf-8') as f:
+                json.dump(reasoning_dict, f, ensure_ascii=False, indent=2)
+            
+            save_duration = time.time() - save_start
+            # Print terminal warning with save duration
+            print(f"[REWARD LOG] Reasoning dictionary saved to {log_file} in {save_duration:.4f} seconds. Epoch: {current_epoch}, Step: {current_step}, Total reasonings: {reasoning_dict['total_reasonings']}")
+        except Exception as e:
+            print(f"[REWARD LOG] Failed to save reasoning log: {e}")
 
     return rewards
