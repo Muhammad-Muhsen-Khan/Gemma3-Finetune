@@ -13,9 +13,7 @@ from datetime import datetime
 # This is used to calculate the current epoch from the step number
 STEPS_PER_EPOCH = 566  # Change this value to match your training setup
 
-# Global dictionary to track reasoning trajectories across training steps
-reasoning_dict = {"total_reasonings": 0}
-# Global step counter for tracking save intervals
+# Global step counter for tracking steps when not provided in kwargs
 _step_counter = 0
 
 # ============================================================================
@@ -104,17 +102,25 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
     - +1.0 reward if the correct SCTID is found in the extracted codes.
     - -1.0 reward for each wrong SCTID found in the extracted codes.
     - Defaults to -1.0 reward if no <answer> tags are present.
-    - Always logs raw content when the answer is correct.
-    - Increments think counter only when <think> tags are found.
-    - Saves reasoning dictionary every 50 steps in epoch-specific folders:
-      /log/epoch_{epoch}/step_{step:05d}_snomed_reasoning_tracking.json
+    - Appends correct trajectories to a JSONL file on each call:
+      /log/snomed_reasoning_tracking.jsonl
     """
-    global reasoning_dict
+    global _step_counter
+    
+    # Get step number from kwargs if available, otherwise use global counter
+    current_step = kwargs.get('step', _step_counter)
+    _step_counter = current_step + 1
+    
+    # Calculate current epoch from step number
+    current_epoch = current_step // STEPS_PER_EPOCH
     
     # Extract generated strings from model outputs
     contents = [completion[0]["content"] for completion in completions]
     
     rewards = []
+    # Collect correct trajectories: entry_ids and their corresponding content
+    correct_entry_ids = []
+    correct_trajectories = []
     
     for content, asst in zip(contents, assistant):
         # Parse the JSON ground truth created in the data composition script
@@ -142,44 +148,29 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
         if not has_answer_tags:
             reward = -1.0
         else:
-            # Check if target SCTID is in the extracted codes
-            if target_sctid in extracted_codes:
-                reward += 1.0
-                correct_found = True
-            
-            # Penalize for each wrong SCTID found
-            for code in extracted_codes:
-                if code != target_sctid:
-                    reward -= 1.0
+            # If answer tags are present but no codes are extracted, give negative reward
+            if len(extracted_codes) == 0 or not extracted_codes:
+                reward = -1.0
+            else:
+                # Check if target SCTID is in the extracted codes
+                if target_sctid in extracted_codes:
+                    reward += 1.0
+                    correct_found = True
+                
+                # Penalize for each wrong SCTID found
+                for code in extracted_codes:
+                    if code != target_sctid:
+                        reward -= 1.0
         
-        # Always log raw content when answer is correct
+        # Collect correct trajectories
         if correct_found:
-            if entry_id not in reasoning_dict:
-                reasoning_dict[entry_id] = []
-            reasoning_dict[entry_id].append(content)
-            
-            # Increment think counter only if <think> tags are found
-            think_match = re.search(r"<think>(.*?)</think>", content, re.DOTALL)
-            if think_match:
-                reasoning_str = think_match.group(1).strip()
-                if reasoning_str:
-                    reasoning_dict["total_reasonings"] += 1
-            
+            correct_entry_ids.append(entry_id)
+            correct_trajectories.append(content)
+        
         rewards.append(reward)
 
-    # 3. Persistence: Save to /log/ every 50 steps in epoch-specific folders
-    global _step_counter
-    
-    # Get step number from kwargs if available, otherwise use global counter
-    current_step = kwargs.get('step', _step_counter)
-    _step_counter = current_step + 1
-    
-    # Calculate current epoch from step number
-    current_epoch = current_step // STEPS_PER_EPOCH
-    
-    # Only save every 50 steps
-    if current_step % 50 == 0:
-        save_start = time.time()
+    # Append to JSONL file if there are any correct trajectories
+    if correct_entry_ids:
         base_log_dir = "/log"
         
         # Attempt to use /log/ as requested, fallback to ./log/ if permission denied
@@ -190,26 +181,21 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
             base_log_dir = os.path.join(os.getcwd(), "log")
             os.makedirs(base_log_dir, exist_ok=True)
         
-        # Create epoch-specific folder
-        epoch_log_dir = os.path.join(base_log_dir, f"epoch_{current_epoch}")
-        try:
-            if not os.path.exists(epoch_log_dir):
-                os.makedirs(epoch_log_dir, exist_ok=True)
-        except OSError as e:
-            print(f"[REWARD LOG] Failed to create epoch directory {epoch_log_dir}: {e}")
-            return rewards
-        
-        # Include step number in filename: step_00050_snomed_reasoning_tracking.json
-        log_file = os.path.join(epoch_log_dir, f"step_{current_step:05d}_snomed_reasoning_tracking.json")
+        log_file = os.path.join(base_log_dir, "snomed_reasoning_tracking.jsonl")
         
         try:
-            with open(log_file, "w", encoding='utf-8') as f:
-                json.dump(reasoning_dict, f, ensure_ascii=False, indent=2)
+            # Create JSONL entry with step, epoch, entry_ids, and trajectories
+            jsonl_entry = {
+                "step": current_step,
+                "epoch": current_epoch,
+                "entry_ids": correct_entry_ids,
+                "trajectories": correct_trajectories
+            }
             
-            save_duration = time.time() - save_start
-            # Print terminal warning with save duration
-            print(f"[REWARD LOG] Reasoning dictionary saved to {log_file} in {save_duration:.4f} seconds. Epoch: {current_epoch}, Step: {current_step}, Total reasonings: {reasoning_dict['total_reasonings']}")
+            # Append to JSONL file
+            with open(log_file, "a", encoding='utf-8') as f:
+                f.write(json.dumps(jsonl_entry, ensure_ascii=False) + "\n")
         except Exception as e:
-            print(f"[REWARD LOG] Failed to save reasoning log: {e}")
+            print(f"[REWARD LOG] Failed to append to reasoning log: {e}")
 
     return rewards

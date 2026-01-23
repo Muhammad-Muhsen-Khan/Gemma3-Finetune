@@ -60,13 +60,13 @@ def make_rl_example(
     }
     assistant_message = json.dumps(ground_truth, ensure_ascii=False)
         
-        return {
-            "id": f"{example_id:012d}",
-            "conversations": [
-            {"from": "human", "value": user_message},
-                {"from": "gpt", "value": assistant_message},
-            ],
-        }
+    return {
+        "id": f"{example_id:012d}",
+        "conversations": [
+        {"from": "human", "value": user_message},
+            {"from": "gpt", "value": assistant_message},
+        ],
+    }
 
 
 if __name__ == "__main__":
