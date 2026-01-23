@@ -63,7 +63,7 @@ def split_dataset(
 if __name__ == "__main__":
     # Set paths
     script_dir = Path(__file__).parent
-    input_csv = script_dir / "datasets" / "snomed_synthesis_dataset.csv"
+    input_csv = script_dir / "datasets" / "snomed_synthesis_dataset_set_C.csv"
     
     # Check if input file exists
     if not input_csv.exists():
