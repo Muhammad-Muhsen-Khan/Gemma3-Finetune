@@ -14,6 +14,7 @@ import transformers
 import textwrap
 import safetensors
 import numpy as np
+import subprocess
 
 from torch.utils.data import DataLoader, Sampler
 
@@ -1289,9 +1290,59 @@ class GemmaGRPOTrainer(Trainer):
                 # Solely rely on numerical checkpoint id for rotation.
                 # mtime is not reliable especially on some fuse fs in cloud environments.
                 self._rotate_checkpoints(use_mtime=False, output_dir=run_dir)
+            
+            # Sync to GCS bucket after checkpoint is saved (only on main process)
+            if self.accelerator.is_main_process:
+                try:
+                    gcs_dest = "gs://maven-symptom-eu-copy/snomed-research/snomed-4999labels-rl-v2"
+                    local_source = run_dir
+                    sync_cmd = [
+                        "gsutil", "-m", "rsync", "-r", 
+                        "-x", ".*global_step.*",
+                        local_source,
+                        gcs_dest
+                    ]
+                    logger.info(f"Syncing checkpoint to GCS: {' '.join(sync_cmd)}")
+                    result = subprocess.run(
+                        sync_cmd,
+                        capture_output=True,
+                        text=True,
+                        check=False  # Don't raise exception on error, just log it
+                    )
+                    if result.returncode == 0:
+                        logger.info(f"Successfully synced checkpoint to GCS")
+                    else:
+                        logger.warning(f"GCS sync failed with return code {result.returncode}: {result.stderr}")
+                except Exception as e:
+                    logger.warning(f"Failed to sync checkpoint to GCS: {e}")
 
         else:
             super(GemmaGRPOTrainer, self)._save_checkpoint(model, trial)
+            # Also sync for non-LoRA checkpoints
+            if self.accelerator.is_main_process:
+                try:
+                    run_dir = self._get_output_dir(trial=trial)
+                    gcs_dest = "gs://maven-symptom-eu-copy/snomed-research/snomed-4999labels-rl-v2"
+                    local_source = run_dir
+                    sync_cmd = [
+                        "gsutil", "-m", "rsync", "-r", 
+                        "-x", ".*global_step.*",
+                        local_source,
+                        gcs_dest
+                    ]
+                    logger.info(f"Syncing checkpoint to GCS: {' '.join(sync_cmd)}")
+                    result = subprocess.run(
+                        sync_cmd,
+                        capture_output=True,
+                        text=True,
+                        check=False
+                    )
+                    if result.returncode == 0:
+                        logger.info(f"Successfully synced checkpoint to GCS")
+                    else:
+                        logger.warning(f"GCS sync failed with return code {result.returncode}: {result.stderr}")
+                except Exception as e:
+                    logger.warning(f"Failed to sync checkpoint to GCS: {e}")
 
     def _save(self, output_dir: Optional[str] = None, state_dict=None):
             # If we are executing this function, we are the process zero, so we don't check for that.

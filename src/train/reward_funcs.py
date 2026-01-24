@@ -95,6 +95,43 @@ def extract_snomed_codes(text):
     return list(set(matches))
 
 
+def structure_reward(completions, assistant, **kwargs):
+    """
+    Reward function that checks if the completion has the correct structure.
+    Required structure:
+    - <think>...</think>
+    - <answer>...</answer>
+    - </answer> should be the last visible token (since <eos> comes after but isn't visible)
+    
+    Returns:
+    - +1.0 if structure is correct
+    - -1.0 if structure is incorrect
+    """
+    contents = [completion[0]["content"] for completion in completions]
+    rewards = []
+    
+    for content in contents:
+        # Check if <think>...</think> exists
+        has_reasoning = re.search(r"<think>.*?</think>", content, re.DOTALL) is not None
+        
+        # Check if <answer>...</answer> exists
+        has_answer = re.search(r"<answer>.*?</answer>", content, re.DOTALL) is not None
+        
+        # Check if </answer> is at the end of the text (allowing for whitespace)
+        # Since <eos> comes after but isn't visible, </answer> should be the last visible content
+        ends_with_answer = content.rstrip().endswith("</answer>")
+        
+        # Structure is correct if all conditions are met
+        if has_reasoning and has_answer and ends_with_answer:
+            reward = 1.0
+        else:
+            reward = -1.0
+        
+        rewards.append(reward)
+    
+    return rewards
+
+
 def snomed_sctid_reward(completions, assistant, **kwargs):
     """
     Reward function for SNOMED SCTID prediction with detailed matching logic.

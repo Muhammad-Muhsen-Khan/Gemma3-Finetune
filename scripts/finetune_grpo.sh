@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MODEL_NAME="google/gemma-3-4b-it"
+MODEL_NAME="output"
 
 export PYTHONPATH=src:$PYTHONPATH
 export WANDB_API_KEY="804f99947d014002648b0e99ae3c09633161e7a0"
@@ -23,10 +23,10 @@ deepspeed src/train/train_grpo.py \
     --freeze_vision_tower True \
     --freeze_llm False \
     --bf16 True \
-    --output_dir /workspace/output/snomed_prediction_grpo \
+    --output_dir /workspace/output/snomed-4999labels-rl-v2 \
     --num_train_epochs 5 \
     --num_generations 16 \
-    --per_device_train_batch_size 32 \
+    --per_device_train_batch_size 8 \
     --gradient_accumulation_steps 1 \
     --learning_rate 1e-5 \
     --projector_lr 1e-5 \
@@ -39,7 +39,7 @@ deepspeed src/train/train_grpo.py \
     --gradient_checkpointing True \
     --report_to wandb \
     --lazy_preprocess True \
-    --save_steps 4 \
+    --save_steps 100 \
     --sync_ref_model True \
     --ref_model_sync_steps 400 \
     --temperature 1.0 \
