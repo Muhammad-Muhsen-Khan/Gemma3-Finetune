@@ -12,7 +12,7 @@ deepspeed src/train/train_grpo.py \
     --epsilon 5 \
     --optim adamw_bnb_8bit \
     --max_completion_length 32768 \
-    --max_prompt_length 256 \
+    --max_prompt_length 512 \
     --deepspeed scripts/zero3.json \
     --model_id $MODEL_NAME \
     --data_path /root/Gemma3-Finetune/data/train_snomed_prediction_rl.json \
@@ -39,7 +39,10 @@ deepspeed src/train/train_grpo.py \
     --gradient_checkpointing True \
     --report_to wandb \
     --lazy_preprocess True \
-    --save_strategy "steps" \
-    --save_steps 100 \
-    --save_total_limit 10 \
+    --save_steps 4 \
+    --sync_ref_model True \
+    --ref_model_sync_steps 400 \
+    --temperature 1.0 \
+    --top_p 1.0 \
+    --save_total_limit 5 \
     --dataloader_num_workers 64

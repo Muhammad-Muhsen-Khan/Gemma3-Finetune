@@ -121,10 +121,12 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
     contents = [completion[0]["content"] for completion in completions]
     
     rewards = []
-    # Collect all trajectories: entry_ids, content, and rewards
+    # Collect all trajectories: entry_ids, content, rewards, and ground truth
     all_entry_ids = []
     all_trajectories = []
     all_rewards = []
+    all_ground_truth_sct_ids = []
+    all_ground_truth_labels = []
     
     for content, asst in zip(contents, assistant):
         # Parse the JSON ground truth created in the data composition script
@@ -133,6 +135,7 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
             gt_data = json.loads(asst['content'])
             target_sctid = str(gt_data.get('sct_id', '')).strip()
             entry_id = str(gt_data.get('id', '')).strip()
+            target_label = str(gt_data.get('label', '')).strip()
         except (json.JSONDecodeError, KeyError, TypeError) as e:
             reward = 0.0
             rewards.append(reward)
@@ -140,6 +143,8 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
             all_entry_ids.append('unknown')
             all_trajectories.append(content)
             all_rewards.append(reward)
+            all_ground_truth_sct_ids.append('unknown')
+            all_ground_truth_labels.append('unknown')
             warnings.warn(f"[REWARD LOG] Failed to parse ground truth: {e}")
             continue
         
@@ -154,6 +159,8 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
             all_entry_ids.append(entry_id)
             all_trajectories.append(content)
             all_rewards.append(reward)
+            all_ground_truth_sct_ids.append(target_sctid)
+            all_ground_truth_labels.append(target_label)
             continue
         
         # Initialize reward and tracking
@@ -207,6 +214,8 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
         all_entry_ids.append(entry_id)
         all_trajectories.append(content)
         all_rewards.append(reward)
+        all_ground_truth_sct_ids.append(target_sctid)
+        all_ground_truth_labels.append(target_label)
         
         rewards.append(reward)
 
@@ -225,13 +234,15 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
         log_file = os.path.join(base_log_dir, "snomed_reasoning_tracking.jsonl")
         
         try:
-            # Create JSONL entry with step, epoch, entry_ids, trajectories, and rewards
+            # Create JSONL entry with step, epoch, entry_ids, trajectories, rewards, and ground truth
             jsonl_entry = {
                 "step": current_step,
                 "epoch": current_epoch,
                 "entry_ids": all_entry_ids,
                 "trajectories": all_trajectories,
-                "rewards": all_rewards
+                "rewards": all_rewards,
+                "ground_truth_sct_ids": all_ground_truth_sct_ids,
+                "ground_truth_labels": all_ground_truth_labels
             }
             
             # Append to JSONL file
