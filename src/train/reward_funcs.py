@@ -121,9 +121,10 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
     contents = [completion[0]["content"] for completion in completions]
     
     rewards = []
-    # Collect correct trajectories: entry_ids and their corresponding content
-    correct_entry_ids = []
-    correct_trajectories = []
+    # Collect all trajectories: entry_ids, content, and rewards
+    all_entry_ids = []
+    all_trajectories = []
+    all_rewards = []
     
     for content, asst in zip(contents, assistant):
         # Parse the JSON ground truth created in the data composition script
@@ -133,7 +134,12 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
             target_sctid = str(gt_data.get('sct_id', '')).strip()
             entry_id = str(gt_data.get('id', '')).strip()
         except (json.JSONDecodeError, KeyError, TypeError) as e:
-            rewards.append(0.0)
+            reward = 0.0
+            rewards.append(reward)
+            # Still collect even if parsing fails
+            all_entry_ids.append('unknown')
+            all_trajectories.append(content)
+            all_rewards.append(reward)
             warnings.warn(f"[REWARD LOG] Failed to parse ground truth: {e}")
             continue
         
@@ -144,6 +150,10 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
         if len(extracted_codes) == 0:
             reward = -10.0
             rewards.append(reward)
+            # Still collect even if no codes extracted
+            all_entry_ids.append(entry_id)
+            all_trajectories.append(content)
+            all_rewards.append(reward)
             continue
         
         # Initialize reward and tracking
@@ -156,11 +166,10 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
             reward = 3.0
             correct_found = True
             
-            # Penalize wrong codes: -10/N for each wrong code (where N is number of wrong codes)
+            # Penalize wrong codes: -1 for each wrong code
             wrong_codes = [code for code in extracted_codes if code != target_sctid]
             if wrong_codes:
-                penalty_per_wrong = -10.0 / len(wrong_codes)
-                reward += penalty_per_wrong * len(wrong_codes)  # This equals -10 total
+                reward -= len(wrong_codes)  # Subtract 1 for each wrong code
         else:
             # No correct answer, find best matching code (only one code can contribute)
             target_length = len(target_sctid)
@@ -189,21 +198,20 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
                     # Only length matches, no digit matches: add 1
                     reward = 1.0
             
-            # Penalize all wrong codes: -10/N for each wrong code
+            # Penalize all wrong codes: -1 for each wrong code
             wrong_codes = [code for code in extracted_codes if code != target_sctid]
             if wrong_codes:
-                penalty_per_wrong = -10.0 / len(wrong_codes)
-                reward += penalty_per_wrong * len(wrong_codes)  # This equals -10 total
+                reward -= len(wrong_codes)  # Subtract 1 for each wrong code
         
-        # Collect correct trajectories
-        if correct_found:
-            correct_entry_ids.append(entry_id)
-            correct_trajectories.append(content)
+        # Collect all trajectories (not just correct ones)
+        all_entry_ids.append(entry_id)
+        all_trajectories.append(content)
+        all_rewards.append(reward)
         
         rewards.append(reward)
 
-    # Append to JSONL file if there are any correct trajectories
-    if correct_entry_ids:
+    # Append to JSONL file for all entries
+    if all_entry_ids:
         base_log_dir = "/log"
         
         # Attempt to use /log/ as requested, fallback to ./log/ if permission denied
@@ -217,12 +225,13 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
         log_file = os.path.join(base_log_dir, "snomed_reasoning_tracking.jsonl")
         
         try:
-            # Create JSONL entry with step, epoch, entry_ids, and trajectories
+            # Create JSONL entry with step, epoch, entry_ids, trajectories, and rewards
             jsonl_entry = {
                 "step": current_step,
                 "epoch": current_epoch,
-                "entry_ids": correct_entry_ids,
-                "trajectories": correct_trajectories
+                "entry_ids": all_entry_ids,
+                "trajectories": all_trajectories,
+                "rewards": all_rewards
             }
             
             # Append to JSONL file
