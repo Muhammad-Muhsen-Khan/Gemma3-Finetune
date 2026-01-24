@@ -3,7 +3,7 @@ name = "gemma3-finetune"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = "==3.13.*"
 dependencies = [
     "accelerate==1.6.0",
     "aiohappyeyeballs==2.6.1",
@@ -12,7 +12,6 @@ dependencies = [
     "annotated-types==0.7.0",
     "asttokens==3.0.0",
     "attrs==25.3.0",
-    "av==14.3.0",
     "bitsandbytes==0.45.5",
     "certifi==2025.4.26",
     "charset-normalizer==3.4.1",
@@ -98,12 +97,11 @@ dependencies = [
     "sympy==1.13.3",
     "tensorboardx==2.6.2.2",
     "tokenizers==0.21.1",
-    "torch==2.9.0",
+    "torch==2.10",
     "tornado==6.4.2",
     "tqdm==4.67.1",
     "traitlets==5.14.3",
     "transformers==4.51.3",
-    "triton==3.5.0",
     "trl==0.17.0",
     "typing-extensions==4.13.2",
     "typing-inspection==0.4.0",
@@ -117,4 +115,8 @@ dependencies = [
     "xxhash==3.5.0",
     "yarl==1.20.0",
     "zipp==3.21.0",
+    "flash-attn",
 ]
+
+[tool.uv.sources]
+flash-attn = { url = "https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.7.12/flash_attn-2.6.3+cu128torch2.10-cp313-cp313-linux_x86_64.whl" }

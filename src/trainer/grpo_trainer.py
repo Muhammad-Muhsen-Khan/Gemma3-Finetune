@@ -1293,6 +1293,80 @@ class GemmaGRPOTrainer(Trainer):
         else:
             super(GemmaGRPOTrainer, self)._save_checkpoint(model, trial)
 
+        # Evaluate on SNOMED datasets after checkpoint save
+        try:
+            from src.train.evaluate_snomed import evaluate_snomed_accuracy
+            
+            # Evaluate on both SNOMED test datasets
+            snomed_datasets = [
+                'data/datasets/snomed_synthesis_dataset_test.csv',
+                'data/datasets/snomed_synthesis_dataset_set_C_test.csv'
+            ]
+            
+            # Evaluate on full dataset
+            max_samples = None
+            # Use per-device batch size, will be distributed across all GPUs
+            eval_batch_size = self.args.per_device_eval_batch_size  # Smaller batch size due to num_return_sequences=16
+            
+            all_logs = {}
+            
+            for csv_path in snomed_datasets:
+                if not os.path.exists(csv_path):
+                    if self.accelerator.is_main_process:
+                        logger.warning(f"SNOMED evaluation CSV not found at {csv_path}, skipping")
+                    continue
+                
+                # Get dataset name for logging
+                dataset_name = os.path.basename(csv_path).replace('.csv', '').replace('snomed_synthesis_dataset_', '')
+                
+                # Set output directory to Gemma3-Finetune/results/
+                # output_dir is typically something like Gemma3-Finetune/outputs/checkpoint-xxx
+                # We want Gemma3-Finetune/results/
+                if hasattr(self.args, 'output_dir') and self.args.output_dir:
+                    # Go up from outputs/ to Gemma3-Finetune/, then into results/
+                    base_dir = os.path.dirname(os.path.dirname(self.args.output_dir))
+                    results_dir = os.path.join(base_dir, 'results')
+                else:
+                    # Fallback: try to find Gemma3-Finetune from current working directory
+                    cwd = os.getcwd()
+                    if 'Gemma3-Finetune' in cwd:
+                        base_dir = cwd[:cwd.find('Gemma3-Finetune') + len('Gemma3-Finetune')]
+                        results_dir = os.path.join(base_dir, 'results')
+                    else:
+                        results_dir = None
+                
+                results = evaluate_snomed_accuracy(
+                    trainer=self,
+                    csv_path=csv_path,
+                    max_samples=max_samples,
+                    batch_size=eval_batch_size,
+                    num_return_sequences=16,
+                    output_dir=results_dir,
+                )
+                
+                # Log metrics with dataset-specific prefixes
+                if self.accelerator.is_main_process:
+                    prefix = f"eval/snomed_{dataset_name}_"
+                    dataset_logs = {
+                        f"{prefix}full_text_sct_id_accuracy": results["full_text_sct_id_accuracy"],
+                        f"{prefix}full_text_label_accuracy": results["full_text_label_accuracy"],
+                        f"{prefix}answer_tag_sct_id_accuracy": results["answer_tag_sct_id_accuracy"],
+                        f"{prefix}answer_tag_label_accuracy": results["answer_tag_label_accuracy"],
+                        f"{prefix}answer_tags_found_rate": results["answer_tags_found_rate"],
+                        f"{prefix}accuracy@1": results["accuracy"],
+                        f"{prefix}pass@16": results["pass_at_k"],
+                    }
+                    all_logs.update(dataset_logs)
+            
+            # Log all metrics at once
+            if self.accelerator.is_main_process and all_logs:
+                if is_wandb_available() and wandb.run is not None:
+                    wandb.log(all_logs)
+                self.log(all_logs)
+        except Exception as e:
+            if self.accelerator.is_main_process:
+                logger.error(f"Error evaluating SNOMED datasets: {e}")
+
     def _save(self, output_dir: Optional[str] = None, state_dict=None):
             # If we are executing this function, we are the process zero, so we don't check for that.
             output_dir = output_dir if output_dir is not None else self.args.output_dir
