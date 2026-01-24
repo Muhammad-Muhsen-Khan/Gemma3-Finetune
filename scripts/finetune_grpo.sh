@@ -25,8 +25,8 @@ deepspeed src/train/train_grpo.py \
     --bf16 True \
     --output_dir /workspace/output/snomed_prediction_grpo \
     --num_train_epochs 5 \
-    --num_generations 15 \
-    --per_device_train_batch_size 6 \
+    --num_generations 16 \
+    --per_device_train_batch_size 32 \
     --gradient_accumulation_steps 1 \
     --learning_rate 1e-5 \
     --projector_lr 1e-5 \

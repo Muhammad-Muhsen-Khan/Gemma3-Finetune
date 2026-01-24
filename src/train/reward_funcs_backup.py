@@ -97,14 +97,11 @@ def extract_snomed_codes(text):
 
 def snomed_sctid_reward(completions, assistant, **kwargs):
     """
-    Reward function for SNOMED SCTID prediction with detailed matching logic.
-    - If no SCT IDs extracted: reward = -10
-    - For every wrong code: subtract a fraction of -10 (total -10 divided among wrong codes)
-    - For codes with same length as ground truth: match digits position by position
-      - Reward between 1-2 based on fraction of matching digits (only for best match)
-      - If only length matches (no digit matches): add 1 to reward
-    - If correct answer returned: add 3 to total reward
-    - Only 1 code may ever add a reward (the best match or correct one)
+    Reward function for SNOMED SCTID prediction.
+    - Extracts all SNOMED codes from the output (preferring <answer> tags if present).
+    - +1.0 reward if the correct SCTID is found in the extracted codes.
+    - -1.0 reward for each wrong SCTID found in the extracted codes.
+    - Defaults to -1.0 reward if no <answer> tags are present.
     - Appends correct trajectories to a JSONL file on each call:
       /log/snomed_reasoning_tracking.jsonl
     """
@@ -137,63 +134,33 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
             warnings.warn(f"[REWARD LOG] Failed to parse ground truth: {e}")
             continue
         
+        # Check if <answer> tags are present
+        has_answer_tags = bool(re.search(r"<answer>.*?</answer>", content, re.DOTALL))
+        
         # Extract SNOMED codes from the content
         extracted_codes = extract_snomed_codes(content)
         
-        # If no codes extracted: reward = -10
-        if len(extracted_codes) == 0:
-            reward = -10.0
-            rewards.append(reward)
-            continue
-        
-        # Initialize reward and tracking
+        # Initialize reward
         reward = 0.0
         correct_found = False
         
-        # Check if correct answer is in the list
-        if target_sctid in extracted_codes:
-            # Correct answer found: add 3
-            reward = 3.0
-            correct_found = True
-            
-            # Penalize wrong codes: -10/N for each wrong code (where N is number of wrong codes)
-            wrong_codes = [code for code in extracted_codes if code != target_sctid]
-            if wrong_codes:
-                penalty_per_wrong = -10.0 / len(wrong_codes)
-                reward += penalty_per_wrong * len(wrong_codes)  # This equals -10 total
+        # If no answer tags, default to -1
+        if not has_answer_tags:
+            reward = -1.0
         else:
-            # No correct answer, find best matching code (only one code can contribute)
-            target_length = len(target_sctid)
-            same_length_codes = [code for code in extracted_codes if len(code) == target_length]
-            
-            best_match = None
-            best_match_score = -1
-            best_match_digit_matches = 0
-            
-            if same_length_codes:
-                # Find the code with most matching digits at same positions
-                for code in same_length_codes:
-                    # Count matching digits at same positions
-                    matching_digits = sum(1 for i in range(min(len(code), len(target_sctid))) 
-                                        if code[i] == target_sctid[i])
-                    if matching_digits > best_match_score:
-                        best_match_score = matching_digits
-                        best_match = code
-                        best_match_digit_matches = matching_digits
+            # If answer tags are present but no codes are extracted, give negative reward
+            if len(extracted_codes) == 0 or not extracted_codes:
+                reward = -1.0
+            else:
+                # Check if target SCTID is in the extracted codes
+                if target_sctid in extracted_codes:
+                    reward += 1.0
+                    correct_found = True
                 
-                if best_match_score > 0:
-                    # Calculate reward based on fraction of matching digits: between 1 and 2
-                    fraction_matching = best_match_digit_matches / target_length
-                    reward = 1.0 + (1.0 * fraction_matching)  # Range: 1.0 to 2.0
-                else:
-                    # Only length matches, no digit matches: add 1
-                    reward = 1.0
-            
-            # Penalize all wrong codes: -10/N for each wrong code
-            wrong_codes = [code for code in extracted_codes if code != target_sctid]
-            if wrong_codes:
-                penalty_per_wrong = -10.0 / len(wrong_codes)
-                reward += penalty_per_wrong * len(wrong_codes)  # This equals -10 total
+                # Penalize for each wrong SCTID found
+                for code in extracted_codes:
+                    if code != target_sctid:
+                        reward -= 1.0
         
         # Collect correct trajectories
         if correct_found:
