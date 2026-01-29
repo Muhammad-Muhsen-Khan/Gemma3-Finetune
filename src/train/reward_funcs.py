@@ -164,6 +164,8 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
     all_rewards = []
     all_ground_truth_sct_ids = []
     all_ground_truth_labels = []
+    all_prompts = []
+    all_correct_flags = []
     
     for content, asst in zip(contents, assistant):
         # Parse the JSON ground truth created in the data composition script
@@ -182,6 +184,8 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
             all_rewards.append(reward)
             all_ground_truth_sct_ids.append('unknown')
             all_ground_truth_labels.append('unknown')
+            all_prompts.append(None)
+            all_correct_flags.append(False)
             warnings.warn(f"[REWARD LOG] Failed to parse ground truth: {e}")
             continue
         
@@ -198,6 +202,9 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
             all_rewards.append(reward)
             all_ground_truth_sct_ids.append(target_sctid)
             all_ground_truth_labels.append(target_label)
+            # prompt was extracted from gt_data above
+            all_prompts.append(str(gt_data.get('prompt', '')).strip() if isinstance(gt_data, dict) else None)
+            all_correct_flags.append(False)
             continue
         
         # Initialize reward and tracking
@@ -253,10 +260,17 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
         all_rewards.append(reward)
         all_ground_truth_sct_ids.append(target_sctid)
         all_ground_truth_labels.append(target_label)
+        # Capture optional prompt from ground truth data if present
+        try:
+            prompt_val = str(gt_data.get('prompt', '')).strip() if isinstance(gt_data, dict) else None
+        except Exception:
+            prompt_val = None
+        all_prompts.append(prompt_val)
+        all_correct_flags.append(bool(correct_found))
         
         rewards.append(reward)
 
-    # Append to JSONL file for all entries
+    # Save per-step JSON file in per-epoch folder (one file per global step)
     if all_entry_ids:
         base_log_dir = "/log"
         
@@ -267,25 +281,44 @@ def snomed_sctid_reward(completions, assistant, **kwargs):
         except OSError:
             base_log_dir = os.path.join(os.getcwd(), "log")
             os.makedirs(base_log_dir, exist_ok=True)
-        
-        log_file = os.path.join(base_log_dir, "snomed_reasoning_tracking.jsonl")
-        
+
+        # Create epoch folder inside base_log_dir
+        epoch_dir = os.path.join(base_log_dir, f"epoch_{current_epoch}")
         try:
-            # Create JSONL entry with step, epoch, entry_ids, trajectories, rewards, and ground truth
-            jsonl_entry = {
+            os.makedirs(epoch_dir, exist_ok=True)
+        except Exception:
+            # If creating epoch dir fails, fallback to base dir
+            epoch_dir = base_log_dir
+
+        # Include process rank in filename if provided via kwargs
+        process_index = kwargs.get("process_index", None)
+        rank_suffix = f"_rank{process_index}" if process_index is not None else ""
+
+        step_file = os.path.join(epoch_dir, f"{current_step}{rank_suffix}.json")
+        try:
+            # Build structured JSON with one file per step containing all entries for that step
+            json_entry = {
                 "step": current_step,
                 "epoch": current_epoch,
-                "entry_ids": all_entry_ids,
-                "trajectories": all_trajectories,
-                "rewards": all_rewards,
-                "ground_truth_sct_ids": all_ground_truth_sct_ids,
-                "ground_truth_labels": all_ground_truth_labels
+                "process_index": process_index,
+                "timestamp": datetime.now().isoformat(),
+                "entries": []
             }
-            
-            # Append to JSONL file
-            with open(log_file, "a", encoding='utf-8') as f:
-                f.write(json.dumps(jsonl_entry, ensure_ascii=False) + "\n")
+
+            for i in range(len(all_entry_ids)):
+                json_entry["entries"].append({
+                    "entry_id": all_entry_ids[i],
+                    "prompt": all_prompts[i] if i < len(all_prompts) else None,
+                    "response": all_trajectories[i],
+                    "reward": all_rewards[i],
+                    "ground_truth_sct_id": all_ground_truth_sct_ids[i],
+                    "ground_truth_label": all_ground_truth_labels[i],
+                    "correct": bool(all_correct_flags[i]) if i < len(all_correct_flags) else False
+                })
+
+            with open(step_file, "w", encoding='utf-8') as f:
+                json.dump(json_entry, f, ensure_ascii=False, indent=2)
         except Exception as e:
-            print(f"[REWARD LOG] Failed to append to reasoning log: {e}")
+            print(f"[REWARD LOG] Failed to write per-step reasoning log: {e}")
 
     return rewards

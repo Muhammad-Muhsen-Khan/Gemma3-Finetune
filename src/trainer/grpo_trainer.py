@@ -979,6 +979,13 @@ class GemmaGRPOTrainer(Trainer):
                     # Repeat all input columns (but "prompt" and "completion") to match the number of generations
                     keys = [key for key in inputs[0] if key not in ["prompt", "completion"]]
                     reward_kwargs = {key: [example[key] for example in inputs] for key in keys}
+                    # Pass local process index as a scalar (same for all examples)
+                    try:
+                        reward_kwargs["process_index"] = self.accelerator.process_index
+                    except Exception:
+                        # Fallback to 0 if attribute not available for some reason
+                        print(f"################################### Process index not available for some reason ###################################")
+                        reward_kwargs["process_index"] = getattr(self.accelerator, "process_index", 0)
                     output_reward_func = reward_func(prompts=prompts, completions=completions, **reward_kwargs)
                     # Convert None values to NaN
                     output_reward_func = [reward if reward is not None else torch.nan for reward in output_reward_func]
