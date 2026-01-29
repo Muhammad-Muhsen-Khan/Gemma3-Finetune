@@ -15,6 +15,7 @@ import textwrap
 import safetensors
 import numpy as np
 import subprocess
+import functools
 
 from torch.utils.data import DataLoader, Sampler
 
@@ -656,7 +657,16 @@ class GemmaGRPOTrainer(Trainer):
         if not isinstance(train_dataset, torch.utils.data.IterableDataset):
             dataloader_params["sampler"] = self._get_train_sampler()
             dataloader_params["drop_last"] = self.args.dataloader_drop_last
-            dataloader_params["worker_init_fn"] = seed_worker
+            # HF `seed_worker` signature depends on Transformers version.
+            # - Old: seed_worker(worker_id)
+            # - New: seed_worker(worker_id, num_workers, rank)
+            # DataLoader calls worker_init_fn(worker_id), so we wrap when needed.
+            try:
+                num_workers = int(self.args.dataloader_num_workers or 0)
+            except Exception:
+                num_workers = 0
+            rank = getattr(self.accelerator, "process_index", 0)
+            dataloader_params["worker_init_fn"] = functools.partial(seed_worker, num_workers=num_workers, rank=rank)
             dataloader_params["prefetch_factor"] = self.args.dataloader_prefetch_factor
 
         return self.accelerator.prepare(DataLoader(train_dataset, **dataloader_params))
