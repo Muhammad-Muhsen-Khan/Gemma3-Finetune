@@ -1,17 +1,19 @@
 #!/bin/bash
 
-MODEL_NAME="output"
+MODEL_NAME="gemma-3-base"
 
 export PYTHONPATH=src:$PYTHONPATH
 export WANDB_API_KEY="804f99947d014002648b0e99ae3c09633161e7a0"
 export WANDB_PROJECT="gemma"
 
+export CUDA_VISIBLE_DEVICES=0,1,2,3,4,5
 deepspeed src/train/train_grpo.py \
     --loss_type "grpo" \
     --beta 0.001 \
     --epsilon 5 \
     --optim adamw_bnb_8bit \
-    --max_completion_length 32768 \
+    --use_vllm True \
+    --max_completion_length 4096 \
     --max_prompt_length 512 \
     --deepspeed scripts/zero3.json \
     --model_id $MODEL_NAME \
@@ -25,8 +27,8 @@ deepspeed src/train/train_grpo.py \
     --bf16 True \
     --output_dir /workspace/output/snomed-4999labels-rl-v2 \
     --num_train_epochs 5 \
-    --num_generations 16 \
-    --per_device_train_batch_size 8 \
+    --num_generations 15 \
+    --per_device_train_batch_size 10 \
     --gradient_accumulation_steps 1 \
     --learning_rate 1e-5 \
     --projector_lr 1e-5 \

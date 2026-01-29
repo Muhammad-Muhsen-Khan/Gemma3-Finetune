@@ -99,8 +99,9 @@ def structure_reward(completions, assistant, **kwargs):
     """
     Reward function that checks if the completion has the correct structure.
     Required structure:
-    - <think>...</think>
-    - <answer>...</answer>
+    - First non-whitespace token must be <think>
+    - Exactly one <think>...</think> block followed by exactly one <answer>...</answer> block
+    - No stray/extra <think>, </think>, <answer>, </answer> tags anywhere else (including inside the blocks)
     - </answer> should be the last visible token (since <eos> comes after but isn't visible)
     
     Returns:
@@ -111,21 +112,30 @@ def structure_reward(completions, assistant, **kwargs):
     rewards = []
     
     for content in contents:
-        # Check if <think>...</think> exists
-        has_reasoning = re.search(r"<think>.*?</think>", content, re.DOTALL) is not None
-        
-        # Check if <answer>...</answer> exists
-        has_answer = re.search(r"<answer>.*?</answer>", content, re.DOTALL) is not None
-        
-        # Check if </answer> is at the end of the text (allowing for whitespace)
-        # Since <eos> comes after but isn't visible, </answer> should be the last visible content
-        ends_with_answer = content.rstrip().endswith("</answer>")
-        
-        # Structure is correct if all conditions are met
-        if has_reasoning and has_answer and ends_with_answer:
-            reward = 1.0
-        else:
+        # Strict full-match: optional whitespace -> <think>...</think> -> optional whitespace
+        # -> <answer>...</answer> -> optional whitespace/end
+        m = re.fullmatch(
+            r"\s*<think>(?P<think>.*?)</think>\s*<answer>(?P<answer>.*?)</answer>\s*",
+            content,
+            flags=re.DOTALL,
+        )
+
+        if not m:
             reward = -1.0
+            rewards.append(reward)
+            continue
+
+        think_body = m.group("think")
+        answer_body = m.group("answer")
+
+        # Punish any stray tags inside the bodies, e.g. "</think>" appearing inside answer/body.
+        forbidden = ("<think>", "</think>", "<answer>", "</answer>")
+        if any(tag in think_body for tag in forbidden) or any(tag in answer_body for tag in forbidden):
+            reward = -1.0
+            rewards.append(reward)
+            continue
+
+        reward = 1.0
         
         rewards.append(reward)
     
