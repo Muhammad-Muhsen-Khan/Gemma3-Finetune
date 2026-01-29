@@ -6,7 +6,6 @@ from transformers import Trainer
 from transformers.trainer import (
     is_sagemaker_mp_enabled,
     get_parameter_names,
-    ALL_LAYERNORM_LAYERS,
     is_peft_available,
     WEIGHTS_NAME,
     TRAINING_ARGS_NAME,
@@ -15,7 +14,7 @@ from transformers.trainer import (
     PREFIX_CHECKPOINT_DIR,
     logger,
     ExportableState,
-    SaveStrategy
+    SaveStrategy,
 )
 import safetensors
 from peft import PeftModel
@@ -25,6 +24,19 @@ from transformers.processing_utils import ProcessorMixin
 from transformers.modeling_utils import PreTrainedModel
 from peft import PeftModel
 from train.train_utils import get_peft_state_maybe_zero_3, get_peft_state_non_lora_maybe_zero_3
+
+# Compatibility shim for ALL_LAYERNORM_LAYERS: this constant was moved/removed
+# in newer versions of `transformers` (>=4.56). We try the new locations first
+# and fall back to a reasonable default that at least catches standard LayerNorm.
+try:  # transformers >= 4.56 sometimes exposes it via trainer_utils
+    from transformers.trainer_utils import ALL_LAYERNORM_LAYERS  # type: ignore[attr-defined]
+except Exception:
+    try:
+        # Older/newer releases may expose it via pytorch_utils
+        from transformers.pytorch_utils import ALL_LAYERNORM_LAYERS  # type: ignore[attr-defined]
+    except Exception:
+        # Fallback: only treat torch.nn.LayerNorm as a "norm" layer for no-weight-decay
+        ALL_LAYERNORM_LAYERS = (nn.LayerNorm,)
 
 def maybe_zero_3(param, ignore_status=False, name=None):
     from deepspeed import zero

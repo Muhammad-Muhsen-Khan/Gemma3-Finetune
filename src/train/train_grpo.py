@@ -4,13 +4,38 @@ from peft import LoraConfig
 import ast
 import pathlib
 from transformers import AutoProcessor, BitsAndBytesConfig, HfArgumentParser, Gemma3ForConditionalGeneration
+from transformers.modeling_utils import PreTrainedModel
 from src.trainer import GemmaGRPOTrainer
 from src.dataset import make_grpo_data_module
 from src.params import DataArguments, ModelArguments, GRPOArguments
 from train.train_utils import get_peft_state_maybe_zero_3, get_peft_state_non_lora_maybe_zero_3, safe_save_model_for_hf_trainer
 from monkey_patch_forward import replace_gemma3_forward
-from src.utils import  load_reward_funcs
+from src.utils import load_reward_funcs
 
+# ---------------------------------------------------------------------------
+# Work around a Gemma3 + transformers>=4.57 weight init edge case:
+# some internal Embedding layers may have zero rows but padding_idx=0,
+# which makes the default _init_weights try to zero out an out-of-bounds index.
+# We guard against that globally for all PreTrainedModel subclasses.
+# ---------------------------------------------------------------------------
+_orig_init_weights = PreTrainedModel._init_weights
+
+
+def _safe_init_weights(self, module):
+    if (
+        hasattr(module, "weight")
+        and hasattr(module, "padding_idx")
+        and module.padding_idx is not None
+    ):
+        num_embeddings = module.weight.size(0)
+        # If padding_idx is invalid for this tensor shape, disable it to avoid
+        # "index 0 is out of bounds for dimension 0 with size 0" errors.
+        if not isinstance(module.padding_idx, int) or module.padding_idx < 0 or module.padding_idx >= num_embeddings:
+            module.padding_idx = None
+    return _orig_init_weights(self, module)
+
+
+PreTrainedModel._init_weights = _safe_init_weights
 local_rank = None
 
 def rank0_print(*args):
