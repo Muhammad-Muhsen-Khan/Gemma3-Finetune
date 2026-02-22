@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 
 def split_dataset(
     input_csv_path: str | Path,
-    train_size: float = 0.95,
+    train_size: float = 0.90,
     random_state: int = 42,
     stratify_by: str = "label",
 ) -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -63,7 +63,7 @@ def split_dataset(
 if __name__ == "__main__":
     # Set paths
     script_dir = Path(__file__).parent
-    input_csv = script_dir / "datasets" / "snomed_synthesis_dataset_set_C.csv"
+    input_csv = script_dir / "datasets" / "snomed_synthesis_dataset.csv"
     
     # Check if input file exists
     if not input_csv.exists():
@@ -72,7 +72,7 @@ if __name__ == "__main__":
     # Split dataset
     train_df, test_df = split_dataset(
         input_csv,
-        train_size=0.95,
+        train_size=0.90,
         random_state=42,
         stratify_by="label",
     )
